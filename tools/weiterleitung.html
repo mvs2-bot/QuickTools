@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<!--
+  Vorlage für die ALTEN Einzel-Repos (z. B. QuickToolsThailand).
+  Diese Datei dort als index.html hochladen und ZIEL anpassen:
+    QuickToolsThailand   → thailand
+    QuickToolsSriLanka   → srilanka
+    QuickToolsSchweiz    → schweiz
+    QuickToolsBolivien   → bolivien
+    QuickToolsPeru       → peru
+    QuickToolsOverview   → (leer lassen = Übersicht)
+-->
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Umgezogen – Urlaubs-Quick-Tools</title>
+  <script>
+    var ZIEL = 'thailand';
+    var url = 'https://mvs2-bot.github.io/QuickTools/' + (ZIEL ? ZIEL + '/' : '');
+    /* alten Service Worker entfernen, damit nicht die alte Offline-Version hängen bleibt */
+    if ('serviceWorker' in navigator) navigator.serviceWorker.getRegistrations().then(function (r) { r.forEach(function (x) { x.unregister(); }); });
+    location.replace(url + location.hash);
+  </script>
+</head>
+<body style="font-family:system-ui,sans-serif;padding:24px">
+  <p>Die Quick-Tools sind umgezogen: <a id="l" href="https://mvs2-bot.github.io/QuickTools/">mvs2-bot.github.io/QuickTools</a></p>
+</body>
+</html>

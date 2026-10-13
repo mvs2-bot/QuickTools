@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="theme-color" content="#15803d">
+    <script>(function(){try{if(localStorage.getItem('qt_theme_v1')==='dark')document.documentElement.setAttribute('data-theme','dark');}catch(e){}})();</script>
+    <title>🌍 Urlaubs-Quick-Tools</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Ctext%20y%3D%22.9em%22%20font-size%3D%2290%22%3E%F0%9F%8C%8D%3C/text%3E%3C/svg%3E">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="shared/style.css">
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="icon.svg">
+    <style>
+      .land-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px; margin-top: 12px; }
+      .land { display: flex; flex-direction: column; align-items: center; gap: 2px; text-decoration: none; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px 8px; box-shadow: var(--shadow); transition: border-color .15s, transform .15s, background .15s; }
+      .land:hover { border-color: var(--p1); background: var(--hover); transform: translateY(-1px); }
+      .land-flag { font-size: 2.2rem; line-height: 1.1; }
+      .land-name { font-weight: 800; color: var(--ink); }
+      .land-tag { font-size: .72rem; font-weight: 700; color: var(--mute); }
+    </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="sticky-header">
+      <header>
+        <div><h1>🌍 Urlaubs-Quick-Tools</h1><p>Phrasen, Währung, GPS &amp; Notfall-Infos</p></div>
+        <div class="header-actions"><button class="burger-btn theme-toggle" type="button" aria-label="Zum dunklen Modus wechseln">🌙</button></div>
+      </header>
+    </div>
+    <div class="box"><h2>Europa</h2><div class="land-grid"><a class="land" href="albanien/"><span class="land-flag">🇦🇱</span><span class="land-name">Albanien</span><span class="land-tag">Rechner ALL</span></a><a class="land" href="frankreich/"><span class="land-flag">🇫🇷</span><span class="land-name">Frankreich</span><span class="land-tag">€ · Phrasen</span></a><a class="land" href="italien/"><span class="land-flag">🇮🇹</span><span class="land-name">Italien</span><span class="land-tag">€ · Phrasen</span></a><a class="land" href="kroatien/"><span class="land-flag">🇭🇷</span><span class="land-name">Kroatien</span><span class="land-tag">€ · Phrasen</span></a><a class="land" href="portugal/"><span class="land-flag">🇵🇹</span><span class="land-name">Portugal</span><span class="land-tag">€ · Phrasen</span></a><a class="land" href="schweden/"><span class="land-flag">🇸🇪</span><span class="land-name">Schweden</span><span class="land-tag">Rechner SEK</span></a><a class="land" href="schweiz/"><span class="land-flag">🇨🇭</span><span class="land-name">Schweiz</span><span class="land-tag">Rechner CHF</span></a><a class="land" href="spanien/"><span class="land-flag">🇪🇸</span><span class="land-name">Spanien</span><span class="land-tag">€ · Phrasen</span></a><a class="land" href="tschechien/"><span class="land-flag">🇨🇿</span><span class="land-name">Tschechien</span><span class="land-tag">Rechner CZK</span></a></div></div><div class="box"><h2>Asien</h2><div class="land-grid"><a class="land" href="japan/"><span class="land-flag">🇯🇵</span><span class="land-name">Japan</span><span class="land-tag">Rechner JPY</span></a><a class="land" href="srilanka/"><span class="land-flag">🇱🇰</span><span class="land-name">Sri Lanka</span><span class="land-tag">Rechner LKR</span></a><a class="land" href="thailand/"><span class="land-flag">🇹🇭</span><span class="land-name">Thailand</span><span class="land-tag">Rechner THB</span></a></div></div><div class="box"><h2>Südamerika</h2><div class="land-grid"><a class="land" href="bolivien/"><span class="land-flag">🇧🇴</span><span class="land-name">Bolivien</span><span class="land-tag">Rechner BOB</span></a><a class="land" href="peru/"><span class="land-flag">🇵🇪</span><span class="land-name">Peru</span><span class="land-tag">Rechner PEN</span></a></div></div>
+    <p class="note" style="text-align:center">Tipp: Jedes Land lässt sich einzeln als App installieren und funktioniert danach offline.</p>
+  </div>
+  <script>
+  (function () {
+    const KEY = 'qt_theme_v1';
+    function apply(t, save) {
+      const dark = t === 'dark';
+      document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+      document.querySelector('meta[name="theme-color"]').setAttribute('content', dark ? '#0f1512' : '#15803d');
+      document.querySelectorAll('.theme-toggle').forEach(b => { b.textContent = dark ? '☀️' : '🌙'; b.setAttribute('aria-label', dark ? 'Zum hellen Modus wechseln' : 'Zum dunklen Modus wechseln'); });
+      if (save) { try { localStorage.setItem(KEY, t); } catch (e) {} }
+    }
+    apply(document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light', false);
+    document.querySelectorAll('.theme-toggle').forEach(b => b.onclick = () =>
+      apply(document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark', true));
+    if ('serviceWorker' in navigator) window.addEventListener('load', () => navigator.serviceWorker.register('./sw.js').catch(() => {}));
+  })();
+  </script>
+</body>
+</html>
