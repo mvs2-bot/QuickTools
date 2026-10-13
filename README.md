@@ -1,6 +1,6 @@
 # 🌍 Urlaubs-Quick-Tools
 
-Phrasen, Währungsrechner, GPS, Sonnenzeiten und Notfall-Infos für 14 Länder – als eine GitHub Page, jedes Land einzeln als App installierbar und offline nutzbar.
+Phrasen, Währungsrechner, GPS, Sonnenzeiten und Notfall-Infos für 26 Länder – als eine GitHub Page, jedes Land einzeln als App installierbar und offline nutzbar.
 
 Adresse nach dem Hochladen: `https://mvs2-bot.github.io/QuickTools/` (Länder z. B. unter `…/QuickTools/spanien/`)
 
@@ -34,6 +34,12 @@ QuickTools/
 Mit `currency: { code: 'CHF', symbol: 'Fr.', name: 'Schweizer Franken' }` erscheint der Rechner als erster Tab.
 
 **Uhren-Leiste** erscheint automatisch nur, wenn das Land eine andere Uhrzeit als Deutschland hat.
+
+**Optionale Felder in `data.js`:** `embassy: null` blendet den Botschafts-Block aus (z. B. Deutschland), `rulesTitle` / `rulesNote` ändern Überschrift und Hinweis der Regeln-Box, `aaLabel` den Text des Link-Buttons. Bei Orten in einer anderen Zeitzone als dem Rest des Landes als 4. Wert die Zeitzone angeben, z. B. `['Ponta Delgada (Azoren)', 37.74, -25.68, 'Atlantic/Azores']`.
+
+**Achtung Apostroph:** Text in `'…'` darf kein `'` enthalten – dann den Text in `"…"` setzen (z. B. `"C'est combien ?"`). Das Skript prüft das automatisch, wenn Node.js installiert ist.
+
+**Weltkarte:** Die Übersicht zeigt jedes Land als Flagge an seinem ersten Ort in `places` (meist die Hauptstadt). Offline wird die Karte einfach ausgeblendet.
 
 ## Neues Land anlegen
 

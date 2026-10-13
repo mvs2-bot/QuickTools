@@ -1,0 +1,63 @@
+/* Quick-Tools · China – Länderdaten (nur diese Datei pro Land bearbeiten) */
+window.QT = {
+  slug: 'china',
+  name: 'China',
+  flag: '🇨🇳',
+  tz: 'Asia/Shanghai',
+  currency: { code: 'CNY', symbol: '¥', name: 'Chinesischer Yuan (Renminbi)' },
+
+  phrases: [
+    { title: '🇨🇳 Chinesisch (Mandarin)', lang: 'zh-CN', items: [
+      { de: 'Hallo', local: '你好', phonetic: 'Nǐ hǎo' },
+      { de: 'Danke', local: '谢谢', phonetic: 'Xièxie' },
+      { de: 'Entschuldigung', local: '不好意思', phonetic: 'Bù hǎo yìsi' },
+      { de: 'Wie viel kostet das?', local: '多少钱？', phonetic: 'Duōshao qián?' },
+      { de: 'Die Rechnung, bitte', local: '买单', phonetic: 'Mǎidān' },
+      { de: 'Sprechen Sie Englisch?', local: '你会说英语吗？', phonetic: 'Nǐ huì shuō Yīngyǔ ma?' },
+      { de: 'Wo ist das Krankenhaus?', local: '医院在哪里？', phonetic: 'Yīyuàn zài nǎlǐ?' },
+      { de: 'Eine große Flasche Bier, bitte', local: '请给我一瓶大啤酒', phonetic: 'Qǐng gěi wǒ yì píng dà píjiǔ' },
+      { de: 'Ich bin Vegetarier/in', local: '我吃素', phonetic: 'Wǒ chī sù' },
+      { de: 'Ich esse kein Fleisch und Fisch, aber Eier schon', local: '我不吃肉和鱼，但是吃鸡蛋', phonetic: 'Wǒ bù chī ròu hé yú, dànshì chī jīdàn' },
+      { de: 'Bitte nicht scharf', local: '不要辣', phonetic: 'Bú yào là' },
+      { de: 'Das Essen war sehr lecker', local: '很好吃！', phonetic: 'Hěn hǎochī!' },
+      { de: 'Hilfe! Es ist ein Notfall!', local: '救命！这是紧急情况！', phonetic: 'Jiùmìng! Zhè shì jǐnjí qíngkuàng!' }
+    ]}
+  ],
+
+  emergency: [
+    ['110', 'Polizei'],
+    ['120', 'Rettungsdienst'],
+    ['119', 'Feuerwehr'],
+    ['122', 'Verkehrsunfall']
+  ],
+  embassy: {
+    title: 'Deutsche Botschaft Peking',
+    address: ['17 Dong Zhi Men Wai Da Jie, Chaoyang District', 'Beijing 100600'],
+    phone: '+86 10 8532 9000',
+    emergency: '+86 10 8532 9202', emergencyNote: '(nur für deutsche Staatsangehörige, keine Visafragen)'
+  },
+  aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/china-node',
+
+  rules: [
+    ['Internet', 'Google (inkl. Maps, Gmail), WhatsApp, Instagram u. a. sind gesperrt. Eine ausländische eSIM mit Roaming umgeht das meist – vor der Reise einrichten!'],
+    ['Bezahlen', 'Fast alles läuft über Alipay oder WeChat Pay. Beide Apps vorab installieren und mit Kreditkarte verknüpfen. Etwas Bargeld als Reserve.'],
+    ['Reisepass', 'Pass immer dabeihaben – er wird für Hotels, Züge und viele Sehenswürdigkeiten (Online-Reservierung!) gebraucht.'],
+    ['Politik', 'Politische Themen in der Öffentlichkeit meiden; keine Fotos von Militär, Polizei oder Demonstrationen.'],
+    ['Trinkgeld', 'Trinkgeld ist nicht üblich.']
+  ],
+  sim: [
+    ['Ausländische eSIM (empfohlen)', 'eSIM z. B. von Airalo mit Roaming-Daten – damit funktionieren Google, WhatsApp & Co. ohne VPN.'],
+    ['Chinesische SIM', 'Von China Mobile/Unicom am Flughafen (Pass nötig) – dann gilt die Internetsperre.']
+  ],
+  apps: [
+    ['Alipay & WeChat', 'Bezahlen, Taxi, Essen bestellen, Tickets – unverzichtbar.'],
+    ['Amap (高德地图) / Apple Karten', 'Google Maps ist in China ungenau.'],
+    ['DiDi', 'Taxi-App (auch in Englisch, in Alipay integriert).'],
+    ['Trip.com', 'Zugtickets (Hochgeschwindigkeitszüge) und Hotels.']
+  ],
+
+  places: [
+    ['Peking', 39.9042, 116.4074], ['Shanghai', 31.2304, 121.4737], ["Xi'an", 34.3416, 108.9398],
+    ['Chengdu', 30.5728, 104.0668], ['Guilin', 25.2736, 110.29]
+  ]
+};

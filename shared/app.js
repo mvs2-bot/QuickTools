@@ -159,20 +159,21 @@
         <div class="emg-grid">
           ${C.emergency.map(e => `<a class="emg-tile" href="${telHref(e[0])}"><b>${esc(e[0])}</b><span>${esc(e[1])}</span></a>`).join('')}
         </div>
+        ${C.embassy ? `
         <h3 class="info-sub">🏛️ ${esc(C.embassy.title)}</h3>
         <address class="addr"><strong>${esc(C.embassy.title)}</strong><br>${C.embassy.address.map(esc).join('<br>')}</address>
         <p class="contact">
           Telefon: <a href="${telHref(C.embassy.phone)}">${esc(C.embassy.phone)}</a>
           ${C.embassy.emergency ? `<br>Notfälle außerhalb der Öffnungszeiten: <a href="${telHref(C.embassy.emergency)}">${esc(C.embassy.emergency)}</a>${C.embassy.emergencyNote ? ' ' + esc(C.embassy.emergencyNote) : ''}` : ''}
-        </p>
-        <div class="link-row">
-          <a class="link-btn primary" href="https://www.google.com/maps/search/?api=1&amp;query=${encodeURIComponent(C.embassy.title + ', ' + C.embassy.address.join(', '))}" target="_blank" rel="noopener">🗺️ In Google Maps öffnen</a>
-          <a class="link-btn" href="${esc(C.aaUrl)}" target="_blank" rel="noopener">🌐 Auswärtiges Amt: ${esc(C.name)}</a>
-        </div>
+        </p>` : ''}
+        ${C.embassy || C.aaUrl ? `<div class="link-row">
+          ${C.embassy ? `<a class="link-btn primary" href="https://www.google.com/maps/search/?api=1&amp;query=${encodeURIComponent(C.embassy.title + ', ' + C.embassy.address.join(', '))}" target="_blank" rel="noopener">🗺️ In Google Maps öffnen</a>` : ''}
+          ${C.aaUrl ? `<a class="link-btn" href="${esc(C.aaUrl)}" target="_blank" rel="noopener">🌐 ${esc(C.aaLabel || 'Auswärtiges Amt: ' + C.name)}</a>` : ''}
+        </div>` : ''}
       </div>
       <div class="box">
         <h2>${esc(C.rulesTitle || '🙏 Verhaltensregeln')}</h2>
-        <p class="note">Allgemeine Hinweise zur Orientierung – aktuelle Vorgaben bitte beim Auswärtigen Amt prüfen.</p>
+        <p class="note">${esc(C.rulesNote || 'Allgemeine Hinweise zur Orientierung – aktuelle Vorgaben bitte beim Auswärtigen Amt prüfen.')}</p>
         <ul class="info-list">${C.rules.map(r => `<li><strong>${esc(r[0])}:</strong> ${esc(r[1])}</li>`).join('')}</ul>
       </div>
       <div class="box">
