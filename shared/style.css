@@ -248,3 +248,12 @@ button.link-btn { cursor: pointer; font: inherit; font-weight: 700; font-size: .
 
 .qt-toast { position: fixed; left: 50%; bottom: 24px; transform: translate(-50%, 20px); background: var(--ink); color: var(--bg); padding: 10px 16px; border-radius: 10px; font-weight: 700; font-size: .9rem; box-shadow: 0 8px 24px rgba(0,0,0,.25); opacity: 0; pointer-events: none; transition: opacity .2s, transform .2s; z-index: 30000; max-width: calc(100% - 32px); text-align: center; }
 .qt-toast.show { opacity: 1; transform: translate(-50%, 0); }
+
+/* ---------- DE/EN-Umschalter ---------- */
+.lang-toggle { display: inline-flex; align-items: center; gap: 2px; background: var(--card); color: var(--ink); border: 1.5px solid var(--line); border-radius: 10px; box-shadow: var(--shadow); line-height: 1; cursor: pointer; font-family: inherit; }
+.lang-toggle.burger-btn { padding: 6px 6px; font-size: .78rem; }
+.lang-toggle span { padding: 4px 5px; border-radius: 6px; font-weight: 800; letter-spacing: .02em; color: var(--mute, #888); }
+.lang-toggle span.on { background: var(--p1); color: #fff; }
+.lang-toggle:hover { border-color: var(--p1); background: var(--hover); }
+.popover-header .theme-toggle.lang-toggle { font-size: .9rem; padding: 5px 6px; margin-left: 8px; }
+@media (max-width: 420px) { .header-actions { gap: 6px; } .lang-toggle.burger-btn { padding: 5px 4px; font-size: .72rem; } .lang-toggle span { padding: 3px 4px; } }

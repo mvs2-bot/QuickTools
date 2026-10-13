@@ -45,6 +45,16 @@ Mit `currency: { code: 'CHF', symbol: 'Fr.', name: 'Schweizer Franken' }` ersche
 
 **Weltkarte:** Die Übersicht zeigt jedes Land als Flagge an seinem ersten Ort in `places` (meist die Hauptstadt). Offline wird die Karte einfach ausgeblendet.
 
+## Sprache (DE/EN)
+
+Oben rechts neben dem Hell/Dunkel-Button schaltet **DE | EN** alle Texte um – auf der Übersicht und in allen Ländern gleichzeitig (gespeichert als `qt_lang_v1`).
+
+- Die Inhalte in den `data.js` bleiben **auf Deutsch**. Die englischen Texte stehen zentral in `shared/i18n-en.js` als Paare `"Deutscher Text": "English text"`.
+- Fehlt eine Übersetzung, wird einfach der deutsche Text angezeigt – nichts geht kaputt.
+- Ändert man einen deutschen Text in einer `data.js`, muss der Schlüssel in `shared/i18n-en.js` mit angepasst werden (sonst erscheint dort Deutsch).
+- Bedienelemente (Buttons, Überschriften) stehen in `shared/app.js` im Objekt `UI`.
+- Favoriten bleiben beim Sprachwechsel erhalten.
+
 ## Neues Land anlegen
 
 1. Einen ähnlichen Länderordner kopieren, z. B. `kroatien` → `griechenland`

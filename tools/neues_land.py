@@ -54,11 +54,14 @@ def read_meta(data_js: str) -> dict:
 
 
 MAP_BOX = """<div class="box map-box" id="mapBox"><div id="worldMap" role="img" aria-label="Weltkarte mit allen Ländern"></div></div>
+    <script src="shared/i18n-en.js"></script>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
     <script>
     (function () {
       const PINS = __PINS__;
       if (!window.L) { document.getElementById('mapBox').style.display = 'none'; return; }   // offline → Karte ausblenden
+      const EN = (function () { try { return localStorage.getItem('qt_lang_v1') === 'en'; } catch (e) { return false; } })();
+      PINS.forEach(p => { if (EN && window.QT_EN && QT_EN[p.n]) p.n = QT_EN[p.n]; });
       const map = L.map('worldMap', { worldCopyJump: true, minZoom: 1, maxZoom: 7, scrollWheelZoom: false, zoomSnap: 0.25 });
       /* OpenStreetMap-Kacheln (kostenlos, ohne API-Schlüssel); Dunkelmodus per CSS-Filter */
       L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -154,6 +157,7 @@ def country_index(m):
     <noscript>Bitte JavaScript aktivieren.</noscript>
     <!-- Inhalte: data.js (nur dieses Land) · Aufbau & Funktionen: ../shared/app.js (alle Länder) -->
     <script src="data.js"></script>
+    <script src="../shared/i18n-en.js"></script>
     <script src="../shared/app.js"></script>
 </body>
 </html>
@@ -169,12 +173,12 @@ def overview_index(countries):
             m = countries.get(s)
             if not m:
                 continue
-            tag = f"Rechner {m['currency']}" if m['currency'] else '€ · Phrasen'
+            tag = f'<span data-t="calc">Rechner</span> {m["currency"]}' if m['currency'] else '€ · <span data-t="phr">Phrasen</span>'
             q = f"{m['name']} {s} {m['currency'] or 'euro eur'}".lower()
             cards.append(f'<a class="land" data-q="{q}" href="{s}/"><span class="land-flag">{m["flag"]}</span>'
-                         f'<span class="land-name">{m["name"]}</span><span class="land-tag">{tag}</span></a>')
+                         f'<span class="land-name" data-n>{m["name"]}</span><span class="land-tag">{tag}</span></a>')
         if cards:
-            sections.append(f'<div class="box region"><h2>{region}</h2><div class="land-grid">{"".join(cards)}</div></div>')
+            sections.append(f'<div class="box region"><h2 data-n>{region}</h2><div class="land-grid">{"".join(cards)}</div></div>')
     pins = [{'s': k, 'n': v['name'], 'f': v['flag'], 'lat': v['lat'], 'lng': v['lng']} for k, v in countries.items()]
     map_box = MAP_BOX.replace('__PINS__', json.dumps(pins, ensure_ascii=False))
     return f"""<!DOCTYPE html>
@@ -216,19 +220,40 @@ def overview_index(countries):
   <div class="wrap">
     <div class="sticky-header">
       <header>
-        <div><h1>🌍 Urlaubs-Quick-Tools</h1><p>Phrasen, Währung, GPS &amp; Notfall-Infos</p></div>
-        <div class="header-actions"><button class="burger-btn theme-toggle" type="button" aria-label="Zum dunklen Modus wechseln">🌙</button></div>
+        <div><h1>🌍 <span data-t="title">Urlaubs-Quick-Tools</span></h1><p data-t="sub">Phrasen, Währung, GPS &amp; Notfall-Infos</p></div>
+        <div class="header-actions"><button class="burger-btn lang-toggle" type="button"><span>DE</span><span>EN</span></button><button class="burger-btn theme-toggle" type="button" aria-label="Zum dunklen Modus wechseln">🌙</button></div>
       </header>
     </div>
     {map_box}
-    <input type="search" id="landSearch" class="phrase-search" placeholder="🔍 Land suchen ({len(countries)} Länder) …" aria-label="Land suchen">
-    <p class="note" id="noHit" style="display:none;text-align:center">Kein Land gefunden.</p>
+    <input type="search" id="landSearch" class="phrase-search" placeholder="🔍 Land suchen ({len(countries)} Länder) …" data-ph-en="🔍 Search country ({len(countries)} countries) …" aria-label="Land suchen">
+    <p class="note" id="noHit" style="display:none;text-align:center" data-t="nohit">Kein Land gefunden.</p>
     {''.join(sections)}
-    <p class="note" style="text-align:center">Tipp: Jedes Land lässt sich einzeln als App installieren und funktioniert danach offline.</p>
+    <p class="note" style="text-align:center" data-t="tipnote">Tipp: Jedes Land lässt sich einzeln als App installieren und funktioniert danach offline.</p>
   </div>
   <script>
   (function () {{
     const KEY = 'qt_theme_v1';
+    /* Sprache DE/EN (gleiche Einstellung wie auf den Länderseiten) */
+    let EN = false; try {{ EN = localStorage.getItem('qt_lang_v1') === 'en'; }} catch (e) {{}}
+    const UI = {{ title: 'Holiday Quick Tools', sub: 'Phrases, currency, GPS &amp; emergency info', calc: 'Calculator', phr: 'Phrases',
+      nohit: 'No country found.', tipnote: 'Tip: every country can be installed as its own app and then works offline.' }};
+    document.querySelectorAll('.lang-toggle span')[EN ? 1 : 0].className = 'on';
+    document.querySelectorAll('.lang-toggle').forEach(b => {{
+      b.title = b.ariaLabel = EN ? 'Auf Deutsch umschalten' : 'Switch to English';
+      b.onclick = () => {{ try {{ localStorage.setItem('qt_lang_v1', EN ? 'de' : 'en'); }} catch (e) {{}} location.reload(); }};
+    }});
+    if (EN) {{
+      document.documentElement.lang = 'en';
+      document.title = '🌍 Holiday Quick Tools';
+      document.querySelectorAll('[data-t]').forEach(el => {{ if (UI[el.dataset.t]) el.innerHTML = UI[el.dataset.t]; }});
+      document.querySelectorAll('[data-n]').forEach(el => {{ const t = (window.QT_EN || {{}})[el.textContent]; if (t) el.textContent = t; }});
+      document.querySelectorAll('.land-grid').forEach(g => [...g.children]
+        .sort((a, b) => a.querySelector('.land-name').textContent.localeCompare(b.querySelector('.land-name').textContent, 'en'))
+        .forEach(a => g.appendChild(a)));   // englisch alphabetisch sortieren
+      const si = document.getElementById('landSearch'); si.placeholder = si.dataset.phEn; si.setAttribute('aria-label', 'Search country');
+    }}
+    /* Suche findet deutsche und englische Ländernamen */
+    document.querySelectorAll('.land').forEach(a => {{ const n = a.querySelector('.land-name').textContent; a.dataset.q += ' ' + n.toLowerCase(); }});
     function apply(t, save) {{
       const dark = t === 'dark';
       document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
@@ -279,7 +304,7 @@ def main():
         (folder / 'index.html').write_text(country_index(m), encoding='utf-8')
         (folder / 'manifest.json').write_text(
             manifest(f"Quick-Tools {m['name']}", m['name'], f"Urlaubs-Quick-Tools {m['name']}"), encoding='utf-8')
-        (folder / 'sw.js').write_text(sw_js(['./data.js', '../shared/app.js', '../shared/style.css']), encoding='utf-8')
+        (folder / 'sw.js').write_text(sw_js(['./data.js', '../shared/i18n-en.js', '../shared/app.js', '../shared/style.css']), encoding='utf-8')
         (folder / 'icon.svg').write_text(icon_svg(m['flag']), encoding='utf-8')
         print(f"✓ {m['flag']}  {folder.name}")
     missing = set(countries) - {s for v in REGION.values() for s in v}
@@ -287,7 +312,7 @@ def main():
         print('⚠️  Nicht in REGION eingetragen (fehlt auf der Übersicht):', ', '.join(sorted(missing)))
     (ROOT / 'index.html').write_text(overview_index(countries), encoding='utf-8')
     (ROOT / 'manifest.json').write_text(manifest('Urlaubs-Quick-Tools', 'Quick-Tools', 'Alle Länder'), encoding='utf-8')
-    (ROOT / 'sw.js').write_text(sw_js(['./shared/style.css']), encoding='utf-8')
+    (ROOT / 'sw.js').write_text(sw_js(['./shared/style.css', './shared/i18n-en.js']), encoding='utf-8')
     (ROOT / 'icon.svg').write_text(icon_svg('🌍'), encoding='utf-8')
     print(f'✓ Übersicht mit {len(countries)} Ländern')
 
