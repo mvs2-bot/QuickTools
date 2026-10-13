@@ -15,7 +15,7 @@ self.addEventListener('fetch', e => {
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
   const own = url.origin === location.origin;
-  const font = /fonts\.(googleapis|gstatic)\.com$/.test(url.hostname);
+  const font = /(fonts\.(googleapis|gstatic)\.com|unpkg\.com|cdn\.jsdelivr\.net)$/.test(url.hostname);
   if (!own && !font) return;
   e.respondWith(caches.open(CACHE).then(async c => {
     const hit = await c.match(req, { ignoreSearch: own });

@@ -54,11 +54,10 @@ MAP_BOX = """<div class="box map-box" id="mapBox"><div id="worldMap" role="img" 
       const PINS = __PINS__;
       if (!window.L) { document.getElementById('mapBox').style.display = 'none'; return; }   // offline → Karte ausblenden
       const map = L.map('worldMap', { worldCopyJump: true, minZoom: 1, maxZoom: 7, scrollWheelZoom: false, zoomSnap: 0.25 });
-      const url = d => 'https://{s}.basemaps.cartocdn.com/' + (d ? 'dark_all' : 'rastertiles/voyager') + '/{z}/{x}/{y}{r}.png';
-      const attr = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>';
-      const isDark = () => document.documentElement.getAttribute('data-theme') === 'dark';
-      const tiles = L.tileLayer(url(isDark()), { attribution: attr, subdomains: 'abcd', maxZoom: 19 }).addTo(map);
-      window.qtMapTheme = d => tiles.setUrl(url(d));
+      /* OpenStreetMap-Kacheln (kostenlos, ohne API-Schlüssel); Dunkelmodus per CSS-Filter */
+      L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>', maxZoom: 19
+      }).addTo(map);
       const markers = PINS.map(p => L.marker([p.lat, p.lng], {
           icon: L.divIcon({ className: '', html: '<div class="map-pin">' + p.f + '</div>', iconSize: [36, 36], iconAnchor: [18, 18] }),
           title: p.n, keyboard: true
@@ -116,7 +115,7 @@ self.addEventListener('fetch', e => {{
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
   const own = url.origin === location.origin;
-  const font = /(fonts\\.(googleapis|gstatic)\\.com|unpkg\\.com)$/.test(url.hostname);
+  const font = /(fonts\\.(googleapis|gstatic)\\.com|unpkg\\.com|cdn\\.jsdelivr\\.net)$/.test(url.hostname);
   if (!own && !font) return;
   e.respondWith(caches.open(CACHE).then(async c => {{
     const hit = await c.match(req, {{ ignoreSearch: own }});
@@ -198,7 +197,9 @@ def overview_index(countries):
       .map-pin {{ display: flex; align-items: center; justify-content: center; width: 36px; height: 36px; border-radius: 50%; background: var(--card); border: 2px solid var(--p1); box-shadow: 0 2px 8px rgba(0,0,0,.25); font-size: 1.25rem; line-height: 1; transition: transform .15s; }}
       .map-pin:hover {{ transform: scale(1.2); }}
       #worldMap.far .map-pin {{ width: 26px; height: 26px; font-size: .95rem; border-width: 1.5px; margin: 5px; }}
-      .leaflet-tooltip {{ font-family: inherit; font-weight: 700; }}
+      .leaflet-container, .leaflet-tooltip {{ font-family: 'Twemoji Country Flags', 'Plus Jakarta Sans', system-ui, sans-serif; }}
+      .leaflet-tooltip {{ font-weight: 700; }}
+      :root[data-theme="dark"] #worldMap .leaflet-tile-pane {{ filter: invert(1) hue-rotate(180deg) brightness(.85) contrast(.9); }}
       .leaflet-container a {{ color: var(--p1); }}
       @media (max-width: 600px) {{ #worldMap {{ height: 260px; }} }}
     </style>
@@ -224,7 +225,6 @@ def overview_index(countries):
       document.querySelector('meta[name="theme-color"]').setAttribute('content', dark ? '#0f1512' : '#15803d');
       document.querySelectorAll('.theme-toggle').forEach(b => {{ b.textContent = dark ? '☀️' : '🌙'; b.setAttribute('aria-label', dark ? 'Zum hellen Modus wechseln' : 'Zum dunklen Modus wechseln'); }});
       if (save) {{ try {{ localStorage.setItem(KEY, t); }} catch (e) {{}} }}
-      if (window.qtMapTheme) window.qtMapTheme(dark);
     }}
     apply(document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light', false);
     document.querySelectorAll('.theme-toggle').forEach(b => b.onclick = () =>
