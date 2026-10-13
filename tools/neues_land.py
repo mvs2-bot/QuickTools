@@ -24,10 +24,13 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 
 # Reihenfolge und Gruppierung auf der Übersichtsseite
 REGION = {
-    'Europa': ['albanien', 'belgien', 'daenemark', 'deutschland', 'frankreich', 'island', 'italien', 'kroatien',
-               'niederlande', 'oesterreich', 'portugal', 'schweden', 'schweiz', 'spanien', 'tschechien'],
-    'Asien': ['china', 'japan', 'srilanka', 'suedkorea', 'thailand'],
-    'Mittel- & Südamerika': ['argentinien', 'bolivien', 'chile', 'guatemala', 'kolumbien', 'peru'],
+    'Europa': ['albanien', 'belgien', 'daenemark', 'deutschland', 'frankreich', 'griechenland', 'grossbritannien', 'island',
+               'italien', 'kroatien', 'montenegro', 'niederlande', 'norwegen', 'oesterreich', 'polen', 'portugal',
+               'schweden', 'schweiz', 'slowenien', 'spanien', 'tschechien', 'tuerkei', 'ungarn'],
+    'Asien': ['china', 'indonesien', 'japan', 'kambodscha', 'malaysia', 'philippinen', 'srilanka', 'suedkorea', 'thailand', 'vietnam'],
+    'Amerika': ['argentinien', 'bolivien', 'chile', 'costarica', 'ecuador', 'guatemala', 'kanada', 'kolumbien', 'mexiko', 'peru', 'usa'],
+    'Afrika': ['aegypten', 'marokko', 'suedafrika'],
+    'Ozeanien': ['australien', 'neuseeland'],
 }
 
 THEME_BOOT = ("<script>(function(){try{if(localStorage.getItem('qt_theme_v1')==='dark')"
@@ -38,14 +41,17 @@ FONTS = ('<link rel="preconnect" href="https://fonts.googleapis.com">\n'
 
 
 def read_meta(data_js: str) -> dict:
+    """Liest slug, name, flag, Währung und ersten Ort – egal ob '…' oder "…" verwendet wird."""
+    Q = r"""['"]"""
     def grab(key):
-        m = re.search(rf"\b{key}:\s*'([^']*)'", data_js)
+        m = re.search(rf"\b{key}\s*:\s*{Q}([^'\"]*){Q}", data_js)
         return m.group(1) if m else ''
-    cur = re.search(r"currency:\s*\{[^}]*code:\s*'([A-Z]{3})'", data_js)
-    pl = re.search(r"places:\s*\[\s*\['[^']*',\s*(-?[\d.]+),\s*(-?[\d.]+)", data_js)
+    cur = re.search(rf"currency\s*:\s*\{{[^}}]*{Q}?code{Q}?\s*:\s*{Q}([A-Z]{{3}}){Q}", data_js)
+    pl = re.search(rf"places\s*:\s*\[\s*\[\s*{Q}[^'\"]*{Q}\s*,\s*(-?[\d.]+)\s*,\s*(-?[\d.]+)", data_js)
     return {'slug': grab('slug'), 'name': grab('name'), 'flag': grab('flag'),
             'currency': cur.group(1) if cur else None,
             'lat': float(pl.group(1)) if pl else 0, 'lng': float(pl.group(2)) if pl else 0}
+
 
 MAP_BOX = """<div class="box map-box" id="mapBox"><div id="worldMap" role="img" aria-label="Weltkarte mit allen Ländern"></div></div>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
@@ -158,15 +164,17 @@ def overview_index(countries):
     sections = []
     for region, slugs in REGION.items():
         cards = []
-        for s in slugs:
+        sortkey = lambda x: (countries.get(x, {}).get('name', x)).replace('Ä', 'Ae').replace('Ö', 'Oe').replace('Ü', 'Ue')
+        for s in sorted(slugs, key=sortkey):
             m = countries.get(s)
             if not m:
                 continue
             tag = f"Rechner {m['currency']}" if m['currency'] else '€ · Phrasen'
-            cards.append(f'<a class="land" href="{s}/"><span class="land-flag">{m["flag"]}</span>'
+            q = f"{m['name']} {s} {m['currency'] or 'euro eur'}".lower()
+            cards.append(f'<a class="land" data-q="{q}" href="{s}/"><span class="land-flag">{m["flag"]}</span>'
                          f'<span class="land-name">{m["name"]}</span><span class="land-tag">{tag}</span></a>')
         if cards:
-            sections.append(f'<div class="box"><h2>{region}</h2><div class="land-grid">{"".join(cards)}</div></div>')
+            sections.append(f'<div class="box region"><h2>{region}</h2><div class="land-grid">{"".join(cards)}</div></div>')
     pins = [{'s': k, 'n': v['name'], 'f': v['flag'], 'lat': v['lat'], 'lng': v['lng']} for k, v in countries.items()]
     map_box = MAP_BOX.replace('__PINS__', json.dumps(pins, ensure_ascii=False))
     return f"""<!DOCTYPE html>
@@ -213,6 +221,8 @@ def overview_index(countries):
       </header>
     </div>
     {map_box}
+    <input type="search" id="landSearch" class="phrase-search" placeholder="🔍 Land suchen ({len(countries)} Länder) …" aria-label="Land suchen">
+    <p class="note" id="noHit" style="display:none;text-align:center">Kein Land gefunden.</p>
     {''.join(sections)}
     <p class="note" style="text-align:center">Tipp: Jedes Land lässt sich einzeln als App installieren und funktioniert danach offline.</p>
   </div>
@@ -229,6 +239,23 @@ def overview_index(countries):
     apply(document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light', false);
     document.querySelectorAll('.theme-toggle').forEach(b => b.onclick = () =>
       apply(document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark', true));
+    /* Suche */
+    const inp = document.getElementById('landSearch');
+    const norm = t => t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    inp.addEventListener('input', () => {{
+      const q = norm(inp.value.trim()); let hits = 0;
+      document.querySelectorAll('.region').forEach(sec => {{
+        let n = 0;
+        sec.querySelectorAll('.land').forEach(a => {{ const ok = !q || norm(a.dataset.q).includes(q); a.style.display = ok ? '' : 'none'; if (ok) n++; }});
+        sec.style.display = n ? '' : 'none'; hits += n;
+      }});
+      document.getElementById('noHit').style.display = hits ? 'none' : '';
+    }});
+    inp.addEventListener('keydown', e => {{
+      if (e.key !== 'Enter') return;
+      const vis = [...document.querySelectorAll('.land')].filter(a => a.style.display !== 'none');
+      if (vis.length === 1) location.href = vis[0].getAttribute('href');
+    }});
     if ('serviceWorker' in navigator) window.addEventListener('load', () => navigator.serviceWorker.register('./sw.js').catch(() => {{}}));
   }})();
   </script>

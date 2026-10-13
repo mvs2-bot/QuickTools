@@ -6,6 +6,9 @@ window.QT = {
   tz: 'America/Argentina/Buenos_Aires',
   currency: { code: 'ARS', symbol: '$', name: 'Argentinischer Peso', tableDecimals: 0 },
 
+  glance: {"plug": "C / I", "volt": 220, "adapter": "ja", "drive": "R", "water": "In Städten meist trinkbar", "tip": "ca. 10 % (Restaurant)", "dial": "+54"},
+  taxi: {"local": "Por favor, llevame a esta dirección.", "phonetic": "por fa-WOR, sche-WA-me a ES-ta di-rek-SJON"},
+
   phrases: [
     { title: '🇦🇷 Spanisch (Argentinien)', lang: 'es-AR', items: [
       { de: 'Hallo / Guten Tag', local: 'Hola / Buen día', phonetic: 'O-la / bwen DI-a' },

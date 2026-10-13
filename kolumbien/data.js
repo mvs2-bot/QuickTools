@@ -6,6 +6,9 @@ window.QT = {
   tz: 'America/Bogota',
   currency: { code: 'COP', symbol: '$', name: 'Kolumbianischer Peso', tableDecimals: 0 },
 
+  glance: {"plug": "A / B", "volt": 110, "adapter": "ja", "drive": "R", "water": "Bogotá & Medellín trinkbar, sonst Flaschenwasser", "tip": "ca. 10 % (servicio wird gefragt)", "dial": "+57", "voltNote": "110 V – Netzteil muss 100–240 V können"},
+  taxi: {"local": "Por favor, lléveme a esta dirección.", "phonetic": "por fa-WOR, JE-we-me a ES-ta di-rek-SJON"},
+
   phrases: [
     { title: '🇨🇴 Spanisch', lang: 'es-CO', items: [
       { de: 'Hallo / Guten Tag', local: 'Hola / Buenos días', phonetic: 'O-la / BWE-nos DI-as' },

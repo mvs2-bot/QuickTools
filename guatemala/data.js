@@ -6,6 +6,9 @@ window.QT = {
   tz: 'America/Guatemala',
   currency: { code: 'GTQ', symbol: 'Q', name: 'Guatemaltekischer Quetzal' },
 
+  glance: {"plug": "A / B", "volt": 120, "adapter": "ja", "drive": "R", "water": "Nicht trinkbar", "tip": "ca. 10 %", "dial": "+502", "voltNote": "120 V – Netzteil muss 100–240 V können"},
+  taxi: {"local": "Por favor, lléveme a esta dirección.", "phonetic": "por fa-WOR, JE-we-me a ES-ta di-rek-SJON"},
+
   phrases: [
     { title: '🇬🇹 Spanisch', lang: 'es-GT', items: [
       { de: 'Hallo / Guten Tag', local: 'Hola / Buenos días', phonetic: 'O-la / BWE-nos DI-as' },

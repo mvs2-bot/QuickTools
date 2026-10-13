@@ -6,6 +6,9 @@ window.QT = {
   tz: 'Europe/Copenhagen',
   currency: { code: 'DKK', symbol: 'kr', name: 'Dänische Krone' },
 
+  glance: {"plug": "C / F / K", "volt": 230, "adapter": "nein", "drive": "R", "water": "Trinkbar", "tip": "Nicht üblich", "dial": "+45"},
+  taxi: {"local": "Vil du køre mig til denne adresse?", "phonetic": "wil du KÖ-re mai til DEN-ne a-DRES-se"},
+
   phrases: [
     { title: '🇩🇰 Dänisch', lang: 'da-DK', items: [
       { de: 'Hallo', local: 'Hej', phonetic: 'hai' },

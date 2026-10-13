@@ -6,6 +6,9 @@ window.QT = {
   tz: 'Europe/Zagreb',
   currency: null, // Euro (seit 2023) → kein Rechner, Startseite = Phrasen
 
+  glance: {"plug": "C / F", "volt": 230, "adapter": "nein", "drive": "R", "water": "Trinkbar", "tip": "ca. 10 %", "dial": "+385"},
+  taxi: {"local": "Molim vas, odvezite me na ovu adresu.", "phonetic": "MO-lim was, OD-we-zi-te me na O-wu A-dre-su"},
+
   phrases: [
     { title: '🇭🇷 Kroatisch', lang: 'hr-HR', items: [
       { de: 'Guten Tag', local: 'Dobar dan', phonetic: 'DO-bar dan' },

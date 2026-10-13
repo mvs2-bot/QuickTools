@@ -6,6 +6,9 @@ window.QT = {
   tz: 'Europe/Prague',
   currency: { code: 'CZK', symbol: 'Kč', name: 'Tschechische Krone', tableDecimals: 0 },
 
+  glance: {"plug": "C / E", "volt": 230, "adapter": "nein", "drive": "R", "water": "Trinkbar", "tip": "ca. 10 %", "dial": "+420"},
+  taxi: {"local": "Odvezte mě prosím na tuto adresu.", "phonetic": "OD-wes-te mnje PRO-siim na TU-to A-dre-su"},
+
   phrases: [
     { title: '🇨🇿 Tschechisch', lang: 'cs-CZ', items: [
       { de: 'Guten Tag', local: 'Dobrý den', phonetic: 'DOB-rii den' },

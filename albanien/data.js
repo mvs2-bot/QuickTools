@@ -6,6 +6,9 @@ window.QT = {
   tz: 'Europe/Tirane',
   currency: { code: 'ALL', symbol: 'L', name: 'Albanischer Lek', tableDecimals: 0 },
 
+  glance: {"plug": "C / F", "volt": 230, "adapter": "nein", "drive": "R", "water": "Nicht empfohlen – Flaschenwasser", "tip": "ca. 10 %", "dial": "+355"},
+  taxi: {"local": "Ju lutem, më çoni në këtë adresë.", "phonetic": "ju LU-tem, me TSCHO-ni ne KE-te a-DRE-se"},
+
   phrases: [
     { title: '🇦🇱 Albanisch', lang: 'sq-AL', items: [
       { de: 'Hallo / Guten Tag', local: 'Përshëndetje / Mirëdita', phonetic: 'per-schen-DET-je / mi-re-DI-ta' },

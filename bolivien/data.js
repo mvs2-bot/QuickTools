@@ -6,6 +6,9 @@ window.QT = {
   tz: 'America/La_Paz',
   currency: { code: 'BOB', symbol: 'Bs', name: 'Boliviano' },
 
+  glance: {"plug": "A / C", "volt": 230, "adapter": "teils – Typ A braucht Adapter", "drive": "R", "water": "Nicht trinkbar", "tip": "ca. 10 %", "dial": "+591", "voltNote": "In La Paz teils 115 V – Netzteil prüfen"},
+  taxi: {"local": "Por favor, lléveme a esta dirección.", "phonetic": "por fa-WOR, JE-we-me a ES-ta di-rek-SJON"},
+
   phrases: [
     { title: '🇧🇴 Spanisch', lang: 'es-BO', items: [
       { de: 'Hallo / Guten Tag', local: 'Hola / Buenos días', phonetic: 'O-la / BWE-nos DI-as' },

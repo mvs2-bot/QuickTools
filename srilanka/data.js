@@ -6,6 +6,9 @@ window.QT = {
   tz: 'Asia/Colombo',
   currency: { code: 'LKR', symbol: 'Rs', name: 'Sri-Lanka-Rupie', tableDecimals: 0 },
 
+  glance: {"plug": "D / G", "volt": 230, "adapter": "ja", "drive": "L", "water": "Nicht trinkbar", "tip": "ca. 10 %", "dial": "+94"},
+  taxi: {"local": "කරුණාකර මාව මේ ලිපිනයට ගෙනියන්න.", "phonetic": "Karunākara māwa mē lipinayata geniyanna."},
+
   phrases: [
     { title: '🇱🇰 Singhalesisch', lang: 'si-LK', items: [
       { de: 'Hallo (Gruß)', local: 'ආයුබෝවන්', phonetic: 'Āyubōwan' },

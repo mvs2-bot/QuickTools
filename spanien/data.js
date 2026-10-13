@@ -6,6 +6,9 @@ window.QT = {
   tz: 'Europe/Madrid',
   currency: null, // Euro → kein Rechner, Startseite = Phrasen
 
+  glance: {"plug": "C / F", "volt": 230, "adapter": "nein", "drive": "R", "water": "Trinkbar (teils gechlort; Kanaren besser Flaschenwasser)", "tip": "5–10 %", "dial": "+34"},
+  taxi: {"local": "Por favor, lléveme a esta dirección.", "phonetic": "por fa-WOR, JE-we-me a ES-ta di-rek-THJON"},
+
   phrases: [
     { title: '🇪🇸 Spanisch', lang: 'es-ES', items: [
       { de: 'Hallo / Guten Tag', local: 'Hola / Buenos días', phonetic: 'O-la / BWE-nos DI-as' },

@@ -6,6 +6,9 @@ window.QT = {
   tz: 'Europe/Rome',
   currency: null, // Euro → kein Rechner, Startseite = Phrasen
 
+  glance: {"plug": "C / F / L", "volt": 230, "adapter": "teils – Eurostecker passt immer", "drive": "R", "water": "Trinkbar", "tip": "Coperto auf der Rechnung, Trinkgeld freiwillig", "dial": "+39"},
+  taxi: {"local": "Mi porti a questo indirizzo, per favore.", "phonetic": "mi POR-ti a KWE-sto in-di-RIT-tso, per fa-WO-re"},
+
   phrases: [
     { title: '🇮🇹 Italienisch', lang: 'it-IT', items: [
       { de: 'Guten Tag', local: 'Buongiorno', phonetic: 'bwon-DSCHOR-no' },

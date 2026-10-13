@@ -6,6 +6,9 @@ window.QT = {
   tz: 'Asia/Tokyo',
   currency: { code: 'JPY', symbol: '¥', name: 'Japanischer Yen', tableDecimals: 0 },
 
+  glance: {"plug": "A / B", "volt": 100, "adapter": "ja", "drive": "L", "water": "Trinkbar", "tip": "Kein Trinkgeld", "dial": "+81", "voltNote": "100 V – Netzteil muss 100–240 V können"},
+  taxi: {"local": "この住所までお願いします。", "phonetic": "Kono jūsho made onegai shimasu."},
+
   phrases: [
     { title: '🇯🇵 Japanisch', lang: 'ja-JP', items: [
       { de: 'Hallo / Guten Tag', local: 'こんにちは', phonetic: 'Konnichiwa' },

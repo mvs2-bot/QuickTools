@@ -6,6 +6,9 @@ window.QT = {
   tz: 'Asia/Bangkok',
   currency: { code: 'THB', symbol: '฿', name: 'Thailändischer Baht' },
 
+  glance: {"plug": "A / B / C / O", "volt": 220, "adapter": "teils – Eurostecker passt meist", "drive": "L", "water": "Nicht trinkbar", "tip": "20–50 ฿ bzw. ca. 10 %", "dial": "+66"},
+  taxi: {"local": "กรุณาพาไปที่อยู่นี้ครับ / ค่ะ", "phonetic": "Ka-ru-na pha pai thi-yu ni krub / kha"},
+
   phrases: [
     { title: '🇹🇭 Thai', lang: 'th-TH', items: [
       { de: 'Hallo (höflich)', local: 'สวัสดีครับ / สวัสดีค่ะ', phonetic: 'Sawasdee krub / kha' },

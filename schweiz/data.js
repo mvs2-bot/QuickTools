@@ -6,6 +6,9 @@ window.QT = {
   tz: 'Europe/Zurich',
   currency: { code: 'CHF', symbol: 'Fr.', name: 'Schweizer Franken' },
 
+  glance: {"plug": "C / J", "volt": 230, "adapter": "Schuko: ja · Eurostecker passt", "drive": "R", "water": "Trinkbar", "tip": "Aufrunden (Service inklusive)", "dial": "+41"},
+  taxi: {"local": "Bitte bringen Sie mich zu dieser Adresse.", "phonetic": ""},
+
   phrases: [
     { title: '🇨🇭 Schweizerdeutsch', lang: 'de-CH', items: [
       { de: 'Guten Tag', local: 'Grüezi / Grüessech (Bern)', phonetic: 'GRÜE-tsi / GRÜE-sech' },

@@ -6,6 +6,9 @@ window.QT = {
   tz: 'Europe/Amsterdam',
   currency: null, // Euro → kein Rechner, Startseite = Phrasen
 
+  glance: {"plug": "C / F", "volt": 230, "adapter": "nein", "drive": "R", "water": "Trinkbar", "tip": "Aufrunden", "dial": "+31"},
+  taxi: {"local": "Wilt u mij naar dit adres brengen, alstublieft?", "phonetic": "wilt ü mei naar dit a-DRES BREN-gen"},
+
   phrases: [
     { title: '🇳🇱 Niederländisch', lang: 'nl-NL', items: [
       { de: 'Hallo / Guten Tag', local: 'Hallo / Goedendag', phonetic: 'HA-lo / CHU-de-dach' },

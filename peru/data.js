@@ -6,6 +6,9 @@ window.QT = {
   tz: 'America/Lima',
   currency: { code: 'PEN', symbol: 'S/', name: 'Peruanischer Sol' },
 
+  glance: {"plug": "A / C", "volt": 220, "adapter": "teils – Typ A braucht Adapter", "drive": "R", "water": "Nicht trinkbar", "tip": "ca. 10 %", "dial": "+51"},
+  taxi: {"local": "Por favor, lléveme a esta dirección.", "phonetic": "por fa-WOR, JE-we-me a ES-ta di-rek-SJON"},
+
   phrases: [
     { title: '🇵🇪 Spanisch', lang: 'es-PE', items: [
       { de: 'Hallo / Guten Tag', local: 'Hola / Buenos días', phonetic: 'O-la / BWE-nos DI-as' },

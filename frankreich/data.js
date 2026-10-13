@@ -6,6 +6,9 @@ window.QT = {
   tz: 'Europe/Paris',
   currency: null, // Euro → kein Rechner, Startseite = Phrasen
 
+  glance: {"plug": "C / E", "volt": 230, "adapter": "nein", "drive": "R", "water": "Trinkbar", "tip": "Aufrunden (Service inklusive)", "dial": "+33"},
+  taxi: {"local": "Pouvez-vous m'emmener à cette adresse, s'il vous plaît ?", "phonetic": "pu-we-WU mam-NE a set a-DRES, sil wu PLÄ"},
+
   phrases: [
     { title: '🇫🇷 Französisch', lang: 'fr-FR', items: [
       { de: 'Guten Tag', local: 'Bonjour', phonetic: 'bon-SCHUR' },

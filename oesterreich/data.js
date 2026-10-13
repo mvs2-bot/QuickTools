@@ -6,6 +6,9 @@ window.QT = {
   tz: 'Europe/Vienna',
   currency: null, // Euro → kein Rechner, Startseite = Phrasen
 
+  glance: {"plug": "C / F", "volt": 230, "adapter": "nein", "drive": "R", "water": "Trinkbar – Quellwasser-Qualität", "tip": "5–10 %", "dial": "+43"},
+  taxi: {"local": "Bitte bringen Sie mich zu dieser Adresse.", "phonetic": ""},
+
   phrases: [
     { title: '🇦🇹 Österreichisch', lang: 'de-AT', items: [
       { de: 'Guten Tag', local: 'Grüß Gott / Servus', phonetic: '' },

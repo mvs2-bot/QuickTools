@@ -6,6 +6,9 @@ window.QT = {
   tz: 'Europe/Stockholm',
   currency: { code: 'SEK', symbol: 'kr', name: 'Schwedische Krone' },
 
+  glance: {"plug": "C / F", "volt": 230, "adapter": "nein", "drive": "R", "water": "Trinkbar", "tip": "Nicht üblich, Aufrunden gern gesehen", "dial": "+46"},
+  taxi: {"local": "Kan du köra mig till den här adressen, tack?", "phonetic": "kan dü TSCHÖ-ra mej till den här a-DRES-sen, tack"},
+
   phrases: [
     { title: '🇸🇪 Schwedisch', lang: 'sv-SE', items: [
       { de: 'Hallo', local: 'Hej', phonetic: 'hej' },

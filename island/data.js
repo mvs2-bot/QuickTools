@@ -6,6 +6,9 @@ window.QT = {
   tz: 'Atlantic/Reykjavik',
   currency: { code: 'ISK', symbol: 'kr', name: 'Isländische Krone', tableDecimals: 0 },
 
+  glance: {"plug": "C / F", "volt": 230, "adapter": "nein", "drive": "R", "water": "Trinkbar – sehr gut (warmes Wasser riecht nach Schwefel)", "tip": "Nicht üblich", "dial": "+354"},
+  taxi: {"local": "Geturðu keyrt mig á þetta heimilisfang?", "phonetic": "GE-tür-thu keirt mich au THET-ta HEI-mi-lis-faung"},
+
   phrases: [
     { title: '🇮🇸 Isländisch', lang: 'is-IS', items: [
       { de: 'Hallo / Guten Tag', local: 'Halló / Góðan daginn', phonetic: 'HAL-lou / GOU-than DAI-in' },

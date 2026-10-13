@@ -6,6 +6,9 @@ window.QT = {
   tz: 'Asia/Shanghai',
   currency: { code: 'CNY', symbol: '¥', name: 'Chinesischer Yuan (Renminbi)' },
 
+  glance: {"plug": "A / C / I", "volt": 220, "adapter": "teils – Eurostecker passt oft", "drive": "R", "water": "Nicht trinkbar", "tip": "Nicht üblich", "dial": "+86"},
+  taxi: {"local": "请带我去这个地址。", "phonetic": "Qǐng dài wǒ qù zhège dìzhǐ."},
+
   phrases: [
     { title: '🇨🇳 Chinesisch (Mandarin)', lang: 'zh-CN', items: [
       { de: 'Hallo', local: '你好', phonetic: 'Nǐ hǎo' },

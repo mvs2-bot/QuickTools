@@ -6,6 +6,9 @@ window.QT = {
   tz: 'America/Santiago',
   currency: { code: 'CLP', symbol: '$', name: 'Chilenischer Peso', tableDecimals: 0 },
 
+  glance: {"plug": "C / L", "volt": 220, "adapter": "nein – Eurostecker passt", "drive": "R", "water": "In Städten trinkbar (sehr mineralhaltig)", "tip": "ca. 10 % (propina)", "dial": "+56"},
+  taxi: {"local": "Por favor, lléveme a esta dirección.", "phonetic": "por fa-WOR, JE-we-me a ES-ta di-rek-SJON"},
+
   phrases: [
     { title: '🇨🇱 Spanisch', lang: 'es-CL', items: [
       { de: 'Hallo / Guten Tag', local: 'Hola / Buenos días', phonetic: 'O-la / BWE-nos DI-as' },

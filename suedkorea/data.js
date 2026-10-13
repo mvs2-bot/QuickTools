@@ -6,6 +6,9 @@ window.QT = {
   tz: 'Asia/Seoul',
   currency: { code: 'KRW', symbol: '₩', name: 'Südkoreanischer Won', tableDecimals: 0 },
 
+  glance: {"plug": "C / F", "volt": 220, "adapter": "nein", "drive": "R", "water": "Technisch trinkbar, meist gefiltert getrunken", "tip": "Kein Trinkgeld", "dial": "+82"},
+  taxi: {"local": "이 주소로 가 주세요.", "phonetic": "I jusoro ga juseyo."},
+
   phrases: [
     { title: '🇰🇷 Koreanisch', lang: 'ko-KR', items: [
       { de: 'Hallo', local: '안녕하세요', phonetic: 'Annyeonghaseyo' },

@@ -41,6 +41,19 @@
   const fx = C.currency;
   const allPhraseLangs = C.phrases.map(g => g.title).join(', ');
 
+  function glanceHtml(g) {
+    const adapter = g.adapter === 'nein' ? '✅ Kein Adapter nötig' : g.adapter === 'ja' ? '⚠️ Adapter nötig' : (g.adapter || '');
+    const drive = g.drive === 'L' ? '⚠️ Linksverkehr' : 'Rechtsverkehr';
+    const tile = (ico, lbl, val, sub) => `<div class="glance-tile"><span>${ico} ${lbl}</span><b>${esc(val)}</b>${sub ? `<small>${esc(sub)}</small>` : ''}</div>`;
+    return `<div class="box"><h2>👀 Auf einen Blick</h2><div class="glance-grid">
+      ${tile('🔌', 'Steckdose', 'Typ ' + g.plug + (g.volt ? ' · ' + g.volt + ' V' : ''), adapter + (g.voltNote ? ' · ' + g.voltNote : ''))}
+      ${tile('🚗', 'Straßenverkehr', drive, g.driveNote || '')}
+      ${tile('🚰', 'Leitungswasser', g.water, '')}
+      ${tile('💶', 'Trinkgeld', g.tip, '')}
+      ${tile('📞', 'Ländervorwahl', g.dial, g.dialNote || '')}
+    </div></div>`;
+  }
+
   const html = `
   <div class="wrap">
     <div class="sticky-header">
@@ -110,6 +123,14 @@
         <div class="mh"><h2>💰 Aktuelle Kurse</h2><button id="fxReload">🔄 Aktualisieren</button></div>
         <div class="rate-chips"><div class="rate-chip"><span>${C.flag} 1 € in ${esc(fx.name)}</span><b id="rateLocal">–</b></div></div>
         <p class="rate-status" id="rateStatus">Kurse werden geladen...</p>
+        <details class="fx-manual" id="fxManualBox">
+          <summary>✏️ Eigenen Kurs verwenden</summary>
+          <p class="note" style="margin:6px 0 8px">Z. B. den Kurs der Wechselstube oder – in Argentinien – den tatsächlichen Kartenkurs. Gilt nur auf diesem Gerät.</p>
+          <div class="fx-manual-row">
+            <span>1 € =</span><input type="number" inputmode="decimal" step="any" min="0" id="fxManual" aria-label="Eigener Kurs"><span>${fx.code}</span>
+          </div>
+          <div class="link-row"><button class="link-btn primary" id="fxManualSave">Übernehmen</button><button class="link-btn" id="fxManualOff">Zurück zum Live-Kurs</button></div>
+        </details>
       </div>
       <div class="box">
         <h2 style="margin-bottom:6px">📊 Betragsübersicht</h2>
@@ -125,11 +146,36 @@
         <h2>🗣️ Wichtige Notfall- & Alltagsphrasen</h2>
         <p class="note">Zum Vorzeigen oder Vorlesen lassen per Klick (Audio).</p>
         <input type="search" id="phraseSearch" class="phrase-search" placeholder="🔍 Phrase suchen (Deutsch, ${esc(allPhraseLangs)}, Aussprache)…">
+        <div id="voiceNote"></div>
         <div id="phraseList"></div>
+        <details class="own-form">
+          <summary>➕ Eigene Phrase hinzufügen</summary>
+          <div class="own-fields">
+            <div class="fx-field"><label for="ownDe">Deutsch</label><input id="ownDe" placeholder="z. B. Ich habe eine Nussallergie"></div>
+            <div class="fx-field"><label for="ownLocal">${esc(C.phrases[0].title.replace(/^\S+\s/, ''))}</label><input id="ownLocal" placeholder="Übersetzung (z. B. aus Google Translate kopieren)"></div>
+            <div class="fx-field"><label for="ownPh">Aussprache (optional)</label><input id="ownPh"></div>
+            <button class="f own-save" id="ownSave">💾 Speichern</button>
+          </div>
+          <p class="note" style="margin:8px 0 0">Eigene Phrasen und Favoriten (☆) werden nur auf diesem Gerät gespeichert.</p>
+        </details>
       </div>
     </div>
 
     <div id="gps" class="pane">
+      <div class="box">
+        <h2>🚕 Taxi-Karte „Bring mich zu …“</h2>
+        <p class="note">Unterkunft eintragen und dem Fahrer im Vollbild zeigen. Tipp: Adresse aus der Buchung in Landesschrift kopieren. Wird nur auf diesem Gerät gespeichert.</p>
+        <div class="taxi-fields">
+          <div class="fx-field"><label for="taxiName">Name der Unterkunft</label><input id="taxiName" placeholder="z. B. Hotel Sunshine"></div>
+          <div class="fx-field"><label for="taxiAddr">Adresse</label><textarea id="taxiAddr" rows="3" placeholder="Straße, Ort (gern in Landesschrift)"></textarea></div>
+          <div class="fx-field"><label for="taxiTel">Telefon der Unterkunft (optional)</label><input id="taxiTel" type="tel" placeholder="+…"></div>
+        </div>
+        <div class="link-row">
+          <button class="link-btn primary" id="taxiShow">⛶ Groß zeigen</button>
+          <button class="link-btn" id="taxiMaps">🗺️ In Maps öffnen</button>
+          <button class="link-btn" id="taxiClear">🗑️ Löschen</button>
+        </div>
+      </div>
       <div class="box">
         <div class="mh"><h2>📍 GPS-Standort</h2><button id="gpsBtn">🛰️ Standort ermitteln</button></div>
         <p class="note">Ermittle deine aktuellen Koordinaten für Notfälle oder Taxifahrer.</p>
@@ -153,6 +199,7 @@
     </div>
 
     <div id="misc" class="pane">
+      ${C.glance ? glanceHtml(C.glance) : ''}
       <div class="box">
         <h2>${C.flag} ${esc(C.name)}</h2>
         <h3 class="info-sub">🚨 Notrufnummern (zum Anrufen antippen)</h3>
@@ -203,7 +250,7 @@
   $('#menuBurger').onclick = () => pop.classList.add('open');
   $('#closePopover').onclick = () => pop.classList.remove('open');
   pop.onclick = e => { if (e.target === pop) pop.classList.remove('open'); };
-  document.addEventListener('keydown', e => { if (e.key === 'Escape') { pop.classList.remove('open'); pf.classList.remove('open'); } });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') { pop.classList.remove('open'); const f = document.getElementById('phraseFull'); if (f) f.classList.remove('open'); } });
   window.addEventListener('hashchange', () => switchTab(location.hash.slice(1)));
   if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
   switchTab(location.hash.slice(1) || START);
@@ -238,61 +285,151 @@
   }
   if (showClocks) { updateClocks(); setInterval(updateClocks, 1000); }
 
-  /* ---------- Phrasen: Liste, Suche, Audio, Vollbild ---------- */
-  const flat = [];
-  C.phrases.forEach(g => g.items.forEach(p => flat.push(Object.assign({ group: g.title, lang: g.lang }, p))));
-  let shown = [], cur = 0;
+  /* ---------- Phrasen: Liste, Suche, Favoriten, eigene Phrasen, Audio, Vollbild ---------- */
+  const MAIN_LANG = C.phrases[0].lang;
+  const FAV_KEY = KEY + 'fav_v1', OWN_KEY = KEY + 'own_v1';
+  const load = (k, d) => { try { return JSON.parse(store.get(k)) || d; } catch (e) { return d; } };
+  let favs = new Set(load(FAV_KEY, []));
+  let own = load(OWN_KEY, []);
+  const builtin = [];
+  C.phrases.forEach(g => g.items.forEach(p => builtin.push(Object.assign({ group: g.title, lang: g.lang, id: 'b:' + p.de + '|' + p.local }, p))));
+  let flat = [], shown = [], cur = 0;
+
+  /* Toast (kurze Hinweise statt alert) */
+  const toast = document.createElement('div'); toast.className = 'qt-toast'; document.body.appendChild(toast);
+  let toastT;
+  function say(msg) { toast.textContent = msg; toast.classList.add('show'); clearTimeout(toastT); toastT = setTimeout(() => toast.classList.remove('show'), 3500); }
+
+  /* Stimmen-Check: Gibt es auf diesem Gerät eine Stimme für die Sprache? */
+  const langName = l => { try { return new Intl.DisplayNames(['de'], { type: 'language' }).of(l.split('-')[0]); } catch (e) { return l; } };
+  let voices = [], voicesKnown = false;
+  function readVoices() {
+    if (!('speechSynthesis' in window)) return;
+    voices = speechSynthesis.getVoices() || [];
+    if (voices.length) { voicesKnown = true; renderPhrases(); }
+  }
+  function voiceFor(lang) {
+    const want = lang.toLowerCase().replace('_', '-'), base = want.split('-')[0];
+    const norm = v => v.lang.toLowerCase().replace('_', '-');
+    return voices.find(v => norm(v) === want) || voices.find(v => norm(v).split('-')[0] === base) || null;
+  }
+  const hasVoice = lang => !voicesKnown || !!voiceFor(lang);
+  if ('speechSynthesis' in window) {
+    readVoices();
+    speechSynthesis.addEventListener && speechSynthesis.addEventListener('voiceschanged', readVoices);
+  }
 
   function speak(p) {
-    if (!('speechSynthesis' in window)) { alert('Dein Browser unterstützt leider keine Sprachausgabe.'); return; }
+    if (!('speechSynthesis' in window)) { say('Dein Browser unterstützt leider keine Sprachausgabe.'); return; }
+    if (!hasVoice(p.lang)) { say(`🔇 Keine Stimme für ${langName(p.lang)} installiert – zeig die Phrase groß (⛶).`); return; }
     speechSynthesis.cancel();
     const u = new SpeechSynthesisUtterance((p.speak || p.local).replace(/\s*\/\s*/g, ', '));
     u.lang = p.lang; u.rate = 0.9;
+    const v = voiceFor(p.lang); if (v) u.voice = v;
     speechSynthesis.speak(u);
+  }
+
+  function renderVoiceNote() {
+    const missing = [...new Set(C.phrases.map(g => g.lang))].filter(l => !hasVoice(l));
+    $('#voiceNote').innerHTML = missing.length
+      ? `<p class="voice-note">🔇 Auf diesem Gerät ist keine Stimme für ${missing.map(l => esc(langName(l))).join(', ')} installiert. Phrasen dann mit ⛶ groß zeigen – oder in den Handy-Einstellungen unter „Sprachausgabe“ das Sprachpaket nachladen.</p>`
+      : '';
   }
 
   function renderPhrases() {
     const q = $('#phraseSearch').value.trim().toLowerCase();
-    shown = flat.map((p, i) => i).filter(i => {
-      const p = flat[i];
-      return !q || (p.de + ' ' + p.local + ' ' + (p.phonetic || '')).toLowerCase().includes(q);
-    });
-    const multi = C.phrases.length > 1;
+    const ownItems = own.map(o => Object.assign({ group: '✍️ Eigene Phrasen', lang: MAIN_LANG, own: true }, o));
+    const match = p => !q || (p.de + ' ' + p.local + ' ' + (p.phonetic || '')).toLowerCase().includes(q);
+    const favItems = [...builtin, ...ownItems].filter(p => favs.has(p.id)).map(p => Object.assign({}, p, { group: '⭐ Favoriten' }));
+    flat = [...favItems, ...ownItems.filter(p => !favs.has(p.id)), ...builtin.filter(p => !favs.has(p.id))].filter(match);
+    shown = flat.map((p, i) => i);
+    const titles = C.phrases.length > 1 || favItems.length || ownItems.length;
     let lastGroup = null, out = '';
-    shown.forEach((i, n) => {
-      const p = flat[i];
-      if (multi && p.group !== lastGroup) { out += `<h3 class="phrase-group-title">${esc(p.group)}</h3>`; lastGroup = p.group; }
+    flat.forEach((p, n) => {
+      if (titles && p.group !== lastGroup) { out += `<h3 class="phrase-group-title">${esc(p.group)}</h3>`; lastGroup = p.group; }
+      const fav = favs.has(p.id), mute = !hasVoice(p.lang);
       out += `<div class="phrase-card">
         <div class="phrase-info">
           <div>${esc(p.de)}</div>
           <div>${esc(p.local)}${p.phonetic ? ` <span style="font-weight:normal;color:var(--mute)">(${esc(p.phonetic)})</span>` : ''}</div>
         </div>
         <div class="phrase-actions">
-          <button class="speak-btn" data-say="${n}">🔊 Anhören</button>
-          <button class="speak-btn" data-full="${n}" aria-label="Groß anzeigen">⛶</button>
+          <button class="speak-btn${mute ? ' no-voice' : ''}" data-say="${n}" title="${mute ? 'Keine Stimme installiert' : 'Vorlesen'}">${mute ? '🔇' : '🔊'}<span class="lbl"> Anhören</span></button>
+          <button class="speak-btn" data-full="${n}" aria-label="Groß anzeigen" title="Groß anzeigen">⛶</button>
+          <button class="speak-btn star${fav ? ' on' : ''}" data-fav="${n}" aria-label="${fav ? 'Aus Favoriten entfernen' : 'Zu Favoriten'}" title="Favorit">${fav ? '★' : '☆'}</button>
+          ${p.own ? `<button class="speak-btn del" data-del="${n}" aria-label="Eigene Phrase löschen" title="Löschen">🗑️</button>` : ''}
         </div>
       </div>`;
     });
     $('#phraseList').innerHTML = out || '<p class="note">Keine passende Phrase gefunden.</p>';
+    renderVoiceNote();
   }
   $('#phraseSearch').oninput = renderPhrases;
   $('#phraseList').onclick = e => {
     const b = e.target.closest('button'); if (!b) return;
-    if (b.dataset.say) speak(flat[shown[+b.dataset.say]]);
+    if (b.dataset.say) speak(flat[+b.dataset.say]);
     if (b.dataset.full) openFull(+b.dataset.full);
+    if (b.dataset.fav) {
+      const id = flat[+b.dataset.fav].id;
+      favs.has(id) ? favs.delete(id) : favs.add(id);
+      store.set(FAV_KEY, JSON.stringify([...favs])); renderPhrases();
+    }
+    if (b.dataset.del) {
+      const id = flat[+b.dataset.del].id;
+      if (!confirm('Eigene Phrase löschen?')) return;
+      own = own.filter(o => o.id !== id); favs.delete(id);
+      store.set(OWN_KEY, JSON.stringify(own)); store.set(FAV_KEY, JSON.stringify([...favs])); renderPhrases();
+    }
+  };
+  $('#ownSave').onclick = () => {
+    const de = $('#ownDe').value.trim(), local = $('#ownLocal').value.trim(), phonetic = $('#ownPh').value.trim();
+    if (!de || !local) { say('Bitte Deutsch und Übersetzung ausfüllen.'); return; }
+    own.push({ id: 'o:' + Date.now(), de, local, phonetic });
+    store.set(OWN_KEY, JSON.stringify(own));
+    $('#ownDe').value = $('#ownLocal').value = $('#ownPh').value = '';
+    renderPhrases(); say('✅ Phrase gespeichert');
   };
 
+  /* Vollbild (für Phrasen und Taxi-Karte) */
   const pf = document.createElement('div');
   pf.className = 'pf'; pf.id = 'phraseFull';
   pf.innerHTML = '<div class="pf-de" id="pfDe"></div><div class="pf-local" id="pfLocal"></div><div class="pf-ph" id="pfPh"></div><div class="pf-btns"><button class="f" id="pfPrev" aria-label="Zurück">◀</button><button class="f" id="pfSpeak" aria-label="Vorlesen">🔊</button><button class="f" id="pfNext" aria-label="Weiter">▶</button></div><button class="f" id="pfClose">✕ Schließen</button>';
   document.body.appendChild(pf);
+  let pfMode = 'phrase';
   function showFull() { const p = flat[shown[cur]]; $('#pfDe').textContent = p.de; $('#pfLocal').textContent = p.local; $('#pfPh').textContent = p.phonetic || ''; }
-  function openFull(n) { cur = n; showFull(); pf.classList.add('open'); }
+  function openFull(n) { pfMode = 'phrase'; pf.classList.remove('taxi'); cur = n; showFull(); pf.classList.add('open'); }
   $('#pfPrev').onclick = () => { cur = (cur - 1 + shown.length) % shown.length; showFull(); };
   $('#pfNext').onclick = () => { cur = (cur + 1) % shown.length; showFull(); };
-  $('#pfSpeak').onclick = () => speak(flat[shown[cur]]);
+  $('#pfSpeak').onclick = () => pfMode === 'taxi' ? speak({ local: taxiSentence().local, lang: MAIN_LANG }) : speak(flat[shown[cur]]);
   $('#pfClose').onclick = () => pf.classList.remove('open');
   renderPhrases();
+
+  /* ---------- Taxi-Karte ---------- */
+  const TAXI_KEY = KEY + 'taxi_v1';
+  const taxiSentence = () => C.taxi || { local: 'Please take me to this address.', phonetic: '' };
+  const taxi = load(TAXI_KEY, {});
+  $('#taxiName').value = taxi.name || ''; $('#taxiAddr').value = taxi.addr || ''; $('#taxiTel').value = taxi.tel || '';
+  const saveTaxi = () => store.set(TAXI_KEY, JSON.stringify({ name: $('#taxiName').value.trim(), addr: $('#taxiAddr').value.trim(), tel: $('#taxiTel').value.trim() }));
+  ['#taxiName', '#taxiAddr', '#taxiTel'].forEach(id => $(id).addEventListener('input', saveTaxi));
+  $('#taxiShow').onclick = () => {
+    const name = $('#taxiName').value.trim(), addr = $('#taxiAddr').value.trim(), tel = $('#taxiTel').value.trim();
+    if (!name && !addr) { say('Bitte erst Name oder Adresse der Unterkunft eintragen.'); return; }
+    pfMode = 'taxi'; pf.classList.add('taxi');
+    const t = taxiSentence();
+    $('#pfDe').textContent = t.local + (t.phonetic ? ' (' + t.phonetic + ')' : '');
+    $('#pfLocal').textContent = [name, addr].filter(Boolean).join('\n');
+    $('#pfPh').textContent = tel ? '📞 ' + tel : '';
+    pf.classList.add('open');
+  };
+  $('#taxiMaps').onclick = () => {
+    const q = [$('#taxiName').value.trim(), $('#taxiAddr').value.trim()].filter(Boolean).join(', ');
+    if (!q) { say('Bitte erst Name oder Adresse der Unterkunft eintragen.'); return; }
+    window.open('https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(q), '_blank', 'noopener');
+  };
+  $('#taxiClear').onclick = () => {
+    if (!confirm('Taxi-Karte leeren?')) return;
+    $('#taxiName').value = $('#taxiAddr').value = $('#taxiTel').value = ''; saveTaxi();
+  };
 
   /* ---------- GPS ---------- */
   let curLat = null, curLng = null;
@@ -308,9 +445,9 @@
     { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 });
   };
   $('#gpsCopy').onclick = () => {
-    if (!curLat) { alert('Bitte erst den Standort ermitteln!'); return; }
+    if (!curLat) { say('Bitte erst den Standort ermitteln!'); return; }
     const text = `${curLat}, ${curLng}`;
-    navigator.clipboard.writeText(text).then(() => alert('Koordinaten in Zwischenablage kopiert!'))
+    navigator.clipboard.writeText(text).then(() => say('📋 Koordinaten kopiert'))
       .catch(() => alert('Kopieren nicht möglich. Koordinaten: ' + text));
   };
 
@@ -349,13 +486,13 @@
   sel.onchange = renderSun;
   renderSun();
 
-  /* ---------- Währung ---------- */
+  /* ---------- Währung (Live-Kurs, Offline-Cache, eigener Kurs) ---------- */
   if (hasFx) {
-    const FX_KEY = KEY + 'fx_v1';
+    const FX_KEY = KEY + 'fx_v1', MANUAL_KEY = KEY + 'fx_manual_v1';
     const AMOUNTS = C.currency.amounts || [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 25, 30, 40, 50, 100, 200, 300, 500, 1000];
     const dec = C.currency.decimals == null ? 2 : C.currency.decimals;
     const names = { EUR: 'Euro' }; names[fx.code] = fx.name;
-    let rates = null;
+    let live = null, manual = parseFloat(store.get(MANUAL_KEY)) || null, rates = null;
     const nf = (v, min, max) => v.toLocaleString('de-DE', { minimumFractionDigits: min, maximumFractionDigits: max == null ? min : max });
 
     async function loadRates() {
@@ -364,21 +501,25 @@
         const r = await fetch('https://open.er-api.com/v6/latest/EUR', { cache: 'no-store' });
         const d = await r.json();
         if (d.result !== 'success' || !d.rates[fx.code]) throw new Error('API-Fehler');
-        rates = { EUR: 1, [fx.code]: d.rates[fx.code], unix: d.time_last_update_unix, live: true };
-        store.set(FX_KEY, JSON.stringify(rates));
+        live = { EUR: 1, [fx.code]: d.rates[fx.code], unix: d.time_last_update_unix, live: true };
+        store.set(FX_KEY, JSON.stringify(live));
       } catch (e) {
         const c = store.get(FX_KEY);
-        if (c) { rates = JSON.parse(c); rates.live = false; }
+        if (c) { live = JSON.parse(c); live.live = false; }
       }
       renderRates();
     }
     function renderRates() {
-      if (!rates) { $('#rateStatus').textContent = '⚠️ Kurse konnten nicht geladen werden (keine Verbindung).'; calc(); renderTable(); return; }
+      rates = manual ? { EUR: 1, [fx.code]: manual } : live;
+      $('#fxManualBox').classList.toggle('active', !!manual);
+      if (manual) $('#fxManual').value = manual;
+      else if (live && !$('#fxManual').value) $('#fxManual').placeholder = nf(live[fx.code], 2);
+      if (!rates) { $('#rateLocal').textContent = '–'; $('#rateStatus').textContent = '⚠️ Kurse konnten nicht geladen werden (keine Verbindung).'; calc(); renderTable(); return; }
       $('#rateLocal').textContent = `${nf(rates[fx.code], dec)} ${fx.symbol}`;
-      const when = new Date(rates.unix * 1000).toLocaleString('de-DE', { dateStyle: 'medium', timeStyle: 'short' });
-      $('#rateStatus').textContent = rates.live
-        ? `✅ Live-Kurs, Stand: ${when} · Quelle: open.er-api.com`
-        : `📴 Offline – zuletzt gespeicherter Kurs vom ${when}`;
+      const when = live ? new Date(live.unix * 1000).toLocaleString('de-DE', { dateStyle: 'medium', timeStyle: 'short' }) : '';
+      $('#rateStatus').textContent = manual
+        ? `✏️ Eigener Kurs aktiv${live ? ` · Live-Kurs wäre ${nf(live[fx.code], dec)} ${fx.symbol}` : ''}`
+        : live.live ? `✅ Live-Kurs, Stand: ${when} · Quelle: open.er-api.com` : `📴 Offline – zuletzt gespeicherter Kurs vom ${when}`;
       calc(); renderTable();
     }
     function renderTable() {
@@ -394,14 +535,24 @@
       const rate = rates[to] / rates[from];
       fromLine.textContent = `${nf(amount, 2)} ${from} (${names[from]})`;
       out.textContent = `${nf(amount * rate, 2)} ${to}`;
-      rateLine.textContent = `${names[to]} · Kurs: 1 ${from} = ${nf(rate, 2, 4)} ${to}`;
+      rateLine.textContent = `${names[to]} · Kurs: 1 ${from} = ${nf(rate, 2, 4)} ${to}${manual ? ' (eigener Kurs)' : ''}`;
     }
     $('#fxAmount').oninput = calc;
     $('#fxFrom').onchange = calc;
     $('#fxTo').onchange = calc;
     $('#fxSwap').onclick = () => { const a = $('#fxFrom'), b = $('#fxTo'); [a.value, b.value] = [b.value, a.value]; calc(); };
     $('#fxReload').onclick = loadRates;
-    renderTable();
+    $('#fxManualSave').onclick = () => {
+      const v = parseFloat(String($('#fxManual').value).replace(',', '.'));
+      if (!(v > 0)) { say('Bitte einen gültigen Kurs eingeben.'); return; }
+      manual = v; store.set(MANUAL_KEY, String(v)); renderRates(); say('✏️ Eigener Kurs übernommen');
+    };
+    $('#fxManualOff').onclick = () => {
+      manual = null; try { localStorage.removeItem(MANUAL_KEY); } catch (e) {}
+      $('#fxManual').value = ''; renderRates(); say('✅ Wieder Live-Kurs');
+    };
+    if (manual) $('#fxManualBox').open = true;
+    renderRates();
     loadRates();
   }
 
