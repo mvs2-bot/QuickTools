@@ -37,9 +37,20 @@ window.QT = {
     ["Einreise", "Vorab ESTA online beantragen (nur auf der offiziellen Seite esta.cbp.dhs.gov). Rückflugticket und Unterkunft parat haben."],
     ["Trinkgeld", "Trinkgeld ist Teil des Lohns: 15–20 % im Restaurant, auch bei Taxi, Friseur, Zimmerservice."],
     ["Preise", "Preise sind meist ohne Umsatzsteuer angegeben – an der Kasse kommt sie noch dazu."],
-    ["Krankenversicherung", "Behandlungen sind extrem teuer – Auslandskrankenversicherung mit hoher Deckung abschließen."],
-    ["Alkohol", "Alkohol erst ab 21; Trinken in der Öffentlichkeit meist verboten. Ausweis wird oft kontrolliert."],
+    ["Krankenversicherung", "Behandlungen sind extrem teuer – Auslandskrankenversicherung mit hoher Deckung abschließen."]
+  ],
+  car: [
+    ["Promille", "0,8 ‰ (Utah 0,5 ‰). Offene Alkoholflaschen im Auto sind verboten."],
+    ["Schulbus & Kreuzungen", "Hält ein Schulbus mit Blinklicht, müssen meist beide Richtungen anhalten. An „4-Way Stops“ fährt zuerst, wer zuerst da war."],
     ["Polizei", "Bei Verkehrskontrolle im Auto sitzen bleiben, Hände ans Lenkrad, keine hektischen Bewegungen."]
+  ],
+  bike: [
+    ["Helm", "Helmpflicht je nach Bundesstaat bzw. Stadt – für Kinder fast überall."]
+  ],
+  substances: [
+    ["Alkohol", "Alkohol erst ab 21; Trinken in der Öffentlichkeit meist verboten. Ausweis wird oft kontrolliert."],
+    ["Cannabis", "In vielen Bundesstaaten legal (ab 21), auf Bundesebene aber verboten – nie in Nationalparks, an Flughäfen oder über Staatsgrenzen."],
+    ["Tabak", "Zigaretten und Vapes erst ab 21."]
   ],
   sim: [
     ["Roaming", "Viele deutsche Tarife sind in den USA teuer – vorher prüfen oder Reisepaket buchen."],

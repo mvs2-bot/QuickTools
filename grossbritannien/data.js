@@ -45,10 +45,22 @@ window.QT = {
 
   rules: [
     ["Einreise", "Für die Einreise brauchen Deutsche eine elektronische Einreisegenehmigung (ETA) – vorab online beantragen. Personalausweis reicht nicht, Reisepass nötig."],
-    ["Linksverkehr", "Beim Überqueren der Straße zuerst nach RECHTS schauen („Look right“ steht oft auf dem Boden)."],
     ["Anstellen", "Schlange stehen ist heilig – nie vordrängeln, auch nicht an der Bushaltestelle."],
     ["Pub", "Im Pub bestellt und bezahlt man an der Theke, kein Trinkgeld an der Bar üblich."],
     ["Kontaktlos", "In London Bus, U-Bahn & Co. einfach mit der Kreditkarte oder dem Handy bezahlen (Tageshöchstbetrag)."]
+  ],
+  car: [
+    ["Linksverkehr", "Kreisverkehre im Uhrzeigersinn, Vorfahrt für Fahrzeuge von rechts. Beim Überqueren der Straße zuerst nach RECHTS schauen."],
+    ["Promille", "England, Wales & Nordirland 0,8 ‰, Schottland 0,5 ‰."],
+    ["London", "Congestion Charge und ULEZ online bezahlen – sonst teure Strafzettel. Tempo in Meilen (mph)."]
+  ],
+  bike: [
+    ["Radfahren", "Keine Helmpflicht. Links fahren; Radfahrer und Fußgänger haben laut Highway Code besonderen Vorrang."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18. In der Öffentlichkeit meist erlaubt, aber nicht in ausgewiesenen Verbotszonen und nie in Londons Bus & Bahn."],
+    ["Rauchen & Vapes", "Rauchen in Pubs und Innenräumen verboten. Einweg-Vapes dürfen seit 2025 nicht mehr verkauft werden."],
+    ["Cannabis", "Verboten (Klasse-B-Droge)."]
   ],
   sim: [
     ["Kein EU-Roaming", "Seit dem Brexit berechnen viele deutsche Tarife Roaming extra – Tarif vorher prüfen!"],

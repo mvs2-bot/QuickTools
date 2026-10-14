@@ -35,7 +35,7 @@ Mit `currency: { code: 'CHF', symbol: 'Fr.', name: 'Schweizer Franken' }` ersche
 
 **Uhren-Leiste** erscheint automatisch nur, wenn das Land eine andere Uhrzeit als Deutschland hat.
 
-**Optionale Felder in `data.js`:** `embassy: null` blendet den Botschafts-Block aus (z. B. Deutschland), `rulesTitle` / `rulesNote` ändern Überschrift und Hinweis der Regeln-Box, `aaLabel` den Text des Link-Buttons. Bei Orten in einer anderen Zeitzone als dem Rest des Landes als 4. Wert die Zeitzone angeben, z. B. `['Ponta Delgada (Azoren)', 37.74, -25.68, 'Atlantic/Azores']`.
+**Optionale Felder in `data.js`:** `embassy: null` blendet den Botschafts-Block aus (z. B. Deutschland), `rulesTitle` / `rulesNote` ändern Überschrift und Hinweis der Regeln-Box, `aaLabel` den Text des Link-Buttons. `car` und `bike` (Box „🚦 Verkehrsregeln“) sowie `substances` (Box „🍺 Alkohol, Tabak & Drogen“) sind Listen wie `rules` – fehlen sie, wird die jeweilige Box bzw. Unterüberschrift einfach weggelassen. Bei Orten in einer anderen Zeitzone als dem Rest des Landes als 4. Wert die Zeitzone angeben, z. B. `['Ponta Delgada (Azoren)', 37.74, -25.68, 'Atlantic/Azores']`.
 
 **Achtung Apostroph:** Text in `'…'` darf kein `'` enthalten – dann den Text in `"…"` setzen (z. B. `"C'est combien ?"`). Das Skript prüft das automatisch, wenn Node.js installiert ist.
 

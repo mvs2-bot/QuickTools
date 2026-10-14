@@ -46,12 +46,25 @@ window.QT = {
   rulesNote: 'Praktische Hinweise – z. B. für Besuch aus dem Ausland.',
 
   rules: [
-    ['Sonntag', 'Geschäfte haben sonntags und an Feiertagen fast überall zu – Ausnahmen sind Bahnhöfe, Flughäfen und Tankstellen.'],
-    ['Pfand', 'Auf die meisten Flaschen und Dosen gibt es 8–25 Cent Pfand – im Supermarkt am Automaten zurückgeben.'],
-    ['Bargeld', 'Karte geht fast überall, in kleinen Bäckereien, Kneipen und auf Märkten aber manchmal nur Bargeld.'],
-    ['Feiertage', 'Viele Feiertage sind je Bundesland unterschiedlich – vorher kurz prüfen.'],
-    ['Autobahn', 'Teils ohne Tempolimit, Richtgeschwindigkeit 130 km/h. Rettungsgasse bilden, rechts überholen ist verboten.'],
-    ['Biergarten', 'In klassischen bayerischen Biergärten darf man seine eigene Brotzeit mitbringen – Getränke aber dort kaufen.']
+    ["Sonntag", "Geschäfte haben sonntags und an Feiertagen fast überall zu – Ausnahmen sind Bahnhöfe, Flughäfen und Tankstellen."],
+    ["Pfand", "Auf die meisten Flaschen und Dosen gibt es 8–25 Cent Pfand – im Supermarkt am Automaten zurückgeben."],
+    ["Bargeld", "Karte geht fast überall, in kleinen Bäckereien, Kneipen und auf Märkten aber manchmal nur Bargeld."],
+    ["Feiertage", "Viele Feiertage sind je Bundesland unterschiedlich – vorher kurz prüfen."],
+    ["Biergarten", "In klassischen bayerischen Biergärten darf man seine eigene Brotzeit mitbringen – Getränke aber dort kaufen."]
+  ],
+  car: [
+    ["Promille", "0,5 ‰; in der Probezeit und unter 21 Jahren 0,0 ‰."],
+    ["Autobahn", "Teils ohne Tempolimit, Richtgeschwindigkeit 130 km/h. Rettungsgasse bilden, rechts überholen ist verboten."],
+    ["Umweltzonen", "In vielen Städten nur mit grüner Umweltplakette."]
+  ],
+  bike: [
+    ["Radwege", "Ist der Radweg mit blauem Schild markiert, muss er benutzt werden. Keine Helmpflicht, Handy am Lenker verboten."],
+    ["Alkohol", "Auch auf dem Rad gibt es Promillegrenzen – ab 1,6 ‰ (bei Auffälligkeit schon früher) drohen Strafen und MPU."]
+  ],
+  substances: [
+    ["Alkohol", "Bier und Wein ab 16, Spirituosen ab 18. Trinken in der Öffentlichkeit ist meist erlaubt."],
+    ["Cannabis", "Ab 18 legal: bis 25 g dabei haben. Kein Konsum in Sichtweite von Schulen/Spielplätzen und tagsüber nicht in Fußgängerzonen. Am Steuer gilt ein THC-Grenzwert."],
+    ["Rauchen", "In Restaurants und Kneipen meist verboten (je nach Bundesland Raucherräume)."]
   ],
   sim: [
     ['Eigene SIM', 'Mit dem eigenen deutschen Tarif ist alles wie gewohnt.'],

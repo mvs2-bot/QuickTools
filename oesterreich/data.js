@@ -43,11 +43,22 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/oesterreich-node',
 
   rules: [
-    ['Vignette', 'Für Autobahnen und Schnellstraßen ist eine Vignette Pflicht – digital online oder als Klebevignette. Einige Tunnel/Strecken kosten extra Maut.'],
-    ['Kaffeehaus', 'Im Wiener Kaffeehaus wird man am Platz bedient; zum Kaffee gibt es ein Glas Wasser. Lange sitzen bleiben ist ausdrücklich erwünscht.'],
-    ['Trinkgeld', 'Rund 5–10 % sind üblich – beim Bezahlen den aufgerundeten Betrag nennen.'],
-    ['Berge', 'Wetter kann schnell umschlagen. Gut ausgerüstet wandern, Bergrettung (140) ist ohne Versicherung teuer.'],
-    ['Sonntag', 'Geschäfte haben sonntags meist geschlossen.']
+    ["Kaffeehaus", "Im Wiener Kaffeehaus wird man am Platz bedient; zum Kaffee gibt es ein Glas Wasser. Lange sitzen bleiben ist ausdrücklich erwünscht."],
+    ["Trinkgeld", "Rund 5–10 % sind üblich – beim Bezahlen den aufgerundeten Betrag nennen."],
+    ["Berge", "Wetter kann schnell umschlagen. Gut ausgerüstet wandern, Bergrettung (140) ist ohne Versicherung teuer."],
+    ["Sonntag", "Geschäfte haben sonntags meist geschlossen."]
+  ],
+  car: [
+    ["Promille", "0,5 ‰; Probeführerschein 0,1 ‰."],
+    ["Vignette", "Für Autobahnen und Schnellstraßen ist eine Vignette Pflicht – digital online oder als Klebevignette. Einige Tunnel/Strecken kosten extra Maut."],
+    ["Rettungsgasse & Winter", "Bei Stau sofort Rettungsgasse bilden. Von November bis April bei Schnee/Eis Winterreifen Pflicht."]
+  ],
+  bike: [
+    ["Helm", "Helmpflicht für Kinder unter 12."]
+  ],
+  substances: [
+    ["Alkohol", "Bier und Wein ab 16, Spirituosen ab 18."],
+    ["Rauchen & Cannabis", "In der Gastronomie herrscht Rauchverbot. Cannabis ist verboten."]
   ],
   sim: [
     ['EU-Roaming', 'Mit deutschem Tarif ohne Aufpreis surfen und telefonieren („Roam like at home“).'],

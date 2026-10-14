@@ -39,11 +39,21 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/niederlande-node',
 
   rules: [
-    ['Radwege', 'Radwege (rot markiert) sind kein Gehweg – Radfahrer haben oft Vorfahrt und klingeln nicht lange.'],
-    ['Bezahlen', 'Viele Läden und Cafés nehmen nur Karte (PIN), manche gar kein Bargeld.'],
-    ['Coffeeshops', 'Cannabis ist nur geduldet, nicht legal: kein Konsum auf der Straße, nichts über die Grenze mitnehmen. In einigen Städten nur für Einwohner.'],
-    ['Amsterdam', 'Im Rotlichtviertel keine Fotos von Personen, Trinken auf der Straße ist in der Innenstadt verboten.'],
-    ['Strand', 'Strömungen an der Nordsee beachten, nur an bewachten Stellen baden.']
+    ["Bezahlen", "Viele Läden und Cafés nehmen nur Karte (PIN), manche gar kein Bargeld."],
+    ["Amsterdam", "Im Rotlichtviertel keine Fotos von Personen, Trinken auf der Straße ist in der Innenstadt verboten."],
+    ["Strand", "Strömungen an der Nordsee beachten, nur an bewachten Stellen baden."]
+  ],
+  car: [
+    ["Promille", "0,5 ‰; Fahranfänger 0,2 ‰."],
+    ["Tempo", "Auf Autobahnen tagsüber (6–19 Uhr) meist nur 100 km/h. Beim Abbiegen immer auf Radfahrer achten."]
+  ],
+  bike: [
+    ["Radwege", "Radwege (rot markiert) sind kein Gehweg – Radfahrer haben oft Vorfahrt und klingeln nicht lange."],
+    ["Regeln", "Handy in der Hand während der Fahrt ist verboten (Bußgeld). Nachts Licht Pflicht, keine Helmpflicht."]
+  ],
+  substances: [
+    ["Coffeeshops", "Cannabis ist nur geduldet, nicht legal: ab 18, max. 5 g, kein Konsum auf der Straße, nichts über die Grenze mitnehmen. In einigen Städten nur für Einwohner."],
+    ["Alkohol", "Ab 18. In vielen Innenstädten ist Trinken auf der Straße verboten."]
   ],
   sim: [
     ['EU-Roaming', 'Mit deutschem Tarif ohne Aufpreis surfen und telefonieren („Roam like at home“).'],

@@ -41,11 +41,19 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/argentinien-node',
 
   rules: [
-    ['Wechselkurs', 'Mit ausländischer Kreditkarte bekommt man meist einen günstigen Kurs (Dólar MEP). Bargeld nur bei seriösen Stellen tauschen, nie auf der Straße.'],
-    ['Preise', 'Die Inflation ist hoch – Preise ändern sich schnell. Der Rechner nutzt den offiziellen Kurs.'],
-    ['Essenszeiten', 'Abendessen selten vor 21 Uhr, viele Restaurants öffnen erst dann.'],
-    ['Mate', 'Wer zum Mate eingeladen wird: Nicht am Strohhalm rühren und erst „gracias“ sagen, wenn man nichts mehr möchte.'],
-    ['Sicherheit', 'In Buenos Aires Handy nicht offen am Straßenrand nutzen, nur App-Taxis nehmen.']
+    ["Wechselkurs", "Mit ausländischer Kreditkarte bekommt man meist einen günstigen Kurs (Dólar MEP). Bargeld nur bei seriösen Stellen tauschen, nie auf der Straße."],
+    ["Preise", "Die Inflation ist hoch – Preise ändern sich schnell. Der Rechner nutzt den offiziellen Kurs."],
+    ["Essenszeiten", "Abendessen selten vor 21 Uhr, viele Restaurants öffnen erst dann."],
+    ["Mate", "Wer zum Mate eingeladen wird: Nicht am Strohhalm rühren und erst „gracias“ sagen, wenn man nichts mehr möchte."],
+    ["Sicherheit", "In Buenos Aires Handy nicht offen am Straßenrand nutzen, nur App-Taxis nehmen."]
+  ],
+  car: [
+    ["Promille", "0,0 ‰ auf Nationalstraßen und in den meisten Provinzen."],
+    ["Licht", "Auf Landstraßen Abblendlicht auch tagsüber Pflicht. Internationalen Führerschein mitnehmen."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18 Jahren. Rund um Wahlen gilt oft ein Alkoholverbot („Ley seca“)."],
+    ["Cannabis", "Verboten – kleine Mengen für den Eigenbedarf werden privat meist nicht verfolgt, in der Öffentlichkeit schon."]
   ],
   sim: [
     ['Lokale SIM', 'Prepaid-SIM von Personal, Claro oder Movistar – Reisepass nötig.'],

@@ -46,11 +46,19 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/srilanka-node',
 
   rules: [
-    ['Tempel', 'Schultern und Knie bedecken, Schuhe und Kopfbedeckung vor dem Betreten ablegen. Weiße Kleidung ist gern gesehen.'],
-    ['Buddha-Darstellungen', 'Nicht mit dem Rücken zur Statue posieren. Buddha-Tattoos offen zu zeigen kann zur Einreiseverweigerung oder Ausweisung führen.'],
-    ['Mönche', 'Respektvoll begegnen; Frauen sollten Mönche nicht berühren. In Bussen sind vordere Plätze oft für Mönche reserviert.'],
-    ['Linke Hand', 'Essen, Geld und Geschenke mit der rechten Hand geben und annehmen.'],
-    ['Gesetze', 'Oben-ohne und Nacktbaden sind verboten, Drogen werden sehr streng bestraft. An Poya-Tagen (Vollmond) wird kein Alkohol verkauft.']
+    ["Tempel", "Schultern und Knie bedecken, Schuhe und Kopfbedeckung vor dem Betreten ablegen. Weiße Kleidung ist gern gesehen."],
+    ["Buddha-Darstellungen", "Nicht mit dem Rücken zur Statue posieren. Buddha-Tattoos offen zu zeigen kann zur Einreiseverweigerung oder Ausweisung führen."],
+    ["Mönche", "Respektvoll begegnen; Frauen sollten Mönche nicht berühren. In Bussen sind vordere Plätze oft für Mönche reserviert."],
+    ["Linke Hand", "Essen, Geld und Geschenke mit der rechten Hand geben und annehmen."],
+    ["Gesetze", "Oben-ohne und Nacktbaden sind verboten."]
+  ],
+  car: [
+    ["Führerschein", "Internationaler Führerschein plus örtliche Anerkennung (Recognition Permit, z. B. über AA Ceylon) nötig – auch für Tuk-Tuks."],
+    ["Linksverkehr", "Chaotischer Verkehr, Busse fahren rücksichtslos. Viele nehmen lieber einen Fahrer."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 21. An Poya-Tagen (Vollmond) wird kein Alkohol verkauft."],
+    ["Drogen", "Drogen werden sehr streng bestraft."]
   ],
   sim: [
     ['Einfachste Lösung', 'Am Flughafen Colombo eine Touristen-SIM von Dialog (beste Abdeckung) oder Mobitel holen – Reisepass nötig.'],

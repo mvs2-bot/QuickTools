@@ -39,6 +39,15 @@ window.QT = {
     ["Einfuhr", "Antiquitäten (auch alte Münzen oder Steine) dürfen nicht ausgeführt werden – Kaufbeleg aufbewahren."],
     ["Bargeld", "Lira am Automaten abheben und dabei „ohne Umrechnung“ wählen; Euro werden in Touristenorten oft angenommen."]
   ],
+  car: [
+    ["Promille", "0,5 ‰ (Berufsfahrer 0,0 ‰)."],
+    ["Kontrollen", "Viele Radarkontrollen und Polizeisperren – Führerschein, Pass und Mietvertrag griffbereit haben."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18. Läden dürfen von 22 bis 6 Uhr keinen Alkohol verkaufen."],
+    ["E-Zigaretten", "Verkauf und Einfuhr sind verboten – besser zu Hause lassen."],
+    ["Drogen", "Auch Cannabis ist verboten; es drohen lange Haftstrafen."]
+  ],
   sim: [
     ["Roaming", "Die Türkei gehört nicht zur EU – Roaming kann teuer sein. Tarif vorher prüfen!"],
     ["Lokale SIM / eSIM", "Turkcell, Vodafone TR oder Türk Telekom (Pass nötig; ausländische Handys werden nach ca. 120 Tagen gesperrt) – oder vorab eSIM."]

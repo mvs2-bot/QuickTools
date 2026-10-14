@@ -39,10 +39,19 @@ window.QT = {
 
   rules: [
     ["US-Dollar", "Dollar werden fast überall angenommen, Wechselgeld kommt aber oft in Colones."],
-    ["Straßen", "Viele Nebenstraßen sind Schotterpisten und Flüsse ohne Brücke – Allrad-Mietwagen lohnt sich."],
     ["Meer", "Starke Strömungen (Rip Currents) an der Pazifikküste – nur an bewachten Stränden baden."],
     ["Tiere", "Wildtiere (Affen, Waschbären) nicht füttern; nachts nicht barfuß laufen."],
     ["Ausreise", "Die Flughafen-Ausreisegebühr ist meist im Ticket enthalten – vorher prüfen."]
+  ],
+  car: [
+    ["Straßen", "Viele Nebenstraßen sind Schotterpisten und Flüsse ohne Brücke – Allrad-Mietwagen lohnt sich."],
+    ["Promille", "0,5 ‰; Fahranfänger 0,2 ‰."],
+    ["San José", "Werktags gilt je nach Kennzeichen-Endziffer ein Fahrverbot in der Innenstadt („restricción vehicular“)."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18. Trinken in der Öffentlichkeit ist verboten."],
+    ["Rauchen", "In Parks, an Haltestellen und vielen öffentlichen Orten verboten."],
+    ["Drogen", "Auch Cannabis ist verboten."]
   ],
   sim: [
     ["Lokale SIM", "Kölbi (beste Abdeckung), Claro oder Liberty am Flughafen – Pass nötig."],

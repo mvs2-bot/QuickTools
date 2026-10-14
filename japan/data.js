@@ -40,12 +40,25 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/japan-node',
 
   rules: [
-    ['Schuhe', 'In Wohnungen, Ryokans, vielen Tempeln und manchen Restaurants Schuhe ausziehen – auf Hausschuhe/Regale achten.'],
-    ['Trinkgeld', 'Kein Trinkgeld geben – das gilt eher als unhöflich.'],
-    ['Öffentlicher Raum', 'In Bahnen leise sein und nicht telefonieren. Im Gehen essen ist unüblich. Müll wieder mitnehmen – es gibt kaum Mülleimer.'],
-    ['Onsen', 'Vor dem Bad gründlich waschen, nackt baden, Handtuch nicht ins Wasser. Tattoos sind oft nicht erlaubt – vorher fragen.'],
-    ['Medikamente', 'Einige in Deutschland erhältliche Mittel (z. B. mit Pseudoephedrin, Codein) sind verboten oder genehmigungspflichtig – vorher prüfen.'],
-    ['Ausweis', 'Reisepass muss immer mitgeführt werden.']
+    ["Schuhe", "In Wohnungen, Ryokans, vielen Tempeln und manchen Restaurants Schuhe ausziehen – auf Hausschuhe/Regale achten."],
+    ["Trinkgeld", "Kein Trinkgeld geben – das gilt eher als unhöflich."],
+    ["Öffentlicher Raum", "In Bahnen leise sein und nicht telefonieren. Im Gehen essen ist unüblich. Müll wieder mitnehmen – es gibt kaum Mülleimer."],
+    ["Onsen", "Vor dem Bad gründlich waschen, nackt baden, Handtuch nicht ins Wasser. Tattoos sind oft nicht erlaubt – vorher fragen."],
+    ["Medikamente", "Einige in Deutschland erhältliche Mittel (z. B. mit Pseudoephedrin, Codein) sind verboten oder genehmigungspflichtig – vorher prüfen."],
+    ["Ausweis", "Reisepass muss immer mitgeführt werden."]
+  ],
+  car: [
+    ["Führerschein", "Deutscher Führerschein nur mit offizieller japanischer Übersetzung (z. B. JAF) – der internationale Führerschein reicht für Deutsche nicht."],
+    ["Promille", "Praktisch 0,0 ‰ (Grenze ca. 0,3 ‰). Auch Beifahrer und wer Alkohol ausschenkt, können bestraft werden. Linksverkehr."]
+  ],
+  bike: [
+    ["Bußgelder", "Seit April 2026 Bußgelder für Radfahrer ab 16 – z. B. 12.000 ¥ fürs Handy während der Fahrt. Links fahren, kein Schirm in der Hand, nicht zu zweit."],
+    ["Alkohol", "Betrunken Rad fahren ist eine Straftat."]
+  ],
+  substances: [
+    ["Alkohol & Tabak", "Beides erst ab 20 Jahren. Trinken in der Öffentlichkeit ist meist erlaubt (in Shibuya zu bestimmten Zeiten verboten)."],
+    ["Rauchen", "Auf der Straße in vielen Bezirken verboten – nur in ausgewiesenen Raucherecken."],
+    ["Cannabis", "Streng verboten, auch CBD-Produkte mit THC-Spuren."]
   ],
   sim: [
     ['Einfachste Lösung', 'Vorab eSIM (z. B. Airalo, Ubigi) buchen oder am Flughafen Daten-SIM / Pocket-WiFi holen.'],

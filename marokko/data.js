@@ -48,6 +48,13 @@ window.QT = {
     ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."],
     ["Dirham", "Dirham dürfen offiziell nicht ein- oder ausgeführt werden – vor Ort abheben und vor der Abreise zurücktauschen."]
   ],
+  car: [
+    ["Promille", "0,2 ‰. Sehr viele Radar- und Polizeikontrollen."]
+  ],
+  substances: [
+    ["Alkohol", "Nur in lizenzierten Bars, Hotels und Supermärkten. Trinken in der Öffentlichkeit ist verboten."],
+    ["Cannabis", "Verboten, auch wenn es (z. B. im Rif-Gebirge) offen angeboten wird."]
+  ],
   sim: [
     ["Lokale SIM", "Maroc Telecom, Orange oder inwi – oft gratis am Flughafen, Pass nötig."],
     ["eSIM", "Alternativ vorab eSIM (z. B. Airalo) buchen – am einfachsten schon vor dem Abflug einrichten."]

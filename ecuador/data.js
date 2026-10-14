@@ -43,6 +43,14 @@ window.QT = {
     ["Sicherheit", "Reisehinweise des Auswärtigen Amts prüfen, besonders für Guayaquil und die Küste. Nur App- oder registrierte Taxis."],
     ["Bargeld", "Kleine Dollarscheine bereithalten – große Scheine (50/100 $) werden oft nicht angenommen."]
   ],
+  car: [
+    ["Promille", "0,3 ‰."],
+    ["Quito", "Werktags gilt je nach Kennzeichen-Endziffer ein Fahrverbot zu Stoßzeiten („Pico y Placa“)."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18 Jahren. Rund um Wahlen gilt oft ein Alkoholverbot („Ley seca“)."],
+    ["Drogen", "Drogendelikte werden streng bestraft."]
+  ],
   sim: [
     ["Lokale SIM", "Claro (beste Abdeckung) oder Movistar – Pass nötig."],
     ["eSIM", "Alternativ vorab eSIM (z. B. Airalo) buchen – am einfachsten schon vor dem Abflug einrichten."]

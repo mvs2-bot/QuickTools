@@ -34,10 +34,18 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/slowenien-node",
 
   rules: [
-    ["Vignette", "Für Autobahnen ist eine digitale Vignette (e-vinjeta) Pflicht – vor der Grenze online kaufen. Licht auch tagsüber."],
     ["Berge", "Im Triglav-Nationalpark auf den Wegen bleiben, Wetter in den Julischen Alpen kann schnell umschlagen."],
     ["Bled & Bohinj", "Im Sommer sind Parkplätze teuer und schnell voll – früh kommen oder Shuttle/Bus nutzen."],
     ["Bezahlen", "Karte ist verbreitet, in Berghütten und kleinen Gaststätten oft nur Bargeld."]
+  ],
+  car: [
+    ["Promille", "0,5 ‰; Fahranfänger 0,0 ‰."],
+    ["Vignette", "Für Autobahnen ist eine digitale Vignette (e-vinjeta) Pflicht – vor der Grenze online kaufen. Licht auch tagsüber."],
+    ["Winter", "Vom 15. November bis 15. März Winterausrüstung Pflicht."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18 Jahren."],
+    ["Drogen", "Auch Cannabis ist verboten."]
   ],
   sim: [
     ["EU-Roaming", "Mit deutschem Tarif ohne Aufpreis surfen und telefonieren („Roam like at home“)."],

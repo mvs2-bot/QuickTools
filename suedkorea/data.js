@@ -41,11 +41,20 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/korearepublik-node',
 
   rules: [
-    ['Karten-Apps', 'Google Maps funktioniert in Korea nur eingeschränkt (keine Fuß-/Autonavigation) – Naver Map oder KakaoMap nutzen.'],
-    ['Höflichkeit', 'Gegenstände und Geld mit beiden Händen geben/annehmen, besonders bei Älteren. Leichte Verbeugung zur Begrüßung.'],
-    ['Schuhe', 'In Wohnungen, Tempeln und vielen traditionellen Restaurants Schuhe ausziehen.'],
-    ['Essen', 'Stäbchen nicht senkrecht in den Reis stecken. Beim Trinken mit Älteren den Kopf leicht abwenden.'],
-    ['Trinkgeld', 'Trinkgeld ist nicht üblich.']
+    ["Karten-Apps", "Google Maps funktioniert in Korea nur eingeschränkt (keine Fuß-/Autonavigation) – Naver Map oder KakaoMap nutzen."],
+    ["Höflichkeit", "Gegenstände und Geld mit beiden Händen geben/annehmen, besonders bei Älteren. Leichte Verbeugung zur Begrüßung."],
+    ["Schuhe", "In Wohnungen, Tempeln und vielen traditionellen Restaurants Schuhe ausziehen."],
+    ["Essen", "Stäbchen nicht senkrecht in den Reis stecken. Beim Trinken mit Älteren den Kopf leicht abwenden."],
+    ["Trinkgeld", "Trinkgeld ist nicht üblich."]
+  ],
+  car: [
+    ["Promille", "0,3 ‰. Internationalen Führerschein und Pass mitnehmen."],
+    ["Blitzer", "Sehr viele Radarkameras – das Navi warnt meist vorher."]
+  ],
+  substances: [
+    ["Alkohol & Tabak", "Ab 19 Jahren."],
+    ["Rauchen", "In vielen öffentlichen Bereichen verboten, auch draußen (z. B. Parks, Bushaltestellen)."],
+    ["Drogen", "Null Toleranz, auch bei Cannabis – sehr harte Strafen."]
   ],
   sim: [
     ['Einfachste Lösung', 'Vorab eSIM (z. B. Airalo, KT, SK Telecom) buchen oder am Flughafen Incheon Daten-SIM / Pocket-WiFi holen.'],

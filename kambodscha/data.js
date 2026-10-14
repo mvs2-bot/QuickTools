@@ -41,6 +41,13 @@ window.QT = {
     ["Minen", "In ländlichen Gebieten auf befestigten Wegen bleiben – es gibt noch Landminen."],
     ["Kopf & Füße", "Niemandem auf den Kopf fassen, Fußsohlen nicht auf Menschen oder Buddha-Figuren richten."]
   ],
+  car: [
+    ["Roller", "Helmpflicht. Ohne gültigen Führerschein (für Roller: Motorradklasse) zahlt keine Versicherung. Rechtsverkehr, aber viele fahren entgegen der Richtung."]
+  ],
+  substances: [
+    ["Drogen", "Streng verboten – auch die „Happy Pizza“ mit Cannabis. Es drohen lange Haftstrafen."],
+    ["Reiswein", "Selbstgebrannten Reiswein meiden – es gab Methanolvergiftungen."]
+  ],
   sim: [
     ["Lokale SIM", "Smart, Cellcard oder Metfone am Flughafen – Pass nötig, sehr günstig."],
     ["eSIM", "Alternativ vorab eSIM (z. B. Airalo) buchen – am einfachsten schon vor dem Abflug einrichten."]

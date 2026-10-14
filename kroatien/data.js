@@ -40,11 +40,21 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/kroatien-node',
 
   rules: [
-    ['Altstädte', 'In Dubrovnik, Split, Hvar u. a. ist Badekleidung oder nackter Oberkörper in der Altstadt verboten – Bußgelder möglich.'],
-    ['Kirchen', 'Schultern und Knie bedecken.'],
-    ['Waldbrandgefahr', 'Im Sommer kein offenes Feuer, keine Zigaretten wegwerfen – sehr hohe Brandgefahr und hohe Strafen.'],
-    ['Autofahren', 'Licht ist von Ende Oktober bis Ende März auch tagsüber Pflicht. Maut auf den Autobahnen.'],
-    ['Trinkgeld', 'Rund 10 % in Restaurants sind üblich.']
+    ["Altstädte", "In Dubrovnik, Split, Hvar u. a. ist Badekleidung oder nackter Oberkörper in der Altstadt verboten – Bußgelder möglich."],
+    ["Kirchen", "Schultern und Knie bedecken."],
+    ["Waldbrandgefahr", "Im Sommer kein offenes Feuer, keine Zigaretten wegwerfen – sehr hohe Brandgefahr und hohe Strafen."],
+    ["Trinkgeld", "Rund 10 % in Restaurants sind üblich."]
+  ],
+  car: [
+    ["Promille", "0,5 ‰; unter 25 Jahren 0,0 ‰."],
+    ["Licht & Maut", "Licht ist von Ende Oktober bis Ende März auch tagsüber Pflicht. Maut auf den Autobahnen."]
+  ],
+  bike: [
+    ["Helm", "Helmpflicht bis 16 Jahre."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18. In Hvar, Split und anderen Orten ist Trinken auf der Straße teils verboten."],
+    ["Drogen", "Auch Cannabis ist verboten."]
   ],
   sim: [
     ['EU-Roaming', 'Mit deutschem Tarif ohne Aufpreis surfen und telefonieren („Roam like at home“).'],

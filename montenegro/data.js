@@ -38,8 +38,15 @@ window.QT = {
   rules: [
     ["Euro", "Montenegro nutzt den Euro, ist aber nicht in der EU."],
     ["Kirchen & Klöster", "Schultern und Knie bedecken, z. B. im Kloster Ostrog."],
-    ["Straßen", "Bergstraßen sind eng und kurvig – defensiv fahren, besonders nachts. Licht auch tagsüber."],
     ["Kurtaxe", "Unterkünfte müssen Gäste anmelden – den Anmeldezettel aufbewahren."]
+  ],
+  car: [
+    ["Promille", "0,3 ‰."],
+    ["Straßen", "Bergstraßen sind eng und kurvig – defensiv fahren, besonders nachts. Licht auch tagsüber."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18 Jahren."],
+    ["Drogen", "Auch Cannabis ist verboten; Drogendelikte werden streng bestraft."]
   ],
   sim: [
     ["Kein EU-Roaming", "Montenegro ist nicht in der EU – Roaming kann teuer sein. Tarif vorher prüfen!"],

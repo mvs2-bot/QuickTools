@@ -39,11 +39,19 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/chile-node',
 
   rules: [
-    ['Erdbeben', 'Chile ist sehr erdbebenaktiv: Fluchtwege im Hotel ansehen, an der Küste Tsunami-Schilder („Vía de evacuación“) beachten.'],
-    ['Sonne', 'In Patagonien und in der Atacama ist die UV-Strahlung extrem – Sonnenschutz auch bei Wolken.'],
-    ['Patagonien', 'Wetter wechselt sehr schnell, starker Wind. Feuer machen in Nationalparks ist streng verboten (große Brände in der Vergangenheit).'],
-    ['Einfuhr', 'Strenge Kontrolle bei der Einreise: Obst, Wurst, Käse, Honig nicht mitbringen bzw. unbedingt deklarieren – hohe Strafen.'],
-    ['Trinkgeld', '10 % „propina“ werden in Restaurants meist auf der Rechnung vorgeschlagen – freiwillig, aber üblich.']
+    ["Erdbeben", "Chile ist sehr erdbebenaktiv: Fluchtwege im Hotel ansehen, an der Küste Tsunami-Schilder („Vía de evacuación“) beachten."],
+    ["Sonne", "In Patagonien und in der Atacama ist die UV-Strahlung extrem – Sonnenschutz auch bei Wolken."],
+    ["Patagonien", "Wetter wechselt sehr schnell, starker Wind. Feuer machen in Nationalparks ist streng verboten (große Brände in der Vergangenheit)."],
+    ["Einfuhr", "Strenge Kontrolle bei der Einreise: Obst, Wurst, Käse, Honig nicht mitbringen bzw. unbedingt deklarieren – hohe Strafen."],
+    ["Trinkgeld", "10 % „propina“ werden in Restaurants meist auf der Rechnung vorgeschlagen – freiwillig, aber üblich."]
+  ],
+  car: [
+    ["Promille", "Ab 0,3 ‰ drohen Strafen („Ley Tolerancia Cero“)."],
+    ["Maut", "Santiagos Stadtautobahnen haben elektronische Maut (TAG) – Mietwagen fragen, sonst Tagespass kaufen."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18. Trinken in der Öffentlichkeit ist verboten."],
+    ["Cannabis", "Privater Konsum wird toleriert, in der Öffentlichkeit gibt es Strafen."]
   ],
   sim: [
     ['Lokale SIM', 'Prepaid-SIM von Entel, Movistar, Claro oder WOM – Reisepass nötig.'],

@@ -37,10 +37,18 @@ window.QT = {
 
   rules: [
     ["Jedermannsrecht", "Wandern und Zelten in der Natur ist erlaubt (mind. 150 m vom nächsten Haus). Vom 15.4. bis 15.9. kein offenes Feuer in Waldnähe."],
-    ["Maut", "Viele Straßen, Tunnel und Fähren sind mautpflichtig – Mietwagen haben meist einen AutoPASS-Chip, sonst vorab online registrieren."],
-    ["Alkohol", "Wein und Spirituosen gibt es nur im staatlichen „Vinmonopolet“; Bier im Supermarkt nur zu bestimmten Zeiten."],
     ["Bargeld", "Fast alles läuft über Karte – Bargeld braucht man kaum."],
     ["Wetter", "In den Bergen schnelle Wetterwechsel, auch im Sommer. Wanderungen nur mit passender Ausrüstung."]
+  ],
+  car: [
+    ["Promille & Licht", "0,2 ‰. Licht immer an."],
+    ["Maut", "Viele Straßen, Tunnel und Fähren sind mautpflichtig – Mietwagen haben meist einen AutoPASS-Chip, sonst vorab online registrieren."],
+    ["Bußgelder", "Schon kleine Tempoverstöße kosten mehrere Hundert Euro."]
+  ],
+  substances: [
+    ["Alkohol", "Bier und Wein ab 18, Spirituosen ab 20. Wein und Spirituosen gibt es nur im staatlichen „Vinmonopolet“; Bier im Supermarkt nur zu bestimmten Zeiten."],
+    ["In der Öffentlichkeit", "Trinken auf der Straße und in Parks ist grundsätzlich verboten."],
+    ["Drogen", "Auch Cannabis ist verboten."]
   ],
   sim: [
     ["EWR-Roaming", "Norwegen gehört zum EWR – die meisten deutschen Tarife gelten dort ohne Aufpreis. Vorher kurz prüfen!"],

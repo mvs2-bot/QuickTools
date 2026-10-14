@@ -40,8 +40,15 @@ window.QT = {
     ["Tempel (Bali)", "Sarong und Schärpe tragen (oft zum Ausleihen am Eingang); während der Menstruation dürfen Frauen Tempel traditionell nicht betreten."],
     ["Linke Hand", "Essen, Geld und Geschenke mit der rechten Hand geben und annehmen."],
     ["Bali-Touristenabgabe", "Für Bali ist eine Touristenabgabe fällig – am besten vorab online bezahlen."],
-    ["Nyepi", "Am balinesischen Neujahr (Nyepi) steht die Insel 24 h still: Hotel nicht verlassen, kein Licht, Flughafen geschlossen."],
-    ["Drogen", "Drogendelikte werden extrem hart bestraft, bis hin zur Todesstrafe."]
+    ["Nyepi", "Am balinesischen Neujahr (Nyepi) steht die Insel 24 h still: Hotel nicht verlassen, kein Licht, Flughafen geschlossen."]
+  ],
+  car: [
+    ["Roller", "Helmpflicht. Für Roller braucht man den Motorradführerschein (Klasse A) plus internationalen Führerschein – auf Bali gibt es häufig Kontrollen, und ohne zahlt keine Versicherung."],
+    ["Linksverkehr", "Kein Alkohol am Steuer. Viele Unfälle mit Rollern – im Zweifel Fahrer über Grab/Gojek buchen."]
+  ],
+  substances: [
+    ["Drogen", "Drogendelikte werden extrem hart bestraft, bis hin zur Todesstrafe."],
+    ["Alkohol", "Ab 21. Selbstgebrannten Arak meiden – es gab Methanolvergiftungen. In Aceh ist Alkohol verboten."]
   ],
   sim: [
     ["Lokale SIM", "Telkomsel (beste Abdeckung), XL oder Indosat am Flughafen – Reisepass nötig."],

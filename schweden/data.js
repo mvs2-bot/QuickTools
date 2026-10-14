@@ -39,11 +39,20 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/schweden-node',
 
   rules: [
-    ['Bargeldlos', 'Schweden ist fast bargeldlos – Karte oder Handy reicht, viele Geschäfte nehmen gar kein Bargeld.'],
-    ['Jedermannsrecht', 'Wandern und Zelten in der Natur ist meist erlaubt – „nicht stören, nichts zerstören“. Kein Feuer bei Brandgefahr.'],
-    ['Alkohol', 'Wein und Schnaps gibt es nur im staatlichen „Systembolaget“ (Mindestalter 20, eingeschränkte Öffnungszeiten).'],
-    ['Autofahren', 'Licht auch tagsüber Pflicht. Achtung vor Elchen und Rentieren, besonders in der Dämmerung.'],
-    ['Anstellen', 'In Apotheken, Banken u. ä. vorher eine Wartenummer ziehen.']
+    ["Bargeldlos", "Schweden ist fast bargeldlos – Karte oder Handy reicht, viele Geschäfte nehmen gar kein Bargeld."],
+    ["Jedermannsrecht", "Wandern und Zelten in der Natur ist meist erlaubt – „nicht stören, nichts zerstören“. Kein Feuer bei Brandgefahr."],
+    ["Anstellen", "In Apotheken, Banken u. ä. vorher eine Wartenummer ziehen."]
+  ],
+  car: [
+    ["Promille & Licht", "0,2 ‰. Licht auch tagsüber Pflicht."],
+    ["Wild & Winter", "Achtung vor Elchen und Rentieren, besonders in der Dämmerung. Von Dezember bis März bei Winterwetter Winterreifen Pflicht."]
+  ],
+  bike: [
+    ["Helm", "Helmpflicht bis 15 Jahre."]
+  ],
+  substances: [
+    ["Alkohol", "Wein und Schnaps gibt es nur im staatlichen „Systembolaget“ (Mindestalter 20, eingeschränkte Öffnungszeiten). In Bars ab 18."],
+    ["Drogen", "Null Toleranz – auch der Konsum selbst ist strafbar, die Polizei darf testen."]
   ],
   sim: [
     ['EU-Roaming', 'Mit deutschem Tarif ohne Aufpreis surfen und telefonieren („Roam like at home“).'],

@@ -45,8 +45,19 @@ window.QT = {
     ["Einreise", "Vorab eTA online beantragen (nur auf der offiziellen Seite canada.ca)."],
     ["Trinkgeld & Steuern", "15–20 % Trinkgeld sind üblich; Preise sind ohne Steuern angegeben (je nach Provinz 5–15 %)."],
     ["Wildtiere", "In Nationalparks Abstand zu Bären und Elchen halten, kein Essen offen lassen, Bärenspray für Wanderungen."],
-    ["Québec", "In Québec ist Französisch Amtssprache – ein „Bonjour“ kommt immer gut an."],
-    ["Alkohol", "Alkohol meist nur in speziellen Läden; Mindestalter 18 oder 19 je nach Provinz."]
+    ["Québec", "In Québec ist Französisch Amtssprache – ein „Bonjour“ kommt immer gut an."]
+  ],
+  car: [
+    ["Promille", "Strafbar ab 0,8 ‰; in den meisten Provinzen gibt es schon ab 0,5 ‰ Führerscheinentzug."],
+    ["Schulbus", "Hält ein Schulbus mit Blinklicht und Stoppschild, müssen beide Richtungen anhalten."],
+    ["Winter", "In Québec (Dez.–März) und auf vielen Straßen in British Columbia sind Winterreifen Pflicht."]
+  ],
+  bike: [
+    ["Helm", "In mehreren Provinzen Helmpflicht (z. B. British Columbia, in Ontario unter 18)."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18 oder 19 je nach Provinz, meist nur in speziellen Läden. Offene Flaschen in der Öffentlichkeit und im Auto sind verboten."],
+    ["Cannabis", "Legal ab 18–21 je nach Provinz (Québec 21), nur aus lizenzierten Läden. Niemals über die Grenze mitnehmen – auch nicht in die USA."]
   ],
   sim: [
     ["Roaming", "Viele deutsche Tarife sind in Kanada teuer – vorher prüfen."],

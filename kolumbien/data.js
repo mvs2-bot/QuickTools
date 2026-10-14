@@ -40,11 +40,19 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/kolumbien-node',
 
   rules: [
-    ['„No dar papaya“', 'Keine Gelegenheit für Diebe bieten: Handy nicht offen zeigen, Wertsachen im Hotel lassen, nur App-Taxis nutzen.'],
-    ['K.-o.-Tropfen', 'Getränke nie unbeaufsichtigt lassen und nichts von Fremden annehmen (Scopolamin-Fälle).'],
-    ['Reisehinweise', 'Einige Regionen gelten als gefährlich – aktuelle Hinweise des Auswärtigen Amts vor jeder Etappe prüfen.'],
-    ['Höhe', 'Bogotá liegt auf ca. 2.600 m – die ersten Tage langsam angehen.'],
-    ['Trinkgeld', 'In Restaurants werden 10 % „servicio“ oft vorgeschlagen – freiwillig, man wird gefragt.']
+    ["„No dar papaya“", "Keine Gelegenheit für Diebe bieten: Handy nicht offen zeigen, Wertsachen im Hotel lassen, nur App-Taxis nutzen."],
+    ["K.-o.-Tropfen", "Getränke nie unbeaufsichtigt lassen und nichts von Fremden annehmen (Scopolamin-Fälle)."],
+    ["Reisehinweise", "Einige Regionen gelten als gefährlich – aktuelle Hinweise des Auswärtigen Amts vor jeder Etappe prüfen."],
+    ["Höhe", "Bogotá liegt auf ca. 2.600 m – die ersten Tage langsam angehen."],
+    ["Trinkgeld", "In Restaurants werden 10 % „servicio“ oft vorgeschlagen – freiwillig, man wird gefragt."]
+  ],
+  car: [
+    ["Promille", "Praktisch 0,0 ‰ – schon ab 0,2 ‰ drohen hohe Strafen."],
+    ["Pico y Placa", "In Bogotá, Medellín und anderen Städten gilt je nach Kennzeichen-Endziffer ein Fahrverbot."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18 Jahren. Rund um Wahlen gilt oft ein Alkoholverbot („Ley seca“)."],
+    ["Drogen", "Kauf und Handel sind verboten – auch wenn Drogen offen angeboten werden. Oft gezielte Kontrollen von Touristen."]
   ],
   sim: [
     ['Lokale SIM', 'Prepaid-SIM von Claro (beste Abdeckung), Movistar oder Tigo – Reisepass nötig.'],

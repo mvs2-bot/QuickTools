@@ -41,11 +41,19 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/albanien-node',
 
   rules: [
-    ['Kopfnicken', 'Achtung: Kopfnicken kann „nein“ bedeuten und Kopfschütteln „ja“ – im Zweifel nachfragen.'],
-    ['Moscheen & Kirchen', 'Schultern und Knie bedecken, in Moscheen Schuhe ausziehen; Frauen ggf. Kopftuch.'],
-    ['Bargeld', 'Viele kleine Läden, Busse und Restaurants akzeptieren nur Bargeld. Euro wird oft angenommen, Lek ist aber meist günstiger.'],
-    ['Straßenverkehr', 'Defensiv fahren – Schlaglöcher, Tiere und unvorhersehbares Fahrverhalten. Nachts wenn möglich nicht über Land fahren.'],
-    ['Trinkgeld', 'Rund 10 % in Restaurants sind üblich.']
+    ["Kopfnicken", "Achtung: Kopfnicken kann „nein“ bedeuten und Kopfschütteln „ja“ – im Zweifel nachfragen."],
+    ["Moscheen & Kirchen", "Schultern und Knie bedecken, in Moscheen Schuhe ausziehen; Frauen ggf. Kopftuch."],
+    ["Bargeld", "Viele kleine Läden, Busse und Restaurants akzeptieren nur Bargeld. Euro wird oft angenommen, Lek ist aber meist günstiger."],
+    ["Trinkgeld", "Rund 10 % in Restaurants sind üblich."]
+  ],
+  car: [
+    ["Promille", "Praktisch 0,0 ‰ – die Grenze liegt bei 0,1 ‰."],
+    ["Fahrweise", "Defensiv fahren – Schlaglöcher, Tiere und unvorhersehbares Fahrverhalten. Nachts wenn möglich nicht über Land fahren."],
+    ["Führerschein", "Internationalen Führerschein zusätzlich zum deutschen mitnehmen."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18 Jahren."],
+    ["Drogen", "Auch Cannabis ist verboten; Drogendelikte werden streng bestraft."]
   ],
   sim: [
     ['Kein EU-Roaming', 'Albanien gehört nicht zur EU – Roaming mit deutschem Tarif kann teuer sein. Tarif vorher prüfen!'],

@@ -49,11 +49,19 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/schweiz-node',
 
   rules: [
-    ['Autobahn', 'Autobahnvignette ist Pflicht (auch als E-Vignette online). Radarkontrollen sind häufig, Bußgelder sehr hoch.'],
-    ['Ruhezeiten', 'Mittags- und Nachtruhe sowie Sonntagsruhe werden ernst genommen – z. B. kein lauter Lärm, keine Waschmaschine nachts.'],
-    ['Müll', 'Mülltrennung ist streng, in vielen Orten nur mit gebührenpflichtigen Säcken.'],
-    ['Berge', 'Wetter ändert sich schnell: Wetterbericht prüfen, Bergwanderungen nie ohne passende Ausrüstung. Bergrettung ist teuer – Versicherung prüfen.'],
-    ['Trinkgeld', 'Service ist im Preis enthalten, Aufrunden ist üblich.']
+    ["Ruhezeiten", "Mittags- und Nachtruhe sowie Sonntagsruhe werden ernst genommen – z. B. kein lauter Lärm, keine Waschmaschine nachts."],
+    ["Müll", "Mülltrennung ist streng, in vielen Orten nur mit gebührenpflichtigen Säcken."],
+    ["Berge", "Wetter ändert sich schnell: Wetterbericht prüfen, Bergwanderungen nie ohne passende Ausrüstung. Bergrettung ist teuer – Versicherung prüfen."],
+    ["Trinkgeld", "Service ist im Preis enthalten, Aufrunden ist üblich."]
+  ],
+  car: [
+    ["Promille", "0,5 ‰; Neulenker 0,1 ‰."],
+    ["Autobahn", "Autobahnvignette ist Pflicht (auch als E-Vignette online). Radarkontrollen sind häufig, Bußgelder sehr hoch."],
+    ["Radarwarner", "Blitzer-Warnungen in Navi/Apps sind verboten – Funktion ausschalten."]
+  ],
+  substances: [
+    ["Alkohol", "Bier und Wein ab 16, Spirituosen ab 18."],
+    ["Cannabis", "Verboten; Kiffen wird mit 100 CHF gebüßt. CBD-Produkte (unter 1 % THC) sind legal."]
   ],
   sim: [
     ['Kein EU-Roaming', 'Die Schweiz gehört nicht zur EU – viele deutsche Tarife berechnen Roaming extra. Tarif vorher prüfen!'],

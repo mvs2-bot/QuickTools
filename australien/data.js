@@ -51,6 +51,18 @@ window.QT = {
     ["Meer", "Nur zwischen den rot-gelben Flaggen baden. Im Norden Quallen (Stinger) und Krokodile – Warnschilder beachten."],
     ["Outback", "Lange Strecken ohne Tankstelle: Wasser, Sprit und Bescheid geben, wohin man fährt."]
   ],
+  car: [
+    ["Linksverkehr", "0,5 ‰ (Lern- und Probeführerschein 0,0 ‰). Handy am Steuer wird per Kamera geahndet."],
+    ["Wildtiere", "In der Dämmerung auf Kängurus achten; Outback-Strecken nur mit Wasser- und Tankreserve."]
+  ],
+  bike: [
+    ["Helm", "Helmpflicht für Radfahrer (fast überall)."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18. In vielen Parks und an Stränden alkoholfreie Zonen."],
+    ["Vapes", "Nur in Apotheken erhältlich; Einfuhr nur in kleinen Mengen für den Eigenbedarf."],
+    ["Cannabis", "Verboten (Ausnahme: kleine private Mengen im Hauptstadtterritorium ACT)."]
+  ],
   sim: [
     ["Lokale SIM", "Telstra (beste Abdeckung im Outback), Optus oder Vodafone – am Flughafen oder im Supermarkt."],
     ["eSIM", "Alternativ vorab eSIM (z. B. Airalo) buchen – am einfachsten schon vor dem Abflug einrichten."]

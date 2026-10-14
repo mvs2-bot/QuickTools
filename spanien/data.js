@@ -40,11 +40,22 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/spanien-node',
 
   rules: [
-    ['Essenszeiten', 'Mittagessen meist 14–16 Uhr, Abendessen ab ca. 21 Uhr. Viele Restaurants sind dazwischen geschlossen.'],
-    ['Strand & Stadt', 'Badebekleidung nur am Strand – in vielen Städten (z. B. Barcelona, Palma) sind Bußgelder für Badekleidung oder nackten Oberkörper möglich.'],
-    ['Trinkgeld', 'Nicht verpflichtet; kleines Aufrunden oder 5–10 % bei gutem Service ist üblich.'],
-    ['Alkohol', 'Trinken auf der Straße ist vielerorts verboten (z. B. Mallorca, Barcelona) und wird mit Bußgeld bestraft.'],
-    ['Ausweis', 'Ausweispflicht – Personalausweis oder Reisepass immer dabeihaben.']
+    ["Essenszeiten", "Mittagessen meist 14–16 Uhr, Abendessen ab ca. 21 Uhr. Viele Restaurants sind dazwischen geschlossen."],
+    ["Strand & Stadt", "Badebekleidung nur am Strand – in vielen Städten (z. B. Barcelona, Palma) sind Bußgelder für Badekleidung oder nackten Oberkörper möglich."],
+    ["Trinkgeld", "Nicht verpflichtet; kleines Aufrunden oder 5–10 % bei gutem Service ist üblich."],
+    ["Ausweis", "Ausweispflicht – Personalausweis oder Reisepass immer dabeihaben."]
+  ],
+  car: [
+    ["Promille", "0,5 ‰; Fahranfänger 0,3 ‰."],
+    ["Tempo", "In Städten auf einspurigen Straßen meist nur 30 km/h. Kopfhörer am Steuer verboten."]
+  ],
+  bike: [
+    ["Helm", "Außerorts Helmpflicht für Radfahrer."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18. Trinken auf der Straße ist vielerorts verboten (z. B. Mallorca, Barcelona) und wird mit Bußgeld bestraft."],
+    ["Cannabis", "Privat geduldet, in der Öffentlichkeit verboten – hohe Bußgelder."],
+    ["Rauchen", "In Innenräumen verboten; viele Strände sind rauchfrei („playa sin humo“)."]
   ],
   sim: [
     ['EU-Roaming', 'Mit deutschem Tarif ohne Aufpreis surfen und telefonieren („Roam like at home“).'],

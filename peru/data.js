@@ -45,11 +45,18 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/peru-node',
 
   rules: [
-    ['Höhe', 'Cusco liegt auf ca. 3.400 m, Puno auf ca. 3.800 m: langsam akklimatisieren, viel trinken, Coca-Tee hilft vielen. Bei starken Beschwerden absteigen und Arzt aufsuchen.'],
-    ['Machu Picchu', 'Tickets sind auf festgelegte Zeitfenster und Rundwege begrenzt – lange vorher buchen und Reisepass mitnehmen.'],
-    ['Coca', 'Coca-Blätter und -Tee sind in Peru legal, dürfen aber nicht nach Deutschland/EU mitgenommen werden.'],
-    ['Fotografieren', 'Menschen nur nach vorheriger Frage fotografieren – für Fotos mit Lamas oder Trachten wird oft ein kleiner Betrag erwartet.'],
-    ['Sicherheit', 'Nur offizielle oder App-Taxis nutzen, Wertsachen nicht offen zeigen, besonders in Lima.']
+    ["Höhe", "Cusco liegt auf ca. 3.400 m, Puno auf ca. 3.800 m: langsam akklimatisieren, viel trinken, Coca-Tee hilft vielen. Bei starken Beschwerden absteigen und Arzt aufsuchen."],
+    ["Machu Picchu", "Tickets sind auf festgelegte Zeitfenster und Rundwege begrenzt – lange vorher buchen und Reisepass mitnehmen."],
+    ["Fotografieren", "Menschen nur nach vorheriger Frage fotografieren – für Fotos mit Lamas oder Trachten wird oft ein kleiner Betrag erwartet."],
+    ["Sicherheit", "Nur offizielle oder App-Taxis nutzen, Wertsachen nicht offen zeigen, besonders in Lima."]
+  ],
+  car: [
+    ["Promille", "0,5 ‰. Internationalen Führerschein mitnehmen."],
+    ["Straßen", "Sehr riskanter Fahrstil, nachts nicht über Land fahren. In Lima lieber App-Taxis nutzen."]
+  ],
+  substances: [
+    ["Coca", "Coca-Blätter und -Tee sind in Peru legal, dürfen aber nicht nach Deutschland/EU mitgenommen werden."],
+    ["Alkohol & Drogen", "Alkohol ab 18; rund um Wahlen gilt oft ein Alkoholverbot („Ley seca“). Andere Drogen werden streng bestraft."]
   ],
   sim: [
     ['Lokale SIM', 'Prepaid-SIM von Claro, Movistar, Entel oder Bitel – Reisepass nötig.'],

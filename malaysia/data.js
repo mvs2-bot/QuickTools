@@ -38,8 +38,15 @@ window.QT = {
   rules: [
     ["Einreise", "Vor der Einreise die digitale Ankunftskarte (MDAC) online ausfüllen."],
     ["Moscheen", "Schultern, Knie und bei Frauen die Haare bedecken – Umhänge gibt es meist am Eingang. Schuhe ausziehen."],
-    ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen oder trinken."],
-    ["Alkohol", "Alkohol ist teuer und nicht überall erhältlich; auf Langkawi und Labuan zollfrei."],
+    ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen oder trinken."]
+  ],
+  car: [
+    ["Promille", "0,5 ‰ – Trunkenheit am Steuer wird mit hohen Geld- und Haftstrafen geahndet."],
+    ["Linksverkehr", "Internationalen Führerschein mitnehmen. Maut per Touch ’n Go."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 21. Alkohol ist teuer und nicht überall erhältlich; auf Langkawi und Labuan zollfrei."],
+    ["Rauchen", "In Restaurants verboten – auch im Freien bis 3 m um die Tische."],
     ["Drogen", "Drogendelikte werden extrem hart bestraft, bis hin zur Todesstrafe."]
   ],
   sim: [

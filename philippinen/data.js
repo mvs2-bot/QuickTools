@@ -35,7 +35,15 @@ window.QT = {
     ["Englisch", "Englisch ist Amtssprache – fast überall kommt man damit gut durch. „po“ macht Sätze höflich."],
     ["Einreise", "Vor der Einreise das kostenlose eTravel-Formular online ausfüllen."],
     ["Inselhopping", "Fähren und Bangkas fallen bei Sturm/Taifun aus – Puffertage einplanen (Taifunsaison ca. Juni–November)."],
-    ["Respekt", "Ältere werden mit „po“ angesprochen. Lautes Streiten in der Öffentlichkeit wird als Gesichtsverlust gesehen."],
+    ["Respekt", "Ältere werden mit „po“ angesprochen. Lautes Streiten in der Öffentlichkeit wird als Gesichtsverlust gesehen."]
+  ],
+  car: [
+    ["Promille", "0,5 ‰. Internationalen Führerschein mitnehmen."],
+    ["Manila", "An bestimmten Wochentagen gilt je nach Kennzeichen-Endziffer ein Fahrverbot („Number Coding“) – Mietwagenfirma fragen."]
+  ],
+  substances: [
+    ["Rauchen & Vapes", "Rauchen und Dampfen an öffentlichen Orten ist landesweit verboten – nur in Raucherzonen."],
+    ["Alkohol", "Ab 18. Rund um Wahlen gilt oft ein Alkoholverbot."],
     ["Drogen", "Drogendelikte werden extrem hart bestraft."]
   ],
   sim: [

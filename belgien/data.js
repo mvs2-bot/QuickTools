@@ -47,11 +47,22 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/belgien-node',
 
   rules: [
-    ['Sprache', 'In Flandern Niederländisch, in der Wallonie Französisch – im Zweifel lieber Englisch als die „falsche“ Landessprache. Im Osten wird auch Deutsch gesprochen.'],
-    ['Bier', 'Viele belgische Biere sind deutlich stärker (8–12 %) und kommen im eigenen Glas – langsam genießen.'],
-    ['Trinkgeld', 'Service ist im Preis enthalten, Aufrunden ist üblich.'],
-    ['Umweltzonen', 'Brüssel, Antwerpen und Gent haben Umweltzonen (LEZ) – ausländische Autos müssen sich vorab online registrieren.'],
-    ['Ausweis', 'Personalausweis oder Reisepass immer dabeihaben.']
+    ["Sprache", "In Flandern Niederländisch, in der Wallonie Französisch – im Zweifel lieber Englisch als die „falsche“ Landessprache. Im Osten wird auch Deutsch gesprochen."],
+    ["Bier", "Viele belgische Biere sind deutlich stärker (8–12 %) und kommen im eigenen Glas – langsam genießen."],
+    ["Trinkgeld", "Service ist im Preis enthalten, Aufrunden ist üblich."],
+    ["Ausweis", "Personalausweis oder Reisepass immer dabeihaben."]
+  ],
+  car: [
+    ["Promille", "0,5 ‰ (Berufsfahrer 0,2 ‰)."],
+    ["Rechts vor links", "Gilt auch auf größeren Straßen, wenn nichts anderes ausgeschildert ist – Belgier bestehen darauf."],
+    ["Umweltzonen", "Brüssel, Antwerpen und Gent haben Umweltzonen (LEZ) – ausländische Autos müssen sich vorab online registrieren."]
+  ],
+  bike: [
+    ["Fahrradstraßen", "In „Fietsstraat/Rue cyclable“ dürfen Autos Radfahrer nicht überholen. Keine Helmpflicht."]
+  ],
+  substances: [
+    ["Alkohol", "Bier und Wein ab 16, Spirituosen ab 18."],
+    ["Cannabis", "Verboten – kleine Mengen werden zwar oft nur verwarnt, aber es bleibt illegal."]
   ],
   sim: [
     ['EU-Roaming', 'Mit deutschem Tarif ohne Aufpreis surfen und telefonieren („Roam like at home“).'],

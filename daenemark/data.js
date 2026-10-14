@@ -40,11 +40,22 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/daenemark-node',
 
   rules: [
-    ['Bezahlen', 'Fast alles geht mit Karte oder MobilePay – Bargeld braucht man kaum. Euro wird selten angenommen.'],
-    ['Radwege', 'Radwege sind tabu für Fußgänger. In Kopenhagen beim Aussteigen aus Bus/Taxi auf Radfahrer achten.'],
-    ['Strand & Dünen', 'Nicht über geschützte Dünen laufen. Mit dem Auto nur auf freigegebenen Strandabschnitten fahren.'],
-    ['Autofahren', 'Abblendlicht auch tagsüber Pflicht. Brücken (Storebælt, Øresund) sind mautpflichtig.'],
-    ['Trinkgeld', 'Service ist im Preis enthalten – Trinkgeld ist nicht üblich, Aufrunden bei gutem Service ist aber gern gesehen.']
+    ["Bezahlen", "Fast alles geht mit Karte oder MobilePay – Bargeld braucht man kaum. Euro wird selten angenommen."],
+    ["Strand & Dünen", "Nicht über geschützte Dünen laufen. Mit dem Auto nur auf freigegebenen Strandabschnitten fahren."],
+    ["Trinkgeld", "Service ist im Preis enthalten – Trinkgeld ist nicht üblich, Aufrunden bei gutem Service ist aber gern gesehen."]
+  ],
+  car: [
+    ["Promille", "0,5 ‰."],
+    ["Licht & Maut", "Abblendlicht auch tagsüber Pflicht. Brücken (Storebælt, Øresund) sind mautpflichtig."],
+    ["Bußgelder", "Tempoverstöße sind sehr teuer; Radfahrer haben beim Rechtsabbiegen Vorrang."]
+  ],
+  bike: [
+    ["Radwege", "Radwege sind tabu für Fußgänger. In Kopenhagen beim Aussteigen aus Bus/Taxi auf Radfahrer achten."],
+    ["Linksabbiegen", "Mit dem Rad in zwei Schritten: erst geradeaus über die Kreuzung, dann warten und abbiegen. Zum Anhalten Hand heben."]
+  ],
+  substances: [
+    ["Alkohol in der Öffentlichkeit", "Trinken in der Öffentlichkeit ist grundsätzlich erlaubt (lokale Verbote möglich). In Bars ab 18."],
+    ["Cannabis", "Verboten – auch in Christiania; die Pusher Street wurde 2024 geschlossen."]
   ],
   sim: [
     ['EU-Roaming', 'Mit deutschem Tarif ohne Aufpreis surfen und telefonieren („Roam like at home“).'],

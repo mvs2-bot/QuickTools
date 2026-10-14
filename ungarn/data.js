@@ -38,9 +38,20 @@ window.QT = {
   rules: [
     ["Servicegebühr", "Viele Restaurants schlagen 10–15 % „szervízdíj“ auf – dann ist kein weiteres Trinkgeld nötig."],
     ["Anstoßen", "Traditionell stößt man mit Bier nicht an – mit Wein oder Pálinka schon."],
-    ["Vignette", "Für Autobahnen ist eine digitale Vignette (e-matrica) Pflicht. 0,0 Promille."],
     ["Euro", "Euro werden oft angenommen, aber zu schlechtem Kurs – lieber Forint oder Karte."],
     ["Thermalbäder", "Badekappe ist in manchen Schwimmbecken Pflicht; Badeschlappen mitnehmen."]
+  ],
+  car: [
+    ["Promille & Vignette", "0,0 ‰. Für Autobahnen ist eine digitale Vignette (e-matrica) Pflicht."],
+    ["Licht", "Außerorts Abblendlicht auch tagsüber."]
+  ],
+  bike: [
+    ["Alkohol", "Auch auf dem Rad gilt 0,0 ‰."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18. In Budapest ist Trinken auf vielen öffentlichen Plätzen verboten."],
+    ["Drogen", "Null Toleranz – auch der Konsum (auch Cannabis) ist strafbar."],
+    ["Rauchen", "In Restaurants und Bars verboten."]
   ],
   sim: [
     ["EU-Roaming", "Mit deutschem Tarif ohne Aufpreis surfen und telefonieren („Roam like at home“)."],

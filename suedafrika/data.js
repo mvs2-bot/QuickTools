@@ -50,6 +50,13 @@ window.QT = {
     ["Safari", "In Nationalparks nie aus dem Auto steigen (außer an markierten Stellen), Tiere nicht füttern."],
     ["Kinder", "Reisen mit Kindern: Geburtsurkunde (engl.) mitnehmen wird empfohlen."]
   ],
+  car: [
+    ["Linksverkehr", "0,5 ‰. An „4-Way Stops“ fährt zuerst, wer zuerst da war. Nachts nicht über Land fahren."]
+  ],
+  substances: [
+    ["Cannabis", "Für Erwachsene privat erlaubt – in der Öffentlichkeit und Kauf/Verkauf aber verboten."],
+    ["Alkohol", "Ab 18. Trinken in der Öffentlichkeit ist verboten; Verkauf sonntags je nach Provinz eingeschränkt."]
+  ],
   sim: [
     ["Lokale SIM", "Vodacom, MTN oder Cell C am Flughafen – Pass und Adresse nötig (RICA-Registrierung)."],
     ["eSIM", "Alternativ vorab eSIM (z. B. Airalo) buchen – am einfachsten schon vor dem Abflug einrichten."]

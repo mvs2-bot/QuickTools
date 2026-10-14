@@ -39,11 +39,19 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/island-node',
 
   rules: [
-    ['Natur', 'Nicht abseits der Wege laufen – Moos braucht Jahrzehnte zum Nachwachsen. Offroad-Fahren ist streng verboten und teuer.'],
-    ['Straßen', 'F-Straßen (Hochland) nur mit Allrad und nur, wenn sie offen sind. Furten nie unüberlegt durchfahren.'],
-    ['Wetter', 'Wetter und Straßenzustand täglich prüfen (vedur.is, umferdin.is). Sturmböen können Autotüren abreißen – Tür gut festhalten.'],
-    ['Strände', 'An Black Beaches (z. B. Reynisfjara) nie mit dem Rücken zum Meer stehen – gefährliche „Sneaker Waves“.'],
-    ['Wildcampen', 'Mit Camper/Zelt nur auf Campingplätzen übernachten, nicht an der Straße oder auf Parkplätzen.']
+    ["Natur", "Nicht abseits der Wege laufen – Moos braucht Jahrzehnte zum Nachwachsen. Offroad-Fahren ist streng verboten und teuer."],
+    ["Wetter", "Wetter und Straßenzustand täglich prüfen (vedur.is, umferdin.is). Sturmböen können Autotüren abreißen – Tür gut festhalten."],
+    ["Strände", "An Black Beaches (z. B. Reynisfjara) nie mit dem Rücken zum Meer stehen – gefährliche „Sneaker Waves“."],
+    ["Wildcampen", "Mit Camper/Zelt nur auf Campingplätzen übernachten, nicht an der Straße oder auf Parkplätzen."]
+  ],
+  car: [
+    ["Promille & Licht", "0,2 ‰. Licht immer an."],
+    ["F-Straßen", "F-Straßen (Hochland) nur mit Allrad und nur, wenn sie offen sind. Furten nie unüberlegt durchfahren."],
+    ["Einspurige Brücken", "Bei „Einbreið brú“ hat Vorrang, wer zuerst an der Brücke ist. Nie zum Fotografieren auf der Fahrbahn halten."]
+  ],
+  substances: [
+    ["Alkohol", "Erst ab 20 Jahren. Wein und Spirituosen nur in den staatlichen „Vínbúðin“-Läden."],
+    ["Drogen", "Auch Cannabis ist verboten."]
   ],
   sim: [
     ['EWR-Roaming', 'Island gehört zum EWR – die meisten deutschen Tarife gelten dort ohne Aufpreis. Vorher kurz prüfen!'],

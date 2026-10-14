@@ -39,13 +39,23 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/thailand-node',
 
   rules: [
-    ['Tempel & Klöster', 'Schultern und Knie bedecken, Schuhe vor dem Betreten ausziehen.'],
-    ['Buddha-Statuen', 'Nicht besteigen oder berühren, keine respektlosen Posen für Fotos.'],
-    ['Mönche', 'Nicht berühren und (als Frau) nichts direkt in die Hand geben – Gegenstände ablegen.'],
-    ['Königshaus', 'Kritik oder Spott über die Königsfamilie ist strafbar. Geldscheine und Münzen mit dem Königsbild nicht zertreten.'],
-    ['Kopf & Füße', 'Kopf gilt als heilig – nicht anfassen, auch nicht bei Kindern. Füße gelten als unrein: nicht auf Menschen, Buddha-Bilder oder Essen richten. In Privathäusern und manchen Unterkünften/Läden Schuhe ausziehen.'],
-    ['Umgangston', 'Ruhig und freundlich bleiben – laut werden bedeutet Gesichtsverlust. Den Wai-Gruß (Hände vor der Brust) mit einem Lächeln erwidern.'],
-    ['Gesetze', 'E-Zigaretten/Vapes sind verboten, Drogen werden streng bestraft, Rauchen ist an vielen Stränden untersagt. Nacktbaden und Oben-ohne sind nicht erlaubt.']
+    ["Tempel & Klöster", "Schultern und Knie bedecken, Schuhe vor dem Betreten ausziehen."],
+    ["Buddha-Statuen", "Nicht besteigen oder berühren, keine respektlosen Posen für Fotos."],
+    ["Mönche", "Nicht berühren und (als Frau) nichts direkt in die Hand geben – Gegenstände ablegen."],
+    ["Königshaus", "Kritik oder Spott über die Königsfamilie ist strafbar. Geldscheine und Münzen mit dem Königsbild nicht zertreten."],
+    ["Kopf & Füße", "Kopf gilt als heilig – nicht anfassen, auch nicht bei Kindern. Füße gelten als unrein: nicht auf Menschen, Buddha-Bilder oder Essen richten. In Privathäusern und manchen Unterkünften/Läden Schuhe ausziehen."],
+    ["Umgangston", "Ruhig und freundlich bleiben – laut werden bedeutet Gesichtsverlust. Den Wai-Gruß (Hände vor der Brust) mit einem Lächeln erwidern."],
+    ["Gesetze", "Nacktbaden und Oben-ohne sind nicht erlaubt."]
+  ],
+  car: [
+    ["Roller", "Helmpflicht. Für Roller braucht man den Motorradführerschein plus internationalen Führerschein – häufige Kontrollen, und ohne zahlt keine Versicherung."],
+    ["Promille", "0,5 ‰; mit Führerschein unter 5 Jahren 0,2 ‰. Linksverkehr."]
+  ],
+  substances: [
+    ["E-Zigaretten", "Vapes sind komplett verboten – auch Besitz. Es drohen hohe Strafen."],
+    ["Cannabis", "Seit Juni 2025 nur noch mit ärztlichem Rezept erhältlich; Rauchen in der Öffentlichkeit ist verboten."],
+    ["Alkohol", "Ab 20. Verkauf nur 11–14 und 17–24 Uhr, an buddhistischen Feiertagen und bei Wahlen gar nicht."],
+    ["Rauchen & Drogen", "Rauchen ist an vielen Stränden untersagt. Andere Drogen werden sehr streng bestraft."]
   ],
   sim: [
     ['Einfachste Lösung', 'Vorab eSIM über Airalo / Dt. Anbieter buchen oder direkt am Flughafen (AIS/TrueMove) physische SIM/eSIM holen.']

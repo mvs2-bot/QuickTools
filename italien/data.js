@@ -40,11 +40,23 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/italien-node',
 
   rules: [
-    ['Kirchen & Vatikan', 'Schultern und Knie bedecken – sonst kann der Einlass verweigert werden.'],
-    ['Altstädte', 'In Venedig, Rom, Florenz u. a. gibt es Bußgelder z. B. fürs Sitzen auf Treppen, Baden in Brunnen oder Essen an Denkmälern.'],
-    ['Coperto', '„Coperto“ (Gedeck) und „servizio“ stehen oft auf der Rechnung – das ist normal. Trinkgeld darüber hinaus freiwillig.'],
-    ['Autofahren', 'ZTL-Zonen (Zona a traffico limitato) in Innenstädten nicht befahren – Kameras, hohe Strafen.'],
-    ['Venedig', 'An bestimmten Tagen wird für Tagesbesucher eine Eintrittsgebühr fällig – vorab online prüfen.']
+    ["Kirchen & Vatikan", "Schultern und Knie bedecken – sonst kann der Einlass verweigert werden."],
+    ["Altstädte", "In Venedig, Rom, Florenz u. a. gibt es Bußgelder z. B. fürs Sitzen auf Treppen, Baden in Brunnen oder Essen an Denkmälern."],
+    ["Coperto", "„Coperto“ (Gedeck) und „servizio“ stehen oft auf der Rechnung – das ist normal. Trinkgeld darüber hinaus freiwillig."],
+    ["Venedig", "An bestimmten Tagen wird für Tagesbesucher eine Eintrittsgebühr fällig – vorab online prüfen."]
+  ],
+  car: [
+    ["Promille", "0,5 ‰; in den ersten 3 Jahren nach dem Führerschein und unter 21 Jahren 0,0 ‰."],
+    ["ZTL", "ZTL-Zonen (Zona a traffico limitato) in Innenstädten nicht befahren – Kameras, hohe Strafen."],
+    ["Licht", "Außerorts und auf Autobahnen Abblendlicht auch tagsüber."]
+  ],
+  bike: [
+    ["Radfahren", "Keine Helmpflicht; außerorts nachts Warnweste tragen. Auf E-Scootern gilt Helmpflicht."]
+  ],
+  substances: [
+    ["Rauchen", "In Mailand ist Rauchen im Freien verboten, wenn andere näher als 10 m sind. Innen überall verboten."],
+    ["Alkohol", "Ab 18. Viele Städte verbieten Alkohol auf der Straße oder aus Glasflaschen zu bestimmten Zeiten."],
+    ["Cannabis", "Verboten (Besitz kleiner Mengen wird als Ordnungswidrigkeit verfolgt)."]
   ],
   sim: [
     ['EU-Roaming', 'Mit deutschem Tarif ohne Aufpreis surfen und telefonieren („Roam like at home“).'],

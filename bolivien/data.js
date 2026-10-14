@@ -45,11 +45,18 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/bolivien-node',
 
   rules: [
-    ['Höhe', 'La Paz liegt auf ca. 3.600 m, El Alto über 4.000 m: langsam akklimatisieren, viel trinken, Coca-Tee hilft vielen. Bei starken Beschwerden absteigen und Arzt aufsuchen.'],
-    ['Coca', 'Coca-Blätter sind in Bolivien legal, dürfen aber nicht nach Deutschland/EU mitgenommen werden.'],
-    ['Fotografieren', 'Menschen, besonders Indigene, nur nach vorheriger Frage fotografieren.'],
-    ['Sicherheit', 'Nur offizielle Funk- oder App-Taxis nutzen, Wertsachen nicht offen zeigen. Bei Straßenblockaden (bloqueos) nicht durchfahren.'],
-    ['Bargeld', 'Kleine Scheine bereithalten – Wechselgeld ist oft knapp. Außerhalb der Städte kaum Kartenzahlung.']
+    ["Höhe", "La Paz liegt auf ca. 3.600 m, El Alto über 4.000 m: langsam akklimatisieren, viel trinken, Coca-Tee hilft vielen. Bei starken Beschwerden absteigen und Arzt aufsuchen."],
+    ["Fotografieren", "Menschen, besonders Indigene, nur nach vorheriger Frage fotografieren."],
+    ["Sicherheit", "Nur offizielle Funk- oder App-Taxis nutzen, Wertsachen nicht offen zeigen. Bei Straßenblockaden (bloqueos) nicht durchfahren."],
+    ["Bargeld", "Kleine Scheine bereithalten – Wechselgeld ist oft knapp. Außerhalb der Städte kaum Kartenzahlung."]
+  ],
+  car: [
+    ["Promille", "0,5 ‰. Internationalen Führerschein mitnehmen."],
+    ["Straßen", "Nachts nicht über Land fahren. Bei Straßenblockaden (bloqueos) nicht durchfahren."]
+  ],
+  substances: [
+    ["Coca", "Coca-Blätter sind in Bolivien legal, dürfen aber nicht nach Deutschland/EU mitgenommen werden."],
+    ["Alkohol & Drogen", "Alkohol ab 18; rund um Wahlen gilt oft ein Alkoholverbot („Ley seca“). Andere Drogen werden streng bestraft."]
   ],
   sim: [
     ['Lokale SIM', 'Prepaid-SIM von Entel (beste Abdeckung), Tigo oder Viva im Shop – Reisepass nötig.'],

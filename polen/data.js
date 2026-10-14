@@ -36,11 +36,16 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/polen-node",
 
   rules: [
-    ["Alkohol", "Trinken in der Öffentlichkeit (Straße, Parks) ist verboten und wird mit Bußgeld bestraft."],
     ["Kirchen", "Polen ist sehr katholisch – in Kirchen angemessen kleiden und während Messen nicht besichtigen."],
-    ["Autofahren", "Licht auch tagsüber Pflicht. Sehr strenge Promillegrenze (0,2 ‰)."],
     ["Bezahlen", "Karte fast überall; Euro werden selten angenommen. Am Automaten „ohne Umrechnung“ wählen."],
     ["Trinkgeld", "Wer beim Bezahlen „dziękuję“ sagt, signalisiert oft „Rest ist für Sie“ – Vorsicht beim Wechselgeld."]
+  ],
+  car: [
+    ["Promille & Licht", "Sehr strenge Promillegrenze (0,2 ‰). Licht auch tagsüber Pflicht."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18. Trinken in der Öffentlichkeit (Straße, Parks) ist verboten und wird mit Bußgeld bestraft."],
+    ["Drogen", "Schon der Besitz kleinster Mengen (auch Cannabis) ist strafbar."]
   ],
   sim: [
     ["EU-Roaming", "Mit deutschem Tarif ohne Aufpreis surfen und telefonieren („Roam like at home“)."],

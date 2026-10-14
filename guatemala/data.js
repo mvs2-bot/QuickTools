@@ -41,11 +41,18 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/guatemala-node',
 
   rules: [
-    ['Sicherheit', 'Reisehinweise des Auswärtigen Amts beachten. Nachts keine Überlandfahrten, nur Shuttles oder Touren statt „Chicken Buses“ für lange Strecken.'],
-    ['Fotografieren', 'Menschen – besonders Kinder und indigene Frauen – nur nach Erlaubnis fotografieren. In Chichicastenango in Kirchen nicht fotografieren.'],
-    ['Vulkane', 'Wanderungen (z. B. Acatenango, Pacaya) nur mit Guide; warme Kleidung, nachts wird es eiskalt.'],
-    ['Trinkwasser', 'Kein Leitungswasser trinken – auch nicht zum Zähneputzen; Eiswürfel nur in guten Restaurants.'],
-    ['Bargeld', 'Kleine Quetzal-Scheine bereithalten; außerhalb der Städte kaum Kartenzahlung.']
+    ["Sicherheit", "Reisehinweise des Auswärtigen Amts beachten. Nachts keine Überlandfahrten, nur Shuttles oder Touren statt „Chicken Buses“ für lange Strecken."],
+    ["Fotografieren", "Menschen – besonders Kinder und indigene Frauen – nur nach Erlaubnis fotografieren. In Chichicastenango in Kirchen nicht fotografieren."],
+    ["Vulkane", "Wanderungen (z. B. Acatenango, Pacaya) nur mit Guide; warme Kleidung, nachts wird es eiskalt."],
+    ["Trinkwasser", "Kein Leitungswasser trinken – auch nicht zum Zähneputzen; Eiswürfel nur in guten Restaurants."],
+    ["Bargeld", "Kleine Quetzal-Scheine bereithalten; außerhalb der Städte kaum Kartenzahlung."]
+  ],
+  car: [
+    ["Straßen", "Nachts nicht über Land fahren. Viele Bodenschwellen („túmulos“) ohne Warnung. Internationalen Führerschein mitnehmen."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18 Jahren. Rund um Wahlen gilt oft ein Alkoholverbot („Ley seca“)."],
+    ["Drogen", "Auch Cannabis ist verboten; Drogendelikte werden streng bestraft."]
   ],
   sim: [
     ['Lokale SIM', 'Prepaid-SIM von Tigo (beste Abdeckung) oder Claro – Reisepass nötig.'],

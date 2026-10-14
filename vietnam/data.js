@@ -39,8 +39,16 @@ window.QT = {
     ["Straße überqueren", "Langsam und gleichmäßig gehen, nicht plötzlich stehen bleiben oder rennen – die Mopeds fahren um dich herum."],
     ["Tempel & Pagoden", "Schultern und Knie bedecken, Schuhe ausziehen, wo es verlangt wird."],
     ["Geldscheine", "Die Scheine sehen sich ähnlich (z. B. 10.000 und 100.000 ₫) – beim Bezahlen genau hinschauen."],
-    ["Kopf & Gesten", "Niemandem auf den Kopf fassen, nicht mit dem Finger auf Menschen zeigen."],
-    ["Drogen", "Schon kleine Mengen werden extrem streng bestraft."]
+    ["Kopf & Gesten", "Niemandem auf den Kopf fassen, nicht mit dem Finger auf Menschen zeigen."]
+  ],
+  car: [
+    ["Promille", "0,0 ‰ – auch auf Roller und Fahrrad. Seit 2025 sehr hohe Bußgelder."],
+    ["Roller", "Helmpflicht. Für Roller über 50 cm³ braucht man den Motorradführerschein plus internationalen Führerschein – ohne zahlt keine Versicherung."]
+  ],
+  substances: [
+    ["E-Zigaretten", "Seit 2025 verboten – auch Touristen werden mit Bußgeld belegt."],
+    ["Drogen", "Schon kleine Mengen werden extrem streng bestraft, bis hin zur Todesstrafe."],
+    ["Alkohol", "Ab 18 Jahren."]
   ],
   sim: [
     ["Lokale SIM", "Touristen-SIM von Viettel (beste Abdeckung), Vinaphone oder Mobifone am Flughafen – Reisepass nötig."],

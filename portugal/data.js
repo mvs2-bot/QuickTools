@@ -39,11 +39,21 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/portugal-node',
 
   rules: [
-    ['Sprache', 'Portugiesen nicht auf Spanisch ansprechen – lieber Englisch oder ein paar Worte Portugiesisch.'],
-    ['Couvert', 'Brot, Oliven & Co. vorab auf dem Tisch kosten extra. Wer nichts möchte, lässt sie einfach zurückgehen.'],
-    ['Strand & Meer', 'Atlantik mit starker Strömung: Flaggen der Rettungsschwimmer beachten (rot = Badeverbot).'],
-    ['Autofahren', 'Viele Autobahnen mit elektronischer Maut ohne Kassenhäuschen – beim Mietwagen nach einem Transponder (Via Verde) fragen.'],
-    ['Azoren', 'Auf den Azoren gilt eine Stunde weniger als auf dem Festland.']
+    ["Sprache", "Portugiesen nicht auf Spanisch ansprechen – lieber Englisch oder ein paar Worte Portugiesisch."],
+    ["Couvert", "Brot, Oliven & Co. vorab auf dem Tisch kosten extra. Wer nichts möchte, lässt sie einfach zurückgehen."],
+    ["Strand & Meer", "Atlantik mit starker Strömung: Flaggen der Rettungsschwimmer beachten (rot = Badeverbot)."],
+    ["Azoren", "Auf den Azoren gilt eine Stunde weniger als auf dem Festland."]
+  ],
+  car: [
+    ["Promille", "0,5 ‰; Fahranfänger 0,2 ‰."],
+    ["Maut", "Viele Autobahnen mit elektronischer Maut ohne Kassenhäuschen – beim Mietwagen nach einem Transponder (Via Verde) fragen."]
+  ],
+  bike: [
+    ["Abstand", "Autos müssen beim Überholen von Radfahrern 1,5 m Abstand halten."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18 Jahren."],
+    ["Drogen", "Besitz kleiner Mengen ist entkriminalisiert, aber weiterhin verboten (Bußgeld, Beschlagnahme). Straßenhändler in Lissabon verkaufen oft Fälschungen."]
   ],
   sim: [
     ['EU-Roaming', 'Mit deutschem Tarif ohne Aufpreis surfen und telefonieren („Roam like at home“).'],

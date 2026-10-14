@@ -41,6 +41,16 @@ window.QT = {
     ["Bargeld", "Pesos an Bankautomaten in Banken abheben; Kartenzahlung „in Pesos“ wählen."],
     ["Sargassum", "An der Karibikküste kann im Sommer viel Seetang anlanden – vorher Lage prüfen."]
   ],
+  car: [
+    ["Promille", "Je nach Bundesstaat; in Mexiko-Stadt enden Alkoholkontrollen („Alcoholímetro“) bei Überschreitung mit Arrest."],
+    ["Straßen", "Viele Bodenschwellen („topes“). Nachts nicht über Land fahren, gebührenpflichtige Autobahnen („cuota“) sind sicherer."]
+  ],
+  substances: [
+    ["E-Zigaretten", "Vapes sind seit 2025 verboten – nicht mitbringen, es drohen hohe Strafen."],
+    ["Alkohol", "Ab 18. Trinken in der Öffentlichkeit ist verboten."],
+    ["Rauchen", "An Stränden, in Parks und an vielen öffentlichen Orten verboten."],
+    ["Drogen", "Finger weg – es drohen Haft, Erpressung und Gefahr durch Kartelle."]
+  ],
   sim: [
     ["Lokale SIM", "Telcel (beste Abdeckung) oder AT&T – in Oxxo-Läden erhältlich."],
     ["eSIM", "Alternativ vorab eSIM (z. B. Airalo) buchen – am einfachsten schon vor dem Abflug einrichten."]

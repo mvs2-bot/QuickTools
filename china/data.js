@@ -42,11 +42,22 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/china-node',
 
   rules: [
-    ['Internet', 'Google (inkl. Maps, Gmail), WhatsApp, Instagram u. a. sind gesperrt. Eine ausländische eSIM mit Roaming umgeht das meist – vor der Reise einrichten!'],
-    ['Bezahlen', 'Fast alles läuft über Alipay oder WeChat Pay. Beide Apps vorab installieren und mit Kreditkarte verknüpfen. Etwas Bargeld als Reserve.'],
-    ['Reisepass', 'Pass immer dabeihaben – er wird für Hotels, Züge und viele Sehenswürdigkeiten (Online-Reservierung!) gebraucht.'],
-    ['Politik', 'Politische Themen in der Öffentlichkeit meiden; keine Fotos von Militär, Polizei oder Demonstrationen.'],
-    ['Trinkgeld', 'Trinkgeld ist nicht üblich.']
+    ["Internet", "Google (inkl. Maps, Gmail), WhatsApp, Instagram u. a. sind gesperrt. Eine ausländische eSIM mit Roaming umgeht das meist – vor der Reise einrichten!"],
+    ["Bezahlen", "Fast alles läuft über Alipay oder WeChat Pay. Beide Apps vorab installieren und mit Kreditkarte verknüpfen. Etwas Bargeld als Reserve."],
+    ["Reisepass", "Pass immer dabeihaben – er wird für Hotels, Züge und viele Sehenswürdigkeiten (Online-Reservierung!) gebraucht."],
+    ["Politik", "Politische Themen in der Öffentlichkeit meiden; keine Fotos von Militär, Polizei oder Demonstrationen."],
+    ["Trinkgeld", "Trinkgeld ist nicht üblich."]
+  ],
+  car: [
+    ["Führerschein", "Der internationale Führerschein wird nicht anerkannt – Autofahren nur mit chinesischer (Kurzzeit-)Fahrerlaubnis. Einfacher: DiDi oder Fahrer buchen."],
+    ["Promille", "0,2 ‰ – ab 0,8 ‰ ist es eine Straftat mit Haft."]
+  ],
+  bike: [
+    ["E-Bikes", "Auf Radwegen sind viele lautlose E-Roller unterwegs – auch beim Überqueren gut schauen. Leihräder laufen meist über Alipay/WeChat."]
+  ],
+  substances: [
+    ["Drogen", "Extrem harte Strafen bis zur Todesstrafe. Auch positive Drogentests (Konsum vor der Einreise) können bestraft werden."],
+    ["Rauchen", "In Innenräumen vieler Großstädte (z. B. Peking, Shanghai) verboten."]
   ],
   sim: [
     ['Ausländische eSIM (empfohlen)', 'eSIM z. B. von Airalo mit Roaming-Daten – damit funktionieren Google, WhatsApp & Co. ohne VPN.'],

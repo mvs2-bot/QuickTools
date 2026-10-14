@@ -41,11 +41,23 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/frankreich-node',
 
   rules: [
-    ['Begrüßung', 'Beim Betreten von Geschäften, Bäckereien oder Restaurants immer „Bonjour“ sagen – das gilt als selbstverständlich.'],
-    ['Restaurant', 'Auf den Platz warten statt sich selbst zu setzen. Leitungswasser („une carafe d’eau“) ist kostenlos.'],
-    ['Trinkgeld', 'Service ist im Preis enthalten; Aufrunden oder ein paar Euro bei gutem Service sind üblich.'],
-    ['Autofahren', 'In vielen Städten (Paris, Lyon, Straßburg …) ist eine Umweltplakette „Crit’Air“ Pflicht. Maut auf den meisten Autobahnen.'],
-    ['Ausweis', 'Personalausweis oder Reisepass immer dabeihaben.']
+    ["Begrüßung", "Beim Betreten von Geschäften, Bäckereien oder Restaurants immer „Bonjour“ sagen – das gilt als selbstverständlich."],
+    ["Restaurant", "Auf den Platz warten statt sich selbst zu setzen. Leitungswasser („une carafe d’eau“) ist kostenlos."],
+    ["Trinkgeld", "Service ist im Preis enthalten; Aufrunden oder ein paar Euro bei gutem Service sind üblich."],
+    ["Ausweis", "Personalausweis oder Reisepass immer dabeihaben."]
+  ],
+  car: [
+    ["Promille", "0,5 ‰; Fahranfänger (Probezeit) 0,2 ‰."],
+    ["Crit’Air & Maut", "In vielen Städten (Paris, Lyon, Straßburg …) ist die Umweltplakette „Crit’Air“ Pflicht. Maut auf den meisten Autobahnen."],
+    ["Tempo", "Landstraßen oft nur 80 km/h. Kopfhörer und Headsets am Steuer sind verboten."]
+  ],
+  bike: [
+    ["Helm & Weste", "Helmpflicht für Kinder unter 12. Außerorts nachts Warnweste tragen, keine Kopfhörer."]
+  ],
+  substances: [
+    ["Rauchen", "Seit Juli 2025 verboten an Stränden, in Parks, an Bushaltestellen und vor Schulen – bis 135 € Strafe."],
+    ["Alkohol", "Ab 18 Jahren."],
+    ["Cannabis", "Verboten – Besitz wird mit 200 € Pauschalstrafe oder mehr geahndet."]
   ],
   sim: [
     ['EU-Roaming', 'Mit deutschem Tarif ohne Aufpreis surfen und telefonieren („Roam like at home“).'],

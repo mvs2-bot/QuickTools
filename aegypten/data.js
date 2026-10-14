@@ -41,6 +41,14 @@ window.QT = {
     ["Visum", "Visum bei Ankunft oder vorab als e-Visum; Reisepass muss noch mind. 6 Monate gültig sein."],
     ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."]
   ],
+  car: [
+    ["Selbst fahren?", "Sehr chaotischer Verkehr – besser Fahrer oder App-Taxi nehmen. Viele Kontrollpunkte, Pass immer dabeihaben."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 21, nur in Hotels, lizenzierten Bars und Spezialläden. Trinken in der Öffentlichkeit ist verboten."],
+    ["Medikamente", "Manche Schmerzmittel (z. B. Tramadol, Codein) sind verboten – nur mit ärztlicher Bescheinigung mitnehmen."],
+    ["Drogen", "Extrem harte Strafen, auch Cannabis."]
+  ],
   sim: [
     ["Lokale SIM", "Vodafone EG, Orange oder WE am Flughafen – Pass nötig."],
     ["eSIM", "Alternativ vorab eSIM (z. B. Airalo) buchen – am einfachsten schon vor dem Abflug einrichten."]

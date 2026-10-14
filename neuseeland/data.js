@@ -47,6 +47,16 @@ window.QT = {
     ["Wandern", "Wetter in den Bergen kann sich rasch ändern. Für längere Touren Plan hinterlegen (adventuresmart.nz)."],
     ["Sonne", "Sehr hohe UV-Strahlung – Sonnenschutz auch bei kühlem Wetter."]
   ],
+  car: [
+    ["Linksverkehr", "0,5 ‰ (unter 20 Jahren 0,0 ‰). Viele einspurige Brücken – Vorfahrtsschilder beachten."]
+  ],
+  bike: [
+    ["Helm", "Helmpflicht für Radfahrer."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18. In vielen Innenstädten und an Stränden gilt ein Alkoholverbot („liquor ban“)."],
+    ["Cannabis", "Verboten."]
+  ],
   sim: [
     ["Lokale SIM", "One NZ, Spark oder 2degrees am Flughafen."],
     ["eSIM", "Alternativ vorab eSIM (z. B. Airalo) buchen – am einfachsten schon vor dem Abflug einrichten."]

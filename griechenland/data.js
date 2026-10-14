@@ -43,6 +43,15 @@ window.QT = {
     ["Sonne & Feuer", "Im Sommer hohe Waldbrandgefahr – kein offenes Feuer, Zigaretten nie wegwerfen."],
     ["Antiken", "Steine oder Scherben von archäologischen Stätten mitzunehmen ist streng verboten."]
   ],
+  car: [
+    ["Promille", "0,5 ‰; Fahranfänger und Motorradfahrer 0,2 ‰."],
+    ["Roller & Quads", "Helmpflicht – wird kontrolliert. Für Roller über 50 cm³ braucht man den passenden Führerschein."]
+  ],
+  substances: [
+    ["Rauchen", "In Innenräumen (auch Bars und Restaurants) streng verboten, hohe Strafen."],
+    ["Alkohol", "Ab 18 Jahren."],
+    ["Drogen", "Auch Cannabis ist verboten; Drogendelikte werden streng bestraft."]
+  ],
   sim: [
     ["EU-Roaming", "Mit deutschem Tarif ohne Aufpreis surfen und telefonieren („Roam like at home“)."],
     ["Alternative", "eSIM (z. B. Airalo) oder Prepaid-SIM im Shop vor Ort – Ausweis nötig."]

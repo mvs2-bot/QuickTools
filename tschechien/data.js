@@ -41,11 +41,21 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/tschechischerepublik-node',
 
   rules: [
-    ['Geld wechseln', 'Wechselstuben in Touristengegenden meiden (versteckte Gebühren). Am besten mit Karte zahlen oder am Bankautomaten Kronen abheben – dabei „ohne Umrechnung“ wählen.'],
-    ['Karte & Euro', 'Kartenzahlung ist fast überall möglich. Euro werden manchmal angenommen, aber zu schlechtem Kurs.'],
-    ['Autofahren', 'Für Autobahnen ist eine elektronische Vignette (edalnice.cz) Pflicht. 0,0 Promille, Licht auch tagsüber.'],
-    ['Restaurant', 'In Kneipen wird oft automatisch nachgeschenkt – Bierdeckel auf das Glas legen heißt „genug“.'],
-    ['Trinkgeld', 'Rund 10 % sind üblich – beim Bezahlen den Betrag nennen, nicht auf dem Tisch liegen lassen.']
+    ["Geld wechseln", "Wechselstuben in Touristengegenden meiden (versteckte Gebühren). Am besten mit Karte zahlen oder am Bankautomaten Kronen abheben – dabei „ohne Umrechnung“ wählen."],
+    ["Karte & Euro", "Kartenzahlung ist fast überall möglich. Euro werden manchmal angenommen, aber zu schlechtem Kurs."],
+    ["Restaurant", "In Kneipen wird oft automatisch nachgeschenkt – Bierdeckel auf das Glas legen heißt „genug“."],
+    ["Trinkgeld", "Rund 10 % sind üblich – beim Bezahlen den Betrag nennen, nicht auf dem Tisch liegen lassen."]
+  ],
+  car: [
+    ["Promille", "0,0 ‰ – absolutes Alkoholverbot am Steuer."],
+    ["Vignette & Licht", "Für Autobahnen ist eine elektronische Vignette (edalnice.cz) Pflicht. Licht auch tagsüber."]
+  ],
+  bike: [
+    ["Radfahren", "Helmpflicht bis 18 Jahre. Auch auf dem Rad gilt 0,0 ‰."]
+  ],
+  substances: [
+    ["Alkohol", "Ab 18. In Prag ist Trinken auf vielen öffentlichen Plätzen verboten."],
+    ["Cannabis", "Seit 2026 ab 21 erlaubt: bis 25 g dabei, bis 100 g zu Hause. Verkauf bleibt verboten."]
   ],
   sim: [
     ['EU-Roaming', 'Mit deutschem Tarif ohne Aufpreis surfen und telefonieren („Roam like at home“).'],
