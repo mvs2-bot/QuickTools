@@ -31,7 +31,7 @@ QuickTools/
 | ein neues Land anlegen                          | siehe unten                  |
 
 **Währung:** In `data.js` steht `currency: null` → Euro-Land, kein Rechner, Startseite = Phrasen.
-Mit `currency: { code: 'CHF', symbol: 'Fr.', name: 'Schweizer Franken' }` erscheint der Rechner als erster Tab.
+Mit `currency: { code: 'CHF', symbol: 'Fr.', name: 'Schweizer Franken' }` erscheint der Rechner als erster Tab. Der zuletzt geladene Kurs wird auf dem Gerät gespeichert, beim Öffnen sofort angezeigt (auch offline) und mit Datum versehen („Kurs vom 12.01.“); ist er älter als 7 Tage, erscheint ein Warnhinweis.
 
 **Uhren-Leiste** erscheint automatisch nur, wenn das Land eine andere Uhrzeit als Deutschland hat.
 

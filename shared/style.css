@@ -143,6 +143,7 @@
         .rate-chip { background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 8px; padding: 8px 10px; }
         .rate-chip span { display: block; font-size: .72rem; color: var(--mute); font-weight: 700; }
         .rate-chip b { font-size: 1.15rem; font-weight: 800; color: var(--p1); }
+        .rate-chip .rate-date { display: block; font-size: .72rem; color: var(--mute); font-weight: 600; }
         .rate-status { font-size: .72rem; color: var(--mute); margin-top: 8px; }
 
         /* Links & Buttons in Infos */
