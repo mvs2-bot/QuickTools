@@ -95,9 +95,16 @@ def icon_svg(emoji: str) -> str:
             f'<text x="256" y="330" font-size="240" text-anchor="middle">{emoji}</text></svg>\n')
 
 
-def manifest(name, short, emoji_desc):
+# Pfad der Seite auf GitHub Pages (https://mvs2-bot.github.io/QuickTools/).
+# Daraus wird die eindeutige "id" jeder App gebaut: Eine relative id wie "./" wird
+# gegen die Domain aufgelöst und wäre sonst für ALLE Seiten auf mvs2-bot.github.io
+# dieselbe – das Handy hält die App dann für bereits installiert.
+PAGES_PATH = '/QuickTools/'
+
+
+def manifest(name, short, emoji_desc, sub=''):
     return json.dumps({
-        "id": "./", "start_url": "./", "scope": "./",
+        "id": PAGES_PATH + (sub + '/' if sub else ''), "start_url": "./", "scope": "./",
         "name": name, "short_name": short, "description": emoji_desc,
         "display": "standalone", "orientation": "portrait",
         "background_color": "#f4f7f4", "theme_color": "#15803d", "lang": "de",
@@ -303,7 +310,7 @@ def main():
         countries[folder.name] = m
         (folder / 'index.html').write_text(country_index(m), encoding='utf-8')
         (folder / 'manifest.json').write_text(
-            manifest(f"Quick-Tools {m['name']}", m['name'], f"Urlaubs-Quick-Tools {m['name']}"), encoding='utf-8')
+            manifest(f"Quick-Tools {m['name']}", m['name'], f"Urlaubs-Quick-Tools {m['name']}", folder.name), encoding='utf-8')
         (folder / 'sw.js').write_text(sw_js(['./data.js', '../shared/i18n-en.js', '../shared/app.js', '../shared/style.css']), encoding='utf-8')
         (folder / 'icon.svg').write_text(icon_svg(m['flag']), encoding='utf-8')
         print(f"✓ {m['flag']}  {folder.name}")
