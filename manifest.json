@@ -1,7 +1,7 @@
 {
   "id": "/QuickTools/",
-  "start_url": "./index.html",
-  "scope": "./index.html",
+  "start_url": "./",
+  "scope": "./",
   "name": "Urlaubs-Quick-Tools",
   "short_name": "Quick-Tools",
   "description": "Alle Länder",
