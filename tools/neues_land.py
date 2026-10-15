@@ -102,9 +102,12 @@ def icon_svg(emoji: str) -> str:
 PAGES_PATH = '/QuickTools/'
 
 
-def manifest(name, short, emoji_desc, sub=''):
+# Die Übersicht bekommt als Bereich (scope) nur ihre eigene index.html. Mit "./"
+# würde sie alle Länderordner mit umfassen; nach ihrer Installation meldet das
+# Handy dann bei jedem Land „Diese App wurde bereits installiert“.
+def manifest(name, short, emoji_desc, sub='', scope='./'):
     return json.dumps({
-        "id": PAGES_PATH + (sub + '/' if sub else ''), "start_url": "./", "scope": "./",
+        "id": PAGES_PATH + (sub + '/' if sub else ''), "start_url": scope, "scope": scope,
         "name": name, "short_name": short, "description": emoji_desc,
         "display": "standalone", "orientation": "portrait",
         "background_color": "#f4f7f4", "theme_color": "#15803d", "lang": "de",
@@ -196,6 +199,8 @@ def overview_index(countries):
     <meta name="robots" content="noindex, nofollow">
     <meta name="theme-color" content="#15803d">
     {THEME_BOOT}
+    <script>/* …/QuickTools/ → …/QuickTools/index.html, damit die Seite im Bereich der Übersichts-App liegt */
+    if (location.pathname.endsWith('/')) history.replaceState(null, '', location.pathname + 'index.html' + location.search + location.hash);</script>
     <title>🌍 Urlaubs-Quick-Tools</title>
     <link rel="icon" href="{emoji_favicon('🌍')}">
     {FONTS}
@@ -318,7 +323,7 @@ def main():
     if missing:
         print('⚠️  Nicht in REGION eingetragen (fehlt auf der Übersicht):', ', '.join(sorted(missing)))
     (ROOT / 'index.html').write_text(overview_index(countries), encoding='utf-8')
-    (ROOT / 'manifest.json').write_text(manifest('Urlaubs-Quick-Tools', 'Quick-Tools', 'Alle Länder'), encoding='utf-8')
+    (ROOT / 'manifest.json').write_text(manifest('Urlaubs-Quick-Tools', 'Quick-Tools', 'Alle Länder', scope='./index.html'), encoding='utf-8')
     (ROOT / 'sw.js').write_text(sw_js(['./shared/style.css', './shared/i18n-en.js']), encoding='utf-8')
     (ROOT / 'icon.svg').write_text(icon_svg('🌍'), encoding='utf-8')
     print(f'✓ Übersicht mit {len(countries)} Ländern')
