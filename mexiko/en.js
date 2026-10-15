@@ -1,0 +1,25 @@
+/* Englische Texte nur für Mexiko (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Mexikanischer Peso": "Mexican peso",
+"🇲🇽 Spanisch (Mexiko)": "🇲🇽 Spanish (Mexico)",
+"Ángeles Verdes – Pannen- & Touristenhilfe": "Ángeles Verdes – breakdown & tourist assistance",
+"Deutsche Botschaft Mexiko-Stadt": "German Embassy Mexico City",
+"(keine Visa- oder Passfragen)": "(no visa or passport questions)",
+"11530 Mexiko-Stadt": "11530 Mexico City",
+"Reisehinweise des Auswärtigen Amts je Bundesstaat prüfen. Nachts keine Überlandfahrten, nur App- oder Hoteltaxis.": "Check the German Foreign Office travel advice for each state. No overland travel at night, only app or hotel taxis.",
+"Wasser": "Water",
+"Auch zum Zähneputzen Flaschenwasser nutzen; Eis in Restaurants ist meist aus gereinigtem Wasser.": "Use bottled water even for brushing teeth; ice in restaurants is usually made from purified water.",
+"Die Einreise wird heute meist digital erfasst – die genehmigte Aufenthaltsdauer beim Grenzbeamten prüfen.": "Entry is now mostly recorded digitally – check the length of stay granted by the border officer.",
+"Pesos an Bankautomaten in Banken abheben; Kartenzahlung „in Pesos“ wählen.": "Withdraw pesos from ATMs inside banks; when paying by card choose \"in pesos\".",
+"An der Karibikküste kann im Sommer viel Seetang anlanden – vorher Lage prüfen.": "In summer a lot of seaweed can wash up on the Caribbean coast – check the situation beforehand.",
+"Telcel (beste Abdeckung) oder AT&T – in Oxxo-Läden erhältlich.": "Telcel (best coverage) or AT&T – available in Oxxo shops.",
+"Fahrdienste in fast allen Städten.": "Ride-hailing in almost all cities.",
+"Fernbustickets (sehr gutes Busnetz).": "Long-distance bus tickets (very good bus network).",
+"127 V – Netzteil muss 100–240 V können": "127 V – your charger must handle 100–240 V",
+"Mexiko-Stadt": "Mexico City",
+"Je nach Bundesstaat; in Mexiko-Stadt enden Alkoholkontrollen („Alcoholímetro“) bei Überschreitung mit Arrest.": "Depends on the state; in Mexico City failing a breath test (\"alcoholímetro\") means detention.",
+"Viele Bodenschwellen („topes“). Nachts nicht über Land fahren, gebührenpflichtige Autobahnen („cuota“) sind sicherer.": "Many speed bumps (\"topes\"). Don’t drive cross-country at night; toll motorways (\"cuota\") are safer.",
+"Vapes sind seit 2025 verboten – nicht mitbringen, es drohen hohe Strafen.": "Vapes are banned since 2025 – don’t bring any, heavy penalties are possible.",
+"An Stränden, in Parks und an vielen öffentlichen Orten verboten.": "Banned on beaches, in parks and in many public places.",
+"Finger weg – es drohen Haft, Erpressung und Gefahr durch Kartelle.": "Stay away – you risk jail, extortion and danger from cartels."
+});

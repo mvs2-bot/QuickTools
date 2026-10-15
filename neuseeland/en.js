@@ -1,0 +1,27 @@
+/* Englische Texte nur für Neuseeland (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Neuseeland-Dollar": "New Zealand dollar",
+"🇳🇿 Englisch": "🇳🇿 English",
+"Hallo / Danke": "Hello / Thank you",
+"Guten Tag (förmlich)": "Good day (formal)",
+"Willkommen": "Welcome",
+"Herzliche Grüße / Danke": "Warm regards / Thanks",
+"Healthline – Gesundheitstelefon": "Healthline – health advice line",
+"Deutsche Botschaft Wellington": "German Embassy Wellington",
+"(auch per SMS; werktags nach Dienstschluss bis 24 Uhr, Wochenende 8–24 Uhr)": "(also by text message; weekdays after office hours until midnight, weekends 8 am–midnight)",
+"Vorab NZeTA beantragen (per App oder Website) – inklusive Tourismusabgabe (IVL).": "Apply for an NZeTA in advance (via app or website) – including the tourist levy (IVL).",
+"Lebensmittel, Pflanzen, Wanderschuhe und Zeltausrüstung bei der Einreise deklarieren – sonst hohe Strafen.": "Declare food, plants, hiking boots and camping gear on arrival – otherwise heavy fines.",
+"Freedom Camping": "Freedom camping",
+"Wildcampen nur mit „self-contained“-Camper und nur an erlaubten Plätzen – sonst Bußgeld.": "Wild camping only with a \"self-contained\" camper and only at permitted sites – otherwise fines.",
+"Wandern": "Hiking",
+"Wetter in den Bergen kann sich rasch ändern. Für längere Touren Plan hinterlegen (adventuresmart.nz).": "Weather in the mountains can change quickly. For longer hikes, leave your plan with someone (adventuresmart.nz).",
+"Sehr hohe UV-Strahlung – Sonnenschutz auch bei kühlem Wetter.": "Very high UV radiation – use sun protection even when it's cool.",
+"One NZ, Spark oder 2degrees am Flughafen.": "One NZ, Spark or 2degrees at the airport.",
+"Campingplätze, Toiletten und Tankstellen unterwegs.": "Campsites, toilets and petrol stations on the road.",
+"Hütten und Great Walks buchen.": "Book huts and Great Walks.",
+"Offizielle Wetterwarnungen.": "Official weather warnings.",
+"0,5 ‰ (unter 20 Jahren 0,0 ‰). Viele einspurige Brücken – Vorfahrtsschilder beachten.": "0.5 ‰ (under 20s 0.0 ‰). Many single-lane bridges – follow the give-way signs.",
+"Helmpflicht für Radfahrer.": "Helmets are mandatory for cyclists.",
+"Ab 18. In vielen Innenstädten und an Stränden gilt ein Alkoholverbot („liquor ban“).": "From 18. Many city centres and beaches have an alcohol ban (\"liquor ban\").",
+"Verboten.": "Illegal."
+});

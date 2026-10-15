@@ -1,0 +1,28 @@
+/* Englische Texte nur für Sri Lanka (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Sri-Lanka-Rupie": "Sri Lankan rupee",
+"🇱🇰 Singhalesisch": "🇱🇰 Sinhala",
+"Hallo (Gruß)": "Hello (greeting)",
+"Bitte wenig scharf": "Not too spicy, please",
+"Wie viel?": "How much?",
+"Rettungsdienst (Suwa Seriya, kostenlos)": "Ambulance (Suwa Seriya, free)",
+"Polizei-Notruf": "Police emergency",
+"Touristen-Hotline": "Tourist hotline",
+"Deutsche Botschaft Colombo": "German Embassy Colombo",
+"(Mo–Fr 15:30–22 Uhr, Wochenende 8–22 Uhr; keine Visa-Auskünfte)": "(Mon–Fri 3:30–10 pm, weekends 8 am–10 pm; no visa information)",
+"Tempel": "Temples",
+"Schultern und Knie bedecken, Schuhe und Kopfbedeckung vor dem Betreten ablegen. Weiße Kleidung ist gern gesehen.": "Cover shoulders and knees, remove shoes and hats before entering. White clothing is appreciated.",
+"Buddha-Darstellungen": "Buddha images",
+"Nicht mit dem Rücken zur Statue posieren. Buddha-Tattoos offen zu zeigen kann zur Einreiseverweigerung oder Ausweisung führen.": "Don't pose with your back to a statue. Showing Buddha tattoos openly can lead to denied entry or deportation.",
+"Respektvoll begegnen; Frauen sollten Mönche nicht berühren. In Bussen sind vordere Plätze oft für Mönche reserviert.": "Treat them with respect; women should not touch monks. On buses the front seats are often reserved for monks.",
+"Am Flughafen Colombo eine Touristen-SIM von Dialog (beste Abdeckung) oder Mobitel holen – Reisepass nötig.": "Get a tourist SIM from Dialog (best coverage) or Mobitel at Colombo airport – passport required.",
+"Alternativ vorab eSIM (z. B. Airalo) buchen.": "Alternatively book an eSIM in advance (e.g. Airalo).",
+"Tuk-Tuks und Taxis zu Festpreisen bestellen.": "Order tuk-tuks and taxis at fixed prices.",
+"Sri Lanka Railways (Fahrpläne) & 12Go": "Sri Lanka Railways (timetables) & 12Go",
+"Zugfahrten, z. B. Kandy–Ella, frühzeitig reservieren.": "Reserve train journeys early, e.g. Kandy–Ella.",
+"Oben-ohne und Nacktbaden sind verboten.": "Topless and nude bathing are forbidden.",
+"Internationaler Führerschein plus örtliche Anerkennung (Recognition Permit, z. B. über AA Ceylon) nötig – auch für Tuk-Tuks.": "International driving permit plus a local recognition permit (e.g. via AA Ceylon) is required – also for tuk-tuks.",
+"Chaotischer Verkehr, Busse fahren rücksichtslos. Viele nehmen lieber einen Fahrer.": "Chaotic traffic, buses drive aggressively. Many people prefer to hire a driver.",
+"Ab 21. An Poya-Tagen (Vollmond) wird kein Alkohol verkauft.": "From 21. No alcohol is sold on Poya days (full moon).",
+"Drogen werden sehr streng bestraft.": "Drugs are punished very severely."
+});

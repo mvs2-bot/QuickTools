@@ -1,0 +1,25 @@
+/* Englische Texte nur für Griechenland (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"🇬🇷 Griechisch": "🇬🇷 Greek",
+"Deutsche Botschaft Athen": "German Embassy Athens",
+"(Mo–Do ab 17 Uhr, Fr ab 16 Uhr bis 24 Uhr; Wochenende 8–24 Uhr)": "(Mon–Thu from 5 pm, Fri from 4 pm until midnight; weekends 8 am–midnight)",
+"106 75 Athen-Kolonaki": "106 75 Athens-Kolonaki",
+"Schultern und Knie bedecken – auf dem Berg Athos und in vielen Klöstern gelten strenge Kleiderregeln.": "Cover shoulders and knees – strict dress codes apply on Mount Athos and in many monasteries.",
+"Toilettenpapier": "Toilet paper",
+"In vielen Toiletten nicht ins WC werfen, sondern in den Eimer daneben – die Rohre sind sehr eng.": "In many toilets don't flush it but put it in the bin next to it – the pipes are very narrow.",
+"Ein kurzes Anheben des Kopfes (mit „ne“ = ja, „ochi“ = nein) kann „nein“ bedeuten – im Zweifel nachfragen.": "A quick upward tilt of the head (with \"ne\" = yes, \"ochi\" = no) can mean \"no\" – ask if in doubt.",
+"Sonne & Feuer": "Sun & fire",
+"Im Sommer hohe Waldbrandgefahr – kein offenes Feuer, Zigaretten nie wegwerfen.": "High risk of forest fires in summer – no open fires, never throw away cigarettes.",
+"Antiken": "Antiquities",
+"Steine oder Scherben von archäologischen Stätten mitzunehmen ist streng verboten.": "Taking stones or shards from archaeological sites is strictly forbidden.",
+"Taxis in Athen und Thessaloniki per App.": "Taxis in Athens and Thessaloniki via app.",
+"Fähren zwischen den Inseln vergleichen und buchen.": "Compare and book ferries between the islands.",
+"In Städten trinkbar, auf vielen Inseln besser Flaschenwasser": "Drinkable in cities, better bottled water on many islands",
+"Athen": "Athens",
+"Kreta (Heraklion)": "Crete (Heraklion)",
+"Korfu": "Corfu",
+"0,5 ‰; Fahranfänger und Motorradfahrer 0,2 ‰.": "0.5 ‰; new drivers and motorcyclists 0.2 ‰.",
+"Roller & Quads": "Scooters & quads",
+"Helmpflicht – wird kontrolliert. Für Roller über 50 cm³ braucht man den passenden Führerschein.": "Helmets are mandatory – and checked. Scooters over 50 cc require the matching licence.",
+"In Innenräumen (auch Bars und Restaurants) streng verboten, hohe Strafen.": "Strictly banned indoors (also bars and restaurants), high fines."
+});

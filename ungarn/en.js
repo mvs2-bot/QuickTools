@@ -1,0 +1,26 @@
+/* Englische Texte nur für Ungarn (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Ungarischer Forint": "Hungarian forint",
+"🇭🇺 Ungarisch": "🇭🇺 Hungarian",
+"Guten Tag / Hallo": "Good day / Hello",
+"Deutsche Botschaft Budapest": "German Embassy Budapest",
+"(Mo–Fr 17–24 Uhr, Wochenende 8–24 Uhr)": "(Mon–Fri 5 pm–midnight, weekends 8 am–midnight)",
+"Servicegebühr": "Service charge",
+"Viele Restaurants schlagen 10–15 % „szervízdíj“ auf – dann ist kein weiteres Trinkgeld nötig.": "Many restaurants add a 10–15 % \"szervízdíj\" – then no further tip is needed.",
+"Anstoßen": "Clinking glasses",
+"Traditionell stößt man mit Bier nicht an – mit Wein oder Pálinka schon.": "Traditionally you don't clink beer glasses – but you do with wine or pálinka.",
+"Euro werden oft angenommen, aber zu schlechtem Kurs – lieber Forint oder Karte.": "Euros are often accepted, but at a poor rate – better use forint or a card.",
+"Thermalbäder": "Thermal baths",
+"Badekappe ist in manchen Schwimmbecken Pflicht; Badeschlappen mitnehmen.": "A swimming cap is mandatory in some pools; bring flip-flops.",
+"Nahverkehr und Tickets in Budapest.": "Public transport and tickets in Budapest.",
+"Fahrdienst in Budapest (Uber gibt es nicht).": "Ride-hailing in Budapest (there's no Uber).",
+"10–15 % (Servicegebühr prüfen)": "10–15 % (check for a service charge)",
+"Balaton (Siófok)": "Lake Balaton (Siófok)",
+"Promille & Vignette": "Alcohol limit & vignette",
+"0,0 ‰. Für Autobahnen ist eine digitale Vignette (e-matrica) Pflicht.": "0.0 ‰. A digital vignette (e-matrica) is mandatory on motorways.",
+"Außerorts Abblendlicht auch tagsüber.": "Dipped headlights during the day outside towns.",
+"Auch auf dem Rad gilt 0,0 ‰.": "0.0 ‰ also applies on a bike.",
+"Ab 18. In Budapest ist Trinken auf vielen öffentlichen Plätzen verboten.": "From 18. In Budapest drinking is banned in many public places.",
+"Null Toleranz – auch der Konsum (auch Cannabis) ist strafbar.": "Zero tolerance – even use (including cannabis) is a criminal offence.",
+"In Restaurants und Bars verboten.": "Banned in restaurants and bars."
+});

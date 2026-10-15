@@ -1,0 +1,27 @@
+/* Englische Texte nur für Italien (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"🇮🇹 Italienisch": "🇮🇹 Italian",
+"Deutsche Botschaft Rom": "German Embassy Rome",
+"Kirchen & Vatikan": "Churches & Vatican",
+"Schultern und Knie bedecken – sonst kann der Einlass verweigert werden.": "Cover shoulders and knees – otherwise you may be refused entry.",
+"In Venedig, Rom, Florenz u. a. gibt es Bußgelder z. B. fürs Sitzen auf Treppen, Baden in Brunnen oder Essen an Denkmälern.": "In Venice, Rome, Florence etc. there are fines e.g. for sitting on steps, bathing in fountains or eating at monuments.",
+"„Coperto“ (Gedeck) und „servizio“ stehen oft auf der Rechnung – das ist normal. Trinkgeld darüber hinaus freiwillig.": "\"Coperto\" (cover charge) and \"servizio\" are often on the bill – that's normal. Any further tip is voluntary.",
+"ZTL-Zonen (Zona a traffico limitato) in Innenstädten nicht befahren – Kameras, hohe Strafen.": "Don’t drive into ZTL zones (Zona a traffico limitato) in city centres – cameras, heavy fines.",
+"Venedig": "Venice",
+"An bestimmten Tagen wird für Tagesbesucher eine Eintrittsgebühr fällig – vorab online prüfen.": "On certain days, day visitors have to pay an entry fee – check online in advance.",
+"eSIM (z. B. Airalo) oder Prepaid-SIM von TIM, Vodafone, WindTre oder Iliad – Ausweis nötig.": "eSIM (e.g. Airalo) or prepaid SIM from TIM, Vodafone, WindTre or Iliad – ID required.",
+"Zugtickets (Frecciarossa, Regionalzüge) buchen.": "Book train tickets (Frecciarossa, regional trains).",
+"Taxis in den Großstädten (Uber nur eingeschränkt).": "Taxis in the big cities (Uber only limited).",
+"teils – Eurostecker passt immer": "partly – Europlug always fits",
+"Coperto auf der Rechnung, Trinkgeld freiwillig": "Coperto on the bill, tip voluntary",
+"Rom": "Rome",
+"Mailand": "Milan",
+"Florenz": "Florence",
+"Neapel": "Naples",
+"0,5 ‰; in den ersten 3 Jahren nach dem Führerschein und unter 21 Jahren 0,0 ‰.": "0.5 ‰; 0.0 ‰ in the first 3 years after getting your licence and for under 21s.",
+"Außerorts und auf Autobahnen Abblendlicht auch tagsüber.": "Dipped headlights during the day outside towns and on motorways.",
+"Keine Helmpflicht; außerorts nachts Warnweste tragen. Auf E-Scootern gilt Helmpflicht.": "Helmets are not mandatory; wear a hi-vis vest outside towns at night. Helmets are mandatory on e-scooters.",
+"In Mailand ist Rauchen im Freien verboten, wenn andere näher als 10 m sind. Innen überall verboten.": "In Milan smoking outdoors is banned when others are closer than 10 m. Banned indoors everywhere.",
+"Ab 18. Viele Städte verbieten Alkohol auf der Straße oder aus Glasflaschen zu bestimmten Zeiten.": "From 18. Many cities ban drinking in the street or from glass bottles at certain times.",
+"Verboten (Besitz kleiner Mengen wird als Ordnungswidrigkeit verfolgt).": "Illegal (possessing small amounts is treated as an administrative offence)."
+});

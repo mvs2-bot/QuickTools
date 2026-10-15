@@ -145,7 +145,8 @@ self.addEventListener('fetch', e => {{
 """
 
 
-def country_index(m):
+def country_index(m, has_en=False):
+    en = '\n    <script src="en.js"></script>' if has_en else ''
     return f"""<!DOCTYPE html>
 <html lang="de">
 <head>
@@ -167,7 +168,7 @@ def country_index(m):
     <noscript>Bitte JavaScript aktivieren.</noscript>
     <!-- Inhalte: data.js (nur dieses Land) · Aufbau & Funktionen: ../shared/app.js (alle Länder) -->
     <script src="data.js"></script>
-    <script src="../shared/i18n-en.js"></script>
+    <script src="../shared/i18n-en.js"></script>{en}
     <script src="../shared/app.js"></script>
 </body>
 </html>
@@ -311,10 +312,11 @@ def main():
         if m['slug'] != folder.name:
             raise SystemExit(f"⚠️  {folder.name}/data.js: slug '{m['slug']}' muss gleich dem Ordnernamen sein")
         countries[folder.name] = m
-        (folder / 'index.html').write_text(country_index(m), encoding='utf-8')
+        has_en = (folder / 'en.js').exists()   # englische Texte nur für dieses Land
+        (folder / 'index.html').write_text(country_index(m, has_en), encoding='utf-8')
         (folder / 'manifest.json').write_text(
             manifest(f"Quick-Tools {m['name']}", m['name'], f"Urlaubs-Quick-Tools {m['name']}", folder.name), encoding='utf-8')
-        (folder / 'sw.js').write_text(sw_js(['./data.js', '../shared/i18n-en.js', '../shared/app.js', '../shared/style.css']), encoding='utf-8')
+        (folder / 'sw.js').write_text(sw_js(['./data.js'] + (['./en.js'] if has_en else []) + ['../shared/i18n-en.js', '../shared/app.js', '../shared/style.css']), encoding='utf-8')
         (folder / 'icon.svg').write_text(icon_svg(m['flag']), encoding='utf-8')
         print(f"✓ {m['flag']}  {folder.name}")
     missing = set(countries) - {s for v in REGION.values() for s in v}

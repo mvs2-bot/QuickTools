@@ -1,0 +1,26 @@
+/* Englische Texte nur für Chile (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Chilenischer Peso": "Chilean peso",
+"🇨🇱 Spanisch": "🇨🇱 Spanish",
+"Ein großes Bier vom Fass, bitte": "A large draught beer, please",
+"Polizei (Carabineros)": "Police (Carabineros)",
+"Feuerwehr (Bomberos)": "Fire brigade (Bomberos)",
+"Deutsche Botschaft Santiago de Chile": "German Embassy Santiago de Chile",
+"Erdbeben": "Earthquakes",
+"Chile ist sehr erdbebenaktiv: Fluchtwege im Hotel ansehen, an der Küste Tsunami-Schilder („Vía de evacuación“) beachten.": "Chile is very earthquake-prone: check the escape routes in your hotel, and on the coast heed the tsunami signs (\"Vía de evacuación\").",
+"In Patagonien und in der Atacama ist die UV-Strahlung extrem – Sonnenschutz auch bei Wolken.": "In Patagonia and the Atacama the UV radiation is extreme – use sun protection even when it's cloudy.",
+"Patagonien": "Patagonia",
+"Wetter wechselt sehr schnell, starker Wind. Feuer machen in Nationalparks ist streng verboten (große Brände in der Vergangenheit).": "The weather changes very quickly, strong winds. Making fires in national parks is strictly forbidden (major fires in the past).",
+"Strenge Kontrolle bei der Einreise: Obst, Wurst, Käse, Honig nicht mitbringen bzw. unbedingt deklarieren – hohe Strafen.": "Strict checks on entry: don't bring fruit, sausage, cheese or honey, or make sure to declare them – heavy fines.",
+"10 % „propina“ werden in Restaurants meist auf der Rechnung vorgeschlagen – freiwillig, aber üblich.": "10 % \"propina\" is usually suggested on the bill in restaurants – voluntary but customary.",
+"Prepaid-SIM von Entel, Movistar, Claro oder WOM – Reisepass nötig.": "Prepaid SIM from Entel, Movistar, Claro or WOM – passport required.",
+"Alternativ vorab eSIM (z. B. Airalo) – in Patagonien und der Atacama oft kein Netz.": "Alternatively an eSIM in advance (e.g. Airalo) – often no signal in Patagonia and the Atacama.",
+"Fahrdienste in Santiago und Valparaíso.": "Ride-hailing in Santiago and Valparaíso.",
+"Fernbustickets – das wichtigste Verkehrsmittel im Land.": "Long-distance bus tickets – the most important means of transport in the country.",
+"nein – Eurostecker passt": "no – Europlug fits",
+"In Städten trinkbar (sehr mineralhaltig)": "Drinkable in cities (very mineral-rich)",
+"ca. 10 % (propina)": "approx. 10 % (propina)",
+"Ab 0,3 ‰ drohen Strafen („Ley Tolerancia Cero“).": "Penalties from 0.3 ‰ (\"Ley Tolerancia Cero\").",
+"Santiagos Stadtautobahnen haben elektronische Maut (TAG) – Mietwagen fragen, sonst Tagespass kaufen.": "Santiago’s urban motorways have electronic tolls (TAG) – ask your rental company, otherwise buy a day pass.",
+"Privater Konsum wird toleriert, in der Öffentlichkeit gibt es Strafen.": "Private use is tolerated, public use is punished."
+});

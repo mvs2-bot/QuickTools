@@ -1,0 +1,25 @@
+/* Englische Texte nur für Türkei (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Türkische Lira": "Turkish lira",
+"🇹🇷 Türkisch": "🇹🇷 Turkish",
+"Notruf (Rettung, Polizei, Feuerwehr)": "Emergency (ambulance, police, fire)",
+"Deutsche Botschaft Ankara": "German Embassy Ankara",
+"(Generalkonsulat Istanbul, Inönü Caddesi 10)": "(Consulate General Istanbul, İnönü Caddesi 10)",
+"Schultern und Knie bedecken, Schuhe ausziehen, Frauen Kopftuch. Während der Gebetszeiten nicht besichtigen.": "Cover shoulders and knees, take off your shoes, women wear a headscarf. Don't sightsee during prayer times.",
+"Atatürk & Staat": "Atatürk & the state",
+"Beleidigung Atatürks, der Nation oder staatlicher Symbole ist strafbar – auch in Social Media.": "Insulting Atatürk, the nation or state symbols is a criminal offence – also on social media.",
+"Im Basar ist Handeln üblich, in Geschäften mit Preisschildern nicht.": "Haggling is common at the bazaar, but not in shops with price tags.",
+"Antiquitäten (auch alte Münzen oder Steine) dürfen nicht ausgeführt werden – Kaufbeleg aufbewahren.": "Antiques (including old coins or stones) may not be exported – keep the receipt.",
+"Lira am Automaten abheben und dabei „ohne Umrechnung“ wählen; Euro werden in Touristenorten oft angenommen.": "Withdraw lira at ATMs and choose \"without conversion\"; euros are often accepted in tourist areas.",
+"Die Türkei gehört nicht zur EU – Roaming kann teuer sein. Tarif vorher prüfen!": "Turkey is not in the EU – roaming can be expensive. Check your plan beforehand!",
+"Turkcell, Vodafone TR oder Türk Telekom (Pass nötig; ausländische Handys werden nach ca. 120 Tagen gesperrt) – oder vorab eSIM.": "Turkcell, Vodafone TR or Türk Telekom (passport required; foreign phones are blocked after about 120 days) – or an eSIM in advance.",
+"Taxis in Istanbul und anderen Städten.": "Taxis in Istanbul and other cities.",
+"Aufladbare Karte für Metro, Tram, Fähren und Busse in Istanbul.": "Rechargeable card for the metro, trams, ferries and buses in Istanbul.",
+"Kappadokien (Göreme)": "Cappadocia (Göreme)",
+"0,5 ‰ (Berufsfahrer 0,0 ‰).": "0.5 ‰ (professional drivers 0.0 ‰).",
+"Kontrollen": "Checks",
+"Viele Radarkontrollen und Polizeisperren – Führerschein, Pass und Mietvertrag griffbereit haben.": "Many speed cameras and police checkpoints – keep your licence, passport and rental contract handy.",
+"Ab 18. Läden dürfen von 22 bis 6 Uhr keinen Alkohol verkaufen.": "From 18. Shops may not sell alcohol between 10 pm and 6 am.",
+"Verkauf und Einfuhr sind verboten – besser zu Hause lassen.": "Sale and import are banned – better leave them at home.",
+"Auch Cannabis ist verboten; es drohen lange Haftstrafen.": "Cannabis is also illegal; long prison sentences are possible."
+});

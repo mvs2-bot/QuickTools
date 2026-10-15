@@ -1,0 +1,27 @@
+/* Englische Texte nur für Island (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Isländische Krone": "Icelandic króna",
+"🇮🇸 Isländisch": "🇮🇸 Icelandic",
+"Notruf (alle Dienste, auch Bergrettung)": "Emergency (all services, incl. mountain rescue)",
+"Medizinische Beratung (nicht dringend)": "Medical advice (non-urgent)",
+"Deutsche Botschaft Reykjavík": "German Embassy Reykjavík",
+"(täglich 8–24 Uhr außerhalb der Dienstzeiten, auch per SMS)": "(daily 8 am–midnight outside office hours, also by text message)",
+"Natur": "Nature",
+"Nicht abseits der Wege laufen – Moos braucht Jahrzehnte zum Nachwachsen. Offroad-Fahren ist streng verboten und teuer.": "Don't walk off the paths – moss takes decades to grow back. Off-road driving is strictly forbidden and expensive.",
+"F-Straßen (Hochland) nur mit Allrad und nur, wenn sie offen sind. Furten nie unüberlegt durchfahren.": "F-roads (highlands) only with 4x4 and only when they’re open. Never ford rivers without thinking it through.",
+"Wetter und Straßenzustand täglich prüfen (vedur.is, umferdin.is). Sturmböen können Autotüren abreißen – Tür gut festhalten.": "Check weather and road conditions daily (vedur.is, umferdin.is). Gusts can rip car doors off – hold the door tight.",
+"Strände": "Beaches",
+"An Black Beaches (z. B. Reynisfjara) nie mit dem Rücken zum Meer stehen – gefährliche „Sneaker Waves“.": "On black beaches (e.g. Reynisfjara) never turn your back to the sea – dangerous \"sneaker waves\".",
+"Wildcampen": "Wild camping",
+"Mit Camper/Zelt nur auf Campingplätzen übernachten, nicht an der Straße oder auf Parkplätzen.": "With a camper/tent only stay overnight at campsites, not by the road or in car parks.",
+"Island gehört zum EWR – die meisten deutschen Tarife gelten dort ohne Aufpreis. Vorher kurz prüfen!": "Iceland is in the EEA – most German plans work there at no extra cost. Check beforehand!",
+"Prepaid-SIM von Síminn (beste Abdeckung im Hochland) oder Nova.": "Prepaid SIM from Síminn (best coverage in the highlands) or Nova.",
+"Notruf mit Standortübermittlung und Reiseplan-Hinterlegung (SafeTravel).": "Emergency call with location sharing and travel plan registration (SafeTravel).",
+"Offizieller Wetterdienst inkl. Polarlicht-Vorhersage.": "Official weather service incl. aurora forecast.",
+"Straßenzustand und Sperrungen in Echtzeit.": "Road conditions and closures in real time.",
+"Trinkbar – sehr gut (warmes Wasser riecht nach Schwefel)": "Drinkable – excellent (hot water smells of sulphur)",
+"F-Straßen": "F-roads",
+"Einspurige Brücken": "Single-lane bridges",
+"Bei „Einbreið brú“ hat Vorrang, wer zuerst an der Brücke ist. Nie zum Fotografieren auf der Fahrbahn halten.": "At \"Einbreið brú\" whoever reaches the bridge first has priority. Never stop on the road to take photos.",
+"Erst ab 20 Jahren. Wein und Spirituosen nur in den staatlichen „Vínbúðin“-Läden.": "Only from 20. Wine and spirits only in the state-run \"Vínbúðin\" shops."
+});

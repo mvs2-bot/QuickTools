@@ -1,0 +1,27 @@
+/* Englische Texte nur für Kolumbien (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Kolumbianischer Peso": "Colombian peso",
+"🇨🇴 Spanisch": "🇨🇴 Spanish",
+"Nationaler Notruf (Polizei, Rettung, Feuerwehr)": "National emergency number (police, ambulance, fire)",
+"Polizei (vom Handy)": "Police (from a mobile)",
+"Deutsche Botschaft Bogotá": "German Embassy Bogotá",
+"(nur akute Notlagen, keine Visafragen)": "(acute emergencies only, no visa questions)",
+"„No dar papaya“": "\"No dar papaya\"",
+"Keine Gelegenheit für Diebe bieten: Handy nicht offen zeigen, Wertsachen im Hotel lassen, nur App-Taxis nutzen.": "Don't give thieves an opportunity: don't show your phone openly, leave valuables at the hotel, only use app taxis.",
+"K.-o.-Tropfen": "Drink spiking",
+"Getränke nie unbeaufsichtigt lassen und nichts von Fremden annehmen (Scopolamin-Fälle).": "Never leave drinks unattended and don't accept anything from strangers (scopolamine cases).",
+"Reisehinweise": "Travel advice",
+"Einige Regionen gelten als gefährlich – aktuelle Hinweise des Auswärtigen Amts vor jeder Etappe prüfen.": "Some regions are considered dangerous – check the current German Foreign Office advice before each leg of your trip.",
+"Bogotá liegt auf ca. 2.600 m – die ersten Tage langsam angehen.": "Bogotá is at about 2,600 m – take it easy for the first few days.",
+"In Restaurants werden 10 % „servicio“ oft vorgeschlagen – freiwillig, man wird gefragt.": "In restaurants 10 % \"servicio\" is often suggested – voluntary, you'll be asked.",
+"Prepaid-SIM von Claro (beste Abdeckung), Movistar oder Tigo – Reisepass nötig.": "Prepaid SIM from Claro (best coverage), Movistar or Tigo – passport required.",
+"Fahrdienste in allen großen Städten – sicherer als Taxi von der Straße.": "Ride-hailing in all big cities – safer than hailing a taxi on the street.",
+"Essen und Einkäufe liefern lassen.": "Delivery of food and groceries.",
+"Bogotá & Medellín trinkbar, sonst Flaschenwasser": "Drinkable in Bogotá & Medellín, otherwise bottled water",
+"ca. 10 % (servicio wird gefragt)": "approx. 10 % (servicio will be offered)",
+"110 V – Netzteil muss 100–240 V können": "110 V – your charger must handle 100–240 V",
+"Praktisch 0,0 ‰ – schon ab 0,2 ‰ drohen hohe Strafen.": "Practically 0.0 ‰ – heavy penalties from 0.2 ‰.",
+"Pico y Placa": "Pico y placa",
+"In Bogotá, Medellín und anderen Städten gilt je nach Kennzeichen-Endziffer ein Fahrverbot.": "In Bogotá, Medellín and other cities a driving ban applies depending on the last digit of the number plate.",
+"Kauf und Handel sind verboten – auch wenn Drogen offen angeboten werden. Oft gezielte Kontrollen von Touristen.": "Buying and dealing are illegal – even if drugs are offered openly. Tourists are often specifically checked."
+});

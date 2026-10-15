@@ -1,0 +1,25 @@
+/* Englische Texte nur für Ägypten (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Ägyptisches Pfund": "Egyptian pound",
+"🇪🇬 Ägyptisches Arabisch": "🇪🇬 Egyptian Arabic",
+"Bitte (Anfrage)": "Please (request)",
+"Deutsche Botschaft Kairo": "German Embassy Cairo",
+"Zamalek, Kairo 11211": "Zamalek, Cairo 11211",
+"Bakschisch": "Baksheesh",
+"Kleine Trinkgelder für Toilettenpersonal, Gepäck, Wegweiser usw. sind üblich – Kleingeld bereithalten.": "Small tips for toilet attendants, luggage, guides etc. are customary – keep small change handy.",
+"Außerhalb der Badeorte Schultern und Knie bedecken; in Moscheen Frauen zusätzlich Kopftuch.": "Outside beach resorts, cover shoulders and knees; in mosques women should also wear a headscarf.",
+"Keine Fotos von Militär, Polizei, Brücken oder Regierungsgebäuden. In manchen Gräbern Fotoverbot.": "No photos of the military, police, bridges or government buildings. Photography is banned in some tombs.",
+"Visum": "Visa",
+"Visum bei Ankunft oder vorab als e-Visum; Reisepass muss noch mind. 6 Monate gültig sein.": "Visa on arrival or in advance as an e-visa; your passport must be valid for at least 6 more months.",
+"Vodafone EG, Orange oder WE am Flughafen – Pass nötig.": "Vodafone EG, Orange or WE at the airport – passport required.",
+"Fahrdienste in Kairo, Alexandria und Hurghada – Preis steht vorher fest.": "Ride-hailing in Cairo, Alexandria and Hurghada – the price is fixed in advance.",
+"Essen bestellen.": "Food delivery.",
+"Bakschisch ist überall üblich (Restaurant 10 %)": "Baksheesh is expected everywhere (restaurants 10 %)",
+"Kairo (Gizeh)": "Cairo (Giza)",
+"Assuan": "Aswan",
+"Selbst fahren?": "Driving yourself?",
+"Sehr chaotischer Verkehr – besser Fahrer oder App-Taxi nehmen. Viele Kontrollpunkte, Pass immer dabeihaben.": "Very chaotic traffic – better take a driver or app taxi. Many checkpoints, always carry your passport.",
+"Ab 21, nur in Hotels, lizenzierten Bars und Spezialläden. Trinken in der Öffentlichkeit ist verboten.": "From 21, only in hotels, licensed bars and special shops. Drinking in public is forbidden.",
+"Manche Schmerzmittel (z. B. Tramadol, Codein) sind verboten – nur mit ärztlicher Bescheinigung mitnehmen.": "Some painkillers (e.g. tramadol, codeine) are banned – only bring them with a doctor’s certificate.",
+"Extrem harte Strafen, auch Cannabis.": "Extremely harsh penalties, including cannabis."
+});
