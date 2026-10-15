@@ -72,6 +72,10 @@ Oben rechts neben dem Hell/Dunkel-Button schaltet **DE | EN** alle Texte um – 
 
 In den alten Repos (QuickToolsThailand, QuickToolsSriLanka, …) die `index.html` durch `tools/weiterleitung.html` ersetzen und darin das Ziel-Land anpassen. Alte Lesezeichen landen dann auf der neuen Seite. Die alte installierte App auf dem Handy danach deinstallieren und die neue installieren.
 
+## Als App installieren
+
+Auf dem Handy die **Übersicht** installieren. Sie umfasst alle Länder, die sich dann in der App öffnen. Chrome auf Android lässt pro Domain (`mvs2-bot.github.io`) nur eine installierte App zu. Ist schon ein einzelnes Land oder eine andere Seite von `mvs2-bot.github.io` installiert, meldet Chrome „Diese App wurde bereits installiert“. Dann zuerst diese App deinstallieren.
+
 ## Speicher im Browser
 
 Alle Seiten liegen unter derselben Adresse `mvs2-bot.github.io` und teilen sich den Browserspeicher. Deshalb nutzt jedes Land eigene Schlüssel (`qt_<land>_fx_v1` für den letzten Wechselkurs). Hell/Dunkel (`qt_theme_v1`) gilt absichtlich für alle Länder gemeinsam.
