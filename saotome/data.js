@@ -29,7 +29,7 @@ window.QT = {
   emergency: [
     ["112", "Notruf (Polizei)"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Libreville (Gabun)", "address": ["329 Boulevard de la Nation (Immeuble les Frangipaniers)", "Libreville, Gabun", "Honorarkonsulin São Tomé: Campo do Milho, Casa 321, Tel. +239 985 3182"], "phone": "+241 11 76 01 88", "emergency": "+237 677 700 705", "emergencyNote": "(Bereitschaft der Botschaft Jaunde, nur für Deutsche)"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Libreville (Gabun)", "address": ["329 Boulevard de la Nation (Immeuble les Frangipaniers)", "Libreville, Gabun", "Honorarkonsulin São Tomé: Campo do Milho, Casa 321, Tel. +239 985 3182"], "phone": "+241 11 17 60 188", "emergency": "+237 677 700 705", "emergencyNote": "(Bereitschaft der Botschaft Jaunde, nur für Deutsche)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/saotomeundprincipe-node",
 
   rules: [

@@ -31,18 +31,21 @@ window.QT = {
     ["180", "Feuerwehr"],
     ["126", "Touristenpolizei"]
   ],
-  embassy: {"title": "Deutsche Botschaft Kairo", "address": ["2 Sharia Berlin (off Sharia Hassan Sabri)", "Zamalek, Kairo 11211"], "phone": "+20 2 2728 2000"},
+  embassy: {"title": "Deutsche Botschaft Kairo", "address": ["2 Sharia Berlin (off Sharia Hassan Sabri)", "Zamalek, Kairo 11211"], "phone": "+20 2 2728 2000", "emergency": "+20 122 213 6538", "emergencyNote": "(außerhalb der Öffnungszeiten, keine Visaanfragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/aegypten-node",
 
   rules: [
+    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in den Nordsinai, das ägyptisch-israelische Grenzgebiet (außer Küste und Taba) und in entlegene Gebiete der Sahara inkl. der Grenzgebiete zu Libyen und Sudan – vor jeder Reise die aktuelle Lage prüfen."],
     ["Bakschisch", "Kleine Trinkgelder für Toilettenpersonal, Gepäck, Wegweiser usw. sind üblich – Kleingeld bereithalten."],
     ["Kleidung", "Außerhalb der Badeorte Schultern und Knie bedecken; in Moscheen Frauen zusätzlich Kopftuch."],
     ["Fotografieren", "Keine Fotos von Militär, Polizei, Brücken oder Regierungsgebäuden. In manchen Gräbern Fotoverbot."],
     ["Visum", "Visum bei Ankunft oder vorab als e-Visum; Reisepass muss noch mind. 6 Monate gültig sein."],
-    ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."]
+    ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."],
+    ["Drohnen & Geräte", "Drohnen, Satellitentelefone, Funkgeräte und Fernrohre nur mit Genehmigung einführen – sonst Beschlagnahme und Strafverfolgung."]
   ],
   car: [
-    ["Selbst fahren?", "Sehr chaotischer Verkehr – besser Fahrer oder App-Taxi nehmen. Viele Kontrollpunkte, Pass immer dabeihaben."]
+    ["Selbst fahren?", "Sehr chaotischer Verkehr – besser Fahrer oder App-Taxi nehmen. Viele Kontrollpunkte, Pass immer dabeihaben."],
+    ["Führerschein & Promille", "Internationaler Führerschein nur zusammen mit dem deutschen gültig. 0,0 ‰."]
   ],
   substances: [
     ["Alkohol", "Ab 21, nur in Hotels, lizenzierten Bars und Spezialläden. Trinken in der Öffentlichkeit ist verboten."],
