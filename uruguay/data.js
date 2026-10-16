@@ -6,7 +6,7 @@ window.QT = {
   tz: "America/Montevideo",
   currency: {"code": "UYU", "symbol": "$U", "name": "Uruguayischer Peso"},
 
-  glance: {"plug": "C / F / L", "volt": 220, "adapter": "nein", "drive": "R", "water": "Trinkbar", "tip": "ca. 10 %", "dial": "+598"},
+  glance: {"plug": "C / F / I / L", "volt": 220, "adapter": "teils – Eurostecker passt meist", "drive": "R", "water": "Trinkbar", "tip": "ca. 10 %", "dial": "+598"},
   taxi: {"local": "Por favor, lléveme a esta dirección.", "phonetic": "por fa-WOR, SCHE-we-me a ES-ta di-rek-SJON"},
 
   phrases: [
@@ -31,14 +31,14 @@ window.QT = {
     ["104", "Feuerwehr"],
     ["105", "Rettungsdienst"]
   ],
-  embassy: {"title": "Deutsche Botschaft Montevideo", "address": ["La Cumparsita 1435", "11200 Montevideo"], "phone": "+598 2902 5222"},
+  embassy: {"title": "Deutsche Botschaft Montevideo", "address": ["La Cumparsita 1435", "11200 Montevideo"], "phone": "+598 2902 5222", "emergency": "+598 99 642 859", "emergencyNote": "(Bereitschaftsdienst für akute Notfälle, bis 22 Uhr)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/uruguay-node",
 
   rules: [
     ["Mate", "Mate wird überall getrunken und gern geteilt – nur „gracias“ sagen, wenn man keinen mehr möchte."],
     ["Essenszeiten", "Abendessen selten vor 21 Uhr; Asado (Grillfleisch) ist Nationalgericht."],
     ["Steuer", "Mit ausländischer Karte entfällt in Restaurants und Hotels oft die Mehrwertsteuer (IVA) – Karte statt Bargeld nutzen."],
-    ["Sicherheit", "Sehr sicheres Reiseland; in Montevideo nachts trotzdem auf Wertsachen achten."]
+    ["Sicherheit", "In Montevideo hat die Kriminalität zugenommen (Raub, teils bewaffnet): Wertsachen verbergen, nachts Taxi oder App nutzen. Viertel wie Cerro, Casavalle, Marconi, Piedras Blancas auch tagsüber meiden."]
   ],
   car: [
     ["Promille", "0,0 ‰ – strikte Null-Toleranz."],

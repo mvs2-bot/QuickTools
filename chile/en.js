@@ -1,5 +1,7 @@
 /* Englische Texte nur für Chile (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Konsum in der Öffentlichkeit ist strafbar; laut Auswärtigem Amt drohen bei Drogen auch für kleine Mengen hohe Haftstrafen.": "Use in public is a criminal offence; according to the German Foreign Office, even small amounts of drugs can mean long prison sentences.",
+"In Araucanía, Bío Bío, Los Ríos und Los Lagos kommt es zu Anschlägen und Straßensperren – dort Fernstraßen nachts meiden. In Santiago, Valparaíso und San Pedro de Atacama auf Taschendiebe achten.": "Attacks and road blockades occur in Araucanía, Bío Bío, Los Ríos and Los Lagos – avoid highways there at night. Watch out for pickpockets in Santiago, Valparaíso and San Pedro de Atacama.",
 "Chilenischer Peso": "Chilean peso",
 "🇨🇱 Spanisch": "🇨🇱 Spanish",
 "Ein großes Bier vom Fass, bitte": "A large draught beer, please",

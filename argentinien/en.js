@@ -1,5 +1,8 @@
 /* Englische Texte nur für Argentinien (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Einreise": "Entry",
+"Verboten – laut Auswärtigem Amt sind auch Kleinstmengen nicht straffrei und können zu hohen Haftstrafen führen.": "Illegal – according to the German Foreign Office, even tiny amounts are not exempt from punishment and can lead to long prison sentences.",
+"Nachweis einer Auslandskrankenversicherung (inkl. Rücktransport) wird verlangt – Airlines können sonst das Boarding verweigern. Nur mit Reisepass, nicht mit Personalausweis.": "Proof of travel health insurance (incl. repatriation) is required – otherwise airlines may refuse boarding. Passport only, not the German ID card.",
 "Argentinischer Peso": "Argentine peso",
 "🇦🇷 Spanisch (Argentinien)": "🇦🇷 Spanish (Argentina)",
 "Sprichst du Englisch?": "Do you speak English? (informal)",

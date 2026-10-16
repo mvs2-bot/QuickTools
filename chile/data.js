@@ -42,6 +42,7 @@ window.QT = {
     ["Erdbeben", "Chile ist sehr erdbebenaktiv: Fluchtwege im Hotel ansehen, an der Küste Tsunami-Schilder („Vía de evacuación“) beachten."],
     ["Sonne", "In Patagonien und in der Atacama ist die UV-Strahlung extrem – Sonnenschutz auch bei Wolken."],
     ["Patagonien", "Wetter wechselt sehr schnell, starker Wind. Feuer machen in Nationalparks ist streng verboten (große Brände in der Vergangenheit)."],
+    ["Sicherheit", "In Araucanía, Bío Bío, Los Ríos und Los Lagos kommt es zu Anschlägen und Straßensperren – dort Fernstraßen nachts meiden. In Santiago, Valparaíso und San Pedro de Atacama auf Taschendiebe achten."],
     ["Einfuhr", "Strenge Kontrolle bei der Einreise: Obst, Wurst, Käse, Honig nicht mitbringen bzw. unbedingt deklarieren – hohe Strafen."],
     ["Trinkgeld", "10 % „propina“ werden in Restaurants meist auf der Rechnung vorgeschlagen – freiwillig, aber üblich."]
   ],
@@ -51,7 +52,7 @@ window.QT = {
   ],
   substances: [
     ["Alkohol", "Ab 18. Trinken in der Öffentlichkeit ist verboten."],
-    ["Cannabis", "Privater Konsum wird toleriert, in der Öffentlichkeit gibt es Strafen."]
+    ["Cannabis", "Konsum in der Öffentlichkeit ist strafbar; laut Auswärtigem Amt drohen bei Drogen auch für kleine Mengen hohe Haftstrafen."]
   ],
   sim: [
     ['Lokale SIM', 'Prepaid-SIM von Entel, Movistar, Claro oder WOM – Reisepass nötig.'],

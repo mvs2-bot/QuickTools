@@ -57,7 +57,7 @@ window.QT = {
   ],
   substances: [
     ["Coca", "Coca-Blätter und -Tee sind in Peru legal, dürfen aber nicht nach Deutschland/EU mitgenommen werden."],
-    ["Alkohol & Drogen", "Alkohol ab 18; rund um Wahlen gilt oft ein Alkoholverbot („Ley seca“). Andere Drogen werden streng bestraft."]
+    ["Alkohol & Drogen", "Alkohol ab 18; rund um Wahlen gilt oft ein Alkoholverbot („Ley seca“). Schon bei kleinen Mengen anderer Drogen drohen sofortige Festnahme und 2 bis 25 Jahre Haft."]
   ],
   sim: [
     ['Lokale SIM', 'Prepaid-SIM von Claro, Movistar, Entel oder Bitel – Reisepass nötig.'],

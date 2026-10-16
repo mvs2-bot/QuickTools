@@ -1,5 +1,6 @@
 /* Englische Texte nur für Peru (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Alkohol ab 18; rund um Wahlen gilt oft ein Alkoholverbot („Ley seca“). Schon bei kleinen Mengen anderer Drogen drohen sofortige Festnahme und 2 bis 25 Jahre Haft.": "Alcohol from 18; alcohol bans (\"ley seca\") often apply around elections. Even small amounts of other drugs can mean immediate arrest and 2 to 25 years in prison.",
 "Alkohol ab 18; rund um Wahlen gilt oft ein Alkoholverbot („Ley seca“). Andere Drogen werden streng bestraft.": "Alcohol from 18; alcohol bans (\"ley seca\") often apply around elections. Other drugs are punished severely.",
 "(Notfälle, auch SMS/WhatsApp – keine Visafragen)": "(emergencies, also SMS/WhatsApp – no visa questions)",
 "Nur offizielle oder App-Taxis nutzen, Wertsachen nicht offen zeigen, besonders in Lima. In Lima/Callao, Teilen des Nordens und im VRAEM gilt der Ausnahmezustand; Demonstrationen und Straßenblockaden meiden.": "Only use official or app taxis, don't show valuables openly, especially in Lima. A state of emergency applies in Lima/Callao, parts of the north and the VRAEM; avoid demonstrations and road blockades.",

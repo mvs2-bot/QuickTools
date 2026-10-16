@@ -1,5 +1,8 @@
 /* Englische Texte nur für Uruguay (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"teils – Eurostecker passt meist": "partly – Europlug usually fits",
+"(Bereitschaftsdienst für akute Notfälle, bis 22 Uhr)": "(on-call service for acute emergencies, until 10 pm)",
+"In Montevideo hat die Kriminalität zugenommen (Raub, teils bewaffnet): Wertsachen verbergen, nachts Taxi oder App nutzen. Viertel wie Cerro, Casavalle, Marconi, Piedras Blancas auch tagsüber meiden.": "Crime has risen in Montevideo (robberies, some armed): keep valuables out of sight, use a taxi or app at night. Avoid neighbourhoods such as Cerro, Casavalle, Marconi and Piedras Blancas, even by day.",
 "Uruguayischer Peso": "Uruguayan peso",
 "🇺🇾 Spanisch (Uruguay)": "🇺🇾 Spanish (Uruguay)",
 "Deutsche Botschaft Montevideo": "German Embassy Montevideo",
