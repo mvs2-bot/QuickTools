@@ -15,5 +15,10 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "In Panama-Stadt trinkbar, sonst lieber Flaschenwasser": "Drinkable in Panama City, otherwise better bottled water",
 "Panama-Stadt": "Panama City",
 "Panamakanal (Miraflores-Schleusen)": "Panama Canal (Miraflores Locks)",
-"San-Blas-Inseln (Guna Yala)": "San Blas Islands (Guna Yala)"
+"San-Blas-Inseln (Guna Yala)": "San Blas Islands (Guna Yala)",
+"(außerhalb der Dienstzeit bis 24 Uhr, auch SMS/WhatsApp)": "(outside office hours until midnight, also SMS/WhatsApp)",
+"Von Reisen in den Osten und Süden der Provinz Darién (südlich von Yaviza, Grenzgebiet zu Kolumbien) rät das Auswärtige Amt dringend ab.": "The German Foreign Office strongly advises against travel to the east and south of Darién Province (south of Yaviza, the border area with Colombia).",
+"Einreise": "Entry",
+"Rück- oder Weiterreiseticket und Nachweis über 1.000 US$ (bar oder Kreditkarte) nötig; Pass noch 3 Monate gültig. Ausweis immer mitführen.": "A return or onward ticket and proof of US$1,000 (cash or credit card) are required; passport valid for another 3 months. Always carry ID.",
+"Ab 18 Jahren. Trinken in der Öffentlichkeit ist verboten.": "From 18. Drinking in public is prohibited."
 });

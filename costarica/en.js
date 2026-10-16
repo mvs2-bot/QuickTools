@@ -19,5 +19,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "In den meisten Orten trinkbar, an Stränden lieber Flaschenwasser": "Drinkable in most places, better bottled water at beaches",
 "10 % Service ist meist schon enthalten": "10 % service is usually already included",
 "Werktags gilt je nach Kennzeichen-Endziffer ein Fahrverbot in der Innenstadt („restricción vehicular“).": "On weekdays a city-centre driving ban applies depending on the last digit of the number plate (\"restricción vehicular\").",
-"In Parks, an Haltestellen und vielen öffentlichen Orten verboten.": "Banned in parks, at bus stops and in many public places."
+"In Parks, an Haltestellen und vielen öffentlichen Orten verboten.": "Banned in parks, at bus stops and in many public places.",
+"Rück- oder Weiterreiseticket nötig. Die Ausreisegebühr ist bei Flügen meist im Ticket enthalten, über Land meist 7 US$.": "A return or onward ticket is required. The departure tax is usually included in flight tickets; overland it is usually US$7."
 });

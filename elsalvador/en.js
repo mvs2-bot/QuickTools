@@ -13,5 +13,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Prepaid-SIM von Tigo, Claro oder Digicel – Pass nötig.": "Prepaid SIM from Tigo, Claro or Digicel – passport required.",
 "Fahrdienste in San Salvador und an der Küste.": "Ride-hailing in San Salvador and on the coast.",
 "Lieferdienst für Essen und Einkäufe.": "Delivery service for food and groceries.",
-"10 % stehen oft schon auf der Rechnung („propina“)": "10 % is often already on the bill (\"propina\")"
+"10 % stehen oft schon auf der Rechnung („propina“)": "10 % is often already on the bill (\"propina\")",
+"0,0 ‰ – Verstöße werden mit Haft bestraft.": "0.0 ‰ – violations are punished with jail.",
+"Promille": "Blood alcohol limit"
 });

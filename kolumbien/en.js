@@ -22,5 +22,10 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Praktisch 0,0 ‰ – schon ab 0,2 ‰ drohen hohe Strafen.": "Practically 0.0 ‰ – heavy penalties from 0.2 ‰.",
 "Pico y Placa": "Pico y placa",
 "In Bogotá, Medellín und anderen Städten gilt je nach Kennzeichen-Endziffer ein Fahrverbot.": "In Bogotá, Medellín and other cities a driving ban applies depending on the last digit of the number plate.",
-"Kauf und Handel sind verboten – auch wenn Drogen offen angeboten werden. Oft gezielte Kontrollen von Touristen.": "Buying and dealing are illegal – even if drugs are offered openly. Tourists are often specifically checked."
+"Kauf und Handel sind verboten – auch wenn Drogen offen angeboten werden. Oft gezielte Kontrollen von Touristen.": "Buying and dealing are illegal – even if drugs are offered openly. Tourists are often specifically checked.",
+"Teilreisewarnung": "Partial travel warning",
+"Das Auswärtige Amt warnt vor Reisen in die Grenzgebiete zu Venezuela (Norte de Santander, Cesar) und rät von vielen weiteren Regionen dringend ab, u. a. Cauca, Valle del Cauca (außer Cali per Flug), Nariño (außer Pasto), Arauca, Putumayo, Caquetá, Huila und großen Teilen des Chocó – aktuelle Hinweise vor jeder Etappe prüfen.": "The German Foreign Office warns against travel to the border areas with Venezuela (Norte de Santander, Cesar) and strongly advises against many other regions, including Cauca, Valle del Cauca (except Cali by air), Nariño (except Pasto), Arauca, Putumayo, Caquetá, Huila and large parts of Chocó – check the latest advice before every leg.",
+"Check-MIG": "Check-MIG",
+"Online-Registrierung bei Migración Colombia innerhalb von 72 Stunden vor Einreise und erneut vor Ausreise – die Airline verlangt die Bestätigung.": "Register online with Migración Colombia within 72 hours before entry and again before departure – the airline will ask for the confirmation.",
+"Getränke nie unbeaufsichtigt lassen und nichts von Fremden annehmen (Scopolamin-Fälle, oft über Dating-Apps) – flüchtige Bekanntschaften nicht mit in die Unterkunft nehmen.": "Never leave drinks unattended or accept anything from strangers (scopolamine cases, often via dating apps) – don't take casual acquaintances back to your accommodation."
 });

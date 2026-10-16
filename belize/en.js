@@ -12,5 +12,9 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Besitz kleiner Mengen Cannabis ist entkriminalisiert, Kauf und Verkauf bleiben illegal. Andere Drogen werden streng bestraft.": "Possession of small amounts of cannabis is decriminalised, but buying and selling remain illegal. Other drugs are punished severely.",
 "Prepaid-SIM von Digi oder Smart – in Läden und am Flughafen erhältlich.": "Prepaid SIM from Digi or Smart – available in shops and at the airport.",
 "Wassertaxis": "Water taxis",
-"Fähren zwischen Belize City, Caye Caulker und San Pedro – Tickets am Anleger oder online.": "Ferries between Belize City, Caye Caulker and San Pedro – tickets at the pier or online."
+"Fähren zwischen Belize City, Caye Caulker und San Pedro – Tickets am Anleger oder online.": "Ferries between Belize City, Caye Caulker and San Pedro – tickets at the pier or online.",
+"(auch per SMS; Honorarkonsulin Belize City: +501 223 0896)": "(also by SMS; honorary consul in Belize City: +501 223 0896)",
+"Ausreisegebühr: über Land 19 US$ (bar bereithalten), per Flugzeug 37,50 US$.": "Departure fee: US$19 overland (have cash ready), US$37.50 by air.",
+"Geldwechsel": "Currency exchange",
+"Nur bei Banken oder zugelassenen Wechselstuben tauschen – Geldwechsel auf der Straße ist strafbar.": "Only change money at banks or licensed exchange offices – changing money on the street is a criminal offence."
 });

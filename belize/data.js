@@ -35,14 +35,15 @@ window.QT = {
   emergency: [
     ["911", "Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Guatemala-Stadt (Guatemala)", "address": ["Avenida La Reforma 9-55, Zona 10", "Edificio Reforma 10, Nivel 10", "Ciudad de Guatemala"], "phone": "+502 2364 6700", "emergency": "+502 5709 5004", "emergencyNote": "(auch per SMS)"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Guatemala-Stadt (Guatemala)", "address": ["Avenida La Reforma 9-55, Zona 10", "Edificio Reforma 10, Nivel 10", "Ciudad de Guatemala"], "phone": "+502 2364 6700", "emergency": "+502 5709 5004", "emergencyNote": "(auch per SMS; Honorarkonsulin Belize City: +501 223 0896)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/belize-node",
 
   rules: [
     ["US-Dollar", "US-Dollar werden überall angenommen (fester Kurs 1 US$ = 2 BZ$), Wechselgeld kommt meist in Belize-Dollar. Bei Preisen nachfragen, welche Währung gemeint ist."],
     ["Riff", "Am Barrier Reef Korallen nicht berühren, riffverträgliche Sonnencreme nutzen; Schnorcheltouren nur mit lizenzierten Guides."],
     ["Sicherheit", "In Belize City nachts nicht zu Fuß unterwegs sein; auf den Cayes und im Cayo District ist es entspannter."],
-    ["Ausreise", "Bei Ausreise über Land wird eine Ausreisegebühr fällig – bar bereithalten."]
+    ["Ausreise", "Ausreisegebühr: über Land 19 US$ (bar bereithalten), per Flugzeug 37,50 US$."],
+    ["Geldwechsel", "Nur bei Banken oder zugelassenen Wechselstuben tauschen – Geldwechsel auf der Straße ist strafbar."]
   ],
   car: [
     ["Straßen", "Viele Bodenschwellen („sleeping policemen“) ohne Warnung; abseits der Highways Schotterpisten. Nachts nicht fahren."]

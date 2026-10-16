@@ -9,5 +9,11 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Es wird links gefahren. Abseits der Küste viele Schotterpisten; nachts nicht fahren.": "Traffic drives on the left. Many gravel tracks away from the coast; don't drive at night.",
 "Auch Cannabis ist verboten; Drogendelikte werden streng bestraft – keine Pakete oder Gepäck für andere mitnehmen.": "Cannabis is also illegal; drug offences are punished severely – never carry parcels or luggage for others.",
 "Prepaid-SIM von Telesur oder Digicel – Pass nötig.": "Prepaid SIM from Telesur or Digicel – passport required.",
-"Kein Taxameter – Preis vor der Fahrt vereinbaren oder Taxi über die Unterkunft bestellen.": "No meters – agree on the price before the ride or book a taxi through your accommodation."
+"Kein Taxameter – Preis vor der Fahrt vereinbaren oder Taxi über die Unterkunft bestellen.": "No meters – agree on the price before the ride or book a taxi through your accommodation.",
+"19 St. Clair Avenue": "19 St. Clair Avenue",
+"St. Clair, Port of Spain 190125": "St. Clair, Port of Spain 190125",
+"(Bereitschaft Port of Spain, auch SMS/WhatsApp; Honorarkonsul Paramaribo: +597 471150)": "(Port of Spain duty line, also SMS/WhatsApp; honorary consul in Paramaribo: +597 471150)",
+"Einreise": "Entry",
+"Touristenkarte vorab online beantragen und ausgedruckt mitführen; zusätzlich das Online-Einreiseformular ausfüllen (frühestens 7 Tage vor Abflug).": "Apply for the tourist card online in advance and carry a printout; also fill in the online entry form (no earlier than 7 days before departure).",
+"Es wird links gefahren. Abseits der Küste viele Schotterpisten; nachts nicht fahren. Internationaler Führerschein nötig (gilt nur zusammen mit dem deutschen).": "Traffic drives on the left. Many gravel roads away from the coast; don't drive at night. An international driving permit is required (only valid together with your German licence)."
 });

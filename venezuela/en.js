@@ -12,5 +12,10 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Prepaid-SIM von Movistar oder Digitel – außerhalb der Städte ist das Netz lückenhaft.": "Prepaid SIM from Movistar or Digitel – coverage is patchy outside the cities.",
 "Alternativ vorab eSIM (z. B. Airalo) – Abdeckung vorher prüfen.": "Alternatively an eSIM in advance (e.g. Airalo) – check coverage first.",
 "Fahrdienste in Caracas – sicherer als Taxis von der Straße.": "Ride-hailing in Caracas – safer than hailing taxis on the street.",
-"Canaima (Salto Ángel)": "Canaima (Angel Falls)"
+"Canaima (Salto Ángel)": "Canaima (Angel Falls)",
+"Teilreisewarnung": "Partial travel warning",
+"Das Auswärtige Amt warnt vor Reisen in die Grenzstaaten zu Kolumbien (außer Maracaibo), Brasilien und Guyana und rät von Reisen in alle übrigen Landesteile ab – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to the states bordering Colombia (except Maracaibo), Brazil and Guyana and advises against travel to all other parts of the country – check the current situation before every trip.",
+"Bolívares sind kaum erhältlich, Geldautomaten außer Betrieb. Gezahlt wird elektronisch oder bar in US-Dollar – genug kleine, unbeschädigte Scheine mitnehmen, Wechselgeld gibt es oft nicht.": "Bolívares are hard to get and ATMs are out of service. Payment is electronic or in cash US dollars – bring enough small, undamaged notes, as change is often not given.",
+"(nur dringende Notfälle außerhalb der Dienstzeiten)": "(urgent emergencies outside office hours only)",
+"Nachts nicht fahren. Selbstfahren wird nicht empfohlen – besser mit Fahrer oder organisierter Tour. Internationaler Führerschein nötig (gilt nur zusammen mit dem deutschen).": "Don't drive at night. Self-driving is not recommended – better with a driver or an organised tour. An international driving permit is required (only valid together with your German licence)."
 });

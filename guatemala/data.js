@@ -42,13 +42,14 @@ window.QT = {
 
   rules: [
     ["Sicherheit", "Reisehinweise des Auswärtigen Amts beachten. Nachts keine Überlandfahrten, nur Shuttles oder Touren statt „Chicken Buses“ für lange Strecken."],
+    ["Einreise", "Vor Ein- und Ausreise online die Reiseerklärung („Declaración Jurada Regional de Viajero“) ausfüllen und den QR-Code bereithalten. Der Pass muss noch 6 Monate gültig sein."],
     ["Fotografieren", "Menschen – besonders Kinder und indigene Frauen – nur nach Erlaubnis fotografieren. In Chichicastenango in Kirchen nicht fotografieren."],
     ["Vulkane", "Wanderungen (z. B. Acatenango, Pacaya) nur mit Guide; warme Kleidung, nachts wird es eiskalt."],
     ["Trinkwasser", "Kein Leitungswasser trinken – auch nicht zum Zähneputzen; Eiswürfel nur in guten Restaurants."],
     ["Bargeld", "Kleine Quetzal-Scheine bereithalten; außerhalb der Städte kaum Kartenzahlung."]
   ],
   car: [
-    ["Straßen", "Nachts nicht über Land fahren. Viele Bodenschwellen („túmulos“) ohne Warnung. Internationalen Führerschein mitnehmen."]
+    ["Straßen", "Nachts nicht über Land fahren. Viele Bodenschwellen („túmulos“) ohne Warnung. Deutscher Führerschein wird anerkannt, internationaler Führerschein empfohlen."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren. Rund um Wahlen gilt oft ein Alkoholverbot („Ley seca“)."],

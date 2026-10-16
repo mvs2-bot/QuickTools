@@ -29,16 +29,16 @@ window.QT = {
   emergency: [
     ["911", "Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Tegucigalpa", "address": ["Avenida República Dominicana 925, Colonia Lomas del Guijarro", "Tegucigalpa"], "phone": "+504 2232 3161"},
+  embassy: {"title": "Deutsche Botschaft Tegucigalpa", "address": ["Avenida República Dominicana, Sendero Santo Domingo 925", "Colonia Lomas del Guijarro, Tegucigalpa"], "phone": "+504 2275 9292", "emergency": "+504 9990 2437", "emergencyNote": "(nur Notfälle außerhalb der Dienstzeiten; Honorarkonsul San Pedro Sula: +504 2557 0892)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/honduras-node",
 
   rules: [
-    ["Sicherheit", "Hohe Kriminalität, besonders in San Pedro Sula und Tegucigalpa: nachts nicht zu Fuß, keine Wertsachen zeigen, bei Überfällen keinen Widerstand leisten. Copán und die Bay Islands gelten als ruhiger."],
+    ["Sicherheit", "Sehr hohe Kriminalität, besonders in San Pedro Sula, Tegucigalpa, La Ceiba und Tela sowie auf der Strecke nach Copán Ruinas: nachts nicht zu Fuß, keine Wertsachen zeigen, nur Funk- oder App-Taxis, bei Überfällen keinen Widerstand leisten."],
     ["Bay Islands", "Auf Roatán und Utila wird viel Englisch gesprochen; beim Tauchen und Schnorcheln Korallen nicht berühren."],
     ["Bargeld", "Kleine Lempira-Scheine bereithalten; Geld nur tagsüber an Automaten in Banken oder Einkaufszentren abheben."]
   ],
   car: [
-    ["Straßen", "Nachts nicht über Land fahren. Polizei- und Militärkontrollen: Pass, Führerschein und Mietvertrag bereithalten."]
+    ["Straßen", "Nachts nicht über Land fahren. Polizei- und Militärkontrollen: Pass, Führerschein und Mietvertrag bereithalten. Internationaler Führerschein nötig (gilt nur zusammen mit dem deutschen)."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren."],

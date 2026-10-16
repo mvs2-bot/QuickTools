@@ -21,7 +21,7 @@ window.QT = {
       {"de": "Ein großes Bier bitte", "local": "Una cerveza grande, por favor", "phonetic": "U-na ser-WE-sa GRAN-de, por fa-WOR"},
       {"de": "Ich bin Vegetarier/in", "local": "Soy vegetariano / vegetariana", "phonetic": "soi we-che-ta-RJA-no / -na"},
       {"de": "Ich esse kein Fleisch und Fisch, aber Eier schon", "local": "No como carne ni pescado, pero sí huevos", "phonetic": "no KO-mo KAR-ne ni pes-KA-do, PE-ro si WE-wos"},
-      {"de": "Das Essen war sehr lecker", "local": "¡Estuvo delicioso!", "phonetic": ""},
+      {"de": "Das Essen war sehr lecker", "local": "¡Estuvo delicioso!", "phonetic": "es-TU-wo de-li-SJO-so"},
       {"de": "Hilfe! Es ist ein Notfall!", "local": "¡Ayuda! ¡Es una emergencia!", "phonetic": "a-JU-da! es U-na e-mer-CHEN-sja"}
     ]},
     { title: "🌴 Tico-Spanisch", lang: "es-CR", items: [
@@ -41,7 +41,7 @@ window.QT = {
     ["US-Dollar", "Dollar werden fast überall angenommen, Wechselgeld kommt aber oft in Colones."],
     ["Meer", "Starke Strömungen (Rip Currents) an der Pazifikküste – nur an bewachten Stränden baden."],
     ["Tiere", "Wildtiere (Affen, Waschbären) nicht füttern; nachts nicht barfuß laufen."],
-    ["Ausreise", "Die Flughafen-Ausreisegebühr ist meist im Ticket enthalten – vorher prüfen."]
+    ["Ausreise", "Rück- oder Weiterreiseticket nötig. Die Ausreisegebühr ist bei Flügen meist im Ticket enthalten, über Land meist 7 US$."]
   ],
   car: [
     ["Straßen", "Viele Nebenstraßen sind Schotterpisten und Flüsse ohne Brücke – Allrad-Mietwagen lohnt sich."],

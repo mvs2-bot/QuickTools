@@ -29,17 +29,17 @@ window.QT = {
   emergency: [
     ["911", "Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Caracas", "address": ["Torre La Castellana, Piso 10", "Av. Eugenio Mendoza, La Castellana", "Caracas"], "phone": "+58 212 219 2500"},
+  embassy: {"title": "Deutsche Botschaft Caracas", "address": ["Torre La Castellana, Piso 10", "Av. Eugenio Mendoza, La Castellana", "Caracas"], "phone": "+58 212 219 2513", "emergency": "+58 414 306 1892", "emergencyNote": "(nur dringende Notfälle außerhalb der Dienstzeiten)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/venezuela-node",
 
   rules: [
-    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Venezuela – vor jeder Reise die aktuelle Lage prüfen."],
-    ["US-Dollar", "Bezahlt wird meist bar in US-Dollar – kleine, saubere und unbeschädigte Scheine mitnehmen. Ausländische Karten funktionieren oft nicht."],
+    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Grenzstaaten zu Kolumbien (außer Maracaibo), Brasilien und Guyana und rät von Reisen in alle übrigen Landesteile ab – vor jeder Reise die aktuelle Lage prüfen."],
+    ["US-Dollar", "Bolívares sind kaum erhältlich, Geldautomaten außer Betrieb. Gezahlt wird elektronisch oder bar in US-Dollar – genug kleine, unbeschädigte Scheine mitnehmen, Wechselgeld gibt es oft nicht."],
     ["Versorgung", "Häufige Strom- und Wasserausfälle, Engpässe bei Treibstoff und Medikamenten – eigene Reiseapotheke mitbringen."],
     ["Kontrollen", "Viele Polizei- und Militärkontrollen; Pass (oder Kopie) immer dabeihaben. Keine Behörden, Militär oder Demonstrationen fotografieren."]
   ],
   car: [
-    ["Straßen", "Nachts nicht fahren. Selbstfahren wird nicht empfohlen – besser mit Fahrer oder organisierter Tour."]
+    ["Straßen", "Nachts nicht fahren. Selbstfahren wird nicht empfohlen – besser mit Fahrer oder organisierter Tour. Internationaler Führerschein nötig (gilt nur zusammen mit dem deutschen)."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren."],
