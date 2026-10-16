@@ -1,0 +1,21 @@
+/* Englische Texte nur für Zypern (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"🇨🇾 Griechisch": "🇨🇾 Greek",
+"🇹🇷 Türkisch (Norden)": "🇹🇷 Turkish (north)",
+"Deutsche Botschaft Nikosia": "German Embassy Nicosia",
+"Geteilte Insel": "Divided island",
+"Seit 1974 ist Zypern geteilt. Die „Türkische Republik Nordzypern“ wird nur von der Türkei anerkannt; dazwischen liegt eine UN-Pufferzone. Die EU-Regeln gelten faktisch nur im Süden.": "Cyprus has been divided since 1974. The \"Turkish Republic of Northern Cyprus\" is recognised only by Turkey; a UN buffer zone lies in between. In practice EU rules only apply in the south.",
+"Grenzübergänge": "Crossing points",
+"Wechsel zwischen Süd und Nord an den Checkpoints mit Ausweis möglich. Mietwagen aus dem Süden sind im Norden meist nicht versichert – an der Grenze eine Zusatzversicherung kaufen.": "You can cross between south and north at the checkpoints with ID. Hire cars from the south are usually not insured in the north – buy extra insurance at the crossing.",
+"Pufferzone & Militär": "Buffer zone & military",
+"Militäranlagen und die Pufferzone nicht fotografieren – Schilder beachten.": "Do not photograph military sites or the buffer zone – follow the signs.",
+"Im Sommer sehr heiß und hohe Waldbrandgefahr – kein offenes Feuer, Zigaretten nie wegwerfen.": "Very hot in summer with a high risk of wildfires – no open fires, never throw away cigarettes.",
+"Achtung im Norden": "Careful in the north",
+"Im Norden gelten türkische Netze – kein EU-Roaming, sehr teuer. Daten-Roaming dort ausschalten.": "Turkish networks operate in the north – no EU roaming, very expensive. Turn off data roaming there.",
+"Cyprus by Bus": "Cyprus by Bus",
+"Fahrpläne für Überland- und Stadtbusse.": "Timetables for intercity and city buses.",
+"Fahrdienst und Taxis in den Städten.": "Ride-hailing and taxis in the cities.",
+"Achtung, in Zypern wird links gefahren. Mietwagen haben rote Kennzeichen.": "Careful: Cyprus drives on the left. Hire cars have red number plates.",
+"Trinkbar (oft entsalzt), viele nehmen Flaschenwasser": "Drinkable (often desalinated), many people drink bottled water",
+"Nikosia": "Nicosia"
+});

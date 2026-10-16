@@ -1,0 +1,6 @@
+/* Englische Texte nur für Grenada (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"🇬🇩 Englisch": "🇬🇩 English",
+"Fähre nach Carriacou und Petite Martinique.": "Ferry to Carriacou and Petite Martinique.",
+"Kleine Mengen Cannabis sind teils entkriminalisiert, Konsum in der Öffentlichkeit bleibt verboten. Andere Drogen werden streng bestraft.": "Small amounts of cannabis are partly decriminalised, but public use remains illegal. Other drugs are punished severely."
+});

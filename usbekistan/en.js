@@ -1,0 +1,22 @@
+/* Englische Texte nur für Usbekistan (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Usbekischer Soʻm": "Uzbekistani soʻm",
+"🇺🇿 Usbekisch": "🇺🇿 Uzbek",
+"Deutsche Botschaft Taschkent": "German Embassy Tashkent",
+"Sharaf-Rashidov-Straße 15": "15 Sharaf Rashidov Street",
+"100017 Taschkent": "100017 Tashkent",
+"Mit deutschem Pass bis 30 Tage visumfrei. Hotels registrieren automatisch – Belege aufbewahren, bei Kontrollen kann danach gefragt werden.": "Visa-free for up to 30 days with a German passport. Hotels register you automatically – keep the slips, you may be asked for them at checks.",
+"Moscheen & Medresen": "Mosques & madrasas",
+"Schultern und Knie bedecken, Frauen in aktiven Moscheen ein Kopftuch; Schuhe ausziehen.": "Cover shoulders and knees, women wear a headscarf in active mosques; take off your shoes.",
+"Brot": "Bread",
+"Brot (Non) gilt als heilig – nie wegwerfen, nicht umgedreht hinlegen.": "Bread (non) is considered sacred – never throw it away or put it upside down.",
+"Viele Schmerz-, Schlaf- und Beruhigungsmittel (z. B. Codein, Tramadol) gelten als Betäubungsmittel – nur mit ärztlicher Bescheinigung mitnehmen.": "Many painkillers, sleeping pills and sedatives (e.g. codeine, tramadol) count as narcotics – only bring them with a doctor's certificate.",
+"Mietwagen sind selten – Schnellzüge (Afrosiyob) und Fahrer sind bequemer. Viele Polizeikontrollen.": "Rental cars are rare – high-speed trains (Afrosiyob) and drivers are more convenient. Many police checks.",
+"Erhältlich; Trinken in der Öffentlichkeit ist verboten.": "Available; drinking in public is forbidden.",
+"Beeline, Ucell oder Mobiuz – günstig, Pass nötig. Alternativ vorab eSIM.": "Beeline, Ucell or Mobiuz – cheap, passport required. Alternatively an eSIM in advance.",
+"Taxi-App in allen größeren Städten – Preis steht vorher fest.": "Taxi app in all larger cities – price fixed in advance.",
+"Zugtickets (Afrosiyob Taschkent–Samarkand–Buchara) – früh buchen.": "Train tickets (Afrosiyob Tashkent–Samarkand–Bukhara) – book early.",
+"Taschkent": "Tashkent",
+"Buchara": "Bukhara",
+"Chiwa": "Khiva"
+});

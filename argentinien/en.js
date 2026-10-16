@@ -1,0 +1,25 @@
+/* Englische Texte nur für Argentinien (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Argentinischer Peso": "Argentine peso",
+"🇦🇷 Spanisch (Argentinien)": "🇦🇷 Spanish (Argentina)",
+"Sprichst du Englisch?": "Do you speak English? (informal)",
+"Polizei (Buenos Aires & viele Provinzen)": "Police (Buenos Aires & many provinces)",
+"Rettungsdienst (SAME)": "Ambulance (SAME)",
+"Polizei (wo 911 nicht gilt)": "Police (where 911 is not available)",
+"Deutsche Botschaft Buenos Aires": "German Embassy Buenos Aires",
+"(Bereitschaftsdienst, keine Termin-/Visafragen)": "(on-call service, no appointment/visa questions)",
+"Wechselkurs": "Exchange rate",
+"Mit ausländischer Kreditkarte bekommt man meist einen günstigen Kurs (Dólar MEP). Bargeld nur bei seriösen Stellen tauschen, nie auf der Straße.": "Foreign credit cards usually get a favourable rate (dólar MEP). Only exchange cash at reputable places, never on the street.",
+"Die Inflation ist hoch – Preise ändern sich schnell. Der Rechner nutzt den offiziellen Kurs.": "Inflation is high – prices change quickly. The calculator uses the official rate.",
+"Abendessen selten vor 21 Uhr, viele Restaurants öffnen erst dann.": "Dinner rarely before 9 pm, many restaurants only open then.",
+"Wer zum Mate eingeladen wird: Nicht am Strohhalm rühren und erst „gracias“ sagen, wenn man nichts mehr möchte.": "If you're invited to share mate: don't stir with the straw, and only say \"gracias\" when you don't want any more.",
+"In Buenos Aires Handy nicht offen am Straßenrand nutzen, nur App-Taxis nehmen.": "In Buenos Aires, don't use your phone openly at the roadside; only take app taxis.",
+"Prepaid-SIM von Personal, Claro oder Movistar – Reisepass nötig.": "Prepaid SIM from Personal, Claro or Movistar – passport required.",
+"Alternativ vorab eSIM (z. B. Airalo) – in Patagonien oft kein Netz.": "Alternatively an eSIM in advance (e.g. Airalo) – often no signal in Patagonia.",
+"Fahrdienste in Buenos Aires und anderen Städten.": "Ride-hailing in Buenos Aires and other cities.",
+"Fernbustickets im ganzen Land.": "Long-distance bus tickets across the country.",
+"ca. 10 % (Restaurant)": "approx. 10 % (restaurants)",
+"0,0 ‰ auf Nationalstraßen und in den meisten Provinzen.": "0.0 ‰ on national highways and in most provinces.",
+"Auf Landstraßen Abblendlicht auch tagsüber Pflicht. Internationalen Führerschein mitnehmen.": "Dipped headlights are mandatory during the day on country roads. Bring an international driving permit.",
+"Verboten – kleine Mengen für den Eigenbedarf werden privat meist nicht verfolgt, in der Öffentlichkeit schon.": "Illegal – small amounts for personal use are usually not prosecuted in private, but they are in public."
+});

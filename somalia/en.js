@@ -1,0 +1,20 @@
+/* Englische Texte nur für Somalia (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Somalia-Schilling": "Somali shilling",
+"🇸🇴 Somali": "🇸🇴 Somali",
+"Somaliland": "Somaliland",
+"Der Norden (Hauptstadt Hargeysa) hat sich 1991 für unabhängig erklärt, ist international aber weitgehend nicht anerkannt. Somaliland hat eigene Behörden, eigene Visa und eine eigene Währung (Somaliland-Schilling).": "The north (capital Hargeisa) declared independence in 1991 but is largely not recognised internationally. Somaliland has its own authorities, its own visas and its own currency (Somaliland shilling).",
+"Puntland": "Puntland",
+"Puntland im Nordosten ist eine weitgehend autonome Region Somalias mit eigener Verwaltung.": "Puntland in the north-east is a largely autonomous region of Somalia with its own administration.",
+"Nairobi, Kenia": "Nairobi, Kenya",
+"Das Auswärtige Amt warnt vor Reisen nach Somalia – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to Somalia – check the current situation before every trip.",
+"Terroranschläge (al-Shabaab), bewaffnete Konflikte und hohes Entführungsrisiko. Konsularische Hilfe ist kaum möglich.": "Terrorist attacks (al-Shabaab), armed conflict and a high risk of kidnapping. Consular assistance is hardly possible.",
+"Konservativ kleiden: lange Hosen und Ärmel, Frauen mit Kopftuch.": "Dress conservatively: long trousers and sleeves, women with a headscarf.",
+"Nicht möglich – nur mit lokalem Sicherheitsschutz unterwegs sein.": "Not possible – only travel with local security protection.",
+"Khat ist weit verbreitet – die Mitnahme nach Deutschland ist strafbar.": "Khat is widespread – taking it to Germany is a criminal offence.",
+"Andere Drogen werden extrem streng bestraft.": "Other drugs are punished extremely severely.",
+"Hormuud oder Somtel, in Somaliland Telesom – Pass nötig, günstige Datenpakete.": "Hormuud or Somtel, Telesom in Somaliland – passport required, cheap data packages.",
+"Mobiles Bezahlen (meist in US-Dollar) ist allgegenwärtig – Zaad in Somaliland.": "Mobile payments (mostly in US dollars) are everywhere – Zaad in Somaliland.",
+"Mogadischu": "Mogadishu",
+"Hargeysa (Somaliland)": "Hargeisa (Somaliland)"
+});

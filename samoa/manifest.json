@@ -1,0 +1,21 @@
+{
+  "id": "/QuickTools/samoa/",
+  "start_url": "./",
+  "scope": "./",
+  "name": "Quick-Tools Samoa",
+  "short_name": "Samoa",
+  "description": "Urlaubs-Quick-Tools Samoa",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7f4",
+  "theme_color": "#15803d",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

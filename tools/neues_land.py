@@ -24,13 +24,35 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 
 # Reihenfolge und Gruppierung auf der Übersichtsseite
 REGION = {
-    'Europa': ['albanien', 'belgien', 'daenemark', 'deutschland', 'frankreich', 'griechenland', 'grossbritannien', 'island',
-               'italien', 'kroatien', 'montenegro', 'niederlande', 'norwegen', 'oesterreich', 'polen', 'portugal',
-               'schweden', 'schweiz', 'slowenien', 'spanien', 'tschechien', 'tuerkei', 'ungarn'],
-    'Asien': ['china', 'indonesien', 'japan', 'kambodscha', 'malaysia', 'philippinen', 'srilanka', 'suedkorea', 'thailand', 'vietnam'],
-    'Amerika': ['argentinien', 'bolivien', 'chile', 'costarica', 'ecuador', 'guatemala', 'kanada', 'kolumbien', 'mexiko', 'peru', 'usa'],
-    'Afrika': ['aegypten', 'marokko', 'suedafrika'],
-    'Ozeanien': ['australien', 'neuseeland'],
+    'Europa': ['albanien', 'andorra', 'belarus', 'belgien', 'bosnien', 'bulgarien', 'daenemark', 'deutschland',
+               'estland', 'finnland', 'frankreich', 'griechenland', 'grossbritannien', 'irland', 'island',
+               'italien', 'kosovo', 'kroatien', 'lettland', 'liechtenstein', 'litauen', 'luxemburg', 'malta',
+               'moldau', 'monaco', 'montenegro', 'niederlande', 'nordmazedonien', 'norwegen', 'oesterreich',
+               'polen', 'portugal', 'rumaenien', 'russland', 'sanmarino', 'schweden', 'schweiz', 'serbien',
+               'slowakei', 'slowenien', 'spanien', 'tschechien', 'tuerkei', 'ukraine', 'ungarn', 'vatikan',
+               'zypern'],
+    'Naher Osten': ['bahrain', 'irak', 'iran', 'israel', 'jemen', 'jordanien', 'katar', 'kuwait', 'libanon', 'oman',
+                    'palaestina', 'saudiarabien', 'syrien', 'vae'],
+    'Asien': ['afghanistan', 'armenien', 'aserbaidschan', 'bangladesch', 'bhutan', 'brunei', 'china', 'georgien',
+              'indien', 'indonesien', 'japan', 'kambodscha', 'kasachstan', 'kirgisistan', 'laos', 'malaysia',
+              'malediven', 'mongolei', 'myanmar', 'nepal', 'nordkorea', 'osttimor', 'pakistan', 'philippinen',
+              'singapur', 'srilanka', 'suedkorea', 'tadschikistan', 'taiwan', 'thailand', 'turkmenistan',
+              'usbekistan', 'vietnam'],
+    'Afrika': ['aegypten', 'aequatorialguinea', 'aethiopien', 'algerien', 'angola', 'benin', 'botswana',
+               'burkinafaso', 'burundi', 'dschibuti', 'elfenbeinkueste', 'eritrea', 'eswatini', 'gabun', 'gambia',
+               'ghana', 'guinea', 'guineabissau', 'kamerun', 'kapverde', 'kenia', 'komoren', 'kongo', 'kongodr',
+               'lesotho', 'liberia', 'libyen', 'madagaskar', 'malawi', 'mali', 'marokko', 'mauretanien',
+               'mauritius', 'mosambik', 'namibia', 'niger', 'nigeria', 'ruanda', 'sambia', 'saotome', 'senegal',
+               'seychellen', 'sierraleone', 'simbabwe', 'somalia', 'sudan', 'suedafrika', 'suedsudan', 'tansania',
+               'togo', 'tschad', 'tunesien', 'uganda', 'zentralafrika'],
+    'Nord- & Mittelamerika': ['belize', 'costarica', 'elsalvador', 'guatemala', 'honduras', 'kanada', 'mexiko', 'nicaragua',
+                              'panama', 'usa'],
+    'Karibik': ['antiguabarbuda', 'bahamas', 'barbados', 'dominica', 'dominikanischerepublik', 'grenada', 'haiti',
+                'jamaika', 'kuba', 'stkittsnevis', 'stlucia', 'stvincent', 'trinidadtobago'],
+    'Südamerika': ['argentinien', 'bolivien', 'brasilien', 'chile', 'ecuador', 'guyana', 'kolumbien', 'paraguay',
+                   'peru', 'suriname', 'uruguay', 'venezuela'],
+    'Ozeanien': ['australien', 'fidschi', 'kiribati', 'marshallinseln', 'mikronesien', 'nauru', 'neuseeland',
+                 'palau', 'papuaneuguinea', 'salomonen', 'samoa', 'tonga', 'tuvalu', 'vanuatu'],
 }
 
 THEME_BOOT = ("<script>(function(){try{if(localStorage.getItem('qt_theme_v1')==='dark')"
@@ -145,7 +167,8 @@ self.addEventListener('fetch', e => {{
 """
 
 
-def country_index(m):
+def country_index(m, has_en=False):
+    en = '\n    <script src="en.js"></script>' if has_en else ''
     return f"""<!DOCTYPE html>
 <html lang="de">
 <head>
@@ -167,7 +190,7 @@ def country_index(m):
     <noscript>Bitte JavaScript aktivieren.</noscript>
     <!-- Inhalte: data.js (nur dieses Land) · Aufbau & Funktionen: ../shared/app.js (alle Länder) -->
     <script src="data.js"></script>
-    <script src="../shared/i18n-en.js"></script>
+    <script src="../shared/i18n-en.js"></script>{en}
     <script src="../shared/app.js"></script>
 </body>
 </html>
@@ -311,10 +334,11 @@ def main():
         if m['slug'] != folder.name:
             raise SystemExit(f"⚠️  {folder.name}/data.js: slug '{m['slug']}' muss gleich dem Ordnernamen sein")
         countries[folder.name] = m
-        (folder / 'index.html').write_text(country_index(m), encoding='utf-8')
+        has_en = (folder / 'en.js').exists()   # englische Texte nur für dieses Land
+        (folder / 'index.html').write_text(country_index(m, has_en), encoding='utf-8')
         (folder / 'manifest.json').write_text(
             manifest(f"Quick-Tools {m['name']}", m['name'], f"Urlaubs-Quick-Tools {m['name']}", folder.name), encoding='utf-8')
-        (folder / 'sw.js').write_text(sw_js(['./data.js', '../shared/i18n-en.js', '../shared/app.js', '../shared/style.css']), encoding='utf-8')
+        (folder / 'sw.js').write_text(sw_js(['./data.js'] + (['./en.js'] if has_en else []) + ['../shared/i18n-en.js', '../shared/app.js', '../shared/style.css']), encoding='utf-8')
         (folder / 'icon.svg').write_text(icon_svg(m['flag']), encoding='utf-8')
         print(f"✓ {m['flag']}  {folder.name}")
     missing = set(countries) - {s for v in REGION.values() for s in v}

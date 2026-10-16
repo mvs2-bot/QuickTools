@@ -40,6 +40,9 @@ window.QT = {
   },
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/korearepublik-node',
 
+  status: [
+    ["Geteiltes Land", "Süd- und Nordkorea erkennen sich gegenseitig nicht als Staat an; ein Friedensvertrag nach dem Koreakrieg fehlt bis heute. Die Grenze (DMZ) ist nur mit geführten Touren zu besuchen."]
+  ],
   rules: [
     ["Karten-Apps", "Google Maps funktioniert in Korea nur eingeschränkt (keine Fuß-/Autonavigation) – Naver Map oder KakaoMap nutzen."],
     ["Höflichkeit", "Gegenstände und Geld mit beiden Händen geben/annehmen, besonders bei Älteren. Leichte Verbeugung zur Begrüßung."],

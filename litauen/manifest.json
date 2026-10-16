@@ -1,0 +1,21 @@
+{
+  "id": "/QuickTools/litauen/",
+  "start_url": "./",
+  "scope": "./",
+  "name": "Quick-Tools Litauen",
+  "short_name": "Litauen",
+  "description": "Urlaubs-Quick-Tools Litauen",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7f4",
+  "theme_color": "#15803d",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

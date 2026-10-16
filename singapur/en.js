@@ -1,0 +1,27 @@
+/* Englische Texte nur für Singapur (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Singapur-Dollar": "Singapore dollar",
+"Nicht üblich (meist 10 % Service-Charge auf der Rechnung)": "Not customary (usually a 10 % service charge on the bill)",
+"🇸🇬 Englisch": "🇸🇬 English",
+"🇸🇬 Malaiisch": "🇸🇬 Malay",
+"Krankentransport (kein Notfall)": "Non-emergency ambulance",
+"Deutsche Botschaft Singapur": "German Embassy Singapore",
+"Innerhalb von drei Tagen vor der Ankunft die kostenlose SG Arrival Card online (oder per App MyICA) ausfüllen.": "Within three days before arrival, fill in the free SG Arrival Card online (or via the MyICA app).",
+"Hohe Strafen für Müll wegwerfen, Spucken, Rauchen außerhalb markierter Zonen und Essen oder Trinken in der MRT. Kaugummi darf nicht eingeführt oder verkauft werden.": "Heavy fines for littering, spitting, smoking outside designated areas and eating or drinking on the MRT. Chewing gum may not be imported or sold.",
+"Nur an Ampeln oder Zebrastreifen – „Jaywalking“ kostet Bußgeld.": "Only at traffic lights or zebra crossings – jaywalking is fined.",
+"Durian": "Durian",
+"Die stark riechende Durian-Frucht ist in MRT, Bussen und vielen Hotels verboten.": "The pungent durian fruit is banned on the MRT, buses and in many hotels.",
+"Homosexuelle Handlungen sind seit 2022 nicht mehr strafbar. Demonstrationen sind ohne Genehmigung verboten.": "Homosexual acts have no longer been a criminal offence since 2022. Demonstrations without a permit are prohibited.",
+"0,8 ‰ – aber sehr harte Strafen bei Verstößen. Linksverkehr.": "0.8 ‰ – but very harsh penalties for violations. Driving on the left.",
+"Kaum nötig: MRT, Busse und Taxis sind günstig und gut. Innenstadt-Maut (ERP) wird automatisch abgebucht.": "Hardly needed: MRT, buses and taxis are cheap and good. The city-centre road charge (ERP) is deducted automatically.",
+"Vapes sind komplett verboten – auch Besitz und Gebrauch. Es drohen hohe Strafen, Kontrollen am Flughafen.": "Vapes are completely banned – including possession and use. Heavy fines apply, with checks at the airport.",
+"Ab 18. Verkauf in Läden nur 7–22:30 Uhr, Trinken im öffentlichen Raum nachts verboten.": "From 18. Shops may only sell alcohol from 7 am to 10:30 pm; drinking in public places is banned at night.",
+"Drogendelikte werden extrem hart bestraft, bis hin zur Todesstrafe. Auch Konsum im Ausland kann bei Einreise per Test geahndet werden.": "Drug offences are punished extremely harshly, up to the death penalty. Even consumption abroad can be prosecuted if detected by a test on entry.",
+"Touristen-SIM von Singtel, StarHub oder M1 am Flughafen Changi oder in 7-Eleven – Pass nötig.": "Tourist SIM from Singtel, StarHub or M1 at Changi Airport or in 7-Eleven – passport required.",
+"Taxis und Essenslieferung.": "Taxis and food delivery.",
+"SG Arrival Card vor der Einreise ausfüllen.": "Fill in the SG Arrival Card before entry.",
+"Kontaktlos zahlen": "Contactless payment",
+"In MRT und Bussen einfach mit Kreditkarte oder Handy ein- und auschecken.": "Simply tap in and out on the MRT and buses with your credit card or phone.",
+"Singapur (Innenstadt)": "Singapore (city centre)",
+"Flughafen Changi": "Changi Airport"
+});

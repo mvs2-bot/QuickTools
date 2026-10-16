@@ -41,6 +41,10 @@ window.QT = {
   },
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/china-node',
 
+  status: [
+    ["Taiwan", "Die Volksrepublik betrachtet Taiwan als Teil Chinas und erkennt die Regierung in Taipeh nicht an. Taiwan hat eigene Einreiseregeln und eine eigene Währung."],
+    ["Hongkong & Macau", "Sonderverwaltungszonen mit eigener Einreise, eigener Währung und eigenem Notruf (999) – bei der Weiterreise nach Festlandchina gilt wieder die chinesische Einreise."]
+  ],
   rules: [
     ["Internet", "Google (inkl. Maps, Gmail), WhatsApp, Instagram u. a. sind gesperrt. Eine ausländische eSIM mit Roaming umgeht das meist – vor der Reise einrichten!"],
     ["Bezahlen", "Fast alles läuft über Alipay oder WeChat Pay. Beide Apps vorab installieren und mit Kreditkarte verknüpfen. Etwas Bargeld als Reserve."],

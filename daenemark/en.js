@@ -1,0 +1,26 @@
+/* Englische Texte nur für Dänemark (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Dänische Krone": "Danish krone",
+"🇩🇰 Dänisch": "🇩🇰 Danish",
+"Akuttelefon Kopenhagen-Region (nicht lebensbedrohlich)": "Medical helpline Copenhagen region (non-life-threatening)",
+"Deutsche Botschaft Kopenhagen": "German Embassy Copenhagen",
+"(Bereitschaftsdienst)": "(on-call service)",
+"2150 Nordhavn (Kopenhagen)": "2150 Nordhavn (Copenhagen)",
+"Fast alles geht mit Karte oder MobilePay – Bargeld braucht man kaum. Euro wird selten angenommen.": "Almost everything can be paid by card or MobilePay – you hardly need cash. Euros are rarely accepted.",
+"Radwege sind tabu für Fußgänger. In Kopenhagen beim Aussteigen aus Bus/Taxi auf Radfahrer achten.": "Cycle lanes are off-limits to pedestrians. In Copenhagen watch out for cyclists when getting out of a bus/taxi.",
+"Strand & Dünen": "Beach & dunes",
+"Nicht über geschützte Dünen laufen. Mit dem Auto nur auf freigegebenen Strandabschnitten fahren.": "Don't walk on protected dunes. Only drive on designated sections of the beach.",
+"Abblendlicht auch tagsüber Pflicht. Brücken (Storebælt, Øresund) sind mautpflichtig.": "Dipped headlights are mandatory during the day. Bridges (Great Belt, Øresund) are tolled.",
+"Service ist im Preis enthalten – Trinkgeld ist nicht üblich, Aufrunden bei gutem Service ist aber gern gesehen.": "Service is included in the price – tipping is not customary, but rounding up for good service is appreciated.",
+"Achtung Fähren": "Watch out on ferries",
+"Auf Fähren bucht sich das Handy manchmal ins teure Schiffsnetz ein – dann Mobilfunk/Roaming kurz ausschalten.": "On ferries your phone sometimes connects to the expensive maritime network – briefly switch off mobile data/roaming.",
+"Nahverkehr und Fahrpläne im ganzen Land.": "Public transport and timetables across the country.",
+"Zugtickets buchen.": "Book train tickets.",
+"Kopenhagen": "Copenhagen",
+"Tempoverstöße sind sehr teuer; Radfahrer haben beim Rechtsabbiegen Vorrang.": "Speeding is very expensive; cyclists have priority when you turn right.",
+"Linksabbiegen": "Turning left",
+"Mit dem Rad in zwei Schritten: erst geradeaus über die Kreuzung, dann warten und abbiegen. Zum Anhalten Hand heben.": "By bike in two steps: first straight across the junction, then wait and turn. Raise your hand to signal stopping.",
+"Alkohol in der Öffentlichkeit": "Drinking in public",
+"Trinken in der Öffentlichkeit ist grundsätzlich erlaubt (lokale Verbote möglich). In Bars ab 18.": "Drinking in public is generally allowed (local bans possible). In bars from 18.",
+"Verboten – auch in Christiania; die Pusher Street wurde 2024 geschlossen.": "Illegal – also in Christiania; Pusher Street was closed in 2024."
+});

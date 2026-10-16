@@ -40,6 +40,9 @@ window.QT = {
   embassy: {"title": "Deutsche Botschaft Rabat", "address": ["7, Zankat Madnine", "Rabat"], "phone": "+212 537 63 54 00"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/marokko-node",
 
+  status: [
+    ["Westsahara", "Marokko beansprucht die Westsahara und verwaltet den größten Teil davon; der Status ist international umstritten, die Polisario fordert die Unabhängigkeit. Abseits der Küstenorte gilt dort erhöhte Vorsicht."]
+  ],
   rules: [
     ["Kleidung", "Schultern und Knie bedecken, besonders außerhalb von Strand und Hotel. Moscheen dürfen Nicht-Muslime meist nicht betreten (Ausnahme: Hassan-II-Moschee)."],
     ["Handeln", "In den Souks ist Handeln Pflicht – freundlich bleiben, am Ende muss es für beide passen."],

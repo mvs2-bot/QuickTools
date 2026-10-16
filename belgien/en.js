@@ -1,0 +1,28 @@
+/* Englische Texte nur für Belgien (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"🇧🇪 Niederländisch (Flandern)": "🇧🇪 Dutch (Flanders)",
+"Ein Bier vom Fass, bitte": "A draught beer, please",
+"🇧🇪 Französisch (Brüssel & Wallonie)": "🇧🇪 French (Brussels & Wallonia)",
+"Ärztlicher Bereitschaftsdienst (nachts & Wochenende)": "Out-of-hours doctor (nights & weekends)",
+"Deutsche Botschaft Brüssel": "German Embassy Brussels",
+"(werktags nach Dienstschluss bis 24 Uhr, Wochenende 8–24 Uhr)": "(weekdays after office hours until midnight, weekends 8 am–midnight)",
+"1040 Brüssel": "1040 Brussels",
+"In Flandern Niederländisch, in der Wallonie Französisch – im Zweifel lieber Englisch als die „falsche“ Landessprache. Im Osten wird auch Deutsch gesprochen.": "Dutch in Flanders, French in Wallonia – if in doubt, use English rather than the \"wrong\" national language. German is also spoken in the east.",
+"Bier": "Beer",
+"Viele belgische Biere sind deutlich stärker (8–12 %) und kommen im eigenen Glas – langsam genießen.": "Many Belgian beers are much stronger (8–12 %) and come in their own glass – enjoy slowly.",
+"Brüssel, Antwerpen und Gent haben Umweltzonen (LEZ) – ausländische Autos müssen sich vorab online registrieren.": "Brussels, Antwerp and Ghent have low emission zones (LEZ) – foreign cars must register online in advance.",
+"eSIM (z. B. Airalo) oder Prepaid-SIM von Proximus, Orange oder Base.": "eSIM (e.g. Airalo) or prepaid SIM from Proximus, Orange or Base.",
+"Zugtickets – Belgien ist klein, fast alles ist gut per Zug erreichbar.": "Train tickets – Belgium is small, almost everything is easy to reach by train.",
+"Busse und Trams in Flandern bzw. Brüssel.": "Buses and trams in Flanders and Brussels.",
+"Brüssel": "Brussels",
+"Brügge": "Bruges",
+"Gent": "Ghent",
+"Antwerpen": "Antwerp",
+"Lüttich": "Liège",
+"0,5 ‰ (Berufsfahrer 0,2 ‰).": "0.5 ‰ (professional drivers 0.2 ‰).",
+"Rechts vor links": "Priority to the right",
+"Gilt auch auf größeren Straßen, wenn nichts anderes ausgeschildert ist – Belgier bestehen darauf.": "Also applies on bigger roads unless signposted otherwise – Belgian drivers insist on it.",
+"Fahrradstraßen": "Cycle streets",
+"In „Fietsstraat/Rue cyclable“ dürfen Autos Radfahrer nicht überholen. Keine Helmpflicht.": "In a \"fietsstraat/rue cyclable\" cars may not overtake cyclists. Helmets are not mandatory.",
+"Verboten – kleine Mengen werden zwar oft nur verwarnt, aber es bleibt illegal.": "Illegal – small amounts are often only met with a warning, but it remains illegal."
+});

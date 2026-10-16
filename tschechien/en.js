@@ -1,0 +1,25 @@
+/* Englische Texte nur für Tschechien (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Tschechische Krone": "Czech koruna",
+"🇨🇿 Tschechisch": "🇨🇿 Czech",
+"Deutsche Botschaft Prag": "German Embassy Prague",
+"Geld wechseln": "Changing money",
+"Wechselstuben in Touristengegenden meiden (versteckte Gebühren). Am besten mit Karte zahlen oder am Bankautomaten Kronen abheben – dabei „ohne Umrechnung“ wählen.": "Avoid exchange offices in tourist areas (hidden fees). Best pay by card or withdraw koruna at an ATM – choose \"without conversion\".",
+"Karte & Euro": "Card & euros",
+"Kartenzahlung ist fast überall möglich. Euro werden manchmal angenommen, aber zu schlechtem Kurs.": "Card payment is possible almost everywhere. Euros are sometimes accepted, but at a poor rate.",
+"In Kneipen wird oft automatisch nachgeschenkt – Bierdeckel auf das Glas legen heißt „genug“.": "In pubs your glass is often refilled automatically – putting a beer mat on the glass means \"enough\".",
+"Rund 10 % sind üblich – beim Bezahlen den Betrag nennen, nicht auf dem Tisch liegen lassen.": "Around 10 % is customary – say the amount when paying, don't leave it on the table.",
+"eSIM (z. B. Airalo) oder Prepaid-SIM von O2, T-Mobile oder Vodafone.": "eSIM (e.g. Airalo) or prepaid SIM from O2, T-Mobile or Vodafone.",
+"Tickets für Bus, Tram und Metro in Prag.": "Tickets for buses, trams and the metro in Prague.",
+"Fahrplanauskunft für Bahn und Bus im ganzen Land.": "Timetables for trains and buses across the country.",
+"Günstige Fahrdienste in Prag und Brünn.": "Cheap ride-hailing in Prague and Brno.",
+"Prag": "Prague",
+"Brünn": "Brno",
+"Karlsbad": "Karlovy Vary",
+"Olmütz": "Olomouc",
+"0,0 ‰ – absolutes Alkoholverbot am Steuer.": "0.0 ‰ – no alcohol at all when driving.",
+"Für Autobahnen ist eine elektronische Vignette (edalnice.cz) Pflicht. Licht auch tagsüber.": "An electronic vignette (edalnice.cz) is mandatory on motorways. Headlights on during the day.",
+"Helmpflicht bis 18 Jahre. Auch auf dem Rad gilt 0,0 ‰.": "Helmets are mandatory up to age 18. 0.0 ‰ also applies on a bike.",
+"Ab 18. In Prag ist Trinken auf vielen öffentlichen Plätzen verboten.": "From 18. In Prague drinking is banned in many public places.",
+"Seit 2026 ab 21 erlaubt: bis 25 g dabei, bis 100 g zu Hause. Verkauf bleibt verboten.": "Allowed from 21 since 2026: carry up to 25 g, up to 100 g at home. Sales remain illegal."
+});

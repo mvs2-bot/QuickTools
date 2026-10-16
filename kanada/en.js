@@ -1,0 +1,25 @@
+/* Englische Texte nur für Kanada (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Kanadischer Dollar": "Canadian dollar",
+"🇨🇦 Englisch": "🇨🇦 English",
+"⚜️ Französisch (Québec)": "⚜️ French (Québec)",
+"Gesundheitstelefon (nicht dringend, in vielen Provinzen)": "Health line (non-urgent, in many provinces)",
+"Deutsche Botschaft Ottawa": "German Embassy Ottawa",
+"Vorab eTA online beantragen (nur auf der offiziellen Seite canada.ca).": "Apply for an eTA online in advance (only on the official website canada.ca).",
+"Trinkgeld & Steuern": "Tips & taxes",
+"15–20 % Trinkgeld sind üblich; Preise sind ohne Steuern angegeben (je nach Provinz 5–15 %).": "15–20 % tips are customary; prices are shown without tax (5–15 % depending on the province).",
+"In Nationalparks Abstand zu Bären und Elchen halten, kein Essen offen lassen, Bärenspray für Wanderungen.": "In national parks keep your distance from bears and moose, don't leave food out, carry bear spray when hiking.",
+"In Québec ist Französisch Amtssprache – ein „Bonjour“ kommt immer gut an.": "In Québec French is the official language – a \"Bonjour\" always goes down well.",
+"Viele deutsche Tarife sind in Kanada teuer – vorher prüfen.": "Many German plans are expensive in Canada – check beforehand.",
+"Einfachste Lösung: vorab eSIM – oder Prepaid von Rogers, Bell, Telus, Fido.": "Easiest option: an eSIM in advance – or prepaid from Rogers, Bell, Telus, Fido.",
+"Infos und Reservierungen für die Nationalparks.": "Info and reservations for the national parks.",
+"15–20 % im Restaurant": "15–20 % in restaurants",
+"Rechtsabbiegen bei Rot meist erlaubt (nicht in Montréal)": "Turning right on red is usually allowed (not in Montréal)",
+"Strafbar ab 0,8 ‰; in den meisten Provinzen gibt es schon ab 0,5 ‰ Führerscheinentzug.": "A criminal offence from 0.8 ‰; most provinces suspend licences from 0.5 ‰.",
+"Schulbus": "School bus",
+"Hält ein Schulbus mit Blinklicht und Stoppschild, müssen beide Richtungen anhalten.": "When a school bus stops with flashing lights and stop sign, traffic in both directions must stop.",
+"In Québec (Dez.–März) und auf vielen Straßen in British Columbia sind Winterreifen Pflicht.": "Winter tyres are mandatory in Québec (Dec–Mar) and on many roads in British Columbia.",
+"In mehreren Provinzen Helmpflicht (z. B. British Columbia, in Ontario unter 18).": "Helmets are mandatory in several provinces (e.g. British Columbia, in Ontario under 18).",
+"Ab 18 oder 19 je nach Provinz, meist nur in speziellen Läden. Offene Flaschen in der Öffentlichkeit und im Auto sind verboten.": "From 18 or 19 depending on the province, mostly only in special shops. Open containers in public and in the car are forbidden.",
+"Legal ab 18–21 je nach Provinz (Québec 21), nur aus lizenzierten Läden. Niemals über die Grenze mitnehmen – auch nicht in die USA.": "Legal from 18–21 depending on the province (Québec 21), only from licensed shops. Never take it across the border – not even to the USA."
+});

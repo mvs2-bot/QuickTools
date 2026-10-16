@@ -1,0 +1,21 @@
+{
+  "id": "/QuickTools/irak/",
+  "start_url": "./",
+  "scope": "./",
+  "name": "Quick-Tools Irak",
+  "short_name": "Irak",
+  "description": "Urlaubs-Quick-Tools Irak",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7f4",
+  "theme_color": "#15803d",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

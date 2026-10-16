@@ -1,6 +1,6 @@
 /* Service Worker – offline-fähig (für alle Länder gleich, nicht bearbeiten) */
 const CACHE = 'qt-' + new URL(self.registration.scope).pathname;
-const FILES = ["./", "./index.html", "./manifest.json", "./icon.svg", "./data.js", "../shared/i18n-en.js", "../shared/app.js", "../shared/style.css"];
+const FILES = ["./", "./index.html", "./manifest.json", "./icon.svg", "./data.js", "./en.js", "../shared/i18n-en.js", "../shared/app.js", "../shared/style.css"];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)).then(() => self.skipWaiting()));

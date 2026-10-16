@@ -1,0 +1,21 @@
+{
+  "id": "/QuickTools/finnland/",
+  "start_url": "./",
+  "scope": "./",
+  "name": "Quick-Tools Finnland",
+  "short_name": "Finnland",
+  "description": "Urlaubs-Quick-Tools Finnland",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7f4",
+  "theme_color": "#15803d",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
