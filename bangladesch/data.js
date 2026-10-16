@@ -29,15 +29,17 @@ window.QT = {
   emergency: [
     ["999", "Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Dhaka", "address": ["178 Gulshan Avenue, Gulshan 2", "Dhaka 1212"], "phone": "+880 2 885 35 21"},
+  embassy: {"title": "Deutsche Botschaft Dhaka", "address": ["11 Felani Avenue, Baridhara Diplomatic Enclave", "Dhaka 1212"], "phone": "+880 2 5566 4100", "emergency": "+880 1711 564 588", "emergencyNote": "(nur außerhalb der Öffnungszeiten; keine Visa-Anfragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/bangladesch-node",
 
   rules: [
-    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Chittagong Hill Tracts (Bandarban, Rangamati, Khagrachari) – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Chittagong Hill Tracts", "Für Reisen nach Bandarban, Rangamati und Khagrachari ist eine behördliche Genehmigung nötig; bewaffnete Übergriffe sind möglich. Das Grenzgebiet zu Myanmar weiträumig meiden, um Teknaf (Cox’s Bazar) gab es Überfälle."],
     ["Demonstrationen", "Politische Proteste und Generalstreiks („Hartal“) können plötzlich eskalieren – Menschenansammlungen meiden, lokale Nachrichten verfolgen."],
     ["Kleidung", "Lange, weite Kleidung; Frauen bedecken Schultern und Beine, ein Schal ist hilfreich. In Moscheen Kopftuch für Frauen."],
     ["Linke Hand", "Essen, Geld und Geschenke mit der rechten Hand geben und annehmen."],
-    ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."]
+    ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."],
+    ["Homosexualität", "Gleichgeschlechtliche Beziehungen sind illegal – in der Öffentlichkeit zurückhaltend sein."],
+    ["Fotografieren", "Keine Fotos von Militär, Polizei, Flughäfen, Ministerien und Behörden – es drohen Festnahmen."]
   ],
   car: [
     ["Selbst fahren?", "Extrem dichter, chaotischer Verkehr (Linksverkehr) – nur mit Fahrer. In Dhaka oft stundenlange Staus."]

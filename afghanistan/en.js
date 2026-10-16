@@ -18,5 +18,13 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Streng verboten, sehr harte Strafen.": "Strictly forbidden, very harsh penalties.",
 "Roshan oder AWCC – Pass nötig. Netz außerhalb der Städte lückenhaft, Internet zeitweise abgeschaltet.": "Roshan or AWCC – passport required. Patchy coverage outside cities, internet is shut down at times.",
 "Krisenvorsorgeliste des Auswärtigen Amts – vor der Reise eintragen.": "German Foreign Office crisis registration list – register before you travel.",
-"Masar-e Scharif": "Mazar-i-Sharif"
+"Masar-e Scharif": "Mazar-i-Sharif",
+"Deutsche Botschaft Kabul (geschlossen)": "German Embassy Kabul (closed)",
+"Botschaft seit 2021 geschlossen": "Embassy closed since 2021",
+"Telefon: Zentrale des Auswärtigen Amts (Berlin), leitet weiter": "Phone: German Foreign Office switchboard (Berlin), will forward your call",
+"Das Auswärtige Amt warnt vor Reisen nach Afghanistan und fordert Deutsche auf, das Land zu verlassen – Entführungsgefahr und willkürliche Haft.": "The German Foreign Office warns against travel to Afghanistan and urges Germans to leave the country – risk of kidnapping and arbitrary detention.",
+"Lange, weite Kleidung für alle. Frauen müssen außer Haus Haare und Gesicht bedecken und in der Öffentlichkeit von einem männlichen Verwandten (Mahram) begleitet werden.": "Long, loose clothing for everyone. Outside the home women must cover their hair and face and be accompanied in public by a male relative (mahram).",
+"Homosexualität": "Homosexuality",
+"Homosexualität und jede sexuelle Handlung außerhalb der Ehe sind strafbar.": "Homosexuality and any sexual act outside marriage are criminal offences.",
+"Keine Fotos von Kontrollpunkten, Bewaffneten, Behörden, Flughäfen, Taliban-Fahrzeugen oder Frauen – kann als Spionage gelten (lange Haft).": "No photos of checkpoints, armed men, authorities, airports, Taliban vehicles or women – this can be treated as espionage (long prison terms)."
 });

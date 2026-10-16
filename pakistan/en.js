@@ -16,5 +16,10 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Jazz, Zong oder Telenor – Kauf im Shop mit Pass und Fingerabdruck. Ausländische Handys müssen bei längerem Aufenthalt bei der PTA registriert werden.": "Jazz, Zong or Telenor – buy in a shop with passport and fingerprint. Foreign phones must be registered with the PTA for longer stays.",
 "Careem, Uber & inDrive": "Careem, Uber & inDrive",
 "Fahrdienste in den großen Städten – Preis steht vorher fest.": "Ride-hailing in the big cities – price fixed in advance.",
-"Karatschi": "Karachi"
+"Karatschi": "Karachi",
+"(nur für deutsche Staatsangehörige in Notfällen; keine Visa-Anfragen)": "(emergencies of German nationals only; no visa enquiries)",
+"Das Auswärtige Amt warnt vor Reisen nach Belutschistan, nach Khyber Pakhtunkhwa (außer u. a. Hauptroute Islamabad–Babusar-Pass–Gilgit und Nathia Gali) und ins Grenzgebiet zu Indien inkl. Waffenstillstandslinie sowie vor Ein- und Ausreisen über Land via Iran und Afghanistan. Von Reisen nach Asad Kaschmir wird derzeit abgeraten.": "The German Foreign Office warns against travel to Balochistan, Khyber Pakhtunkhwa (except e.g. the main route Islamabad–Babusar Pass–Gilgit and Nathia Gali) and the border area with India incl. the Line of Control, and against entering or leaving overland via Iran and Afghanistan. Travel to Azad Kashmir is currently advised against.",
+"Homosexualität": "Homosexuality",
+"Homosexuelle Handlungen sind strafbar (meist 2–10 Jahre Haft) – in der Öffentlichkeit zurückhaltend sein.": "Homosexual acts are a criminal offence (usually 2–10 years in prison) – be discreet in public.",
+"Für Muslime verboten, Einfuhr verboten. Nicht-Muslime bekommen Alkohol nur in lizenzierten Hotels/Läden (teils mit Genehmigung); öffentliches Trinken ist verboten.": "Forbidden for Muslims, import banned. Non-Muslims can only get alcohol in licensed hotels/shops (sometimes with a permit); drinking in public is forbidden."
 });

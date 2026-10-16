@@ -36,7 +36,7 @@ window.QT = {
     ["03", "Rettungsdienst"],
     ["01", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Aschgabat", "address": ["Hotel Ak Altyn, Magtymguly şaýoly 141/1", "744000 Aschgabat"], "phone": "+993 12 48 88 95"},
+  embassy: {"title": "Deutsche Botschaft Aschgabat", "address": ["Hotel Ak Altyn, Magtymguly şaýoly / Ecke Hydyr Derýaýew", "744000 Aschgabat"], "phone": "+993 12 36 35 15", "emergency": "+993 65 03 35 76", "emergencyNote": "(deutschsprachig, nur Notfälle außerhalb der Öffnungszeiten; keine Visa-Anfragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/turkmenistan-node",
 
   rules: [
@@ -44,14 +44,15 @@ window.QT = {
     ["Fotografieren", "Keine Fotos von Regierungsgebäuden, Polizei, Militär oder Präsidentenpalast – in Aschgabat wird das streng kontrolliert."],
     ["Bargeld", "Saubere, neue US-Dollar-Scheine mitbringen; ausländische Karten funktionieren kaum."],
     ["Internet", "Stark zensiert und langsam; viele Apps und Seiten sind gesperrt, VPN-Nutzung ist verboten."],
-    ["Politik", "Keine Kritik am Präsidenten oder an der Regierung – auch nicht in Nachrichten oder sozialen Medien."]
+    ["Politik", "Keine Kritik am Präsidenten oder an der Regierung – auch nicht in Nachrichten oder sozialen Medien."],
+    ["Homosexualität", "Homosexuelle Handlungen zwischen Männern sind strafbar (Haft)."]
   ],
   car: [
     ["Selbst fahren?", "Für Touristen praktisch nicht möglich – Fahrer über die Reiseagentur. Viele Polizeikontrollen."]
   ],
   substances: [
     ["Alkohol", "Erhältlich, ab 18 Jahren; Verkauf zeitlich eingeschränkt."],
-    ["Rauchen", "In der Öffentlichkeit verboten, Tabak streng reguliert – nur kleine Mengen Zigaretten einführen."],
+    ["Rauchen", "In der Öffentlichkeit verboten, Tabak streng reguliert – höchstens zwei Packungen Zigaretten einführen."],
     ["Drogen", "Sehr harte Strafen, auch für kleine Mengen."]
   ],
   sim: [

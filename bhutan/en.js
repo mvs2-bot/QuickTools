@@ -18,5 +18,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Streng verboten, auch Cannabis, das dort wild wächst.": "Strictly illegal – including cannabis, which grows wild there.",
 "B-Mobile (Bhutan Telecom) oder TashiCell – Pass nötig, oft direkt am Flughafen Paro.": "B-Mobile (Bhutan Telecom) or TashiCell – passport required, often available right at Paro airport.",
 "Offizielle Seite für Visum und Nachhaltigkeitsabgabe.": "Official site for the visa and the Sustainable Development Fee.",
-"Tigernest (Taktsang)": "Tiger's Nest (Taktsang)"
+"Tigernest (Taktsang)": "Tiger's Nest (Taktsang)",
+"(außerhalb der Öffnungszeiten, auch SMS/WhatsApp; in Thimphu gibt es einen Honorarkonsul)": "(outside opening hours, SMS/WhatsApp too; there is an honorary consul in Thimphu)",
+"Visum vorab online; pro Nacht wird eine Nachhaltigkeitsabgabe (SDF) von 100 US$ fällig (Kinder 6–12 Jahre: 50 US$). Meist bucht man über einen lizenzierten Reiseveranstalter. Der Pass muss bei Ausreise noch 6 Monate gültig sein.": "Visa online in advance; a Sustainable Development Fee (SDF) of US$100 per night is charged (children aged 6–12: US$50). Most people book through a licensed tour operator. The passport must still be valid for 6 months on departure."
 });

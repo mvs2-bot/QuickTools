@@ -11,5 +11,12 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Für Muslime verboten. Ausländer bekommen Alkohol nur in lizenzierten Hotels und Bars; öffentliches Trinken ist verboten.": "Forbidden for Muslims. Foreigners can only get alcohol in licensed hotels and bars; drinking in public is forbidden.",
 "Grameenphone, Robi oder Banglalink – mit Pass und Fingerabdruck, am Flughafen erhältlich.": "Grameenphone, Robi or Banglalink – with passport and fingerprint, available at the airport.",
 "Uber & Pathao": "Uber & Pathao",
-"Fahrdienste in Dhaka und Chittagong (Pathao auch Motorrad-Taxis).": "Ride-hailing in Dhaka and Chittagong (Pathao also has motorbike taxis)."
+"Fahrdienste in Dhaka und Chittagong (Pathao auch Motorrad-Taxis).": "Ride-hailing in Dhaka and Chittagong (Pathao also has motorbike taxis).",
+"11 Felani Avenue, Baridhara Diplomatic Enclave": "11 Felani Avenue, Baridhara Diplomatic Enclave",
+"(nur außerhalb der Öffnungszeiten; keine Visa-Anfragen)": "(outside opening hours only; no visa enquiries)",
+"Chittagong Hill Tracts": "Chittagong Hill Tracts",
+"Für Reisen nach Bandarban, Rangamati und Khagrachari ist eine behördliche Genehmigung nötig; bewaffnete Übergriffe sind möglich. Das Grenzgebiet zu Myanmar weiträumig meiden, um Teknaf (Cox’s Bazar) gab es Überfälle.": "Travel to Bandarban, Rangamati and Khagrachari requires an official permit; armed attacks are possible. Give the border area with Myanmar a wide berth; there have been robberies around Teknaf (Cox’s Bazar).",
+"Homosexualität": "Homosexuality",
+"Gleichgeschlechtliche Beziehungen sind illegal – in der Öffentlichkeit zurückhaltend sein.": "Same-sex relationships are illegal – be discreet in public.",
+"Keine Fotos von Militär, Polizei, Flughäfen, Ministerien und Behörden – es drohen Festnahmen.": "No photos of the military, police, airports, ministries and government offices – arrest is possible."
 });

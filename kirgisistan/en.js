@@ -20,5 +20,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Sehr genaue Offline-Stadtpläne mit Bussen und Marschrutkas.": "Very detailed offline city maps with buses and marshrutkas.",
 "Bischkek": "Bishkek",
 "Issyk-Kul (Tscholpon-Ata)": "Issyk-Kul (Cholpon-Ata)",
-"Osch": "Osh"
+"Osch": "Osh",
+"Business-Center Orion (8. Etage), Erkindik-Boulevard 21": "Orion Business Centre (8th floor), 21 Erkindik Boulevard",
+"(außerhalb der Öffnungszeiten, deutschsprachig, auch per SMS; keine Visa-Auskünfte)": "(outside opening hours, German-speaking, SMS too; no visa information)",
+"Mit deutschem Pass bis 30 Tage (innerhalb von 60 Tagen) visumfrei. Der Pass muss noch 6 Monate über die Ausreise hinaus gültig und unbeschädigt sein.": "Visa-free for up to 30 days (within 60 days) with a German passport. The passport must be valid for 6 months beyond departure and undamaged."
 });

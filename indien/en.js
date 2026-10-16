@@ -23,5 +23,10 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Uber & Ola": "Uber & Ola",
 "Fahrdienste inkl. Autorikschas – Preis steht vorher fest.": "Ride-hailing incl. auto-rickshaws – price fixed in advance.",
 "Offizielle Zugtickets – Züge sind oft Wochen vorher ausgebucht.": "Official train tickets – trains are often booked out weeks ahead.",
-"Neu-Delhi": "New Delhi"
+"Neu-Delhi": "New Delhi",
+"(außerhalb der Öffnungszeiten, auch SMS/WhatsApp; keine Visa-Anfragen)": "(outside opening hours, SMS/WhatsApp too; no visa enquiries)",
+"Das Auswärtige Amt warnt vor Reisen nach Jammu und Kaschmir (Ladakh ausgenommen). Von Reisen nach Manipur rät es dringend ab, vom unmittelbaren Grenzgebiet zu Pakistan ab – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to Jammu and Kashmir (except Ladakh). It strongly advises against travel to Manipur and advises against the immediate border area with Pakistan – check the current situation before every trip.",
+"Satellitentelefone": "Satellite phones",
+"Besitz und Nutzung ohne Genehmigung sind strafbar – das kann auch Outdoor-Geräte mit Satellitenverbindung betreffen. Zu Hause lassen.": "Possession and use without a permit are criminal offences – this can also apply to outdoor devices with satellite connectivity. Leave them at home.",
+"Besitz, Verkauf und Einfuhr verboten – nicht mitnehmen.": "Possession, sale and import banned – don't bring any."
 });

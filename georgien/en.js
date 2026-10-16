@@ -26,5 +26,12 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Tiflis": "Tbilisi",
 "Kasbegi (Stepanzminda)": "Kazbegi (Stepantsminda)",
 "Mestia (Swanetien)": "Mestia (Svaneti)",
-"Signagi": "Sighnaghi"
+"Signagi": "Sighnaghi",
+"Nino-Tschcheidse-Str. 38": "38 Nino Chkheidze St.",
+"0102 Tiflis": "0102 Tbilisi",
+"(Bereitschaftsdienst außerhalb der Öffnungszeiten; keine Visa-Auskünfte)": "(on-call service outside opening hours; no visa information)",
+"Konfliktgebiete": "Conflict areas",
+"Das Auswärtige Amt rät dringend von Reisen nach Abchasien, Südossetien und in die unmittelbare Nähe dieser Gebiete ab – nahe Südossetien Minengefahr.": "The German Foreign Office strongly advises against travel to Abkhazia, South Ossetia and their immediate vicinity – landmine risk near South Ossetia.",
+"Mit deutschem Pass bis zu 360 Tage visumfrei. Seit 2026 ist eine Krankenversicherung (mind. 30.000 GEL) für den ganzen Aufenthalt Pflicht – Nachweis auf Englisch oder Georgisch.": "Visa-free for up to 360 days with a German passport. Since 2026, health insurance (min. 30,000 GEL) covering the whole stay is mandatory – proof in English or Georgian.",
+"Seit Juli 2025 drohen schon für kleine Mengen Cannabis bis zu sechs Jahre Haft; andere Drogendelikte werden sehr streng bestraft.": "Since July 2025 even small amounts of cannabis can mean up to six years in prison; other drug offences are punished very severely."
 });

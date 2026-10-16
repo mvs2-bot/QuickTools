@@ -39,14 +39,15 @@ window.QT = {
     ["119", "Polizei & Feuerwehr"],
     ["102", "Rettungsdienst"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Islamabad (Pakistan)", "address": ["Ramna 5, Diplomatic Enclave", "Islamabad"], "phone": "+92 51 227 94 30"},
+  embassy: {"title": "Deutsche Botschaft Kabul (geschlossen)", "address": ["Botschaft seit 2021 geschlossen", "Telefon: Zentrale des Auswärtigen Amts (Berlin), leitet weiter"], "phone": "+49 30 1817-0"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/afghanistan-node",
 
   rules: [
-    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Afghanistan – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Afghanistan und fordert Deutsche auf, das Land zu verlassen – Entführungsgefahr und willkürliche Haft."],
     ["Keine Botschaft", "Die Deutsche Botschaft Kabul ist seit 2021 geschlossen – konsularische Hilfe im Land ist praktisch nicht möglich."],
-    ["Kleidung", "Lange, weite Kleidung für alle. Frauen müssen Haare und Körper bedecken; für Frauen gelten zahlreiche Einschränkungen."],
-    ["Fotografieren", "Keine Fotos von Kontrollpunkten, Bewaffneten, Behörden oder Frauen. Viele Taliban verbieten Fotos generell."],
+    ["Kleidung", "Lange, weite Kleidung für alle. Frauen müssen außer Haus Haare und Gesicht bedecken und in der Öffentlichkeit von einem männlichen Verwandten (Mahram) begleitet werden."],
+    ["Homosexualität", "Homosexualität und jede sexuelle Handlung außerhalb der Ehe sind strafbar."],
+    ["Fotografieren", "Keine Fotos von Kontrollpunkten, Bewaffneten, Behörden, Flughäfen, Taliban-Fahrzeugen oder Frauen – kann als Spionage gelten (lange Haft)."],
     ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."]
   ],
   car: [

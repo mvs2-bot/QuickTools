@@ -15,5 +15,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Ab 18. Lokaler Schnaps (Raksi) ist teils sehr stark.": "From 18. Local spirits (raksi) can be very strong.",
 "Cannabis wächst wild und wird angeboten, ist aber verboten – es drohen hohe Strafen.": "Cannabis grows wild and is offered to tourists, but it is illegal – heavy penalties apply.",
 "Ncell oder Nepal Telecom (NTC) am Flughafen Kathmandu – Pass und Passfoto nötig. In den Bergen oft kein Netz.": "Ncell or Nepal Telecom (NTC) at Kathmandu airport – passport and passport photo required. Often no signal in the mountains.",
-"Taxis und Motorrad-Taxis in Kathmandu und Pokhara.": "Taxis and motorbike taxis in Kathmandu and Pokhara."
+"Taxis und Motorrad-Taxis in Kathmandu und Pokhara.": "Taxis and motorbike taxis in Kathmandu and Pokhara.",
+"(nur Notfälle außerhalb der Öffnungszeiten; Deutsch/Englisch)": "(emergencies outside opening hours only; German/English)",
+"Gyaneshwor Marg 690": "690 Gyaneshwor Marg",
+"Alle Trekker brauchen eine TIMS Card, für bestimmte Gebiete zusätzlich ein Permit. Seit 2023 ist Trekking in Nationalparks und im Hochgebirge nur mit zertifiziertem Guide erlaubt.": "All trekkers need a TIMS card, and certain areas additionally require a permit. Since 2023, trekking in national parks and the high mountains is only allowed with a certified guide."
 });

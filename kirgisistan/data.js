@@ -38,11 +38,11 @@ window.QT = {
     ["103", "Rettungsdienst"],
     ["101", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Bischkek", "address": ["Ul. Rasakowa 28", "720040 Bischkek"], "phone": "+996 312 90 50 00"},
+  embassy: {"title": "Deutsche Botschaft Bischkek", "address": ["Business-Center Orion (8. Etage), Erkindik-Boulevard 21", "720040 Bischkek"], "phone": "+996 312 627 100", "emergency": "+996 772 541 113", "emergencyNote": "(außerhalb der Öffnungszeiten, deutschsprachig, auch per SMS; keine Visa-Auskünfte)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/kirgisistan-node",
 
   rules: [
-    ["Einreise", "Mit deutschem Pass bis 60 Tage visumfrei."],
+    ["Einreise", "Mit deutschem Pass bis 30 Tage (innerhalb von 60 Tagen) visumfrei. Der Pass muss noch 6 Monate über die Ausreise hinaus gültig und unbeschädigt sein."],
     ["Grenzzonen", "Für Gebiete nahe der chinesischen und tadschikischen Grenze (z. B. Inyltschek, Pik Lenin, Sary-Tschelek-Umland) braucht man ein Border Permit – über Reiseagenturen vorab beantragen."],
     ["Jurte", "Bei Nomaden: Gastgeschenk mitbringen, angebotenen Tee und Brot annehmen, nicht auf die Türschwelle treten."],
     ["Berge", "Wanderungen oft fernab jeder Hilfe – Ausrüstung, Wetter und Höhe ernst nehmen, Route hinterlassen."],

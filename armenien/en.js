@@ -22,5 +22,9 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Kloster Geghard": "Geghard Monastery",
 "Sewansee": "Lake Sevan",
 "Dilidschan": "Dilijan",
-"Kloster Tatew": "Tatev Monastery"
+"Kloster Tatew": "Tatev Monastery",
+"(außerhalb der Öffnungszeiten bis 24 Uhr; keine Visa-Auskünfte)": "(outside opening hours until midnight; no visa information)",
+"Teilreisewarnung": "Partial travel warning",
+"Das Auswärtige Amt warnt vor Reisen in Teile des Grenzgebiets zu Aserbaidschan (u. a. östlich von Goris und Kapan in Syunik, östlich von Vardenis und Idschewan) und rät von grenznahen Straßen ab – Minengefahr, militärische Sperrgebiete.": "The German Foreign Office warns against travel to parts of the border area with Azerbaijan (incl. east of Goris and Kapan in Syunik, east of Vardenis and Ijevan) and advises against roads near the border – landmine risk, military zones.",
+"Absolutes Alkoholverbot am Steuer – strenge Kontrollen.": "Zero alcohol at the wheel – strict checks."
 });

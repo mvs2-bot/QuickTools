@@ -42,16 +42,17 @@ window.QT = {
     ["101", "Feuerwehr"],
     ["1363", "Tourist-Helpline (auch Englisch)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Neu-Delhi", "address": ["No. 6/50G Shantipath, Chanakyapuri", "New Delhi 110021"], "phone": "+91 11 4419 9199"},
+  embassy: {"title": "Deutsche Botschaft Neu-Delhi", "address": ["No. 6/50G Shantipath, Chanakyapuri", "New Delhi 110021"], "phone": "+91 11 4419 9199", "emergency": "+91 93113 10567", "emergencyNote": "(außerhalb der Öffnungszeiten, auch SMS/WhatsApp; keine Visa-Anfragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/indien-node",
 
   rules: [
-    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in Teile Indiens (u. a. Jammu und Kaschmir außer Ladakh, das Grenzgebiet zu Pakistan und Manipur) – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Jammu und Kaschmir (Ladakh ausgenommen). Von Reisen nach Manipur rät es dringend ab, vom unmittelbaren Grenzgebiet zu Pakistan ab – vor jeder Reise die aktuelle Lage prüfen."],
     ["Einreise", "Visum nötig – am einfachsten vorab online als e-Visum (nur über die offizielle Regierungsseite, nicht über Vermittler)."],
     ["Tempel", "Schuhe ausziehen, Schultern und Knie bedecken; Lederwaren sind in manchen Tempeln nicht erlaubt. Nicht-Hindus haben zu einigen Tempeln keinen Zutritt."],
     ["Linke Hand", "Essen, Geld und Geschenke mit der rechten Hand geben und annehmen."],
     ["Kühe", "Kühe sind Hindus heilig. Rindfleisch ist in vielen Bundesstaaten verboten."],
-    ["Frauen", "Lieber dezent kleiden; nachts nicht allein in unregistrierte Taxis/Rikschas steigen – App-Taxis nutzen."]
+    ["Frauen", "Lieber dezent kleiden; nachts nicht allein in unregistrierte Taxis/Rikschas steigen – App-Taxis nutzen."],
+    ["Satellitentelefone", "Besitz und Nutzung ohne Genehmigung sind strafbar – das kann auch Outdoor-Geräte mit Satellitenverbindung betreffen. Zu Hause lassen."]
   ],
   car: [
     ["Promille", "0,3 ‰. Linksverkehr."],
@@ -59,7 +60,7 @@ window.QT = {
   ],
   substances: [
     ["Alkohol", "Mindestalter je nach Bundesstaat 18–25. In Gujarat und Bihar gilt ein Alkoholverbot; an Wahl- und manchen Feiertagen („Dry Days“) kein Verkauf."],
-    ["E-Zigaretten", "Verkauf und Einfuhr verboten – nicht mitnehmen."],
+    ["E-Zigaretten", "Besitz, Verkauf und Einfuhr verboten – nicht mitnehmen."],
     ["Drogen", "Drogendelikte werden sehr streng bestraft, auch kleine Mengen Cannabis."]
   ],
   sim: [

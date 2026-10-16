@@ -19,5 +19,12 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Dhiraagu oder Ooredoo direkt am Flughafen Malé – Pass nötig. Resort-WLAN ist oft langsam oder teuer.": "Dhiraagu or Ooredoo right at Malé airport – passport required. Resort Wi-Fi is often slow or expensive.",
 "Pflicht-Einreiseerklärung online ausfüllen.": "Fill in the mandatory entry declaration online.",
 "Ari-Atoll": "Ari Atoll",
-"Baa-Atoll (Hanifaru Bay)": "Baa Atoll (Hanifaru Bay)"
+"Baa-Atoll (Hanifaru Bay)": "Baa Atoll (Hanifaru Bay)",
+"(Mo–Fr 15:30–22 Uhr, Wochenende 8–22 Uhr; das Honorarkonsulat in Malé ist derzeit geschlossen, Hilfe nur telefonisch)": "(Mon–Fri 3:30–10 pm, weekends 8 am–10 pm; the honorary consulate in Malé is currently closed, help by phone only)",
+"Touristenvisum für 30 Tage gibt es kostenlos bei Ankunft. Höchstens 96 Stunden vorher die Online-Einreiseerklärung „Traveller Declaration“ (IMUGA) ausfüllen.": "A free 30-day tourist visa is issued on arrival. Fill in the online \"Traveller Declaration\" (IMUGA) no more than 96 hours beforehand.",
+"Alkohol, Schweinefleisch, Pornografie, Götterstatuen (z. B. Buddhas), E-Zigaretten und Drogen dürfen nicht eingeführt werden – das Gepäck wird kontrolliert.": "Alcohol, pork, pornography, idols (e.g. Buddha statues), e-cigarettes and drugs may not be brought in – luggage is checked.",
+"Homosexualität": "Homosexuality",
+"Homosexuelle Handlungen sind strafbar – in der Öffentlichkeit zurückhaltend sein.": "Homosexual acts are a criminal offence – be discreet in public.",
+"Rauchen": "Smoking",
+"Wer ab dem 1.1.2007 geboren ist, darf keinen Tabak kaufen oder konsumieren – gilt auch für Reisende. E-Zigaretten sind komplett verboten.": "Anyone born on or after 1 Jan 2007 may not buy or use tobacco – this applies to travellers too. E-cigarettes are banned entirely."
 });

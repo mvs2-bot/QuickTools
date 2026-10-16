@@ -18,5 +18,9 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Zugtickets (Afrosiyob Taschkent–Samarkand–Buchara) – früh buchen.": "Train tickets (Afrosiyob Tashkent–Samarkand–Bukhara) – book early.",
 "Taschkent": "Tashkent",
 "Buchara": "Bukhara",
-"Chiwa": "Khiva"
+"Chiwa": "Khiva",
+"(nur Notfälle außerhalb der Öffnungszeiten; keine Visa-Anfragen)": "(emergencies outside opening hours only; no visa enquiries)",
+"Mit deutschem Pass bis 30 Tage visumfrei. Registrierung binnen 72 Stunden – Hotels erledigen das; Belege aufbewahren, sie werden für Bahn, Inlandsflüge und bei der Ausreise verlangt.": "Visa-free for up to 30 days with a German passport. Registration within 72 hours – hotels do this; keep the slips, they are needed for trains, domestic flights and on departure.",
+"Homosexualität": "Homosexuality",
+"Homosexuelle Handlungen zwischen Männern sind strafbar – in der Öffentlichkeit zurückhaltend sein.": "Homosexual acts between men are a criminal offence – be discreet in public."
 });

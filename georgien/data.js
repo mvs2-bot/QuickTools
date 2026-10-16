@@ -33,24 +33,24 @@ window.QT = {
   emergency: [
     ["112", "Allgemeiner Notruf"]
   ],
-  embassy: {"title": "Deutsche Botschaft Tiflis", "address": ["David Agmaschenebeli Ave. 166", "0112 Tiflis"], "phone": "+995 32 244 73 00"},
+  embassy: {"title": "Deutsche Botschaft Tiflis", "address": ["Nino-Tschcheidse-Str. 38", "0102 Tiflis"], "phone": "+995 32 244 73 00", "emergency": "+995 599 58 61 91", "emergencyNote": "(Bereitschaftsdienst außerhalb der Öffnungszeiten; keine Visa-Auskünfte)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/georgien-node",
 
   rules: [
-    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Abchasien und Südossetien – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Konfliktgebiete", "Das Auswärtige Amt rät dringend von Reisen nach Abchasien, Südossetien und in die unmittelbare Nähe dieser Gebiete ab – nahe Südossetien Minengefahr."],
     ["Demonstrationen", "In Tiflis kommt es immer wieder zu politischen Protesten – größere Menschenansammlungen meiden."],
     ["Kirchen", "Frauen: Kopftuch und Rock (liegen oft am Eingang bereit). Männer: keine kurzen Hosen."],
     ["Supra", "Beim Festessen gibt der Tamada (Tischmeister) die Trinksprüche vor – erst nach dem Toast trinken."],
     ["Sprache", "Jüngere sprechen oft Englisch, Ältere eher Russisch. Ein paar Worte Georgisch kommen sehr gut an."],
-    ["Einreise", "Mit deutschem Pass bis zu einem Jahr visumfrei."]
+    ["Einreise", "Mit deutschem Pass bis zu 360 Tage visumfrei. Seit 2026 ist eine Krankenversicherung (mind. 30.000 GEL) für den ganzen Aufenthalt Pflicht – Nachweis auf Englisch oder Georgisch."]
   ],
   car: [
-    ["Promille", "0,3 ‰."],
+    ["Promille", "0,0 ‰."],
     ["Straßen", "Sehr riskanter Fahrstil, Kühe auf der Fahrbahn. Bergstraßen (z. B. nach Uschguli oder Tuschetien) nur mit Allrad."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren. Wein und Tschatscha (Tresterbrand) gehören zur Kultur."],
-    ["Drogen", "Cannabis-Konsum ist nicht strafbar, Besitz und Handel aber schon. Andere Drogen werden sehr streng bestraft."]
+    ["Drogen", "Seit Juli 2025 drohen schon für kleine Mengen Cannabis bis zu sechs Jahre Haft; andere Drogendelikte werden sehr streng bestraft."]
   ],
   sim: [
     ["Lokale SIM / eSIM", "Magti, Silknet oder Cellfie – günstig, am Flughafen erhältlich, Pass nötig. Alternativ vorab eSIM."]

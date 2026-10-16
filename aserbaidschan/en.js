@@ -15,5 +15,11 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Azercell, Bakcell oder Nar – am Flughafen erhältlich, Pass nötig. Alternativ vorab eSIM.": "Azercell, Bakcell or Nar – available at the airport, passport required. Alternatively an eSIM in advance.",
 "Fahrdienste in Baku – Preis steht vorher fest.": "Ride-hailing in Baku – price fixed in advance.",
 "Scheki": "Sheki",
-"Qəbələ": "Gabala"
+"Qəbələ": "Gabala",
+"ISR Plaza, Nizami küçəsi 69": "ISR Plaza, 69 Nizami Street",
+"AZ1005 Baku": "AZ1005 Baku",
+"(Mo–Do 17–22 Uhr, Fr 14–22 Uhr, Sa–So 8–22 Uhr; nur Anrufe, keine Visa-Auskünfte)": "(Mon–Thu 5–10 pm, Fri 2–10 pm, Sat–Sun 8 am–10 pm; calls only, no visa information)",
+"Visum nötig – vorab online als e-Visum (bis 30 Tage) beantragen. Für Deutsche ist die Einreise derzeit nur per Flug möglich, die Landgrenzen sind geschlossen. Ab 15 Tagen Aufenthalt Registrierungspflicht (macht meist das Hotel).": "Visa required – apply online in advance for an e-visa (up to 30 days). Germans can currently only enter by air; land borders are closed. Registration is required for stays over 15 days (usually done by the hotel).",
+"Teilreisewarnung": "Partial travel warning",
+"Das Auswärtige Amt warnt vor Reisen in die Region Karabach und das gesamte Grenzgebiet zu Armenien – Minengefahr; Betreten ohne Genehmigung ist verboten.": "The German Foreign Office warns against travel to the Karabakh region and the entire border area with Armenia – landmine risk; entry without permission is prohibited."
 });

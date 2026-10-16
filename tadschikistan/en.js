@@ -20,5 +20,12 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Duschanbe": "Dushanbe",
 "Chudschand": "Khujand",
 "Chorugh (Pamir)": "Khorog (Pamirs)",
-"Pandschakent": "Panjakent"
+"Pandschakent": "Panjakent",
+"I.-Somoni-Str. 59/1": "59/1 I. Somoni Street",
+"734064 Duschanbe": "734064 Dushanbe",
+"(nur Notfälle außerhalb der Öffnungszeiten, auch per SMS; keine Visa-Auskünfte)": "(emergencies outside opening hours only, SMS too; no visa information)",
+"Grenzgebiet Afghanistan": "Afghan border area",
+"Von Reisen in alle grenznahen Gebiete zu Afghanistan rät das Auswärtige Amt dringend ab (Angriffe, Minen). Auch an der Straße Duschanbe–Chorugh und an der Grenze zu Kirgisistan teils Minenfelder.": "The German Foreign Office strongly advises against travel to all areas near the Afghan border (attacks, mines). There are also some minefields along the Dushanbe–Khorog road and on the Kyrgyz border.",
+"Mit deutschem Pass bis 30 Tage visumfrei (dann binnen 10 Arbeitstagen beim OVIR registrieren) oder mit e-Visum bis 60 Tage. Für den Pamir (Berg-Badachschan, GBAO) braucht man zusätzlich ein Permit – am besten mit dem e-Visum beantragen.": "Visa-free for up to 30 days with a German passport (then register with OVIR within 10 working days) or up to 60 days with an e-visa. The Pamirs (Gorno-Badakhshan, GBAO) additionally require a permit – best applied for together with the e-visa.",
+"Tcell, Zet-Mobile (ehemals Megafon) oder Babilon-M – Pass nötig. Im Pamir oft kein Netz.": "Tcell, Zet-Mobile (formerly Megafon) or Babilon-M – passport required. Often no signal in the Pamirs."
 });

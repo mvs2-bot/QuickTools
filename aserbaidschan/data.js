@@ -42,12 +42,12 @@ window.QT = {
     ["103", "Rettungsdienst"],
     ["101", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Baku", "address": ["Landmark III, Nizami küçəsi 90A", "AZ1010 Baku"], "phone": "+994 12 465 41 00"},
+  embassy: {"title": "Deutsche Botschaft Baku", "address": ["ISR Plaza, Nizami küçəsi 69", "AZ1005 Baku"], "phone": "+994 12 465 41 00", "emergency": "+994 50 243 01 24", "emergencyNote": "(Mo–Do 17–22 Uhr, Fr 14–22 Uhr, Sa–So 8–22 Uhr; nur Anrufe, keine Visa-Auskünfte)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/aserbaidschan-node",
 
   rules: [
-    ["Einreise", "Visum nötig – vorab online als e-Visum (ASAN Visa) beantragen. Die Landgrenzen sind seit 2020 für Reisende weitgehend geschlossen – Einreise meist nur per Flug."],
-    ["Grenzgebiet", "Vom Grenzgebiet zu Armenien rät das Auswärtige Amt ab; dort liegen noch viele Minen."],
+    ["Einreise", "Visum nötig – vorab online als e-Visum (bis 30 Tage) beantragen. Für Deutsche ist die Einreise derzeit nur per Flug möglich, die Landgrenzen sind geschlossen. Ab 15 Tagen Aufenthalt Registrierungspflicht (macht meist das Hotel)."],
+    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Region Karabach und das gesamte Grenzgebiet zu Armenien – Minengefahr; Betreten ohne Genehmigung ist verboten."],
     ["Moscheen", "Schultern und Knie bedecken, Frauen ein Kopftuch; Schuhe ausziehen."],
     ["Fotografieren", "Keine Fotos von Militär, Polizei, Regierungsgebäuden oder Öl- und Gasanlagen."],
     ["Politik", "Kritik an der Regierung oder Sympathie für Armenien öffentlich besser vermeiden."]
