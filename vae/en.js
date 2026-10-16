@@ -18,5 +18,9 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Metro, Busse, Taxis und die nol-Karte in Dubai.": "Metro, buses, taxis and the nol card in Dubai.",
 "Schardscha": "Sharjah",
 "Ras al-Chaima": "Ras Al Khaimah",
-"Fudschaira": "Fujairah"
+"Fudschaira": "Fujairah",
+"Reisehinweis": "Travel advice",
+"Das Auswärtige Amt rät von nicht notwendigen Reisen in die VAE ab (volatile Lage in der Region, Angriffe und Luftraumsperrungen möglich) – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office advises against non-essential travel to the UAE (volatile regional situation, attacks and airspace closures possible) – check the current situation before every trip.",
+"Generalkonsulat Dubai (konsularische Dienste): Street 14A, Jumeirah 1, Tel. +971 4 302 4333": "Consulate General Dubai (consular services): Street 14A, Jumeirah 1, Tel. +971 4 302 4333",
+"(außerhalb der Öffnungszeiten, nur konsularische Notfälle)": "(outside office hours, consular emergencies only)"
 });

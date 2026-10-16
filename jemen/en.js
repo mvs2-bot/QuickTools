@@ -19,5 +19,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Kleines Trinkgeld willkommen": "A small tip is welcome",
 "Sanaa": "Sana'a",
 "Sokotra (Hadibu)": "Socotra (Hadibu)",
-"Schibam": "Shibam"
+"Schibam": "Shibam",
+"Das Auswärtige Amt warnt vor Reisen in den Jemen, auch auf die Insel Sokotra; Deutsche im Land sind zur Ausreise aufgefordert.": "The German Foreign Office warns against travel to Yemen, including the island of Socotra; Germans in the country are called on to leave."
 });

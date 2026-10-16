@@ -14,5 +14,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Fahrdienste in Amman und Akaba – Preis steht vorher fest.": "Ride-hailing in Amman and Aqaba – the price is fixed in advance.",
 "Komfortable Fernbusse, z. B. Amman–Petra–Akaba.": "Comfortable long-distance buses, e.g. Amman–Petra–Aqaba.",
 "Totes Meer": "Dead Sea",
-"Akaba": "Aqaba"
+"Akaba": "Aqaba",
+"Reisehinweis": "Travel advice",
+"Von Reisen in die Grenzgebiete zu Syrien und Irak sowie in den Nordosten rät das Auswärtige Amt dringend ab, von nicht notwendigen Reisen in andere Landesteile wird abgeraten – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office strongly advises against travel to the border areas with Syria and Iraq and to the north-east, and advises against non-essential travel to other parts of the country – check the current situation before every trip."
 });

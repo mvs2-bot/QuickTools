@@ -37,11 +37,11 @@ window.QT = {
     ["140", "Rettungsdienst (Rotes Kreuz)"],
     ["175", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Beirut", "address": ["Rabieh, Mtaileb, Jasmine Street", "Beirut"], "phone": "+961 4 935 000"},
+  embassy: {"title": "Deutsche Botschaft Beirut", "address": ["Regent Park Tower (hinter Freeway Center), Dekwaneh", "Metn (Großraum Beirut)"], "phone": "+961 1 504 600"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/libanon-node",
 
   rules: [
-    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen in den Libanon, besonders in den Süden, die Bekaa-Ebene und die Grenzgebiete zu Syrien und Israel – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen in den Süden (südlich von Jiyeh), die Bekaa-Ebene, Baalbek-Hermel, das Grenzgebiet zu Syrien, die Palästinenserlager und die südlichen Vororte Beiruts; von Reisen in alle übrigen Landesteile wird dringend abgeraten – vor jeder Reise die aktuelle Lage prüfen."],
     ["Israel", "Wer erkennbar in Israel war (Stempel, israelische Produkte, Apps oder Fotos), kann abgewiesen werden. Israel nicht erwähnen."],
     ["Bargeld", "Wegen der Bankenkrise viel in US-Dollar bar bezahlt; Kartenzahlung nicht überall möglich – ausreichend Dollar in kleinen Scheinen mitnehmen."],
     ["Strom", "Häufige Stromausfälle; viele Häuser laufen über Generatoren."],

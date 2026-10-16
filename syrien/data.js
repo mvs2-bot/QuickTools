@@ -34,7 +34,7 @@ window.QT = {
     ["110", "Rettungsdienst"],
     ["113", "Feuerwehr"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Beirut (Libanon)", "address": ["Rabieh, Mtaileb, Jasmine Street", "Beirut"], "phone": "+961 4 935 000", "emergencyNote": "Die Botschaft in Damaskus ist seit 2025 wieder mit einem kleinen Team besetzt, bietet aber nur eingeschränkt konsularische Hilfe."},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Beirut (Libanon)", "address": ["Regent Park Tower (hinter Freeway Center), Dekwaneh", "Metn (Großraum Beirut)"], "phone": "+961 4 935 000", "emergencyNote": "Die Botschaft in Damaskus ist für Besucher geschlossen; Nothilfe und konsularische Leistungen übernimmt bis auf Weiteres die Botschaft Beirut – nur sehr eingeschränkte Hilfe in Syrien möglich."},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/syrien-node",
 
   rules: [

@@ -16,5 +16,11 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Zain, Asiacell oder Korek (Kurdistan) – Pass nötig.": "Zain, Asiacell or Korek (Kurdistan) – passport required.",
 "Careem & Baly": "Careem & Baly",
 "Fahrdienste in Bagdad, Erbil und anderen Städten.": "Ride-hailing in Baghdad, Erbil and other cities.",
-"Kerbela": "Karbala"
+"Kerbela": "Karbala",
+"Das Auswärtige Amt warnt vor Reisen nach Irak, auch in die Region Kurdistan (dort u. a. Drohnenangriffe) – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to Iraq, including the Kurdistan Region (where there have been drone attacks, among other things) – check the current situation before every trip.",
+"Deutsche brauchen ein Visum: für den Zentralirak vorab als e-Visum (bis 30 Tage, kein Visum bei Ankunft mehr), für die Region Kurdistan ein eigenes e-Visum, das nicht zur Weiterreise in den Zentralirak berechtigt. Reisepass mind. 6 Monate gültig.": "Germans need a visa: for central Iraq an e-visa in advance (up to 30 days, visas on arrival are no longer issued); for the Kurdistan Region a separate e-visa, which does not allow onward travel to central Iraq. Passport valid for at least 6 months.",
+"Polizei (Region Kurdistan)": "Police (Kurdistan Region)",
+"Mahala 609, Street 3, House 53, Hay Al-Mansour": "Mahala 609, Street 3, House 53, Hay Al-Mansour",
+"Generalkonsulat Erbil (Region Kurdistan): Kirkuk Road, Azadi, Notfall-Tel. +964 751 800 4275": "Consulate General Erbil (Kurdistan Region): Kirkuk Road, Azadi, emergency tel. +964 751 800 4275",
+"(außerhalb der Öffnungszeiten, nur Notfälle)": "(outside office hours, emergencies only)"
 });

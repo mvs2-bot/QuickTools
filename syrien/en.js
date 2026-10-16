@@ -13,5 +13,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Regional unterschiedlich erhältlich, vor allem in christlichen Vierteln; nicht in der Öffentlichkeit trinken.": "Availability varies by region, mainly in Christian neighbourhoods; don't drink in public.",
 "Syriatel oder MTN Syria – Pass nötig, Internet langsam und teils eingeschränkt.": "Syriatel or MTN Syria – passport required, internet slow and partly restricted.",
 "Damaskus": "Damascus",
-"Latakia": "Latakia"
+"Latakia": "Latakia",
+"Die Botschaft in Damaskus ist für Besucher geschlossen; Nothilfe und konsularische Leistungen übernimmt bis auf Weiteres die Botschaft Beirut – nur sehr eingeschränkte Hilfe in Syrien möglich.": "The embassy in Damascus is closed to visitors; emergency assistance and consular services are provided by the embassy in Beirut until further notice – only very limited help is possible in Syria.",
+"Regent Park Tower (hinter Freeway Center), Dekwaneh": "Regent Park Tower (behind Freeway Center), Dekwaneh",
+"Metn (Großraum Beirut)": "Metn (Greater Beirut)"
 });

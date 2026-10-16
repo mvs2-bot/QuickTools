@@ -29,10 +29,11 @@ window.QT = {
   emergency: [
     ["999", "Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Manama", "address": ["Al Hasaan Building, Sheikh Hamad Causeway, Building 668, Road 1513, Block 315", "Manama"], "phone": "+973 1774 5277"},
+  embassy: {"title": "Deutsche Botschaft Manama", "address": ["Salmaniya Avenue, Building 39, Road 322, Block 327", "Manama"], "phone": "+973 1774 5277", "emergency": "+973 3945 8537", "emergencyNote": "(außerhalb der Öffnungszeiten, nur Notfälle)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/bahrain-node",
 
   rules: [
+    ["Reisehinweis", "Das Auswärtige Amt rät dringend von Reisen nach Bahrain ab (volatile Lage in der Region, Angriffe und Luftraumsperrungen möglich) – vor jeder Reise die aktuelle Lage prüfen."],
     ["Kleidung", "In Malls, Souks und auf der Straße Schultern und Knie bedecken; Badekleidung nur am Pool und Strand."],
     ["Moscheen", "Die Al-Fateh-Moschee kann besichtigt werden – Frauen bekommen Abaya und Kopftuch gestellt, Schuhe ausziehen."],
     ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."],

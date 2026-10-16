@@ -32,11 +32,11 @@ window.QT = {
     ["997", "Rettungsdienst"],
     ["998", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Riad", "address": ["Diplomatic Quarter", "Riad", "Generalkonsulat Dschidda: Tel. +966 12 665 3545"], "phone": "+966 11 277 6900"},
+  embassy: {"title": "Deutsche Botschaft Riad", "address": ["Diplomatic Quarter", "Riad", "Generalkonsulat Dschidda: Tel. +966 12 699 6436"], "phone": "+966 11 277 6900"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/saudiarabien-node",
 
   rules: [
-    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen in das Grenzgebiet zum Jemen (Teilreisewarnung) – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Saudi-Arabien (Drohnen- und Raketenangriffe in mehreren Provinzen, Flughäfen zeitweise geschlossen) – vor jeder Reise die aktuelle Lage prüfen."],
     ["Mekka & Medina", "Mekka dürfen nur Muslime betreten; auch in Medina ist der Bereich um die Prophetenmoschee Muslimen vorbehalten."],
     ["Kleidung", "Lockere, lange Kleidung, Schultern und Knie bedeckt. Ausländische Frauen müssen keine Abaya und kein Kopftuch tragen (außer in Moscheen)."],
     ["Verhalten", "Keine Zärtlichkeiten in der Öffentlichkeit, keine obszönen Gesten, keine Kritik an Religion oder Königshaus – auch online kann das strafbar sein."],

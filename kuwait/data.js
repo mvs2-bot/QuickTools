@@ -29,10 +29,11 @@ window.QT = {
   emergency: [
     ["112", "Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Kuwait", "address": ["Dasma, Block 1, Street 14, Villa 13", "Kuwait-Stadt"], "phone": "+965 2252 0827"},
+  embassy: {"title": "Deutsche Botschaft Kuwait", "address": ["Al Hamra Tower, 40. Stock, Al Shuhada Street, Sharq", "13009 Kuwait-Stadt"], "phone": "+965 2205 8955", "emergency": "+965 9904 8660", "emergencyNote": "(außerhalb der Dienstzeiten bis 22 Uhr, am Wochenende 8–22 Uhr; nur Notfälle)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/kuwait-node",
 
   rules: [
+    ["Reisehinweis", "Das Auswärtige Amt rät dringend von Reisen nach Kuwait ab (volatile Lage in der Region, Angriffe und Luftraumsperrungen möglich) – vor jeder Reise die aktuelle Lage prüfen."],
     ["Kleidung", "In der Öffentlichkeit Schultern und Knie bedecken; Badekleidung nur am Pool und Hotelstrand."],
     ["Verhalten", "Keine Zärtlichkeiten in der Öffentlichkeit, keine obszönen Gesten oder Beschimpfungen – auch online kann das strafbar sein."],
     ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."],

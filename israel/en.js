@@ -24,5 +24,11 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Heimatfrontkommando": "Home Front Command",
 "Offizielle App für Raketen- und Notfallwarnungen.": "Official app for rocket and emergency alerts.",
 "Busse und Züge im ganzen Land.": "Buses and trains throughout the country.",
-"Totes Meer (En Bokek)": "Dead Sea (Ein Bokek)"
+"Totes Meer (En Bokek)": "Dead Sea (Ein Bokek)",
+"Heimatfrontkommando (Zivilschutz-Auskunft, Englisch)": "Home Front Command (civil defence information, English)",
+"2 HaShlosha Street, Gebäudeteil C": "2 HaShlosha Street, Building C",
+"(außerhalb der Öffnungszeiten, nur akute Notfälle)": "(outside office hours, acute emergencies only)",
+"Das Auswärtige Amt warnt vor Reisen in den Gazastreifen und ins Westjordanland (außer Ostjerusalem). Von Reisen in das Gebiet um Gaza und den Norden Israels wird dringend, von Reisen in das übrige Land abgeraten – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to the Gaza Strip and the West Bank (except East Jerusalem). It strongly advises against travel to the area around Gaza and northern Israel, and advises against travel to the rest of the country – check the current situation before every trip.",
+"Vor der Reise online die elektronische Reisegenehmigung ETA-IL beantragen; Reisepass (kein Personalausweis) mind. 6 Monate gültig. Am Flughafen gibt es ausführliche Sicherheitsbefragungen.": "Apply online for the ETA-IL electronic travel authorisation before your trip; passport (not ID card) valid for at least 6 months. Expect thorough security questioning at the airport.",
+"Israelische Mietwagen dürfen grundsätzlich nicht in den Palästinensischen Gebieten fahren (Ausnahmen: Straße 1 Jerusalem–Totes Meer und Straße 90 im Jordantal). Einige Straßen sind mautpflichtig (Route 6 – Abrechnung über den Mietwagen).": "Israeli rental cars are generally not allowed in the Palestinian territories (exceptions: Road 1 Jerusalem–Dead Sea and Road 90 in the Jordan Valley). Some roads are tolled (Route 6 – charged via the rental car)."
 });

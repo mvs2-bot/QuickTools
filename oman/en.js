@@ -13,5 +13,9 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Ab 21, nur in Hotels sowie lizenzierten Bars und Restaurants. Trinken in der Öffentlichkeit ist verboten.": "From 21, only in hotels and licensed bars and restaurants. Drinking in public is forbidden.",
 "Omantel, Ooredoo oder Vodafone Oman am Flughafen – Pass nötig.": "Omantel, Ooredoo or Vodafone Oman at the airport – passport required.",
 "Offizielle Taxi-App mit festen Preisen.": "Official taxi app with fixed prices.",
-"Busse in Maskat und Fernbusse im Land.": "Buses in Muscat and long-distance buses around the country."
+"Busse in Maskat und Fernbusse im Land.": "Buses in Muscat and long-distance buses around the country.",
+"Reisehinweis": "Travel advice",
+"Das Auswärtige Amt rät von Reisen in die Exklave Musandam (Straße von Hormus) ab; die unmittelbare Grenzregion zum Jemen meiden – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office advises against travel to the Musandam exclave (Strait of Hormuz); avoid the immediate border region with Yemen – check the current situation before every trip.",
+"Deutsche brauchen ein Visum: bei Einreise für bis zu 14 Tage kostenlos (mit Hotelbuchung und Rück- oder Weiterflug), sonst vorab e-Visum. Reisepass mind. 6 Monate gültig.": "Germans need a visa: free on arrival for up to 14 days (with hotel booking and return or onward flight), otherwise an e-visa in advance. Passport valid for at least 6 months.",
+"(nach Dienstschluss bis 24 Uhr, nur Notfälle)": "(after office hours until midnight, emergencies only)"
 });

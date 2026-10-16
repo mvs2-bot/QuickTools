@@ -17,5 +17,9 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Fahrdienst (iranisches Uber) – braucht lokale Nummer.": "Ride-hailing (Iran's Uber) – needs a local number.",
 "Iranische Navigations-App, oft genauer als Google Maps.": "Iranian navigation app, often more accurate than Google Maps.",
 "ca. 5–10 %": "approx. 5–10 %",
-"Schiras": "Shiraz"
+"Schiras": "Shiraz",
+"Das Auswärtige Amt warnt vor Reisen nach Iran und fordert Deutsche zur Ausreise auf (Gefahr willkürlicher Verhaftungen). Das Botschaftspersonal wurde vorübergehend verlegt – derzeit keine konsularische Hilfe vor Ort.": "The German Foreign Office warns against travel to Iran and calls on Germans to leave the country (risk of arbitrary arrest). Embassy staff have been temporarily relocated – no consular assistance on site at present.",
+"Viele Websites und Apps (z. B. Instagram, Facebook) sind gesperrt; die Nutzung nicht genehmigter VPNs ist strafbar.": "Many websites and apps (e.g. Instagram, Facebook) are blocked; using unauthorised VPNs is a criminal offence.",
+"Das Botschaftspersonal wurde vorübergehend aus Iran verlegt – derzeit keine konsularische Hilfe möglich.": "Embassy staff have been temporarily relocated out of Iran – no consular assistance is possible at present.",
+"11365 Teheran": "11365 Tehran"
 });

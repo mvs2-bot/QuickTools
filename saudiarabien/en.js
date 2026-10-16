@@ -16,5 +16,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Komplett verboten – Besitz, Konsum und Einfuhr. Auch kein Alkohol im Duty-free mitbringen.": "Completely banned – possession, consumption and import. Don't bring any duty-free alcohol either.",
 "stc, Mobily oder Zain am Flughafen – Pass nötig, Registrierung per Fingerabdruck.": "stc, Mobily or Zain at the airport – passport required, registration by fingerprint.",
 "Metro und Busse in Riad.": "Metro and buses in Riyadh.",
-"ca. 10 %, nicht Pflicht": "approx. 10 %, not obligatory"
+"ca. 10 %, nicht Pflicht": "approx. 10 %, not obligatory",
+"Das Auswärtige Amt warnt vor Reisen nach Saudi-Arabien (Drohnen- und Raketenangriffe in mehreren Provinzen, Flughäfen zeitweise geschlossen) – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to Saudi Arabia (drone and missile attacks in several provinces, airports temporarily closed) – check the current situation before every trip.",
+"Generalkonsulat Dschidda: Tel. +966 12 699 6436": "Consulate General Jeddah: Tel. +966 12 699 6436"
 });

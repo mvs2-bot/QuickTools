@@ -14,5 +14,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "alfa oder touch – Pass nötig; mobile Daten sind relativ teuer.": "alfa or touch – passport required; mobile data is relatively expensive.",
 "Fahrdienste in Beirut – Preis steht vorher fest.": "Ride-hailing in Beirut – the price is fixed in advance.",
 "Jeita-Grotte": "Jeita Grotto",
-"Zedern von Bscharri": "Cedars of Bsharri"
+"Zedern von Bscharri": "Cedars of Bsharri",
+"Das Auswärtige Amt warnt vor Reisen in den Süden (südlich von Jiyeh), die Bekaa-Ebene, Baalbek-Hermel, das Grenzgebiet zu Syrien, die Palästinenserlager und die südlichen Vororte Beiruts; von Reisen in alle übrigen Landesteile wird dringend abgeraten – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to the south (south of Jiyeh), the Bekaa Valley, Baalbek-Hermel, the border area with Syria, the Palestinian refugee camps and Beirut's southern suburbs; it strongly advises against travel to all other parts of the country – check the current situation before every trip.",
+"Regent Park Tower (hinter Freeway Center), Dekwaneh": "Regent Park Tower (behind Freeway Center), Dekwaneh",
+"Metn (Großraum Beirut)": "Metn (Greater Beirut)"
 });

@@ -35,16 +35,17 @@ window.QT = {
     ["Region Kurdistan", "Die Autonome Region Kurdistan im Norden (Erbil, Sulaimaniya, Dohuk) hat eine eigene Regionalregierung und Sicherheitskräfte. Zwischen ihr und dem übrigen Irak gibt es Kontrollpunkte, Einreiseregeln können sich unterscheiden."]
   ],
   emergency: [
-    ["104", "Polizei"],
+    ["911", "Polizei"],
+    ["104", "Polizei (Region Kurdistan)"],
     ["122", "Rettungsdienst"],
     ["115", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Bagdad", "address": ["Hay Al-Mansour", "Bagdad", "Generalkonsulat Erbil (Region Kurdistan)"], "phone": "+964 780 917 0400"},
+  embassy: {"title": "Deutsche Botschaft Bagdad", "address": ["Mahala 609, Street 3, House 53, Hay Al-Mansour", "Bagdad", "Generalkonsulat Erbil (Region Kurdistan): Kirkuk Road, Azadi, Notfall-Tel. +964 751 800 4275"], "phone": "+964 790 192 2526", "emergency": "+964 783 249 5209", "emergencyNote": "(außerhalb der Öffnungszeiten, nur Notfälle)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/irak-node",
 
   rules: [
-    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen in den Irak (für die Region Kurdistan-Irak gelten gesonderte Hinweise) – vor jeder Reise die aktuelle Lage prüfen."],
-    ["Visum", "Deutsche bekommen ein Visum bei Ankunft an den Flughäfen Bagdad, Basra und Erbil oder vorab als e-Visum."],
+    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Irak, auch in die Region Kurdistan (dort u. a. Drohnenangriffe) – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Visum", "Deutsche brauchen ein Visum: für den Zentralirak vorab als e-Visum (bis 30 Tage, kein Visum bei Ankunft mehr), für die Region Kurdistan ein eigenes e-Visum, das nicht zur Weiterreise in den Zentralirak berechtigt. Reisepass mind. 6 Monate gültig."],
     ["Kleidung", "Konservativ kleiden; in den schiitischen Pilgerstädten Kerbela und Nadschaf müssen Frauen einen Tschador bzw. eine Abaya tragen."],
     ["Fotografieren", "Keine Fotos von Militär, Kontrollpunkten oder Regierungsgebäuden; Menschen nur mit Erlaubnis."],
     ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."]

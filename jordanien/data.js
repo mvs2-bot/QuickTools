@@ -34,7 +34,7 @@ window.QT = {
 
   rules: [
     ["Jordan Pass", "Vor der Reise online kaufen: Er enthält das Visum (bei mind. 3 Nächten im Land) und den Eintritt für Petra und rund 40 weitere Sehenswürdigkeiten."],
-    ["Grenzgebiete", "Von Reisen in die Grenzgebiete zu Syrien und Irak rät das Auswärtige Amt ab – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Reisehinweis", "Von Reisen in die Grenzgebiete zu Syrien und Irak sowie in den Nordosten rät das Auswärtige Amt dringend ab, von nicht notwendigen Reisen in andere Landesteile wird abgeraten – vor jeder Reise die aktuelle Lage prüfen."],
     ["Kleidung", "Schultern und Knie bedecken, besonders außerhalb von Amman und Akaba; Badekleidung nur am Pool und Strand."],
     ["Petra & Wadi Rum", "Viel Wasser, Sonnenschutz und feste Schuhe – in Petra läuft man leicht 15–20 km am Tag."],
     ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."]
