@@ -305,7 +305,7 @@
     const dark = t === 'dark';
     document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
     const m = $('meta[name="theme-color"]');
-    if (m) m.setAttribute('content', dark ? '#0f1512' : '#15803d');
+    if (m) m.setAttribute('content', dark ? '#000000' : '#15803d');
     document.querySelectorAll('.theme-toggle:not(.lang-toggle)').forEach(b => {
       b.textContent = dark ? '☀️' : '🌙';
       b.setAttribute('aria-pressed', dark ? 'true' : 'false');
