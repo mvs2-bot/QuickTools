@@ -14,5 +14,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Getränke über 8 % gibt es nur im staatlichen „Alko“ (Spirituosen ab 20); Bier und Wein bis 8 % im Supermarkt ab 18, nur bis 21 Uhr.": "Drinks over 8 % are only sold in the state-run \"Alko\" (spirits from 20); beer and wine up to 8 % in supermarkets from 18, only until 9 pm.",
 "eSIM (z. B. Airalo) oder Prepaid-SIM von Elisa, DNA oder Telia.": "eSIM (e.g. Airalo) or prepaid SIM from Elisa, DNA or Telia.",
 "Zugtickets in ganz Finnland.": "Train tickets throughout Finland.",
-"Nahverkehrstickets in Helsinki und Umgebung.": "Public transport tickets in and around Helsinki."
+"Nahverkehrstickets in Helsinki und Umgebung.": "Public transport tickets in and around Helsinki.",
+"(Mo–Fr 17–24 Uhr, Wochenende/Feiertage 8–24 Uhr)": "(Mon–Fri 5 pm–midnight, weekends/holidays 8 am–midnight)",
+"Grenze zu Russland": "Border with Russia",
+"Alle Grenzübergänge nach Russland sind geschlossen. Das Grenzgebiet nicht ohne Genehmigung betreten – es gab Festnahmen.": "All border crossings to Russia are closed. Do not enter the border zone without a permit – there have been arrests."
 });

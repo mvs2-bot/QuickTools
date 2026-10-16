@@ -9,5 +9,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Fahrpläne für Bahn und Bus im ganzen Land.": "Train and bus timetables for the whole country.",
 "Für Autobahnen ist eine elektronische Vignette (eznamka.sk) Pflicht. Licht auch tagsüber.": "An electronic vignette (eznamka.sk) is mandatory on motorways. Headlights on during the day.",
 "Hohe Tatra (Štrbské Pleso)": "High Tatras (Štrbské Pleso)",
-"Zipser Burg": "Spiš Castle"
+"Zipser Burg": "Spiš Castle",
+"(Mo–Fr 17–24 Uhr, Wochenende 8–24 Uhr; auch SMS)": "(Mon–Fri 5 pm–midnight, weekends 8 am–midnight; SMS also possible)"
 });

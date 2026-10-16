@@ -29,22 +29,23 @@ window.QT = {
   emergency: [
     ["112", "Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Valletta", "address": ["Il-Piazzetta A, Entrance B, 1st Floor, Tower Road", "Sliema SLM 1605"], "phone": "+356 2133 6531"},
+  embassy: {"title": "Deutsche Botschaft Valletta", "address": ["Whitehall Mansions, 2nd floor, Ta' Xbiex Seafront", "Ta' Xbiex XBX 1026"], "phone": "+356 2260 4000", "emergency": "+356 9947 5966", "emergencyNote": "(nur dringende Notfälle außerhalb der Öffnungszeiten, nicht 0–8 Uhr; auch SMS)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/malta-node",
 
   rules: [
     ["Sprache", "Englisch ist neben Maltesisch Amtssprache – damit kommt man überall durch."],
     ["Kirchen", "Schultern und Knie bedecken, z. B. in der St. John’s Co-Cathedral in Valletta."],
     ["Sonne", "Im Sommer sehr heiß und kaum Schatten – Sonnenschutz und Wasser mitnehmen."],
-    ["Trinkgeld", "Rund 10 % in Restaurants sind üblich."]
+    ["Trinkgeld", "Rund 10 % in Restaurants sind üblich."],
+    ["Bußgelder", "Seit Juli 2026 müssen Reisende Bußgelder für Verstöße gegen lokale Vorschriften sofort elektronisch zahlen – sonst droht die Einbehaltung des Passes."]
   ],
   car: [
     ["Linksverkehr", "Achtung, in Malta wird links gefahren. Straßen sind eng und oft verstopft."],
-    ["Promille", "0,5 ‰; Fahranfänger 0,2 ‰."]
+    ["Promille", "0,5 ‰; Fahranfänger (erste 3 Jahre) und Motorradfahrer 0,2 ‰."]
   ],
   substances: [
     ["Alkohol", "Ab 17 Jahren."],
-    ["Cannabis", "Für Erwachsene bis 7 g Besitz straffrei, Konsum in der Öffentlichkeit aber verboten. Andere Drogen werden streng bestraft."]
+    ["Cannabis", "Besitz bis 7 g ist für Erwachsene entkriminalisiert, aber Reisende können nicht legal kaufen (Cannabis-Clubs nur für Einwohner); Konsum in der Öffentlichkeit verboten. Kauf, Verkauf und Einfuhr anderer Drogen werden streng bestraft."]
   ],
   sim: [
     ["EU-Roaming", "Mit deutschem Tarif ohne Aufpreis surfen und telefonieren („Roam like at home“)."],

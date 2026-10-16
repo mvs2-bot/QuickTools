@@ -22,5 +22,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Mit dem Rad in zwei Schritten: erst geradeaus über die Kreuzung, dann warten und abbiegen. Zum Anhalten Hand heben.": "By bike in two steps: first straight across the junction, then wait and turn. Raise your hand to signal stopping.",
 "Alkohol in der Öffentlichkeit": "Drinking in public",
 "Trinken in der Öffentlichkeit ist grundsätzlich erlaubt (lokale Verbote möglich). In Bars ab 18.": "Drinking in public is generally allowed (local bans possible). In bars from 18.",
-"Verboten – auch in Christiania; die Pusher Street wurde 2024 geschlossen.": "Illegal – also in Christiania; Pusher Street was closed in 2024."
+"Verboten – auch in Christiania; die Pusher Street wurde 2024 geschlossen.": "Illegal – also in Christiania; Pusher Street was closed in 2024.",
+"Fast alles geht mit Karte – Bargeld braucht man kaum; Parkautomaten und Nahverkehr nehmen kein Bargeld. MobilePay nur mit dänischer CPR-Nummer. Euro wird selten angenommen.": "Almost everything can be paid by card – you hardly need cash; parking meters and public transport don't accept cash. MobilePay only works with a Danish CPR number. Euros are rarely accepted.",
+"Messer & Spray": "Knives & sprays",
+"Messer in der Öffentlichkeit mitzuführen ist verboten (im Auto verschlossen lagern); Pfefferspray ist ganz verboten.": "Carrying knives in public is forbidden (keep them locked in the car); pepper spray is banned entirely."
 });

@@ -35,7 +35,8 @@ window.QT = {
   embassy: {
     title: 'Deutsche Botschaft Rom',
     address: ['Via San Martino della Battaglia 4', '00185 Roma'],
-    phone: '+39 06 492 131'
+    phone: '+39 06 492 131',
+    emergency: '+39 06 492 131', emergencyNote: '(Notfälle rund um die Uhr, auf Deutsch)'
   },
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/italien-node',
 

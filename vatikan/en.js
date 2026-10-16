@@ -18,5 +18,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Petersdom": "St Peter's Basilica",
 "Vatikanische Museen": "Vatican Museums",
 "Sixtinische Kapelle": "Sistine Chapel",
-"Vatikanische Gärten": "Vatican Gardens"
+"Vatikanische Gärten": "Vatican Gardens",
+"(Notfälle rund um die Uhr, auf Deutsch)": "(emergencies around the clock, in German)"
 });

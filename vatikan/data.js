@@ -35,8 +35,8 @@ window.QT = {
     ["113", "Polizei"],
     ["115", "Feuerwehr"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Rom (Italien)", "address": ["Via San Martino della Battaglia 4", "00185 Roma"], "phone": "+39 06 492 131"},
-  aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/vatikanstadt-node",
+  embassy: {"title": "Zuständig: Deutsche Botschaft Rom (Italien)", "address": ["Via San Martino della Battaglia 4", "00185 Roma"], "phone": "+39 06 492 131", "emergency": "+39 06 492 131", "emergencyNote": "(Notfälle rund um die Uhr, auf Deutsch)"},
+  aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/heiligerstuhlvatikan-node",
 
   rules: [
     ["Kleidung", "Im Petersdom und in den Vatikanischen Museen Schultern und Knie bedecken – sonst wird der Einlass verweigert."],

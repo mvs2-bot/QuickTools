@@ -21,5 +21,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Keine Helmpflicht; außerorts nachts Warnweste tragen. Auf E-Scootern gilt Helmpflicht.": "Helmets are not mandatory; wear a hi-vis vest outside towns at night. Helmets are mandatory on e-scooters.",
 "In Mailand ist Rauchen im Freien verboten, wenn andere näher als 10 m sind. Innen überall verboten.": "In Milan smoking outdoors is banned when others are closer than 10 m. Banned indoors everywhere.",
 "Ab 18. Viele Städte verbieten Alkohol auf der Straße oder aus Glasflaschen zu bestimmten Zeiten.": "From 18. Many cities ban drinking in the street or from glass bottles at certain times.",
-"Verboten (Besitz kleiner Mengen wird als Ordnungswidrigkeit verfolgt).": "Illegal (possessing small amounts is treated as an administrative offence)."
+"Verboten (Besitz kleiner Mengen wird als Ordnungswidrigkeit verfolgt).": "Illegal (possessing small amounts is treated as an administrative offence).",
+"(Notfälle rund um die Uhr, auf Deutsch)": "(emergencies around the clock, in German)"
 });

@@ -32,7 +32,7 @@ window.QT = {
     ["115", "Feuerwehr"],
     ["118", "Rettungsdienst"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Rom (Italien)", "address": ["Via San Martino della Battaglia 4", "00185 Roma"], "phone": "+39 06 492 131"},
+  embassy: {"title": "Zuständig: Deutsches Generalkonsulat Mailand (Italien)", "address": ["Via Solferino 40", "20121 Milano"], "phone": "+39 02 6231 1010", "emergency": "+39 06 492 131", "emergencyNote": "(Notfälle rund um die Uhr, auf Deutsch)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/sanmarino-node",
 
   rules: [

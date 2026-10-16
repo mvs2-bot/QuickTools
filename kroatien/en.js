@@ -12,5 +12,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Fahrdienste in Zagreb, Split und Dubrovnik.": "Ride-hailing in Zagreb, Split and Dubrovnik.",
 "0,5 ‰; unter 25 Jahren 0,0 ‰.": "0.5 ‰; 0.0 ‰ for drivers under 25.",
 "Helmpflicht bis 16 Jahre.": "Helmets are mandatory up to age 16.",
-"Ab 18. In Hvar, Split und anderen Orten ist Trinken auf der Straße teils verboten.": "From 18. In Hvar, Split and other places drinking in the street is partly banned."
+"Ab 18. In Hvar, Split und anderen Orten ist Trinken auf der Straße teils verboten.": "From 18. In Hvar, Split and other places drinking in the street is partly banned.",
+"(werktags nach Dienstschluss bis 24 Uhr, Wochenende/Feiertage 8–24 Uhr)": "(weekdays after office hours until midnight, weekends/holidays 8 am–midnight)",
+"Minen": "Landmines",
+"In Teilen Slawoniens und im Grenzgebiet zu Bosnien (u. a. um Karlovac, Gospić, Drniš) gibt es noch Minenverdachtsflächen – Wege nicht verlassen. Küste, Inseln und Istrien gelten als sicher.": "Parts of Slavonia and the border area with Bosnia (e.g. around Karlovac, Gospić, Drniš) still have suspected minefields – stay on the paths. The coast, islands and Istria are considered safe."
 });

@@ -16,5 +16,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Achtung vor Elchen und Rentieren, besonders in der Dämmerung. Von Dezember bis März bei Winterwetter Winterreifen Pflicht.": "Watch out for moose and reindeer, especially at dusk. From December to March winter tyres are mandatory in winter conditions.",
 "Helmpflicht bis 15 Jahre.": "Helmets are mandatory up to age 15.",
 "Wein und Schnaps gibt es nur im staatlichen „Systembolaget“ (Mindestalter 20, eingeschränkte Öffnungszeiten). In Bars ab 18.": "Wine and spirits are only sold in the state-run \"Systembolaget\" (minimum age 20, limited opening hours). In bars from 18.",
-"Null Toleranz – auch der Konsum selbst ist strafbar, die Polizei darf testen.": "Zero tolerance – even use itself is a criminal offence, police may test you."
+"Null Toleranz – auch der Konsum selbst ist strafbar, die Polizei darf testen.": "Zero tolerance – even use itself is a criminal offence, police may test you.",
+"(außerhalb der Telefonzeiten, nicht 22–8 Uhr; auch SMS)": "(outside phone hours, not 10 pm–8 am; SMS also possible)",
+"Wein und Schnaps gibt es nur im staatlichen „Systembolaget“ (Mindestalter 20, eingeschränkte Öffnungszeiten). In Bars ab 18. Trinken in der Öffentlichkeit ist vielerorts verboten.": "Wine and spirits are only sold in the state-run \"Systembolaget\" (minimum age 20, limited opening hours). In bars from 18. Drinking in public is banned in many places."
 });

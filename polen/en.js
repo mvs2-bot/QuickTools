@@ -15,5 +15,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Breslau": "Wrocław",
 "Sehr strenge Promillegrenze (0,2 ‰). Licht auch tagsüber Pflicht.": "Very strict alcohol limit (0.2 ‰). Headlights are mandatory during the day.",
 "Ab 18. Trinken in der Öffentlichkeit (Straße, Parks) ist verboten und wird mit Bußgeld bestraft.": "From 18. Drinking in public (streets, parks) is forbidden and punished with fines.",
-"Schon der Besitz kleinster Mengen (auch Cannabis) ist strafbar.": "Possessing even the smallest amounts (including cannabis) is a criminal offence."
+"Schon der Besitz kleinster Mengen (auch Cannabis) ist strafbar.": "Possessing even the smallest amounts (including cannabis) is a criminal offence.",
+"Sehr strenge Promillegrenze (0,2 ‰, auch für Radfahrer; Fahranfänger in der Probezeit 0,0 ‰). Licht auch tagsüber Pflicht.": "Very strict alcohol limit (0.2 ‰, also for cyclists; 0.0 ‰ for new drivers on probation). Headlights are mandatory during the day."
 });

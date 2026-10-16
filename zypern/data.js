@@ -33,18 +33,20 @@ window.QT = {
 
   status: [
     ["Geteilte Insel", "Seit 1974 ist Zypern geteilt. Die „Türkische Republik Nordzypern“ wird nur von der Türkei anerkannt; dazwischen liegt eine UN-Pufferzone. Die EU-Regeln gelten faktisch nur im Süden."],
-    ["Grenzübergänge", "Wechsel zwischen Süd und Nord an den Checkpoints mit Ausweis möglich. Mietwagen aus dem Süden sind im Norden meist nicht versichert – an der Grenze eine Zusatzversicherung kaufen."]
+    ["Grenzübergänge", "Wechsel zwischen Süd und Nord an den Checkpoints mit Ausweis möglich. Mietwagen aus dem Süden sind im Norden meist nicht versichert – an der Grenze eine Zusatzversicherung kaufen."],
+    ["Einreise über den Norden", "Die Republik Zypern wertet die Einreise über Flug- oder Seehäfen im Norden (z. B. Ercan) als illegale Einreise – strafbar."]
   ],
   emergency: [
     ["112", "Europäischer Notruf (alle Dienste)"],
     ["199", "Notruf (alternativ)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Nikosia", "address": ["Nikitara 10", "1080 Nikosia"], "phone": "+357 22 451 145"},
+  embassy: {"title": "Deutsche Botschaft Nikosia", "address": ["Nikitara 10", "1080 Nikosia"], "phone": "+357 22 79 00 00", "emergency": "+357 99 689 325", "emergencyNote": "(außerhalb der Öffnungszeiten, auch SMS)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/zypern-node",
 
   rules: [
     ["Pufferzone & Militär", "Militäranlagen und die Pufferzone nicht fotografieren – Schilder beachten."],
     ["Kirchen & Klöster", "Schultern und Knie bedecken."],
+    ["Strand", "Nacktbaden und Baden „oben ohne“ sind an den meisten Stränden strafbar."],
     ["Sonne & Feuer", "Im Sommer sehr heiß und hohe Waldbrandgefahr – kein offenes Feuer, Zigaretten nie wegwerfen."],
     ["Trinkgeld", "Rund 10 % in Restaurants sind üblich."]
   ],

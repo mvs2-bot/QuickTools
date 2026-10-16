@@ -10,5 +10,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Zugfahrpläne und Tickets.": "Train timetables and tickets.",
 "Shuttles von/zu den Flughäfen der Region.": "Shuttles to/from the region's airports.",
 "Aufrunden, ca. 10 % im Restaurant": "Round up, approx. 10 % in restaurants",
-"Vom 15. November bis 15. März Winterausrüstung Pflicht.": "Winter equipment is mandatory from 15 November to 15 March."
+"Vom 15. November bis 15. März Winterausrüstung Pflicht.": "Winter equipment is mandatory from 15 November to 15 March.",
+"(nur dringende konsularische Notfälle; werktags bis 22 Uhr, Wochenende 8–22 Uhr, Juni–Sept. bis 24 Uhr)": "(urgent consular emergencies only; weekdays until 10 pm, weekends 8 am–10 pm, June–Sept. until midnight)",
+"Cannabis ist illegal; kleine Mengen sind entkriminalisiert, es drohen aber Bußgeld und Beschlagnahme.": "Cannabis is illegal; small amounts are decriminalised, but fines and confiscation are possible."
 });

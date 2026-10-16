@@ -35,7 +35,8 @@ window.QT = {
   embassy: {
     title: 'Deutsche Botschaft Zagreb',
     address: ['Ulica grada Vukovara 64', '10000 Zagreb'],
-    phone: '+385 1 6300 100'
+    phone: '+385 1 6300 100',
+    emergency: '+385 98 227 136', emergencyNote: '(werktags nach Dienstschluss bis 24 Uhr, Wochenende/Feiertage 8–24 Uhr)'
   },
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/kroatien-node',
 
@@ -43,7 +44,8 @@ window.QT = {
     ["Altstädte", "In Dubrovnik, Split, Hvar u. a. ist Badekleidung oder nackter Oberkörper in der Altstadt verboten – Bußgelder möglich."],
     ["Kirchen", "Schultern und Knie bedecken."],
     ["Waldbrandgefahr", "Im Sommer kein offenes Feuer, keine Zigaretten wegwerfen – sehr hohe Brandgefahr und hohe Strafen."],
-    ["Trinkgeld", "Rund 10 % in Restaurants sind üblich."]
+    ["Trinkgeld", "Rund 10 % in Restaurants sind üblich."],
+    ["Minen", "In Teilen Slawoniens und im Grenzgebiet zu Bosnien (u. a. um Karlovac, Gospić, Drniš) gibt es noch Minenverdachtsflächen – Wege nicht verlassen. Küste, Inseln und Istrien gelten als sicher."]
   ],
   car: [
     ["Promille", "0,5 ‰; unter 25 Jahren 0,0 ‰."],
