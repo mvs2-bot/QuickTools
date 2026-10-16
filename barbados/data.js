@@ -6,7 +6,7 @@ window.QT = {
   tz: "America/Barbados",
   currency: {"code": "BBD", "symbol": "Bds$", "name": "Barbados-Dollar"},
 
-  glance: {"plug": "A / B", "volt": 115, "adapter": "ja", "drive": "L", "water": "Trinkbar", "tip": "10 % Service oft schon enthalten, sonst ca. 10 %", "dial": "+1", "voltNote": "115 V – Netzteil muss 100–240 V können"},
+  glance: {"plug": "A / B", "volt": 115, "adapter": "ja", "drive": "L", "water": "Nicht empfohlen – Flaschenwasser", "tip": "10 % Service oft schon enthalten, sonst ca. 10 %", "dial": "+1", "voltNote": "115 V – Netzteil muss 100–240 V können"},
   taxi: {"local": "Please take me to this address.", "phonetic": "pliis TEIK mi tu dis e-DRES"},
 
   phrases: [
@@ -31,10 +31,11 @@ window.QT = {
     ["511", "Rettungsdienst"],
     ["311", "Feuerwehr"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Port of Spain (Trinidad und Tobago)", "address": ["19th Floor, Nicholas Tower", "63-65 Independence Square, Port of Spain"], "phone": "+1 868 628 1630"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Port of Spain (Trinidad und Tobago)", "address": ["19 St. Clair Avenue", "St. Clair, Port of Spain 190125"], "phone": "+1 868 628 1630", "emergency": "+1 868 460 9687", "emergencyNote": "(Bereitschaft Port of Spain, auch SMS/WhatsApp; vor Ort gibt es zusätzlich ein deutsches Honorarkonsulat)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/barbados-node",
 
   rules: [
+    ["Einreise", "Vor der Einreise das Online-Formular auf travelform.gov.bb ausfüllen und bei der Ankunft vorzeigen."],
     ["Bargeld", "Der Barbados-Dollar ist fest an den US-Dollar gekoppelt (1 US$ = 2 Bds$); US-Dollar werden fast überall angenommen."],
     ["Tarnkleidung", "Kleidung im Camouflage-Muster ist Zivilisten verboten – auch für Kinder."],
     ["Badekleidung", "Badesachen nur am Strand und am Pool – in Orten und Geschäften etwas überziehen."],

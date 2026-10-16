@@ -29,13 +29,14 @@ window.QT = {
   emergency: [
     ["911", "Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Santo Domingo", "address": ["Torre Piantini, Piso 16", "Av. Gustavo Mejía Ricart 196, Santo Domingo"], "phone": "+1 809 542 8950"},
+  embassy: {"title": "Deutsche Botschaft Santo Domingo", "address": ["Edificio Equinox, Piso 5 y 6", "Av. Núñez de Cáceres No. 11, Bella Vista", "Santo Domingo"], "phone": "+1 809 542 8949", "emergency": "+1 809 543 5650", "emergencyNote": "(Bereitschaft außerhalb der Öffnungszeiten, auch SMS; keine Visafragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/dominikanischerepublik-node",
 
   rules: [
     ["Einreise", "Vor Ein- und Ausreise das kostenlose E-Ticket online ausfüllen (nur auf eticket.migracion.gob.do) – QR-Code bereithalten."],
     ["Sicherheit", "Außerhalb der Hotelanlagen keine Wertsachen zeigen, nachts nur Taxi oder Uber. In Urlaubsorten hilft die Touristenpolizei POLITUR."],
     ["Preise", "Auf Restaurantpreise kommen oft noch 18 % Steuer (ITBIS) und 10 % Service."],
+    ["Gesetze", "Gewalt gegen Frauen wird sehr hart bestraft – schon verbale Ausfälle oder Anrempeln können zu Haft führen."],
     ["Hurrikansaison", "Juni bis November – Wetterwarnungen verfolgen und Reiserücktritts-/Reiseversicherung prüfen."]
   ],
   car: [

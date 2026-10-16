@@ -30,7 +30,7 @@ window.QT = {
     ["911", "Notruf (Polizei, Rettung, Feuerwehr)"],
     ["999", "Notruf (alternativ)"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Port of Spain (Trinidad und Tobago)", "address": ["19th Floor, Nicholas Tower", "63-65 Independence Square, Port of Spain"], "phone": "+1 868 628 1630"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Port of Spain (Trinidad und Tobago)", "address": ["19 St. Clair Avenue", "St. Clair, Port of Spain 190125"], "phone": "+1 868 628 1630", "emergency": "+1 868 460 9687", "emergencyNote": "(Bereitschaft Port of Spain, auch SMS/WhatsApp; vor Ort gibt es zusätzlich ein deutsches Honorarkonsulat)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/stvincentunddiegrenadinen-node",
 
   rules: [

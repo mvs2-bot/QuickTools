@@ -21,5 +21,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "In Québec (Dez.–März) und auf vielen Straßen in British Columbia sind Winterreifen Pflicht.": "Winter tyres are mandatory in Québec (Dec–Mar) and on many roads in British Columbia.",
 "In mehreren Provinzen Helmpflicht (z. B. British Columbia, in Ontario unter 18).": "Helmets are mandatory in several provinces (e.g. British Columbia, in Ontario under 18).",
 "Ab 18 oder 19 je nach Provinz, meist nur in speziellen Läden. Offene Flaschen in der Öffentlichkeit und im Auto sind verboten.": "From 18 or 19 depending on the province, mostly only in special shops. Open containers in public and in the car are forbidden.",
-"Legal ab 18–21 je nach Provinz (Québec 21), nur aus lizenzierten Läden. Niemals über die Grenze mitnehmen – auch nicht in die USA.": "Legal from 18–21 depending on the province (Québec 21), only from licensed shops. Never take it across the border – not even to the USA."
+"Legal ab 18–21 je nach Provinz (Québec 21), nur aus lizenzierten Läden. Niemals über die Grenze mitnehmen – auch nicht in die USA.": "Legal from 18–21 depending on the province (Québec 21), only from licensed shops. Never take it across the border – not even to the USA.",
+"(Konsularisches: Generalkonsulat Toronto +1 416 925 2813, für Westkanada Generalkonsulat Vancouver +1 604 684 8377)": "(Consular matters: Consulate General Toronto +1 416 925 2813, for western Canada Consulate General Vancouver +1 604 684 8377)",
+"Bei Einreise per Flugzeug vorab eTA online beantragen (7 CAD, nur auf der offiziellen Seite canada.ca).": "When arriving by air, apply for an eTA online in advance (CAD 7, only on the official website canada.ca)."
 });

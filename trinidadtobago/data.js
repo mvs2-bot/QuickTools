@@ -28,16 +28,18 @@ window.QT = {
 
   emergency: [
     ["999", "Polizei"],
-    ["990", "Feuerwehr & Rettungsdienst"],
+    ["990", "Feuerwehr"],
     ["811", "Rettungsdienst"]
   ],
-  embassy: {"title": "Deutsche Botschaft Port of Spain", "address": ["19th Floor, Nicholas Tower", "63-65 Independence Square, Port of Spain"], "phone": "+1 868 628 1630"},
+  embassy: {"title": "Deutsche Botschaft Port of Spain", "address": ["19 St. Clair Avenue", "St. Clair, Port of Spain 190125"], "phone": "+1 868 628 1630", "emergency": "+1 868 460 9687", "emergencyNote": "(Bereitschaft nur für echte Notfälle, auch SMS/WhatsApp; keine Visafragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/trinidadundtobago-node",
 
   rules: [
-    ["Sicherheit", "Hohe Gewaltkriminalität, besonders in Teilen von Port of Spain – nachts nicht zu Fuß, Wertsachen nicht zeigen. Tobago ist ruhiger."],
+    ["Sicherheit", "Hohe Gewaltkriminalität (etwa ein Mord pro Tag), besonders östlich der Henry Street in Port of Spain (Laventille, Beetham, Morvant, Sea Lots) – dort nicht hin, nachts nicht zu Fuß, Wertsachen nicht zeigen. Tobago ist ruhiger."],
     ["Taxi", "Offizielle Taxis haben ein Kennzeichen mit „H“; Wagen mit „P“-Kennzeichen sind private „PH-Taxis“ – besser meiden."],
+    ["Einreise", "Seit März 2026 vor Ein- und Ausreise das Online-Formular ausfüllen (ab 72 Stunden vorher) und den QR-Code vorzeigen. Reisepass muss 6 Monate über den Aufenthalt hinaus gültig sein."],
     ["Karneval", "Höhepunkt am Montag und Dienstag vor Aschermittwoch – Unterkünfte früh buchen, auf Taschendiebe achten."],
+    ["Gesetze", "Sex zwischen Männern ist gesetzlich strafbar; Grenzbeamte können LGBTIQ-Reisenden die Einreise verweigern. Zurückhaltung in der Öffentlichkeit ist ratsam."],
     ["Tarnkleidung", "Kleidung im Camouflage-Muster ist Zivilisten verboten – auch für Kinder."],
     ["Hurrikansaison", "Juni bis November – Wetterwarnungen verfolgen und Reiserücktritts-/Reiseversicherung prüfen."]
   ],

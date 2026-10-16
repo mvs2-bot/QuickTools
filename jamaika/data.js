@@ -37,10 +37,11 @@ window.QT = {
     ["119", "Polizei"],
     ["110", "Rettungsdienst & Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Kingston", "address": ["10 Waterloo Road", "Kingston 10"], "phone": "+1 876 926 6728"},
+  embassy: {"title": "Deutsche Botschaft Kingston", "address": ["10 Waterloo Road", "Kingston 10"], "phone": "+1 876 926 6728", "emergency": "+1 876 819 4351", "emergencyNote": "(Bereitschaft werktags bis 22 Uhr, am Wochenende 8–22 Uhr, auch SMS)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/jamaika-node",
 
   rules: [
+    ["Einreise", "Vor der Reise kostenlos online registrieren – nur auf der offiziellen Seite enterjamaica.com, kostenpflichtige Fake-Seiten meiden."],
     ["Sicherheit", "Hohe Gewaltkriminalität in Teilen von Kingston und Montego Bay – nachts nicht zu Fuß, Wertsachen nicht zeigen."],
     ["Taxi", "Nur lizenzierte Taxis mit rotem Kennzeichen (PPV) oder über das Hotel; Preis vorher vereinbaren."],
     ["Gesetze", "Sex zwischen Männern ist gesetzlich verboten; öffentliche Zärtlichkeiten unter Gleichgeschlechtlichen besser vermeiden."],

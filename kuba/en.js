@@ -15,5 +15,14 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "In Hotels und an öffentlichen Hotspots mit Prepaid-Karte; manche Dienste sind aus Kuba gesperrt – Apps vor der Reise installieren.": "In hotels and at public hotspots with a prepaid card; some services are blocked from Cuba – install apps before you travel.",
 "Organic Maps oder Maps.me mit heruntergeladenen Karten – Internet ist oft nicht verfügbar.": "Organic Maps or Maps.me with downloaded maps – internet is often unavailable.",
 "Havanna": "Havana",
-"110 V (teils 220 V) – Netzteil muss 100–240 V können": "110 V (sometimes 220 V) – your charger must handle 100–240 V"
+"110 V (teils 220 V) – Netzteil muss 100–240 V können": "110 V (sometimes 220 V) – your charger must handle 100–240 V",
+"(Bereitschaft, auch SMS/WhatsApp; keine Visafragen)": "(on-call service, also SMS/WhatsApp; no visa questions)",
+"Visum nötig – nur online über eVisaCuba beantragen. Innerhalb von 48 Stunden vor dem Check-in das Online-Formular „D’Viajeros“ ausfüllen. Eine für Kuba gültige Auslandskrankenversicherung ist Pflicht (gesetzliche deutsche Kassen zählen nicht).": "A visa is required – apply online only via eVisaCuba. Fill in the online \"D’Viajeros\" form within 48 hours before check-in. Travel health insurance valid for Cuba is mandatory (German statutory health insurance does not count).",
+"Reisehinweis": "Travel advice",
+"Das Auswärtige Amt rät derzeit dringend von Reisen nach Kuba ab: Stromabschaltungen bis zu 20 Stunden täglich, Mangel an Treibstoff, Wasser, Lebensmitteln und Medikamenten, stark eingeschränkte medizinische Versorgung.": "The German Foreign Office currently strongly advises against travel to Cuba: power cuts of up to 20 hours a day, shortages of fuel, water, food and medicines, severely limited medical care.",
+"Genug Euro oder US-Dollar in bar mitnehmen – seit Juni 2026 funktionieren VISA und Mastercard nicht mehr, Geldautomaten sind praktisch nicht nutzbar. Der Straßenkurs liegt weit über dem offiziellen Kurs.": "Bring enough euros or US dollars in cash – since June 2026 VISA and Mastercard no longer work and ATMs are practically unusable. The street rate is far above the official rate.",
+"Wegen Treibstoffmangels (max. 20 Liter pro Tankvorgang) sind Überlandfahrten mit Mietwagen derzeit kaum möglich. Schlaglöcher, Pferdekutschen und unbeleuchtete Fahrzeuge – nachts nicht fahren.": "Because of fuel shortages (max. 20 litres per fill-up), overland trips by rental car are currently hardly possible. Potholes, horse-drawn carts and unlit vehicles – don't drive at night.",
+"Schon kleine Mengen werden drastisch bestraft – 4 bis 30 Jahre Haft, in schweren Fällen droht die Todesstrafe.": "Even small amounts are punished drastically – 4 to 30 years in prison, in serious cases the death penalty.",
+"Die Einfuhr von E-Zigaretten ist verboten.": "Importing e-cigarettes is prohibited.",
+"Politische Betätigung ist Ausländern verboten; keine Menschenansammlungen, Polizei, Uniformierte oder militärische Anlagen fotografieren.": "Foreigners are not allowed to engage in politics; don't photograph crowds, police, people in uniform or military sites."
 });

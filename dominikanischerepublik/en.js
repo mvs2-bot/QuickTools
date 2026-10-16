@@ -11,5 +11,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Fernbusse zwischen den großen Städten.": "Long-distance buses between the main cities.",
 "Chaotischer Verkehr, viele Motorräder ohne Licht – nachts nicht über Land fahren.": "Chaotic traffic, many motorbikes without lights – don't drive cross-country at night.",
 "Drogendelikte werden streng bestraft, auch kleine Mengen.": "Drug offences are punished severely, even small amounts.",
-"10 % Service ist auf der Rechnung, ca. 10 % extra sind üblich": "10 % service is on the bill, approx. 10 % extra is customary"
+"10 % Service ist auf der Rechnung, ca. 10 % extra sind üblich": "10 % service is on the bill, approx. 10 % extra is customary",
+"(Bereitschaft außerhalb der Öffnungszeiten, auch SMS; keine Visafragen)": "(on-call service outside opening hours, also SMS; no visa questions)",
+"Av. Núñez de Cáceres No. 11, Bella Vista": "Av. Núñez de Cáceres No. 11, Bella Vista",
+"Gewalt gegen Frauen wird sehr hart bestraft – schon verbale Ausfälle oder Anrempeln können zu Haft führen.": "Violence against women is punished very severely – even verbal abuse or jostling can lead to imprisonment."
 });
