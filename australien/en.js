@@ -27,5 +27,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Helmpflicht für Radfahrer (fast überall).": "Helmets are mandatory for cyclists (almost everywhere).",
 "Ab 18. In vielen Parks und an Stränden alkoholfreie Zonen.": "From 18. Many parks and beaches are alcohol-free zones.",
 "Nur in Apotheken erhältlich; Einfuhr nur in kleinen Mengen für den Eigenbedarf.": "Only available in pharmacies; import only in small amounts for personal use.",
-"Verboten (Ausnahme: kleine private Mengen im Hauptstadtterritorium ACT).": "Illegal (exception: small private amounts in the Australian Capital Territory)."
+"Verboten (Ausnahme: kleine private Mengen im Hauptstadtterritorium ACT).": "Illegal (exception: small private amounts in the Australian Capital Territory).",
+"0,5 ‰ (Lern- und Probeführerschein 0,0 ‰). Handy am Steuer wird per Kamera geahndet. Deutscher Führerschein nur mit internationalem Führerschein oder beglaubigter englischer Übersetzung.": "0.5 ‰ (learner and provisional licences 0.0 ‰). Phone use while driving is caught by cameras. German licence only together with an international driving permit or a certified English translation."
 });

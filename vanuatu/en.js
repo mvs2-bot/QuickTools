@@ -13,5 +13,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Kava-Bars („Nakamal“) sind überall – Kava ist stark, nicht mit Alkohol mischen.": "Kava bars (\"nakamals\") are everywhere – kava is strong, don't mix it with alcohol.",
 "Schon kleine Mengen werden mit Geld- oder Haftstrafen geahndet.": "Even small amounts are punished with fines or prison.",
 "Digicel oder Vodafone Vanuatu am Flughafen Port Vila – Pass nötig.": "Digicel or Vodafone Vanuatu at Port Vila airport – passport required.",
-"In Port Vila meist trinkbar, sonst Flaschenwasser": "Mostly drinkable in Port Vila, otherwise bottled water"
+"In Port Vila meist trinkbar, sonst Flaschenwasser": "Mostly drinkable in Port Vila, otherwise bottled water",
+"Rechtsverkehr. Internationaler Führerschein nötig (nur zusammen mit dem deutschen gültig); Straßen außerhalb von Efate und Santo oft Pisten.": "Driving on the right. International driving permit required (valid only with your German licence); outside Efate and Santo roads are often dirt tracks."
 });

@@ -42,7 +42,7 @@ window.QT = {
     ["Social Media", "Für beleidigende Posts gab es Festnahmen – mit Kritik im Netz zurückhaltend sein."]
   ],
   car: [
-    ["Fahren", "Rechtsverkehr. Mit deutschem Führerschein bis zu 3 Monate; Straßen außerhalb von Efate und Santo oft Pisten."]
+    ["Fahren", "Rechtsverkehr. Internationaler Führerschein nötig (nur zusammen mit dem deutschen gültig); Straßen außerhalb von Efate und Santo oft Pisten."]
   ],
   substances: [
     ["Alkohol", "Samstag ab Mittag bis Montag früh kein Verkauf in Supermärkten – Bars und Hotels schenken aber aus."],

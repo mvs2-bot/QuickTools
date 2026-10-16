@@ -13,5 +13,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Tuvalu Telecommunications Corporation (TTC) in Funafuti – Internet langsam und teuer.": "Tuvalu Telecommunications Corporation (TTC) in Funafuti – internet is slow and expensive.",
 "Flüge Suva – Funafuti.": "Flights Suva – Funafuti.",
 "Nicht trinkbar – Regen- oder Flaschenwasser": "Not drinkable – rainwater or bottled water",
-"Funafuti-Schutzgebiet": "Funafuti Conservation Area"
+"Funafuti-Schutzgebiet": "Funafuti Conservation Area",
+"Keine Geldautomaten, Kreditkarten werden nicht akzeptiert – genug australische Dollar in bar mitbringen.": "No ATMs and credit cards are not accepted – bring enough Australian dollars in cash."
 });

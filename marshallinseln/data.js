@@ -50,7 +50,8 @@ window.QT = {
   ],
   substances: [
     ["Alkohol", "Ab 21. Alkohol spielt bei vielen Gewalttaten eine Rolle – abends Vorsicht."],
-    ["Drogen", "Auch Cannabis ist verboten; hohe Haft- oder Geldstrafen."]
+    ["Drogen", "Auch Cannabis ist verboten; hohe Haft- oder Geldstrafen."],
+    ["E-Zigaretten", "Einfuhr, Besitz und Benutzung von E-Zigaretten und Zubehör sind verboten – Geld- oder Haftstrafen."]
   ],
   sim: [
     ["Lokale SIM", "NTA (National Telecommunications Authority) in Majuro – Netz außerhalb von Majuro und Ebeye sehr eingeschränkt."],

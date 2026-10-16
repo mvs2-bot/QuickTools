@@ -22,5 +22,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Betelnuss & Sakau": "Betel nut & sakau",
 "Betelnuss und Sakau (Kava) sind weit verbreitet – Sakau nicht mit Alkohol kombinieren.": "Betel nut and sakau (kava) are widespread – don't combine sakau with alcohol.",
 "FSM Telecom (FSMTC) – Netz und Datenvolumen sind begrenzt.": "FSM Telecom (FSMTC) – coverage and data are limited.",
-"Flüge zwischen Guam, Chuuk, Pohnpei, Kosrae und weiter nach Majuro/Honolulu.": "Flights between Guam, Chuuk, Pohnpei, Kosrae and on to Majuro/Honolulu."
+"Flüge zwischen Guam, Chuuk, Pohnpei, Kosrae und weiter nach Majuro/Honolulu.": "Flights between Guam, Chuuk, Pohnpei, Kosrae and on to Majuro/Honolulu.",
+"Ab 21. Trinken in der Öffentlichkeit ist verboten; in Teilen Chuuks gilt ein Alkoholverbot.": "From 21. Drinking in public is forbidden; alcohol is banned in parts of Chuuk.",
+"Einfuhr, Besitz und Benutzung sind verboten – Geldstrafen.": "Import, possession and use are banned – fines.",
+"Rechtsverkehr, internationaler Führerschein nötig (nur mit dem deutschen gültig). Straßen teils schlecht und voller Schlaglöcher; nachts unbeleuchtet.": "Driving on the right, international driving permit required (valid only with your German licence). Roads are partly poor and full of potholes; unlit at night."
 });

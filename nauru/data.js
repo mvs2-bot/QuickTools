@@ -32,11 +32,11 @@ window.QT = {
     ["112", "Feuerwehr"]
   ],
   embassy: {"title": "Zuständig: Deutsche Botschaft Canberra (Australien)", "address": ["119 Empire Circuit, Yarralumla", "ACT 2600 Canberra, Australien"], "phone": "+61 2 6270 1911", "emergency": "+61 412 359 826", "emergencyNote": "(nur dringende Notfälle; Honorarkonsulin in Nauru: +674 557 7464)"},
-  aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/nauru-node",
+  aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/naoero-node",
 
   rules: [
-    ["Einreise", "Visum ist vorab nötig – rechtzeitig beantragen, die Bearbeitung kann Wochen dauern."],
-    ["Bargeld", "Kaum Kartenzahlung, Geldautomaten unzuverlässig – australische Dollar in bar mitnehmen."],
+    ["Einreise", "Vor dem Abflug ist eine Einreisegenehmigung des Immigration Department nötig – rechtzeitig beantragen. Mit Rückflugticket und Hotelbuchung gibt es dann bei Ankunft ein 30-Tage-Touristenvisum."],
+    ["Bargeld", "Kreditkarten werden nicht akzeptiert, Geldautomaten sind selten – australische Dollar in bar mitnehmen."],
     ["Fotografieren", "Keine Fotos von Regierungsgebäuden oder dem Flüchtlingszentrum."],
     ["Kleidung", "Zurückhaltend kleiden; Badebekleidung nur am Strand."]
   ],

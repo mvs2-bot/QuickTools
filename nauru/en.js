@@ -10,5 +10,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Nur in Hotels, Bars und wenigen Läden erhältlich.": "Only available in hotels, bars and a few shops.",
 "Digicel ist der einzige Anbieter – SIM im Laden in Aiwo/Yaren, Pass nötig.": "Digicel is the only provider – SIM in the shop in Aiwo/Yaren, passport required.",
 "Flüge nach Brisbane, Fidschi, Kiribati und Mikronesien.": "Flights to Brisbane, Fiji, Kiribati and Micronesia.",
-"Buada-Lagune": "Buada Lagoon"
+"Buada-Lagune": "Buada Lagoon",
+"Vor dem Abflug ist eine Einreisegenehmigung des Immigration Department nötig – rechtzeitig beantragen. Mit Rückflugticket und Hotelbuchung gibt es dann bei Ankunft ein 30-Tage-Touristenvisum.": "An entry permit from the Immigration Department is required before departure – apply early. With a return ticket and hotel booking you then get a 30-day tourist visa on arrival.",
+"Kreditkarten werden nicht akzeptiert, Geldautomaten sind selten – australische Dollar in bar mitnehmen.": "Credit cards are not accepted and ATMs are rare – bring Australian dollars in cash."
 });

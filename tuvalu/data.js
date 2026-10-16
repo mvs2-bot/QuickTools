@@ -42,7 +42,7 @@ window.QT = {
 
   rules: [
     ["Anreise", "Nur wenige Flüge pro Woche ab Suva (Fiji Airways) – Puffertage einplanen, Ausfälle sind häufig."],
-    ["Bargeld", "Keine Geldautomaten für ausländische Karten, kaum Kartenzahlung – genug australische Dollar in bar mitbringen."],
+    ["Bargeld", "Keine Geldautomaten, Kreditkarten werden nicht akzeptiert – genug australische Dollar in bar mitbringen."],
     ["Rollfeld", "Die Landebahn in Funafuti ist außerhalb der Flugzeiten Treffpunkt und Sportplatz – bei Ankunft eines Flugs sofort räumen."],
     ["Kleidung", "Zurückhaltend kleiden, Knie und Schultern bedecken; Sonntag ist Kirchtag."]
   ],

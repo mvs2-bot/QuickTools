@@ -48,12 +48,13 @@ window.QT = {
     ["Wracks", "Die Weltkriegswracks in der Chuuk-Lagune sind Kriegsgräber: nichts mitnehmen, nur mit Tauchgenehmigung."]
   ],
   car: [
-    ["Straßen", "Rechtsverkehr. Straßen teils schlecht und voller Schlaglöcher; nachts unbeleuchtet."]
+    ["Straßen", "Rechtsverkehr, internationaler Führerschein nötig (nur mit dem deutschen gültig). Straßen teils schlecht und voller Schlaglöcher; nachts unbeleuchtet."]
   ],
   substances: [
-    ["Alkohol", "Ab 21. In Teilen Chuuks gilt ein Alkoholverbot."],
+    ["Alkohol", "Ab 21. Trinken in der Öffentlichkeit ist verboten; in Teilen Chuuks gilt ein Alkoholverbot."],
     ["Betelnuss & Sakau", "Betelnuss und Sakau (Kava) sind weit verbreitet – Sakau nicht mit Alkohol kombinieren."],
-    ["Drogen", "Verboten und streng bestraft."]
+    ["Drogen", "Verboten und streng bestraft."],
+    ["E-Zigaretten", "Einfuhr, Besitz und Benutzung sind verboten – Geldstrafen."]
   ],
   sim: [
     ["Lokale SIM", "FSM Telecom (FSMTC) – Netz und Datenvolumen sind begrenzt."],

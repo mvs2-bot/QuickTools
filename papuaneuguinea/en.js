@@ -16,5 +16,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Buai (Betelnuss) ist allgegenwärtig; in Port Moresby ist Verkauf und Ausspucken vielerorts verboten.": "Buai (betel nut) is everywhere; in Port Moresby selling and spitting it is banned in many places.",
 "Ab 18. Alkohol spielt bei vielen Gewalttaten eine Rolle – Bars abends meiden.": "From 18. Alcohol is a factor in many violent incidents – avoid bars in the evening.",
 "Digicel oder Vodafone PNG – Pass nötig, SIM muss registriert werden. Außerhalb der Städte oft kein Netz.": "Digicel or Vodafone PNG – passport required, SIM must be registered. Often no signal outside the towns.",
-"Inlandsflüge – oft die einzige sinnvolle Verbindung zwischen den Regionen.": "Domestic flights – often the only sensible connection between regions."
+"Inlandsflüge – oft die einzige sinnvolle Verbindung zwischen den Regionen.": "Domestic flights – often the only sensible connection between regions.",
+"Das Auswärtige Amt rät von nicht notwendigen Reisen in die Provinzen Southern Highlands, Western Highlands, Hela und Enga sowie nach Bougainville ab und empfiehlt, derzeit auch auf Reisen nach Port Moresby zu verzichten (Unruhen, sehr hohe Kriminalität) – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office advises against non-essential travel to the Southern Highlands, Western Highlands, Hela and Enga provinces and to Bougainville, and currently recommends avoiding travel to Port Moresby as well (unrest, very high crime) – check the current situation before every trip."
 });

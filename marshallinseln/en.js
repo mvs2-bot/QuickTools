@@ -16,5 +16,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Ab 21. Alkohol spielt bei vielen Gewalttaten eine Rolle – abends Vorsicht.": "From 21. Alcohol is a factor in many violent incidents – take care in the evening.",
 "Auch Cannabis ist verboten; hohe Haft- oder Geldstrafen.": "Cannabis is also illegal; long prison sentences or heavy fines.",
 "NTA (National Telecommunications Authority) in Majuro – Netz außerhalb von Majuro und Ebeye sehr eingeschränkt.": "NTA (National Telecommunications Authority) in Majuro – very limited coverage outside Majuro and Ebeye.",
-"Flugverbindung Guam – Majuro – Honolulu.": "Flight connection Guam – Majuro – Honolulu."
+"Flugverbindung Guam – Majuro – Honolulu.": "Flight connection Guam – Majuro – Honolulu.",
+"Einfuhr, Besitz und Benutzung von E-Zigaretten und Zubehör sind verboten – Geld- oder Haftstrafen.": "Importing, possessing and using e-cigarettes and accessories is banned – fines or prison."
 });
