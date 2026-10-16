@@ -30,7 +30,7 @@
       #worldMap.far .map-pin { width: 26px; height: 26px; font-size: .95rem; border-width: 1.5px; margin: 5px; }
       .leaflet-container, .leaflet-tooltip { font-family: 'Twemoji Country Flags', 'Plus Jakarta Sans', system-ui, sans-serif; }
       .leaflet-tooltip { font-weight: 700; }
-      :root[data-theme="dark"] #worldMap .leaflet-tile-pane { filter: invert(1) hue-rotate(180deg) brightness(.85) contrast(.9); }
+      :root[data-theme="dark"] #worldMap .leaflet-tile-pane { filter: invert(1) hue-rotate(180deg) brightness(.75) contrast(1.05); }
       .leaflet-container a { color: var(--p1); }
       @media (max-width: 600px) { #worldMap { height: 260px; } }
     </style>
@@ -103,7 +103,7 @@
     function apply(t, save) {
       const dark = t === 'dark';
       document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
-      document.querySelector('meta[name="theme-color"]').setAttribute('content', dark ? '#0f1512' : '#15803d');
+      document.querySelector('meta[name="theme-color"]').setAttribute('content', dark ? '#000000' : '#15803d');
       document.querySelectorAll('.theme-toggle').forEach(b => { b.textContent = dark ? '☀️' : '🌙'; b.setAttribute('aria-label', dark ? 'Zum hellen Modus wechseln' : 'Zum dunklen Modus wechseln'); });
       if (save) { try { localStorage.setItem(KEY, t); } catch (e) {} }
     }

@@ -12,6 +12,8 @@
             CSS DESIGN-SYSTEM & VARIABLEN
             ========================================================================== */
         :root {
+            /* Startansicht immer hell; "only" verhindert, dass Browser (z. B. Chrome/Samsung mit Auto-Dark) die Seite selbst abdunkeln */
+            color-scheme: only light;
             --bg: #f4f7f4;
             --card: #fff;
             --hover: #f0fdf4;
@@ -175,10 +177,12 @@
     .popover-header .theme-toggle { background: var(--card); color: var(--ink); border: 2px solid var(--line); border-radius: 10px; font-size: 1.4rem; padding: 6px 12px; line-height: 1; box-shadow: var(--shadow); }
     .popover-header .theme-toggle:hover { background: var(--hover); color: var(--ink); border-color: var(--p1); }
 
-    :root[data-theme="dark"] { color-scheme: dark; --bg: #0f1512; --card: #17201b; --hover: #1e2b23; --line: #2e3d35; --ink: #e8f0ec; --text: #c3cfc8; --mute: #92a39a; --p1: #22c55e; --accent: #2dd4bf; --danger: #f87171; --shadow: 0 4px 12px rgba(0,0,0,.35); }
+    /* Dunkler Modus für AMOLED: reines Schwarz als Hintergrund (Pixel aus = Akku sparen), Karten nur knapp darüber */
+    :root[data-theme="dark"] { color-scheme: dark; --bg: #000; --card: #0a0f0c; --hover: #121a15; --line: #24312a; --ink: #e8f0ec; --text: #c3cfc8; --mute: #92a39a; --p1: #22c55e; --accent: #2dd4bf; --danger: #f87171; --shadow: none; }
+    :root[data-theme="dark"] .sticky-header { box-shadow: none; }
     :root[data-theme="dark"] .f.on, :root[data-theme="dark"] .f:hover, :root[data-theme="dark"] .tab.on, :root[data-theme="dark"] .tab:hover, :root[data-theme="dark"] .popover-links button.on, :root[data-theme="dark"] .popover-links button:hover, :root[data-theme="dark"] .fx-table th, :root[data-theme="dark"] .link-btn:hover, :root[data-theme="dark"] .link-btn.primary, :root[data-theme="dark"] [style*="background: var(--p1)"] { color: #052e16 !important; }
     :root[data-theme="dark"] .link-btn.primary:hover { background: #4ade80; border-color: #4ade80; }
-    :root[data-theme="dark"] .phrase-card, :root[data-theme="dark"] .gps-stat, :root[data-theme="dark"] .addr, :root[data-theme="dark"] .fx-table tbody tr:nth-child(even) { background: #1d2823; }
+    :root[data-theme="dark"] .phrase-card, :root[data-theme="dark"] .gps-stat, :root[data-theme="dark"] .addr, :root[data-theme="dark"] .fx-table tbody tr:nth-child(even) { background: #111814; }
     :root[data-theme="dark"] .speak-btn { background: #14361f; border-color: #1f5a35; color: #86efac; }
     :root[data-theme="dark"] .speak-btn:hover { background: #1b4a2b; }
     :root[data-theme="dark"] .emg-tile { background: #3b1717; border-color: #7f1d1d; }
@@ -213,7 +217,7 @@
 .glance-tile span { font-size: .72rem; font-weight: 800; text-transform: uppercase; letter-spacing: .04em; color: var(--mute); }
 .glance-tile b { font-size: .98rem; font-weight: 800; color: var(--ink); line-height: 1.3; }
 .glance-tile small { font-size: .78rem; font-weight: 600; color: var(--text); }
-:root[data-theme="dark"] .glance-tile { background: #1d2823; }
+:root[data-theme="dark"] .glance-tile { background: #111814; }
 
 .taxi-fields, .own-fields { display: grid; gap: 10px; margin-bottom: 4px; }
 .fx-field textarea { width: 100%; background: var(--card); border: 1px solid var(--line); color: var(--ink); padding: 10px 12px; border-radius: 8px; font: inherit; font-size: 1rem; resize: vertical; }
