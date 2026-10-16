@@ -31,12 +31,12 @@ window.QT = {
     ["17", "Polizei"],
     ["18", "Feuerwehr & Rettungsdienst"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Paris (Frankreich)", "address": ["13/15 Avenue Franklin D. Roosevelt", "75008 Paris"], "phone": "+33 1 53 83 45 00", "emergency": "+33 6 11 76 22 55", "emergencyNote": "(Bereitschaftsdienst, nur Notfälle; in Monaco gibt es einen Honorarkonsul)"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Paris (Frankreich)", "address": ["13/15 Avenue Franklin D. Roosevelt", "75008 Paris"], "phone": "+33 1 53 83 45 00", "emergency": "+33 6 11 76 22 55", "emergencyNote": "(Bereitschaftsdienst, nur Notfälle; Honorarkonsul in Monaco: +377 97 97 49 65)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/monaco-node",
 
   rules: [
     ["Euro", "Monaco nutzt den Euro, ist aber nicht in der EU. Grenzkontrollen zu Frankreich gibt es nicht."],
-    ["Kleidung", "Mit Badekleidung oder nacktem Oberkörper durch die Stadt zu laufen ist verboten – Bußgeld möglich."],
+    ["Kleidung", "Mit Badekleidung, nacktem Oberkörper oder barfuß durch die Stadt zu laufen ist verboten – Bußgeld möglich."],
     ["Casino", "Eintritt ab 18 mit Ausweis, gepflegte Kleidung (keine Shorts, Sportschuhe sind oft unerwünscht)."],
     ["Sicherheit", "Sehr viel Polizei und Videoüberwachung – Regeln (Rauchen, Müll, Lärm) werden konsequent durchgesetzt."]
   ],

@@ -23,5 +23,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "0,5 ‰; Neulenker 0,1 ‰.": "0.5 ‰; new drivers 0.1 ‰.",
 "Radarwarner": "Speed camera warnings",
 "Blitzer-Warnungen in Navi/Apps sind verboten – Funktion ausschalten.": "Speed camera warnings in sat navs/apps are forbidden – switch the feature off.",
-"Verboten; Kiffen wird mit 100 CHF gebüßt. CBD-Produkte (unter 1 % THC) sind legal.": "Illegal; smoking it is fined CHF 100. CBD products (under 1 % THC) are legal."
+"Verboten; Kiffen wird mit 100 CHF gebüßt. CBD-Produkte (unter 1 % THC) sind legal.": "Illegal; smoking it is fined CHF 100. CBD products (under 1 % THC) are legal.",
+"(außerhalb der Dienstzeiten bis 22 Uhr, nur dringende Notfälle)": "(outside office hours until 10 pm, urgent emergencies only)"
 });

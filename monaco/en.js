@@ -12,5 +12,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Französische Prepaid-SIM oder eSIM (z. B. Airalo) – funktioniert auch in Monaco.": "French prepaid SIM or eSIM (e.g. Airalo) – also works in Monaco.",
 "Züge entlang der Côte d’Azur (Nizza – Monaco – Menton).": "Trains along the Côte d’Azur (Nice – Monaco – Menton).",
 "Am besten in den öffentlichen Parkhäusern. Rund um den Grand Prix (Mai) viele Sperrungen.": "Best to use the public car parks. Many road closures around the Grand Prix (May).",
-"Ozeanographisches Museum": "Oceanographic Museum"
+"Ozeanographisches Museum": "Oceanographic Museum",
+"(Bereitschaftsdienst, nur Notfälle; Honorarkonsul in Monaco: +377 97 97 49 65)": "(on-call service, emergencies only; honorary consul in Monaco: +377 97 97 49 65)",
+"Mit Badekleidung, nacktem Oberkörper oder barfuß durch die Stadt zu laufen ist verboten – Bußgeld möglich.": "Walking around town in swimwear, bare-chested or barefoot is forbidden – you may be fined."
 });

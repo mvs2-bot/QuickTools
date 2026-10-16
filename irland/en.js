@@ -13,5 +13,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "eSIM (z. B. Airalo) oder Prepaid-SIM von Vodafone, Three oder Eir.": "eSIM (e.g. Airalo) or prepaid SIM from Vodafone, Three or Eir.",
 "Echtzeit-Fahrpläne für Bus, Bahn und die Dubliner Tram Luas.": "Real-time timetables for buses, trains and Dublin’s Luas tram.",
 "Taxi-App, in Irland sehr verbreitet.": "Taxi app, very widely used in Ireland.",
-"ca. 10 % im Restaurant, im Pub nicht üblich": "approx. 10 % in restaurants, not customary in pubs"
+"ca. 10 % im Restaurant, im Pub nicht üblich": "approx. 10 % in restaurants, not customary in pubs",
+"Booterstown, Blackrock, Co. Dublin A94 TX94": "Booterstown, Blackrock, Co. Dublin A94 TX94",
+"(außerhalb der Öffnungszeiten, nur Notfälle – keine Pass- oder Visaanfragen)": "(outside opening hours, emergencies only – no passport or visa enquiries)"
 });

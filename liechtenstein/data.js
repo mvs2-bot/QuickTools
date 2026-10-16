@@ -32,7 +32,7 @@ window.QT = {
     ["144", "Rettungsdienst"],
     ["118", "Feuerwehr"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Bern (Schweiz)", "address": ["Willadingweg 83", "3006 Bern"], "phone": "+41 31 359 43 43"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Bern (Schweiz)", "address": ["Willadingweg 83", "3006 Bern"], "phone": "+41 31 359 41 11", "emergency": "+41 79 357 93 73", "emergencyNote": "(außerhalb der Dienstzeiten bis 22 Uhr, nur dringende Notfälle; Honorarkonsul in Gamprin-Bendern: +423 237 60 09)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/liechtenstein-node",
 
   rules: [

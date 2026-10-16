@@ -36,7 +36,7 @@ window.QT = {
     ["112", "Notruf: Rettung & Feuerwehr"],
     ["113", "Polizei"]
   ],
-  embassy: {"title": "Deutsche Botschaft Luxemburg", "address": ["20–22 Avenue Émile Reuter", "L-2420 Luxemburg"], "phone": "+352 45 34 45 1"},
+  embassy: {"title": "Deutsche Botschaft Luxemburg", "address": ["20–22 Avenue Émile Reuter", "L-2420 Luxemburg"], "phone": "+352 45 34 45 1", "emergency": "+352 621 248 272", "emergencyNote": "(außerhalb der Dienstzeiten)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/luxemburg-node",
 
   rules: [

@@ -11,5 +11,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Seit 2023 sind Anbau (bis 4 Pflanzen) und Konsum zu Hause für Einwohner erlaubt; Konsum in der Öffentlichkeit und Mitnahme über die Grenze sind verboten.": "Since 2023 residents may grow (up to 4 plants) and consume cannabis at home; consumption in public and taking it across the border are forbidden.",
 "eSIM (z. B. Airalo) oder Prepaid-SIM von POST, Tango oder Orange.": "eSIM (e.g. Airalo) or prepaid SIM from POST, Tango or Orange.",
 "Fahrpläne für alle Busse, Trams und Züge im Land.": "Timetables for all buses, trams and trains in the country.",
-"Luxemburg (Stadt)": "Luxembourg City"
+"Luxemburg (Stadt)": "Luxembourg City",
+"(außerhalb der Dienstzeiten)": "(outside office hours)"
 });

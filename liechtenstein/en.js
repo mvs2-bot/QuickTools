@@ -18,5 +18,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Liechtenstein gehört zum EWR – mit deutschem Tarif meist ohne Aufpreis. Achtung: Nahe der Grenze bucht sich das Handy oft ins Schweizer Netz ein, dann wird es teuer.": "Liechtenstein is in the EEA – usually no extra charge on a German plan. Careful: near the border your phone often connects to a Swiss network, which gets expensive.",
 "eSIM (z. B. Airalo) für die Schweiz und Liechtenstein.": "eSIM (e.g. Airalo) for Switzerland and Liechtenstein.",
 "Fahrpläne und Tickets für die Busse in Liechtenstein.": "Timetables and tickets for buses in Liechtenstein.",
-"Bahnverbindungen über Buchs (SG) und Sargans.": "Rail connections via Buchs (SG) and Sargans."
+"Bahnverbindungen über Buchs (SG) und Sargans.": "Rail connections via Buchs (SG) and Sargans.",
+"(außerhalb der Dienstzeiten bis 22 Uhr, nur dringende Notfälle; Honorarkonsul in Gamprin-Bendern: +423 237 60 09)": "(outside office hours until 10 pm, urgent emergencies only; honorary consul in Gamprin-Bendern: +423 237 60 09)"
 });
