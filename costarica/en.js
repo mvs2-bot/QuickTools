@@ -12,7 +12,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Viele Nebenstraßen sind Schotterpisten und Flüsse ohne Brücke – Allrad-Mietwagen lohnt sich.": "Many side roads are gravel tracks and rivers without bridges – a 4x4 rental car is worth it.",
 "Starke Strömungen (Rip Currents) an der Pazifikküste – nur an bewachten Stränden baden.": "Strong rip currents on the Pacific coast – only swim at patrolled beaches.",
 "Wildtiere (Affen, Waschbären) nicht füttern; nachts nicht barfuß laufen.": "Don't feed wild animals (monkeys, raccoons); don't walk barefoot at night.",
-"Die Flughafen-Ausreisegebühr ist meist im Ticket enthalten – vorher prüfen.": "The airport departure tax is usually included in the ticket – check beforehand.",
 "Kölbi (beste Abdeckung), Claro oder Liberty am Flughafen – Pass nötig.": "Kölbi (best coverage), Claro or Liberty at the airport – passport required.",
 "Fahrdienste in San José und Umgebung.": "Ride-hailing in and around San José.",
 "Navigation mit aktueller Straßenlage – in Costa Rica sehr beliebt.": "Navigation with live road conditions – very popular in Costa Rica.",

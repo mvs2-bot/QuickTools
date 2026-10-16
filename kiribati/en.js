@@ -2,7 +2,6 @@
 Object.assign(window.QT_EN = window.QT_EN || {}, {
 "🇰🇮 Englisch": "🇰🇮 English",
 "🇰🇮 Kiribatisch (Gilbertesisch)": "🇰🇮 Kiribati (Gilbertese)",
-"Rettungsdienst (Süd-Tarawa)": "Ambulance (South Tarawa)",
 "Datumsgrenze": "Date line",
 "Kiribati erstreckt sich über drei Zeitzonen; auf Kiritimati (Line Islands) gilt UTC+14 – Flugdaten genau prüfen.": "Kiribati spans three time zones; Kiritimati (Line Islands) is on UTC+14 – check flight dates carefully.",
 "Kaum Kartenzahlung und wenige Geldautomaten – genug australische Dollar in bar mitnehmen.": "Card payment is rare and there are few ATMs – bring enough Australian dollars in cash.",

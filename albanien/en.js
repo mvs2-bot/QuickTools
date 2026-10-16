@@ -14,9 +14,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Fernbusse (Furgon) fahren oft ohne festen Online-Fahrplan – vor Ort am Busbahnhof oder in der Unterkunft fragen.": "Long-distance buses (furgon) often run without a fixed online timetable – ask at the bus station or your accommodation.",
 "Praktisch 0,0 ‰ – die Grenze liegt bei 0,1 ‰.": "Practically 0.0 ‰ – the limit is 0.1 ‰.",
 "Fahrweise": "Driving style",
-"Internationalen Führerschein zusätzlich zum deutschen mitnehmen.": "Bring an international driving permit in addition to your German licence.",
 "Papiere": "Documents",
 "Der deutsche Führerschein (Scheckkartenformat) wird anerkannt. Die Grüne Versicherungskarte ist Pflicht und wird kontrolliert.": "The German driving licence (card format) is recognised. The Green Card is mandatory and is checked.",
-"Demonstrationen": "Demonstrations",
 "In Tirana und anderen Städten gibt es häufig Demonstrationen, teils gewaltsam – weiträumig meiden.": "There are frequent demonstrations in Tirana and other cities, some violent – keep well away."
 });

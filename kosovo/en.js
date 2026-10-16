@@ -7,7 +7,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Weiterreise nach Serbien": "Onward travel to Serbia",
 "Serbien betrachtet die Grenzübergänge Kosovos nicht als Staatsgrenze: Wer per Flug oder aus einem Nachbarland (nicht Serbien) eingereist ist, wird an der Grenze Kosovo–Serbien oft abgewiesen – Umweg über Nordmazedonien oder Montenegro einplanen.": "Serbia does not regard Kosovo’s border crossings as a state border: if you arrived by air or from a neighbouring country other than Serbia, you are often turned away at the Kosovo–Serbia border – plan a detour via North Macedonia or Montenegro.",
 "Norden": "The north",
-"Im Norden (u. a. Nord-Mitrovica) lebt überwiegend die serbische Minderheit; dort kommt es immer wieder zu Spannungen – aktuelle Hinweise des Auswärtigen Amts beachten.": "The north (incl. North Mitrovica) is mainly home to the Serbian minority; tensions flare up there repeatedly – follow the German Foreign Office’s current advice.",
 "Deutsche Botschaft Pristina": "German Embassy Pristina",
 "Kosovo nutzt den Euro, ist aber nicht in der EU.": "Kosovo uses the euro but is not in the EU.",
 "Viele Kosovaren haben in Deutschland, Österreich oder der Schweiz gelebt – mit Deutsch kommt man oft weiter.": "Many Kosovars have lived in Germany, Austria or Switzerland – German often gets you by.",
@@ -18,7 +17,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Rruga Azem Jashanica 66": "Rruga Azem Jashanica 66",
 "(gleiche Nummer, auch außerhalb der Dienstzeiten)": "(same number, also outside office hours)",
 "Im Norden (Nord-Mitrovica, Zvečan, Zubin Potok, Leposavić) lebt überwiegend die serbische Minderheit; dort kommt es immer wieder zu Spannungen. Das Auswärtige Amt rät dort zu besonderer Vorsicht (keine formelle Teilreisewarnung); Grenzübergänge zu Serbien können kurzfristig schließen.": "The north (North Mitrovica, Zvečan, Zubin Potok, Leposavić) is mainly home to the Serbian minority; tensions flare up there repeatedly. The German Foreign Office advises particular caution there (no formal partial travel warning); border crossings to Serbia may close at short notice.",
-"Anmeldung": "Registration",
 "Ausländer müssen sich innerhalb von 3 Tagen nach Einreise anmelden – Hotels erledigen das. Ausweis muss bei Einreise noch 3 Monate gültig sein.": "Foreigners must register within 3 days of arrival – hotels do this. Your ID must be valid for 3 more months on entry.",
 "Falschgeld": "Counterfeit money",
 "Es kursieren viele gefälschte 2-Euro-Münzen (deutsches Adlermotiv) – Münzen prüfen.": "Many counterfeit 2-euro coins (German eagle design) are in circulation – check your coins."

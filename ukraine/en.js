@@ -2,13 +2,11 @@
 Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Ukrainische Hrywnja": "Ukrainian hryvnia",
 "🇺🇦 Ukrainisch": "🇺🇦 Ukrainian",
-"Deutsche Botschaft Kiew": "German Embassy Kyiv",
 "Besetzte Gebiete": "Occupied territories",
 "Die Krim und Teile der Gebiete Donezk, Luhansk, Saporischschja und Cherson sind von Russland besetzt; völkerrechtlich gehören sie zur Ukraine. Einreise dorthin über Russland ist nach ukrainischem Recht strafbar, konsularische Hilfe ist nicht möglich.": "Crimea and parts of the Donetsk, Luhansk, Zaporizhzhia and Kherson regions are occupied by Russia; under international law they belong to Ukraine. Entering them via Russia is a criminal offence under Ukrainian law, and consular assistance is not possible.",
 "Das Auswärtige Amt warnt vor Reisen in die Ukraine – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to Ukraine – check the current situation before every trip.",
 "Luftalarm": "Air raid alert",
 "Bei Luftalarm sofort einen Schutzraum oder eine Metrostation aufsuchen. Alarm-App installieren.": "During an air raid alert, go to a shelter or metro station immediately. Install an alert app.",
-"Nachts gilt landesweit eine Ausgangssperre – Zeiten je nach Region, vor Ort erfragen.": "A nationwide night-time curfew applies – times vary by region, ask locally.",
 "Keine Fotos oder Videos von Militär, Checkpoints, Infrastruktur oder Einschlagorten – auch nicht posten.": "No photos or videos of military sites, checkpoints, infrastructure or strike sites – and don't post them either.",
 "Kein ziviler Flugverkehr – Anreise nur auf dem Landweg, meist per Zug über Polen.": "No civilian flights – overland travel only, usually by train via Poland.",
 "Seit 2026 gilt „Roam like at home“ auch für die Ukraine – trotzdem vorher im eigenen Tarif prüfen.": "Since 2026 \"Roam like at home\" also applies to Ukraine – still check your own plan beforehand.",
@@ -27,6 +25,5 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Deutsche Botschaft Kyjiw": "German Embassy Kyiv",
 "01901 Kyjiw": "01901 Kyiv",
 "In Kyjiw und vielen anderen Orten gilt nachts eine Ausgangssperre – Zeiten je nach Region, kurzfristige Änderungen möglich, vor Ort erfragen.": "A night-time curfew applies in Kyiv and many other places – times vary by region and may change at short notice, ask locally.",
-"Einreise": "Entry",
 "Nur mit Reisepass, nicht mit Personalausweis. Visumfrei bis 90 Tage je 180 Tage; Krankenversicherung Pflicht.": "Passport only, not an ID card. Visa-free for up to 90 days in any 180; health insurance is mandatory."
 });

@@ -7,12 +7,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Regierung": "Government",
 "Seit August 2021 regieren die Taliban („Islamisches Emirat Afghanistan“). Deutschland erkennt die Taliban-Regierung nicht an; Russland hat sie 2025 als erster Staat anerkannt.": "The Taliban have ruled since August 2021 (\"Islamic Emirate of Afghanistan\"). Germany does not recognise the Taliban government; Russia became the first state to recognise it in 2025.",
 "Polizei & Feuerwehr": "Police & fire brigade",
-"Zuständig: Deutsche Botschaft Islamabad (Pakistan)": "Responsible: German Embassy Islamabad (Pakistan)",
-"Das Auswärtige Amt warnt vor Reisen nach Afghanistan – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to Afghanistan – check the current situation before every trip.",
 "Keine Botschaft": "No embassy",
 "Die Deutsche Botschaft Kabul ist seit 2021 geschlossen – konsularische Hilfe im Land ist praktisch nicht möglich.": "The German Embassy in Kabul has been closed since 2021 – consular assistance in the country is practically impossible.",
-"Lange, weite Kleidung für alle. Frauen müssen Haare und Körper bedecken; für Frauen gelten zahlreiche Einschränkungen.": "Long, loose clothing for everyone. Women must cover their hair and body; numerous restrictions apply to women.",
-"Keine Fotos von Kontrollpunkten, Bewaffneten, Behörden oder Frauen. Viele Taliban verbieten Fotos generell.": "No photos of checkpoints, armed men, authorities or women. Many Taliban forbid photos altogether.",
 "Wegen der Sicherheitslage nicht empfehlenswert. Viele Kontrollpunkte – Pass und Visum immer dabeihaben.": "Not advisable due to the security situation. Many checkpoints – always carry your passport and visa.",
 "Komplett verboten – Besitz und Konsum werden hart bestraft.": "Completely banned – possession and consumption are severely punished.",
 "Streng verboten, sehr harte Strafen.": "Strictly forbidden, very harsh penalties.",
@@ -21,10 +17,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Masar-e Scharif": "Mazar-i-Sharif",
 "Deutsche Botschaft Kabul (geschlossen)": "German Embassy Kabul (closed)",
 "Botschaft seit 2021 geschlossen": "Embassy closed since 2021",
-"Telefon: Zentrale des Auswärtigen Amts (Berlin), leitet weiter": "Phone: German Foreign Office switchboard (Berlin), will forward your call",
 "Das Auswärtige Amt warnt vor Reisen nach Afghanistan und fordert Deutsche auf, das Land zu verlassen – Entführungsgefahr und willkürliche Haft.": "The German Foreign Office warns against travel to Afghanistan and urges Germans to leave the country – risk of kidnapping and arbitrary detention.",
 "Lange, weite Kleidung für alle. Frauen müssen außer Haus Haare und Gesicht bedecken und in der Öffentlichkeit von einem männlichen Verwandten (Mahram) begleitet werden.": "Long, loose clothing for everyone. Outside the home women must cover their hair and face and be accompanied in public by a male relative (mahram).",
-"Homosexualität": "Homosexuality",
 "Homosexualität und jede sexuelle Handlung außerhalb der Ehe sind strafbar.": "Homosexuality and any sexual act outside marriage are criminal offences.",
 "Keine Fotos von Kontrollpunkten, Bewaffneten, Behörden, Flughäfen, Taliban-Fahrzeugen oder Frauen – kann als Spionage gelten (lange Haft).": "No photos of checkpoints, armed men, authorities, airports, Taliban vehicles or women – this can be treated as espionage (long prison terms)."
 });

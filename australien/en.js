@@ -22,7 +22,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Camping- und Rastplätze in ganz Australien.": "Campsites and rest areas all over Australia.",
 "Infos zu bewachten Stränden und Gefahren.": "Info on patrolled beaches and hazards.",
 "Nicht üblich, Aufrunden bei gutem Service": "Not customary, round up for good service",
-"0,5 ‰ (Lern- und Probeführerschein 0,0 ‰). Handy am Steuer wird per Kamera geahndet.": "0.5 ‰ (learner and provisional licences 0.0 ‰). Phone use while driving is caught by cameras.",
 "In der Dämmerung auf Kängurus achten; Outback-Strecken nur mit Wasser- und Tankreserve.": "Watch out for kangaroos at dusk; outback routes only with spare water and fuel.",
 "Helmpflicht für Radfahrer (fast überall).": "Helmets are mandatory for cyclists (almost everywhere).",
 "Ab 18. In vielen Parks und an Stränden alkoholfreie Zonen.": "From 18. Many parks and beaches are alcohol-free zones.",

@@ -4,7 +4,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Deutsche Botschaft Panama-Stadt": "German Embassy Panama City",
 "Bezahlt wird mit US-Dollar; Münzen gibt es auch als panamaischen Balboa (gleicher Wert). Große Scheine (50/100 $) werden oft nicht angenommen.": "Payment is in US dollars; coins also come as Panamanian balboas (same value). Large notes ($50/100) are often not accepted.",
 "Darién": "Darién",
-"Vom Grenzgebiet zu Kolumbien (Darién) rät das Auswärtige Amt dringend ab.": "The German Foreign Office strongly advises against travel to the border area with Colombia (Darién).",
 "Guna Yala": "Guna Yala",
 "Die San-Blas-Inseln werden von den Guna selbst verwaltet – Eintritt zahlen, Menschen nur nach Erlaubnis fotografieren.": "The San Blas Islands are self-governed by the Guna – pay the entry fee and only photograph people with permission.",
 "An der Pazifikküste starke Strömungen – nur an bewachten Stränden baden.": "Strong currents on the Pacific coast – only swim at patrolled beaches.",
@@ -18,7 +17,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "San-Blas-Inseln (Guna Yala)": "San Blas Islands (Guna Yala)",
 "(außerhalb der Dienstzeit bis 24 Uhr, auch SMS/WhatsApp)": "(outside office hours until midnight, also SMS/WhatsApp)",
 "Von Reisen in den Osten und Süden der Provinz Darién (südlich von Yaviza, Grenzgebiet zu Kolumbien) rät das Auswärtige Amt dringend ab.": "The German Foreign Office strongly advises against travel to the east and south of Darién Province (south of Yaviza, the border area with Colombia).",
-"Einreise": "Entry",
 "Rück- oder Weiterreiseticket und Nachweis über 1.000 US$ (bar oder Kreditkarte) nötig; Pass noch 3 Monate gültig. Ausweis immer mitführen.": "A return or onward ticket and proof of US$1,000 (cash or credit card) are required; passport valid for another 3 months. Always carry ID.",
 "Ab 18 Jahren. Trinken in der Öffentlichkeit ist verboten.": "From 18. Drinking in public is prohibited."
 });

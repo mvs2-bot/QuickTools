@@ -16,6 +16,5 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Außerorts Helmpflicht für Radfahrer.": "Helmets are mandatory for cyclists outside towns.",
 "Ab 18. Trinken auf der Straße ist vielerorts verboten (z. B. Mallorca, Barcelona) und wird mit Bußgeld bestraft.": "From 18. Drinking in the street is banned in many places (e.g. Mallorca, Barcelona) and punished with fines.",
 "Privat geduldet, in der Öffentlichkeit verboten – hohe Bußgelder.": "Tolerated in private, forbidden in public – high fines.",
-"In Innenräumen verboten; viele Strände sind rauchfrei („playa sin humo“).": "Banned indoors; many beaches are smoke-free (\"playa sin humo\").",
-"(außerhalb der Öffnungszeiten)": "(outside opening hours)"
+"In Innenräumen verboten; viele Strände sind rauchfrei („playa sin humo“).": "Banned indoors; many beaches are smoke-free (\"playa sin humo\")."
 });

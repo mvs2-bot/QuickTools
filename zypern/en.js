@@ -21,6 +21,5 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "(außerhalb der Öffnungszeiten, auch SMS)": "(outside opening hours, SMS also possible)",
 "Einreise über den Norden": "Entering via the north",
 "Die Republik Zypern wertet die Einreise über Flug- oder Seehäfen im Norden (z. B. Ercan) als illegale Einreise – strafbar.": "The Republic of Cyprus treats entry via airports or seaports in the north (e.g. Ercan) as illegal entry – a criminal offence.",
-"Strand": "Beach",
 "Nacktbaden und Baden „oben ohne“ sind an den meisten Stränden strafbar.": "Nude and topless bathing are punishable on most beaches."
 });

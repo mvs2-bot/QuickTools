@@ -12,7 +12,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Komplett verboten – Besitz, Konsum und Einfuhr, auch im Hotel. Auch kein Alkohol im Duty-free mitbringen.": "Completely banned – possession, consumption and import, hotels included. Don't bring any duty-free alcohol either.",
 "Zain, Ooredoo oder stc am Flughafen – Pass nötig.": "Zain, Ooredoo or stc at the airport – passport required.",
 "Insel Failaka": "Failaka Island",
-"Reisehinweis": "Travel advice",
 "Das Auswärtige Amt rät dringend von Reisen nach Kuwait ab (volatile Lage in der Region, Angriffe und Luftraumsperrungen möglich) – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office strongly advises against travel to Kuwait (volatile regional situation, attacks and airspace closures possible) – check the current situation before every trip.",
 "Al Hamra Tower, 40. Stock, Al Shuhada Street, Sharq": "Al Hamra Tower, 40th floor, Al Shuhada Street, Sharq",
 "13009 Kuwait-Stadt": "13009 Kuwait City",

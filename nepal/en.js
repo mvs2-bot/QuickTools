@@ -7,7 +7,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Tempel & Stupas": "Temples & stupas",
 "Schuhe ausziehen, Stupas und Gebetsmühlen im Uhrzeigersinn umrunden. Manche Hindu-Tempel (z. B. Pashupatinath) dürfen nur Hindus betreten.": "Take off your shoes, walk around stupas and prayer wheels clockwise. Some Hindu temples (e.g. Pashupatinath) may only be entered by Hindus.",
 "Trekking": "Trekking",
-"Für die meisten Trekkingrouten sind Genehmigungen nötig; in vielen Gebieten ist ein lizenzierter Guide Pflicht – Alleinwandern ist dort nicht erlaubt.": "Most trekking routes require permits; in many areas a licensed guide is mandatory – solo trekking is not allowed there.",
 "Langsam aufsteigen (ab ca. 3.000 m nicht mehr als 300–500 m Schlafhöhe pro Tag) und Symptome der Höhenkrankheit ernst nehmen.": "Ascend slowly (above approx. 3,000 m, no more than 300–500 m of sleeping altitude per day) and take symptoms of altitude sickness seriously.",
 "Kühe sind heilig – auf der Straße Vorrang lassen, Rindfleisch ist kaum zu bekommen.": "Cows are sacred – give them right of way on the road; beef is hardly available.",
 "Mietwagen gibt es praktisch nur mit Fahrer – Straßen sind oft schlecht, Bergstrecken gefährlich.": "Rental cars practically only come with a driver – roads are often poor and mountain routes dangerous.",

@@ -2,8 +2,6 @@
 Object.assign(window.QT_EN = window.QT_EN || {}, {
 "🇳🇷 Englisch": "🇳🇷 English",
 "(nur dringende Notfälle; Honorarkonsulin in Nauru: +674 557 7464)": "(urgent emergencies only; Honorary Consul in Nauru: +674 557 7464)",
-"Visum ist vorab nötig – rechtzeitig beantragen, die Bearbeitung kann Wochen dauern.": "A visa is required in advance – apply early, processing can take weeks.",
-"Kaum Kartenzahlung, Geldautomaten unzuverlässig – australische Dollar in bar mitnehmen.": "Card payment is rare and ATMs are unreliable – bring Australian dollars in cash.",
 "Keine Fotos von Regierungsgebäuden oder dem Flüchtlingszentrum.": "No photos of government buildings or the refugee processing centre.",
 "Zurückhaltend kleiden; Badebekleidung nur am Strand.": "Dress modestly; swimwear only on the beach.",
 "Eine Ringstraße (ca. 19 km) um die Insel; auf Hunde, Fußgänger und Roller achten.": "One ring road (approx. 19 km) around the island; watch out for dogs, pedestrians and scooters.",

@@ -8,7 +8,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Außerhalb der Resorts Schultern und Knie bedecken; Zärtlichkeiten in der Öffentlichkeit vermeiden.": "Outside resorts cover shoulders and knees; avoid public displays of affection.",
 "Malariarisiko außerhalb von Port Vila – Mückenschutz, Prophylaxe mit dem Arzt besprechen.": "Malaria risk outside Port Vila – use mosquito protection, discuss prophylaxis with your doctor.",
 "Für beleidigende Posts gab es Festnahmen – mit Kritik im Netz zurückhaltend sein.": "People have been arrested over offensive posts – be restrained with criticism online.",
-"Rechtsverkehr. Mit deutschem Führerschein bis zu 3 Monate; Straßen außerhalb von Efate und Santo oft Pisten.": "Driving on the right. A German licence is valid for up to 3 months; outside Efate and Santo roads are often dirt tracks.",
 "Samstag ab Mittag bis Montag früh kein Verkauf in Supermärkten – Bars und Hotels schenken aber aus.": "No sales in supermarkets from Saturday noon to Monday morning – bars and hotels still serve.",
 "Kava-Bars („Nakamal“) sind überall – Kava ist stark, nicht mit Alkohol mischen.": "Kava bars (\"nakamals\") are everywhere – kava is strong, don't mix it with alcohol.",
 "Schon kleine Mengen werden mit Geld- oder Haftstrafen geahndet.": "Even small amounts are punished with fines or prison.",

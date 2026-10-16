@@ -5,7 +5,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Seit dem Bürgerkrieg kontrollieren die Huthi den Norden mit der Hauptstadt Sanaa; die international anerkannte Regierung sitzt in Aden. Einreise und Visa unterscheiden sich je nach Gebiet.": "Since the civil war, the Houthis have controlled the north including the capital Sana'a; the internationally recognised government is based in Aden. Entry rules and visas differ depending on the area.",
 "Zuständig: Deutsche Botschaft Riad (Saudi-Arabien)": "Responsible: German Embassy Riyadh (Saudi Arabia)",
 "Die Botschaft in Sanaa ist seit 2015 geschlossen – konsularische Hilfe im Jemen ist praktisch nicht möglich.": "The embassy in Sana'a has been closed since 2015 – consular assistance in Yemen is practically impossible.",
-"Das Auswärtige Amt warnt vor Reisen in den Jemen – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to Yemen – check the current situation before every trip.",
 "Bürgerkrieg, Entführungsgefahr und Kontrollpunkte bewaffneter Gruppen im ganzen Land. Ausländer wurden mehrfach festgenommen.": "Civil war, risk of kidnapping and checkpoints of armed groups throughout the country. Foreigners have been detained repeatedly.",
 "Sokotra": "Socotra",
 "Die Insel ist nur über wenige Flüge (meist ab Abu Dhabi) und mit organisierter Tour erreichbar.": "The island can only be reached on a few flights (mostly from Abu Dhabi) and with an organised tour.",

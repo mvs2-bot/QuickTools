@@ -6,7 +6,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Deutsche Botschaft Kopenhagen": "German Embassy Copenhagen",
 "(Bereitschaftsdienst)": "(on-call service)",
 "2150 Nordhavn (Kopenhagen)": "2150 Nordhavn (Copenhagen)",
-"Fast alles geht mit Karte oder MobilePay – Bargeld braucht man kaum. Euro wird selten angenommen.": "Almost everything can be paid by card or MobilePay – you hardly need cash. Euros are rarely accepted.",
 "Radwege sind tabu für Fußgänger. In Kopenhagen beim Aussteigen aus Bus/Taxi auf Radfahrer achten.": "Cycle lanes are off-limits to pedestrians. In Copenhagen watch out for cyclists when getting out of a bus/taxi.",
 "Strand & Dünen": "Beach & dunes",
 "Nicht über geschützte Dünen laufen. Mit dem Auto nur auf freigegebenen Strandabschnitten fahren.": "Don't walk on protected dunes. Only drive on designated sections of the beach.",

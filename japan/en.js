@@ -1,7 +1,5 @@
 /* Englische Texte nur für Japan (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
-"(außerhalb der Öffnungszeiten)": "(outside office hours)",
-"Teilreisewarnung": "Partial travel warning",
 "Das Auswärtige Amt warnt vor Aufenthalten in den evakuierten Gebieten um das Kernkraftwerk Fukushima Daiichi (Teile von Futaba, Okuma, Namie, Tomioka u. a.). Übriges Japan unbedenklich.": "The German Foreign Office warns against staying in the evacuated areas around the Fukushima Daiichi nuclear plant (parts of Futaba, Okuma, Namie, Tomioka etc.). The rest of Japan is safe.",
 "Mit deutschem Reisepass bis 90 Tage visumfrei; Pass für den ganzen Aufenthalt gültig. Personalausweis reicht nicht.": "Visa-free for up to 90 days with a German passport; it must be valid for the whole stay. An ID card is not enough.",
 "Japanischer Yen": "Japanese yen",

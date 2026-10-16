@@ -11,7 +11,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Ooredoo oder Vodafone Qatar am Flughafen – Pass nötig.": "Ooredoo or Vodafone Qatar at the airport – passport required.",
 "Taxis und Fahrdienste – Preis steht vorher fest.": "Taxis and ride-hailing – the price is fixed in advance.",
 "Schnelle, günstige Metro zwischen Flughafen, Innenstadt und Lusail.": "Fast, cheap metro between the airport, the city centre and Lusail.",
-"Reisehinweis": "Travel advice",
 "Das Auswärtige Amt rät von Reisen nach Katar ab (volatile Lage in der Region, Angriffe und Luftraumsperrungen möglich) – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office advises against travel to Qatar (volatile regional situation, attacks and airspace closures possible) – check the current situation before every trip.",
 "(nach Dienstschluss bis Mitternacht und am Wochenende, auch SMS; keine Visaauskünfte)": "(after office hours until midnight and at weekends, SMS too; no visa enquiries)"
 });

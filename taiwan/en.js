@@ -1,6 +1,5 @@
 /* Englische Texte nur für Taiwan (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
-"(außerhalb der Öffnungszeiten)": "(outside office hours)",
 "Eigene Einreiseregeln: Deutsche brauchen für bis zu 90 Tage kein Visum (Pass mind. 6 Monate gültig, Rück-/Weiterflug). Vorab online die kostenlose Taiwan Arrival Card ausfüllen. Ein chinesisches Visum gilt nicht für Taiwan – und umgekehrt.": "Separate entry rules: Germans don't need a visa for stays of up to 90 days (passport valid for at least 6 months, return/onward ticket). Fill in the free Taiwan Arrival Card online beforehand. A Chinese visa is not valid for Taiwan – and vice versa.",
 "Neuer Taiwan-Dollar": "New Taiwan dollar",
 "Nur abgekocht trinken – Wasserspender gibt es fast überall": "Only drink boiled – water dispensers are almost everywhere",
@@ -9,7 +8,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Politischer Status": "Political status",
 "Taiwan (offiziell „Republik China“) hat eine eigene demokratische Regierung, Währung und eigene Pässe, wird aber von der Volksrepublik China als Teil Chinas beansprucht.": "Taiwan (officially the \"Republic of China\") has its own democratic government, currency and passports, but is claimed by the People's Republic of China as part of China.",
 "Nur wenige Staaten erkennen Taiwan diplomatisch an; Taiwan ist kein UN-Mitglied. Deutschland unterhält keine offiziellen diplomatischen Beziehungen, aber enge inoffizielle Kontakte über das Deutsche Institut Taipei.": "Only a few states recognise Taiwan diplomatically; Taiwan is not a UN member. Germany has no official diplomatic relations with Taiwan, but close unofficial ties through the German Institute Taipei.",
-"Eigene Einreiseregeln: Deutsche brauchen für bis zu 90 Tage kein Visum. Ein chinesisches Visum gilt nicht für Taiwan – und umgekehrt.": "Separate entry rules: Germans don't need a visa for stays of up to 90 days. A Chinese visa is not valid for Taiwan – and vice versa.",
 "Touristen-Hotline (Englisch, rund um die Uhr)": "Tourist hotline (English, 24 hours)",
 "Deutsches Institut Taipei": "German Institute Taipei",
 "MRT": "MRT",

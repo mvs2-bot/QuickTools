@@ -1,5 +1,6 @@
 /* Englische Texte nur für Somalia (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Komplett verboten – auch Einfuhr und Besitz werden bestraft.": "Completely banned – importing and possession are also punished.",
 "Somalia-Schilling": "Somali shilling",
 "🇸🇴 Somali": "🇸🇴 Somali",
 "Somaliland": "Somaliland",

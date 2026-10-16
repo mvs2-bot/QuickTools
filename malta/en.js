@@ -11,11 +11,9 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Fahrdienste – meist günstiger als Taxis.": "Ride-hailing – usually cheaper than taxis.",
 "Fähre Ċirkewwa – Gozo.": "Ferry Ċirkewwa – Gozo.",
 "Achtung, in Malta wird links gefahren. Straßen sind eng und oft verstopft.": "Careful: Malta drives on the left. Roads are narrow and often congested.",
-"Für Erwachsene bis 7 g Besitz straffrei, Konsum in der Öffentlichkeit aber verboten. Andere Drogen werden streng bestraft.": "Adults may possess up to 7 g without penalty, but consumption in public is forbidden. Other drugs are punished severely.",
 "Trinkbar (entsalzt), schmeckt aber stark gechlort – viele nehmen Flaschenwasser": "Drinkable (desalinated) but tastes strongly of chlorine – many people drink bottled water",
 "(nur dringende Notfälle außerhalb der Öffnungszeiten, nicht 0–8 Uhr; auch SMS)": "(urgent emergencies outside opening hours only, not midnight–8 am; SMS also possible)",
 "0,5 ‰; Fahranfänger (erste 3 Jahre) und Motorradfahrer 0,2 ‰.": "0.5 ‰; new drivers (first 3 years) and motorcyclists 0.2 ‰.",
 "Besitz bis 7 g ist für Erwachsene entkriminalisiert, aber Reisende können nicht legal kaufen (Cannabis-Clubs nur für Einwohner); Konsum in der Öffentlichkeit verboten. Kauf, Verkauf und Einfuhr anderer Drogen werden streng bestraft.": "Possession of up to 7 g is decriminalised for adults, but travellers cannot buy legally (cannabis clubs are for residents only); consumption in public is forbidden. Buying, selling or importing other drugs is punished severely.",
-"Bußgelder": "Fines",
 "Seit Juli 2026 müssen Reisende Bußgelder für Verstöße gegen lokale Vorschriften sofort elektronisch zahlen – sonst droht die Einbehaltung des Passes.": "Since July 2026 travellers must pay fines for breaking local rules immediately by electronic payment – otherwise their passport may be withheld."
 });

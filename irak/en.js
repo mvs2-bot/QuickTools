@@ -7,9 +7,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Die Autonome Region Kurdistan im Norden (Erbil, Sulaimaniya, Dohuk) hat eine eigene Regionalregierung und Sicherheitskräfte. Zwischen ihr und dem übrigen Irak gibt es Kontrollpunkte, Einreiseregeln können sich unterscheiden.": "The autonomous Kurdistan Region in the north (Erbil, Sulaymaniyah, Duhok) has its own regional government and security forces. There are checkpoints between it and the rest of Iraq, and entry rules may differ.",
 "Deutsche Botschaft Bagdad": "German Embassy Baghdad",
 "Bagdad": "Baghdad",
-"Generalkonsulat Erbil (Region Kurdistan)": "Consulate General Erbil (Kurdistan Region)",
-"Das Auswärtige Amt warnt vor Reisen in den Irak (für die Region Kurdistan-Irak gelten gesonderte Hinweise) – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to Iraq (separate advice applies to the Kurdistan Region of Iraq) – check the current situation before every trip.",
-"Deutsche bekommen ein Visum bei Ankunft an den Flughäfen Bagdad, Basra und Erbil oder vorab als e-Visum.": "Germans get a visa on arrival at Baghdad, Basra and Erbil airports or an e-visa in advance.",
 "Konservativ kleiden; in den schiitischen Pilgerstädten Kerbela und Nadschaf müssen Frauen einen Tschador bzw. eine Abaya tragen.": "Dress conservatively; in the Shia pilgrimage cities of Karbala and Najaf women must wear a chador or abaya.",
 "Nicht empfohlen – viele Kontrollpunkte, chaotischer Verkehr. Besser mit ortskundigem Fahrer; Pass immer dabeihaben.": "Not recommended – many checkpoints, chaotic traffic. Better with a local driver; always carry your passport.",
 "Einfuhr, Herstellung und Verkauf sind im Irak gesetzlich verboten; in der Region Kurdistan ist Alkohol erhältlich.": "Import, production and sale are banned by law in Iraq; alcohol is available in the Kurdistan Region.",
@@ -21,6 +18,5 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Deutsche brauchen ein Visum: für den Zentralirak vorab als e-Visum (bis 30 Tage, kein Visum bei Ankunft mehr), für die Region Kurdistan ein eigenes e-Visum, das nicht zur Weiterreise in den Zentralirak berechtigt. Reisepass mind. 6 Monate gültig.": "Germans need a visa: for central Iraq an e-visa in advance (up to 30 days, visas on arrival are no longer issued); for the Kurdistan Region a separate e-visa, which does not allow onward travel to central Iraq. Passport valid for at least 6 months.",
 "Polizei (Region Kurdistan)": "Police (Kurdistan Region)",
 "Mahala 609, Street 3, House 53, Hay Al-Mansour": "Mahala 609, Street 3, House 53, Hay Al-Mansour",
-"Generalkonsulat Erbil (Region Kurdistan): Kirkuk Road, Azadi, Notfall-Tel. +964 751 800 4275": "Consulate General Erbil (Kurdistan Region): Kirkuk Road, Azadi, emergency tel. +964 751 800 4275",
-"(außerhalb der Öffnungszeiten, nur Notfälle)": "(outside office hours, emergencies only)"
+"Generalkonsulat Erbil (Region Kurdistan): Kirkuk Road, Azadi, Notfall-Tel. +964 751 800 4275": "Consulate General Erbil (Kurdistan Region): Kirkuk Road, Azadi, emergency tel. +964 751 800 4275"
 });

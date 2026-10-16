@@ -4,7 +4,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "🇴🇲 Arabisch": "🇴🇲 Arabic",
 "Deutsche Botschaft Maskat": "German Embassy Muscat",
 "Maskat": "Muscat",
-"Deutsche dürfen bis zu 14 Tage visumfrei einreisen; für längere Aufenthalte vorab e-Visum.": "Germans can enter visa-free for up to 14 days; for longer stays get an e-visa in advance.",
 "In Städten, Souks und Dörfern Schultern und Knie bedecken; Badekleidung nur am Pool und Strand.": "Cover shoulders and knees in towns, souks and villages; swimwear only at the pool and beach.",
 "Die Große Sultan-Qabus-Moschee ist vormittags (außer Freitag) für Besucher offen – lange Kleidung, Frauen mit Kopftuch.": "The Sultan Qaboos Grand Mosque is open to visitors in the morning (except Friday) – long clothing, women with headscarf.",
 "Wadis": "Wadis",
@@ -14,7 +13,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Omantel, Ooredoo oder Vodafone Oman am Flughafen – Pass nötig.": "Omantel, Ooredoo or Vodafone Oman at the airport – passport required.",
 "Offizielle Taxi-App mit festen Preisen.": "Official taxi app with fixed prices.",
 "Busse in Maskat und Fernbusse im Land.": "Buses in Muscat and long-distance buses around the country.",
-"Reisehinweis": "Travel advice",
 "Das Auswärtige Amt rät von Reisen in die Exklave Musandam (Straße von Hormus) ab; die unmittelbare Grenzregion zum Jemen meiden – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office advises against travel to the Musandam exclave (Strait of Hormuz); avoid the immediate border region with Yemen – check the current situation before every trip.",
 "Deutsche brauchen ein Visum: bei Einreise für bis zu 14 Tage kostenlos (mit Hotelbuchung und Rück- oder Weiterflug), sonst vorab e-Visum. Reisepass mind. 6 Monate gültig.": "Germans need a visa: free on arrival for up to 14 days (with hotel booking and return or onward flight), otherwise an e-visa in advance. Passport valid for at least 6 months.",
 "(nach Dienstschluss bis 24 Uhr, nur Notfälle)": "(after office hours until midnight, emergencies only)"

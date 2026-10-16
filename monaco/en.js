@@ -2,9 +2,7 @@
 Object.assign(window.QT_EN = window.QT_EN || {}, {
 "🇲🇨 Französisch": "🇲🇨 French",
 "Zuständig: Deutsche Botschaft Paris (Frankreich)": "Responsible: German Embassy Paris (France)",
-"(Bereitschaftsdienst, nur Notfälle; in Monaco gibt es einen Honorarkonsul)": "(on-call service, emergencies only; there is an honorary consul in Monaco)",
 "Monaco nutzt den Euro, ist aber nicht in der EU. Grenzkontrollen zu Frankreich gibt es nicht.": "Monaco uses the euro but is not in the EU. There are no border checks with France.",
-"Mit Badekleidung oder nacktem Oberkörper durch die Stadt zu laufen ist verboten – Bußgeld möglich.": "Walking around town in swimwear or bare-chested is forbidden – you may be fined.",
 "Casino": "Casino",
 "Eintritt ab 18 mit Ausweis, gepflegte Kleidung (keine Shorts, Sportschuhe sind oft unerwünscht).": "Entry from 18 with ID, smart clothing (no shorts, trainers are often not welcome).",
 "Sehr viel Polizei und Videoüberwachung – Regeln (Rauchen, Müll, Lärm) werden konsequent durchgesetzt.": "Lots of police and CCTV – rules (smoking, litter, noise) are strictly enforced.",

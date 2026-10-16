@@ -12,13 +12,11 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Sultan": "Sultan",
 "Kritik am Sultan und am Königshaus ist strafbar.": "Criticising the Sultan and the royal family is a criminal offence.",
 "Kein Alkohol am Steuer. Linksverkehr, gute Straßen, Internationaler Führerschein nötig.": "No alcohol at the wheel. Driving on the left, good roads, international driving permit required.",
-"Verkauf und Ausschank sind verboten. Nicht-Muslime ab 17 dürfen begrenzte Mengen (2 Flaschen Wein/Spirituosen und 12 Dosen Bier) einführen – bei der Einreise anmelden, nur privat trinken.": "Sale and serving of alcohol are banned. Non-Muslims aged 17 and over may bring in limited quantities (2 bottles of wine/spirits and 12 cans of beer) – declare on entry, drink only in private.",
 "Prepaid-SIM von DST oder Progresif – Pass nötig.": "Prepaid SIM from DST or Progresif – passport required.",
 "Taxi-App in Brunei – es gibt kaum Taxis an der Straße.": "Taxi app in Brunei – there are hardly any taxis to hail on the street.",
 "Kampong Ayer (Wasserdorf)": "Kampong Ayer (water village)",
 "Ulu Temburong Nationalpark": "Ulu Temburong National Park",
 "(außerhalb der Öffnungszeiten; Konsularisches erledigt die Botschaft Kuala Lumpur)": "(outside office hours; consular matters are handled by the embassy in Kuala Lumpur)",
-"Einreise": "Entry",
 "Visumfrei bis 90 Tage. Vor der Einreise die e-Arrival Card online ausfüllen.": "Visa-free for up to 90 days. Fill in the e-Arrival Card online before entry.",
 "Im Ramadan ist Essen, Trinken und Rauchen in der Öffentlichkeit tagsüber für alle verboten – auch für Nicht-Muslime (Geld- oder Haftstrafe).": "During Ramadan, eating, drinking and smoking in public during the day is banned for everyone – including non-Muslims (fine or prison).",
 "Verkauf und Ausschank sind verboten. Nicht-Muslime ab 17 dürfen 2 Liter Wein oder Spirituosen oder 12 Dosen Bier einführen (höchstens alle 48 Stunden) – beim Zoll anmelden, nur privat trinken.": "Sale and serving of alcohol are banned. Non-Muslims aged 17 and over may bring in 2 litres of wine or spirits or 12 cans of beer (at most every 48 hours) – declare at customs, drink only in private."

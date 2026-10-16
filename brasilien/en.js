@@ -6,8 +6,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Brasilianischer Real": "Brazilian real",
 "🇧🇷 Portugiesisch (Brasilien)": "🇧🇷 Portuguese (Brazil)",
 "Deutsche Botschaft Brasília": "German Embassy Brasília",
-"Keine Wertsachen, Schmuck oder Handys offen zeigen; nachts Uber statt zu Fuß. Favelas nur mit seriösen Touren besuchen.": "Don't show valuables, jewellery or phones openly; at night take an Uber instead of walking. Only visit favelas on reputable tours.",
-"Starke Strömungen an vielen Stränden – nur an bewachten Abschnitten baden, rote Fahnen beachten.": "Strong currents at many beaches – only swim in patrolled sections and heed red flags.",
 "Mückenschutz gegen Dengue; für Amazonas und viele Regionen wird die Gelbfieberimpfung empfohlen.": "Use mosquito repellent against dengue; the yellow fever vaccination is recommended for the Amazon and many other regions.",
 "Karten werden fast überall akzeptiert, Einheimische zahlen meist per Pix. Am Automaten tagsüber und in Einkaufszentren abheben.": "Cards are accepted almost everywhere; locals mostly pay via Pix. Withdraw cash during the day and at ATMs in shopping centres.",
 "0,0 ‰ – strikte Null-Toleranz („Lei Seca“), häufige Kontrollen.": "0.0 ‰ – strict zero tolerance (\"Lei Seca\"), frequent checks.",

@@ -4,8 +4,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "🇸🇦 Arabisch": "🇸🇦 Arabic",
 "Deutsche Botschaft Riad": "German Embassy Riyadh",
 "Dschidda": "Jeddah",
-"Generalkonsulat Dschidda: Tel. +966 12 665 3545": "Consulate General Jeddah: Tel. +966 12 665 3545",
-"Das Auswärtige Amt warnt vor Reisen in das Grenzgebiet zum Jemen (Teilreisewarnung) – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to the border area with Yemen (partial travel warning) – check the current situation before every trip.",
 "Mekka & Medina": "Mecca & Medina",
 "Mekka dürfen nur Muslime betreten; auch in Medina ist der Bereich um die Prophetenmoschee Muslimen vorbehalten.": "Only Muslims may enter Mecca; in Medina, too, the area around the Prophet's Mosque is reserved for Muslims.",
 "Lockere, lange Kleidung, Schultern und Knie bedeckt. Ausländische Frauen müssen keine Abaya und kein Kopftuch tragen (außer in Moscheen).": "Loose, long clothing with shoulders and knees covered. Foreign women don't have to wear an abaya or headscarf (except in mosques).",

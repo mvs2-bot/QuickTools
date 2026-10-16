@@ -5,7 +5,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "🇬🇧 Englisch (verbreitete Verkehrssprache)": "🇬🇧 English (widely spoken lingua franca)",
 "Zuständig: Deutsche Botschaft Neu-Delhi (Indien)": "Responsible: German Embassy New Delhi (India)",
 "Einreise & Abgabe": "Entry & fee",
-"Visum vorab online; pro Nacht wird eine Nachhaltigkeitsabgabe (SDF) von 100 US$ fällig. Meist bucht man über einen lizenzierten Reiseveranstalter.": "Visa online in advance; a Sustainable Development Fee (SDF) of US$100 per night is charged. Most people book through a licensed tour operator.",
 "Guide": "Guide",
 "Außerhalb von Thimphu und Paro sowie bei Wanderungen ist ein lizenzierter Guide Pflicht.": "A licensed guide is mandatory outside Thimphu and Paro and for treks.",
 "Dzongs & Klöster": "Dzongs & monasteries",

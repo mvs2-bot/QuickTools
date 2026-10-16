@@ -4,7 +4,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "ca. 5–10 % in Restaurants": "approx. 5–10 % in restaurants",
 "🇧🇩 Bengalisch": "🇧🇩 Bengali",
 "Deutsche Botschaft Dhaka": "German Embassy Dhaka",
-"Das Auswärtige Amt warnt vor Reisen in die Chittagong Hill Tracts (Bandarban, Rangamati, Khagrachari) – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to the Chittagong Hill Tracts (Bandarban, Rangamati, Khagrachari) – check the current situation before every trip.",
 "Politische Proteste und Generalstreiks („Hartal“) können plötzlich eskalieren – Menschenansammlungen meiden, lokale Nachrichten verfolgen.": "Political protests and general strikes (\"hartal\") can escalate suddenly – avoid crowds and follow local news.",
 "Lange, weite Kleidung; Frauen bedecken Schultern und Beine, ein Schal ist hilfreich. In Moscheen Kopftuch für Frauen.": "Long, loose clothing; women cover shoulders and legs, a scarf is useful. Headscarf for women in mosques.",
 "Extrem dichter, chaotischer Verkehr (Linksverkehr) – nur mit Fahrer. In Dhaka oft stundenlange Staus.": "Extremely dense, chaotic traffic (driving on the left) – only with a driver. Traffic jams in Dhaka often last hours.",
@@ -16,7 +15,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "(nur außerhalb der Öffnungszeiten; keine Visa-Anfragen)": "(outside opening hours only; no visa enquiries)",
 "Chittagong Hill Tracts": "Chittagong Hill Tracts",
 "Für Reisen nach Bandarban, Rangamati und Khagrachari ist eine behördliche Genehmigung nötig; bewaffnete Übergriffe sind möglich. Das Grenzgebiet zu Myanmar weiträumig meiden, um Teknaf (Cox’s Bazar) gab es Überfälle.": "Travel to Bandarban, Rangamati and Khagrachari requires an official permit; armed attacks are possible. Give the border area with Myanmar a wide berth; there have been robberies around Teknaf (Cox’s Bazar).",
-"Homosexualität": "Homosexuality",
 "Gleichgeschlechtliche Beziehungen sind illegal – in der Öffentlichkeit zurückhaltend sein.": "Same-sex relationships are illegal – be discreet in public.",
 "Keine Fotos von Militär, Polizei, Flughäfen, Ministerien und Behörden – es drohen Festnahmen.": "No photos of the military, police, airports, ministries and government offices – arrest is possible."
 });

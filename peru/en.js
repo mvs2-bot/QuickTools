@@ -1,5 +1,6 @@
 /* Englische Texte nur für Peru (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Alkohol ab 18; rund um Wahlen gilt oft ein Alkoholverbot („Ley seca“). Andere Drogen werden streng bestraft.": "Alcohol from 18; alcohol bans (\"ley seca\") often apply around elections. Other drugs are punished severely.",
 "(Notfälle, auch SMS/WhatsApp – keine Visafragen)": "(emergencies, also SMS/WhatsApp – no visa questions)",
 "Nur offizielle oder App-Taxis nutzen, Wertsachen nicht offen zeigen, besonders in Lima. In Lima/Callao, Teilen des Nordens und im VRAEM gilt der Ausnahmezustand; Demonstrationen und Straßenblockaden meiden.": "Only use official or app taxis, don't show valuables openly, especially in Lima. A state of emergency applies in Lima/Callao, parts of the north and the VRAEM; avoid demonstrations and road blockades.",
 "Peruanischer Sol": "Peruvian sol",
@@ -11,7 +12,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Tickets sind auf festgelegte Zeitfenster und Rundwege begrenzt – lange vorher buchen und Reisepass mitnehmen.": "Tickets are limited to fixed time slots and circuits – book well in advance and bring your passport.",
 "Coca-Blätter und -Tee sind in Peru legal, dürfen aber nicht nach Deutschland/EU mitgenommen werden.": "Coca leaves and tea are legal in Peru, but may not be taken to Germany/the EU.",
 "Menschen nur nach vorheriger Frage fotografieren – für Fotos mit Lamas oder Trachten wird oft ein kleiner Betrag erwartet.": "Only photograph people after asking – a small amount is often expected for photos with llamas or traditional dress.",
-"Nur offizielle oder App-Taxis nutzen, Wertsachen nicht offen zeigen, besonders in Lima.": "Only use official or app taxis, don't show valuables openly, especially in Lima.",
 "Prepaid-SIM von Claro, Movistar, Entel oder Bitel – Reisepass nötig.": "Prepaid SIM from Claro, Movistar, Entel or Bitel – passport required.",
 "Alternativ vorab eSIM (z. B. Airalo) – in den Anden und im Regenwald oft kein Netz.": "Alternatively an eSIM in advance (e.g. Airalo) – often no signal in the Andes and the rainforest.",
 "Fahrdienste in Lima, Cusco und Arequipa.": "Ride-hailing in Lima, Cusco and Arequipa.",

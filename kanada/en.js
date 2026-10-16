@@ -5,7 +5,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "⚜️ Französisch (Québec)": "⚜️ French (Québec)",
 "Gesundheitstelefon (nicht dringend, in vielen Provinzen)": "Health line (non-urgent, in many provinces)",
 "Deutsche Botschaft Ottawa": "German Embassy Ottawa",
-"Vorab eTA online beantragen (nur auf der offiziellen Seite canada.ca).": "Apply for an eTA online in advance (only on the official website canada.ca).",
 "Trinkgeld & Steuern": "Tips & taxes",
 "15–20 % Trinkgeld sind üblich; Preise sind ohne Steuern angegeben (je nach Provinz 5–15 %).": "15–20 % tips are customary; prices are shown without tax (5–15 % depending on the province).",
 "In Nationalparks Abstand zu Bären und Elchen halten, kein Essen offen lassen, Bärenspray für Wanderungen.": "In national parks keep your distance from bears and moose, don't leave food out, carry bear spray when hiking.",

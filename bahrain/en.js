@@ -12,7 +12,5 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Batelco, stc oder Zain am Flughafen – Pass nötig.": "Batelco, stc or Zain at the airport – passport required.",
 "Baum des Lebens": "Tree of Life",
 "Sakhir (Formel-1-Strecke)": "Sakhir (Formula 1 circuit)",
-"Reisehinweis": "Travel advice",
-"Das Auswärtige Amt rät dringend von Reisen nach Bahrain ab (volatile Lage in der Region, Angriffe und Luftraumsperrungen möglich) – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office strongly advises against travel to Bahrain (volatile regional situation, attacks and airspace closures possible) – check the current situation before every trip.",
-"(außerhalb der Öffnungszeiten, nur Notfälle)": "(outside office hours, emergencies only)"
+"Das Auswärtige Amt rät dringend von Reisen nach Bahrain ab (volatile Lage in der Region, Angriffe und Luftraumsperrungen möglich) – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office strongly advises against travel to Bahrain (volatile regional situation, attacks and airspace closures possible) – check the current situation before every trip."
 });

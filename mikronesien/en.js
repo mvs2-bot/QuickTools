@@ -17,8 +17,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Fast alles Land gehört Familien oder Clans – vor dem Betreten von Stränden, Pfaden oder Ruinen (z. B. Nan Madol) fragen, oft wird eine kleine Gebühr fällig.": "Almost all land belongs to families or clans – ask before entering beaches, trails or ruins (e.g. Nan Madol); a small fee is often charged.",
 "Wracks": "Wrecks",
 "Die Weltkriegswracks in der Chuuk-Lagune sind Kriegsgräber: nichts mitnehmen, nur mit Tauchgenehmigung.": "The WWII wrecks in Chuuk Lagoon are war graves: take nothing, dive only with a permit.",
-"Rechtsverkehr. Straßen teils schlecht und voller Schlaglöcher; nachts unbeleuchtet.": "Driving on the right. Roads are partly poor and full of potholes; unlit at night.",
-"Ab 21. In Teilen Chuuks gilt ein Alkoholverbot.": "From 21. Alcohol is banned in parts of Chuuk.",
 "Betelnuss & Sakau": "Betel nut & sakau",
 "Betelnuss und Sakau (Kava) sind weit verbreitet – Sakau nicht mit Alkohol kombinieren.": "Betel nut and sakau (kava) are widespread – don't combine sakau with alcohol.",
 "FSM Telecom (FSMTC) – Netz und Datenvolumen sind begrenzt.": "FSM Telecom (FSMTC) – coverage and data are limited.",

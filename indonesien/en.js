@@ -16,9 +16,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Helmpflicht. Für Roller braucht man den Motorradführerschein (Klasse A) plus internationalen Führerschein – auf Bali gibt es häufig Kontrollen, und ohne zahlt keine Versicherung.": "Helmets are mandatory. Scooters require a motorbike licence (class A) plus an international driving permit – checks are frequent in Bali, and without one no insurance will pay.",
 "Kein Alkohol am Steuer. Viele Unfälle mit Rollern – im Zweifel Fahrer über Grab/Gojek buchen.": "No alcohol when driving. Many scooter accidents – if in doubt book a driver via Grab/Gojek.",
 "Ab 21. Selbstgebrannten Arak meiden – es gab Methanolvergiftungen. In Aceh ist Alkohol verboten.": "From 21. Avoid home-distilled arak – there have been methanol poisonings. Alcohol is banned in Aceh.",
-"Teilreisewarnung": "Partial travel warning",
 "Das Auswärtige Amt rät von nicht notwendigen Reisen in die Provinzen Papua, Papua Barat, Papua Pegunungan, Papua Tengah und Papua Selatan ab.": "The German Foreign Office advises against non-essential travel to the provinces of Papua, West Papua, Highland Papua, Central Papua and South Papua.",
-"Einreise": "Entry",
 "Visum bei Einreise (30 Tage, vorab online als e-VoA möglich). Bis 72 Stunden vor Ankunft die All Indonesia Arrival Card online ausfüllen.": "Visa on arrival (30 days, can be obtained online in advance as an e-VoA). Fill in the All Indonesia Arrival Card online up to 72 hours before arrival.",
 "Strafrecht": "Criminal law",
 "Seit Januar 2026 neues Strafgesetzbuch: Außerehelicher Sex kann auf Anzeige von Ehepartner, Eltern oder Kindern mit Haft bestraft werden. In Aceh gilt Scharia-Recht, auch für Nicht-Muslime.": "New penal code since January 2026: extramarital sex can be punished with prison if reported by a spouse, parents or children. Sharia law applies in Aceh, also to non-Muslims."

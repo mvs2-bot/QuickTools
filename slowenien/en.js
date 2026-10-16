@@ -1,8 +1,8 @@
 /* Englische Texte nur für Slowenien (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"0,5 ‰; Fahranfänger 0,0 ‰.": "0.5 ‰; new drivers 0.0 ‰.",
 "🇸🇮 Slowenisch": "🇸🇮 Slovenian",
 "Deutsche Botschaft Ljubljana": "German Embassy Ljubljana",
-"(nur dringende konsularische Notfälle)": "(urgent consular emergencies only)",
 "Für Autobahnen ist eine digitale Vignette (e-vinjeta) Pflicht – vor der Grenze online kaufen. Licht auch tagsüber.": "A digital vignette (e-vinjeta) is mandatory on motorways – buy it online before the border. Headlights on during the day.",
 "Im Triglav-Nationalpark auf den Wegen bleiben, Wetter in den Julischen Alpen kann schnell umschlagen.": "Stay on the paths in Triglav National Park; weather in the Julian Alps can change quickly.",
 "Im Sommer sind Parkplätze teuer und schnell voll – früh kommen oder Shuttle/Bus nutzen.": "In summer car parks are expensive and fill up quickly – come early or use the shuttle/bus.",
