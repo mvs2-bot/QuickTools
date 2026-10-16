@@ -91,8 +91,8 @@
           <p>${C.flag} ${esc(C.name)}</p>
         </div>
         <div class="header-actions">
-          <button class="burger-btn lang-toggle" type="button" title="${T.langBtn}" aria-label="${T.langBtn}">${langPill()}</button>
           <button class="burger-btn theme-toggle" type="button" aria-label="${T.darkOn}">🌙</button>
+          <button class="burger-btn lang-toggle" type="button" title="${T.langBtn}" aria-label="${T.langBtn}">${langPill()}</button>
           <button id="menuBurger" class="burger-btn" aria-label="${T.menu}">☰</button>
         </div>
       </header>
