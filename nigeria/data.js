@@ -43,7 +43,8 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/nigeria-node",
 
   rules: [
-    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in große Teile des Nordens (u. a. Borno, Yobe, Kano, Kaduna, Plateau, Sokoto, Zamfara), Teile von Oyo, Adamawa und Nassarawa sowie das Grenzgebiet zu Kamerun; von nicht notwendigen Reisen außer nach Abuja, Lagos und Ibadan wird abgeraten – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in den Großteil des Nordens (u. a. Borno, Yobe, Kano, Kaduna, Katsina, Bauchi, Niger, Kwara, Plateau, Sokoto, Zamfara), nach Oyo außer Großraum Ibadan, ins nördliche Adamawa, östliche Nassarawa und ins Grenzgebiet zu Kamerun. Dringend abgeraten wird u. a. von Abia, Benue, Ekiti, Kogi, Taraba und den Küstengewässern; von nicht notwendigen Reisen außer nach Abuja, Lagos und Ibadan wird abgeraten – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Einreise", "Nur E-Visum vorab (evisa.immigration.gov.ng), zusätzlich Landing und Exit Card online beantragen. Reisepass mind. 6 Monate gültig, Gelbfieberimpfung Pflicht."],
     ["Sicherheit", "Entführungsgefahr: keine Überlandfahrten, nachts nicht unterwegs sein, nur bekannte Fahrer oder App-Taxis nutzen."],
     ["Scharia im Norden", "In zwölf nördlichen Bundesstaaten gilt Scharia-Strafrecht, Alkohol ist dort teils verboten – Kleidung und Verhalten anpassen."],
     ["Homosexualität", "Gleichgeschlechtliche Beziehungen werden mit bis zu 14 Jahren Haft bestraft, im Norden teils noch härter."],

@@ -40,7 +40,7 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/togo-node",
 
   rules: [
-    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Präfekturen Kpendjal und Kpendjal-Ouest (Region Savanes) und rät dringend von Reisen in die übrige Region Savanes ab (Teilreisewarnung) – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Präfekturen Kpendjal und Kpendjal-Ouest (Region Savanes), rät dringend von Reisen in die übrige Region Savanes ab und rät von Reisen in die Präfekturen Dankpen und Kéran ab (Teilreisewarnung) – vor jeder Reise die aktuelle Lage prüfen."],
     ["Visum", "E-Visum mindestens 5 Tage vorher online (voyage.gouv.tg) beantragen – kein Visum bei Ankunft. Einreiseregistrierung mit QR-Code ausgedruckt mitnehmen."],
     ["Gelbfieber & Malaria", "Gelbfieber-Impfung ist zur Einreise vorgeschrieben – Impfpass mitnehmen. Malaria ganzjährig im ganzen Land: Mückenschutz, Moskitonetz und ärztliche Beratung zur Prophylaxe."],
     ["Baden", "Am Atlantik starke Brandung und gefährliche Unterströmungen – nur an bewachten Stränden baden. Süßwasser wegen Bilharziose meiden."],

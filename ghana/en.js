@@ -18,5 +18,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Fahrdienste in Accra und Kumasi.": "Ride-hailing in Accra and Kumasi.",
 "Mobile Money – wird fast überall akzeptiert.": "Mobile money – accepted almost everywhere.",
 "Kakum-Nationalpark": "Kakum National Park",
-"Mole-Nationalpark": "Mole National Park"
+"Mole-Nationalpark": "Mole National Park",
+"Homosexuelle Handlungen sind strafbar, ein verschärftes Gesetz wurde 2026 vom Parlament verabschiedet (noch nicht unterzeichnet) – besondere Zurückhaltung in der Öffentlichkeit.": "Homosexual acts are a criminal offence; a tougher law was passed by parliament in 2026 (not yet signed) – be especially discreet in public."
 });

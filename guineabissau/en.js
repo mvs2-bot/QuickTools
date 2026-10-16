@@ -13,5 +13,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Das Land ist Transitroute für Kokain (v. a. Küste und Bijagós) – Finger weg, Drogendelikte werden streng bestraft.": "The country is a cocaine transit route (especially the coast and the Bijagós) – stay away, drug offences are punished severely.",
 "Orange oder Telecel – SIM im Shop, Pass nötig.": "Orange or Telecel – SIM in their shops, passport required.",
 "Das eSIM-Angebot für Guinea-Bissau ist begrenzt – vorher prüfen.": "eSIM options for Guinea-Bissau are limited – check beforehand.",
-"Bubaque (Bijagós-Inseln)": "Bubaque (Bijagós Islands)"
+"Bubaque (Bijagós-Inseln)": "Bubaque (Bijagós Islands)",
+"Verbindungsbüro Bissau (eingeschränkte Dienste): Notfalltel. +245 95 570 00 15": "Liaison office Bissau (limited services): emergency tel. +245 95 570 00 15",
+"Seit dem 26.11.2025 regiert das Militär; Wahlen sind für den 6.12.2026 geplant. Demonstrationen meiden, kurzfristige Ausgangssperren sind möglich.": "The military has been in power since 26 Nov 2025; elections are scheduled for 6 Dec 2026. Avoid demonstrations; curfews may be imposed at short notice."
 });

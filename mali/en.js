@@ -9,5 +9,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Keine Fotos von Militär, Polizei, Flughäfen, Brücken, Staudämmen und Grenzposten. Menschen nur mit Erlaubnis fotografieren.": "No photos of the military, police, airports, bridges, dams or border posts. Only photograph people with permission.",
 "Gleichgeschlechtliche Handlungen sind strafbar – in der Öffentlichkeit unbedingt vermeiden.": "Same-sex acts are illegal – avoid them in public at all costs.",
 "Schlechter Zustand, viele schwere Unfälle; Juni–September sind viele Strecken unpassierbar. Taxis und Kleinbusse sind oft nicht verkehrssicher.": "Poor condition, many serious accidents; from June to September many routes are impassable. Taxis and minibuses are often unroadworthy.",
-"Orange oder Moov Africa Malitel – Pass nötig.": "Orange or Moov Africa Malitel – passport required."
+"Orange oder Moov Africa Malitel – Pass nötig.": "Orange or Moov Africa Malitel – passport required.",
+"(bis 24 Uhr, alternativ +223 75 99 53 15 – nur dringende Notfälle)": "(until midnight, alternatively +223 75 99 53 15 – urgent emergencies only)"
 });

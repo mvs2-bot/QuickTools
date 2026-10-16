@@ -37,11 +37,11 @@ window.QT = {
     ["119", "Rettungsdienst"],
     ["118", "Feuerwehr"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Dakar (Senegal)", "address": ["20, Avenue Pasteur, Angle Rue Mermoz", "Dakar, Senegal", "Verbindungsbüro Bissau (nur Nothilfe): Notfalltel. +245 95 570 00 15"], "phone": "+221 33 889 48 84", "emergency": "+221 77 638 64 41"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Dakar (Senegal)", "address": ["20, Avenue Pasteur, Angle Rue Mermoz", "Dakar, Senegal", "Verbindungsbüro Bissau (eingeschränkte Dienste): Notfalltel. +245 95 570 00 15"], "phone": "+221 33 889 48 84", "emergency": "+221 77 638 64 41"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/guineabissau-node",
 
   rules: [
-    ["Politische Lage", "Seit dem 26.11.2025 regiert das Militär; Wahlen sind für Dezember 2026 geplant. Demonstrationen meiden, kurzfristige Ausgangssperren sind möglich."],
+    ["Politische Lage", "Seit dem 26.11.2025 regiert das Militär; Wahlen sind für den 6.12.2026 geplant. Demonstrationen meiden, kurzfristige Ausgangssperren sind möglich."],
     ["Einreise", "Visum vorab (Botschaft Brüssel) oder bei Ankunft am Flughafen (80 €, 30 Tage) – nicht an Landgrenzen. Gelbfieberimpfung Pflicht."],
     ["Sicherheit", "In Bissau viel Taschendiebstahl und Handtaschenraub – wenig Bargeld zeigen, nachts einsame Gegenden meiden."],
     ["Bargeld", "Kartenzahlung und Geldautomaten sind selten – genug Euro in bar mitbringen (fester Kurs zum CFA-Franc)."],

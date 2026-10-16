@@ -15,5 +15,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Weit verbreitet, auch Zuckerrohrschnaps („Cane Juice“).": "Widely available, including sugar-cane spirit (\"cane juice\").",
 "Besitz und Handel sind verboten. Auch Rauchen ist in der Öffentlichkeit verboten (Bußgeld).": "Possession and trafficking are illegal. Smoking in public is also banned (fine).",
 "Orange oder Lonestar Cell MTN – im Shop, Pass nötig.": "Orange or Lonestar Cell MTN – in their shops, passport required.",
-"Sapo-Nationalpark": "Sapo National Park"
+"Sapo-Nationalpark": "Sapo National Park",
+"Außerhalb von Monrovia viele Pisten, in der Regenzeit (Mitte Mai bis Ende November) oft unpassierbar. Nachts nicht fahren.": "Outside Monrovia many dirt roads, often impassable in the rainy season (mid-May to end of November). Do not drive at night."
 });

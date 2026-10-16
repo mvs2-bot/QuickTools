@@ -43,6 +43,7 @@ window.QT = {
 
   rules: [
     ["Einreise", "Reisepass nötig (kein Personalausweis), 6 Monate über das Reiseende gültig. Das Visum wird bei der Einreise kostenlos für 21–28 Tage erteilt. Am Flughafen Banjul wird eine Sicherheitsabgabe von 20 € bzw. 20 USD in bar fällig."],
+    ["Politische Lage", "Präsidentschaftswahl am 5.12.2026. Seit September 2026 kommt es im Großraum Banjul wegen Stromausfällen immer wieder zu teils gewaltsamen Protesten – Demonstrationen weiträumig meiden."],
     ["Strand & „Bumster“", "Am Strand bieten junge Männer Führungen, Geschäfte oder „Freundschaft“ an – freundlich, aber bestimmt ablehnen. Vorsicht vor Liebes- und Heiratsbetrug; nachts nicht am Strand spazieren."],
     ["Kleidung", "Überwiegend muslimisches Land – außerhalb von Strand und Hotel Schultern und Knie bedecken."],
     ["Fotografieren", "Sicherheitskräfte (auch am Flughafen und bei Kontrollen) nie fotografieren oder filmen. Menschen nur mit Erlaubnis."],

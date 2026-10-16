@@ -47,7 +47,7 @@ window.QT = {
     ["Einreise", "Visum vorab nötig (E-Visum, Touristenvisum ca. 260 USD). Gelbfieberimpfung Pflicht."],
     ["Begrüßung", "Erst grüßen, dann fragen – das ist wichtig. Geben, Nehmen und Essen mit der rechten Hand."],
     ["Fotografieren", "Kein Militär, keine Behörden, Häfen, Flughäfen oder Brücken fotografieren; striktes Verbot rund um Jubilee House und Burma Camp."],
-    ["Homosexualität", "Homosexuelle Handlungen sind strafbar, ein verschärftes Gesetz wurde 2026 vom Parlament verabschiedet – besondere Zurückhaltung in der Öffentlichkeit."],
+    ["Homosexualität", "Homosexuelle Handlungen sind strafbar, ein verschärftes Gesetz wurde 2026 vom Parlament verabschiedet (noch nicht unterzeichnet) – besondere Zurückhaltung in der Öffentlichkeit."],
     ["Baden", "Nicht in Seen und Flüssen baden (Bilharziose). Im Meer auf Strömungen achten."]
   ],
   car: [

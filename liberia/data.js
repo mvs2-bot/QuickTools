@@ -41,7 +41,7 @@ window.QT = {
     ["Homosexualität", "Gleichgeschlechtliche Handlungen sind strafbar – in der Öffentlichkeit zurückhaltend sein."]
   ],
   car: [
-    ["Straßen", "Außerhalb von Monrovia viele Pisten, in der Regenzeit (Mai–Oktober) oft unpassierbar. Nachts nicht fahren."],
+    ["Straßen", "Außerhalb von Monrovia viele Pisten, in der Regenzeit (Mitte Mai bis Ende November) oft unpassierbar. Nachts nicht fahren."],
     ["Promille", "Am besten gar nicht trinken – Polizeikontrollen sind häufig."]
   ],
   substances: [

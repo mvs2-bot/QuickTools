@@ -37,7 +37,7 @@ window.QT = {
     ["18", "Feuerwehr"],
     ["15", "Rettungsdienst (SAMU)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Bamako", "address": ["Badalabougou Est, Ave. de l'OUA, Rue 14, Porte 330", "Bamako"], "phone": "+223 20 70 07 70", "emergency": "+223 66 75 94 25"},
+  embassy: {"title": "Deutsche Botschaft Bamako", "address": ["Badalabougou Est, Ave. de l'OUA, Rue 14, Porte 330", "Bamako"], "phone": "+223 20 70 07 70", "emergency": "+223 66 75 94 25", "emergencyNote": "(bis 24 Uhr, alternativ +223 75 99 53 15 – nur dringende Notfälle)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/mali-node",
 
   rules: [

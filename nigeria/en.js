@@ -22,5 +22,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Im Süden weit verbreitet, in Scharia-Bundesstaaten im Norden teils verboten.": "Widely available in the south, partly banned in the Sharia states in the north.",
 "MTN, Airtel oder Glo – Registrierung mit Pass, kann dauern.": "MTN, Airtel or Glo – registration with passport, can take a while.",
 "Fahrdienste in Lagos und Abuja.": "Ride-hailing in Lagos and Abuja.",
-"Osun-Osogbo-Hain": "Osun-Osogbo Sacred Grove"
+"Osun-Osogbo-Hain": "Osun-Osogbo Sacred Grove",
+"Das Auswärtige Amt warnt vor Reisen in den Großteil des Nordens (u. a. Borno, Yobe, Kano, Kaduna, Katsina, Bauchi, Niger, Kwara, Plateau, Sokoto, Zamfara), nach Oyo außer Großraum Ibadan, ins nördliche Adamawa, östliche Nassarawa und ins Grenzgebiet zu Kamerun. Dringend abgeraten wird u. a. von Abia, Benue, Ekiti, Kogi, Taraba und den Küstengewässern; von nicht notwendigen Reisen außer nach Abuja, Lagos und Ibadan wird abgeraten – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to most of the north (incl. Borno, Yobe, Kano, Kaduna, Katsina, Bauchi, Niger, Kwara, Plateau, Sokoto, Zamfara), to Oyo except greater Ibadan, northern Adamawa, eastern Nassarawa and the border area with Cameroon. It strongly advises against travel to Abia, Benue, Ekiti, Kogi, Taraba and the coastal waters, among others; non-essential travel anywhere except Abuja, Lagos and Ibadan is discouraged – check the current situation before every trip.",
+"Einreise": "Entry",
+"Nur E-Visum vorab (evisa.immigration.gov.ng), zusätzlich Landing und Exit Card online beantragen. Reisepass mind. 6 Monate gültig, Gelbfieberimpfung Pflicht.": "E-visa only, applied for in advance (evisa.immigration.gov.ng); also apply online for the landing and exit card. Passport valid for at least 6 months, yellow fever vaccination mandatory."
 });

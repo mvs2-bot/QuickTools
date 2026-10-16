@@ -9,5 +9,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Zemidjans verursachen viele schwere Unfälle und sind oft unversichert – besser Sammeltaxis; falls doch, Helm tragen.": "Zemidjans cause many serious accidents and are often uninsured – shared taxis are better; if you do use one, wear a helmet.",
 "Harte Strafen, oft 5–10 Jahre Mindesthaft.": "Harsh penalties, often minimum sentences of 5–10 years.",
 "Yas (ehem. Togocom) oder Moov Africa – Pass nötig.": "Yas (formerly Togocom) or Moov Africa – passport required.",
-"Fahrdienst (Auto und Moto) in Lomé.": "Ride-hailing (car and motorbike) in Lomé."
+"Fahrdienst (Auto und Moto) in Lomé.": "Ride-hailing (car and motorbike) in Lomé.",
+"Das Auswärtige Amt warnt vor Reisen in die Präfekturen Kpendjal und Kpendjal-Ouest (Region Savanes), rät dringend von Reisen in die übrige Region Savanes ab und rät von Reisen in die Präfekturen Dankpen und Kéran ab (Teilreisewarnung) – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to the prefectures of Kpendjal and Kpendjal-Ouest (Savanes region), strongly advises against travel to the rest of the Savanes region and advises against travel to the prefectures of Dankpen and Kéran (partial travel warning) – check the current situation before every trip."
 });
