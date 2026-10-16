@@ -17,5 +17,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Verboten; Drogendelikte werden mit Haftstrafen geahndet.": "Illegal; drug offences are punished with prison sentences.",
 "Telkomcel, Timor Telecom oder Telemor in Dili – Pass nötig. Außerhalb der Städte oft schwaches Netz.": "Telkomcel, Timor Telecom or Telemor in Dili – passport required. Signal is often weak outside the towns.",
 "Unterkünfte, Fahrer und Tauchbasen sind meist darüber erreichbar.": "Accommodation, drivers and dive centres can usually be reached this way.",
-"Jaco-Insel": "Jaco Island"
+"Jaco-Insel": "Jaco Island",
+"Honorarkonsulin Dili: Rua St. Antonio 11, Farol-Palapaso, Tel. +670 7802 4018": "Honorary consul Dili: Rua St. Antonio 11, Farol-Palapaso, Tel. +670 7802 4018"
 });

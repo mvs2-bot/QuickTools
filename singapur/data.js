@@ -41,7 +41,7 @@ window.QT = {
     ["995", "Rettungsdienst & Feuerwehr"],
     ["1777", "Krankentransport (kein Notfall)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Singapur", "address": ["50 Raffles Place, #12-00 Singapore Land Tower", "Singapore 048623"], "phone": "+65 6533 6002"},
+  embassy: {"title": "Deutsche Botschaft Singapur", "address": ["50 Raffles Place, #28-00 Singapore Land Tower", "Singapore 048623"], "phone": "+65 6533 6002", "emergency": "+65 9817 0414", "emergencyNote": "(werktags bis 24 Uhr, Wochenende & Feiertage 8–24 Uhr)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/singapur-node",
 
   rules: [

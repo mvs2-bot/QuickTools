@@ -16,5 +16,10 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Prepaid-SIM von DST oder Progresif – Pass nötig.": "Prepaid SIM from DST or Progresif – passport required.",
 "Taxi-App in Brunei – es gibt kaum Taxis an der Straße.": "Taxi app in Brunei – there are hardly any taxis to hail on the street.",
 "Kampong Ayer (Wasserdorf)": "Kampong Ayer (water village)",
-"Ulu Temburong Nationalpark": "Ulu Temburong National Park"
+"Ulu Temburong Nationalpark": "Ulu Temburong National Park",
+"(außerhalb der Öffnungszeiten; Konsularisches erledigt die Botschaft Kuala Lumpur)": "(outside office hours; consular matters are handled by the embassy in Kuala Lumpur)",
+"Einreise": "Entry",
+"Visumfrei bis 90 Tage. Vor der Einreise die e-Arrival Card online ausfüllen.": "Visa-free for up to 90 days. Fill in the e-Arrival Card online before entry.",
+"Im Ramadan ist Essen, Trinken und Rauchen in der Öffentlichkeit tagsüber für alle verboten – auch für Nicht-Muslime (Geld- oder Haftstrafe).": "During Ramadan, eating, drinking and smoking in public during the day is banned for everyone – including non-Muslims (fine or prison).",
+"Verkauf und Ausschank sind verboten. Nicht-Muslime ab 17 dürfen 2 Liter Wein oder Spirituosen oder 12 Dosen Bier einführen (höchstens alle 48 Stunden) – beim Zoll anmelden, nur privat trinken.": "Sale and serving of alcohol are banned. Non-Muslims aged 17 and over may bring in 2 litres of wine or spirits or 12 cans of beer (at most every 48 hours) – declare at customs, drink only in private."
 });

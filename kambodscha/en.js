@@ -16,5 +16,10 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Helmpflicht. Ohne gültigen Führerschein (für Roller: Motorradklasse) zahlt keine Versicherung. Rechtsverkehr, aber viele fahren entgegen der Richtung.": "Helmets are mandatory. Without a valid licence (motorbike class for scooters) no insurance will pay. Driving on the right, but many ride against the traffic.",
 "Streng verboten – auch die „Happy Pizza“ mit Cannabis. Es drohen lange Haftstrafen.": "Strictly illegal – including the cannabis \"happy pizza\". Long prison sentences are possible.",
 "Reiswein": "Rice wine",
-"Selbstgebrannten Reiswein meiden – es gab Methanolvergiftungen.": "Avoid home-distilled rice wine – there have been methanol poisonings."
+"Selbstgebrannten Reiswein meiden – es gab Methanolvergiftungen.": "Avoid home-distilled rice wine – there have been methanol poisonings.",
+"Teilreisewarnung": "Partial travel warning",
+"Das Auswärtige Amt warnt vor Reisen ins Grenzgebiet zu Thailand (20 km ab Grenze). Alle Grenzübergänge nach Thailand sind geschlossen; im Grenzgebiet nicht fotografieren.": "The German Foreign Office warns against travel to the border area with Thailand (20 km from the border). All border crossings to Thailand are closed; don't take photos in the border area.",
+"Einreise": "Entry",
+"Visum nötig (E-Visum vorab oder Visum bei Einreise). Frühestens 7 Tage vor Einreise die Cambodia e-Arrival Card online ausfüllen.": "Visa required (e-visa in advance or visa on arrival). Fill in the Cambodia e-Arrival Card online no earlier than 7 days before entry.",
+"Busse und Fähren, z. B. nach Vietnam.": "Buses and ferries, e.g. to Vietnam."
 });

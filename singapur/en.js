@@ -23,5 +23,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Kontaktlos zahlen": "Contactless payment",
 "In MRT und Bussen einfach mit Kreditkarte oder Handy ein- und auschecken.": "Simply tap in and out on the MRT and buses with your credit card or phone.",
 "Singapur (Innenstadt)": "Singapore (city centre)",
-"Flughafen Changi": "Changi Airport"
+"Flughafen Changi": "Changi Airport",
+"(werktags bis 24 Uhr, Wochenende & Feiertage 8–24 Uhr)": "(weekdays until midnight, weekends & public holidays 8 am–midnight)"
 });

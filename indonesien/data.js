@@ -37,6 +37,9 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/indonesien-node",
 
   rules: [
+    ["Teilreisewarnung", "Das Auswärtige Amt rät von nicht notwendigen Reisen in die Provinzen Papua, Papua Barat, Papua Pegunungan, Papua Tengah und Papua Selatan ab."],
+    ["Einreise", "Visum bei Einreise (30 Tage, vorab online als e-VoA möglich). Bis 72 Stunden vor Ankunft die All Indonesia Arrival Card online ausfüllen."],
+    ["Strafrecht", "Seit Januar 2026 neues Strafgesetzbuch: Außerehelicher Sex kann auf Anzeige von Ehepartner, Eltern oder Kindern mit Haft bestraft werden. In Aceh gilt Scharia-Recht, auch für Nicht-Muslime."],
     ["Tempel (Bali)", "Sarong und Schärpe tragen (oft zum Ausleihen am Eingang); während der Menstruation dürfen Frauen Tempel traditionell nicht betreten."],
     ["Linke Hand", "Essen, Geld und Geschenke mit der rechten Hand geben und annehmen."],
     ["Bali-Touristenabgabe", "Für Bali ist eine Touristenabgabe fällig – am besten vorab online bezahlen."],
