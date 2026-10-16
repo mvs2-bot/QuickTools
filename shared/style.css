@@ -262,3 +262,11 @@ button.link-btn { cursor: pointer; font: inherit; font-weight: 700; font-size: .
 .lang-toggle:hover { border-color: var(--p1); background: var(--hover); }
 .popover-header .theme-toggle.lang-toggle { font-size: .9rem; padding: 5px 6px; margin-left: 8px; }
 @media (max-width: 420px) { .header-actions { gap: 6px; } .lang-toggle.burger-btn { padding: 5px 4px; font-size: .72rem; } .lang-toggle span { padding: 3px 4px; } }
+
+/* ---------- Kopfzeile: alle Buttons gleich groß (Hell/Dunkel links, Sprache rechts) ---------- */
+.header-actions .burger-btn { box-sizing: border-box; height: 40px; width: 58px; padding: 0; border-width: 1.5px; display: inline-flex; align-items: center; justify-content: center; gap: 1px; }
+.header-actions .theme-toggle.burger-btn { font-size: 1.2rem; }
+.header-actions #menuBurger { font-size: 1.5rem; }
+.header-actions .lang-toggle.burger-btn { font-size: .74rem; }
+.header-actions .lang-toggle span { padding: 4px 4px; }
+@media (max-width: 420px) { .header-actions .burger-btn { width: 52px; height: 38px; } .header-actions .lang-toggle.burger-btn { font-size: .7rem; } .header-actions .lang-toggle span { padding: 3px 3px; } }
