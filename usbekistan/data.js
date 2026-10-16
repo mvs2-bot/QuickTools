@@ -38,15 +38,16 @@ window.QT = {
     ["103", "Rettungsdienst"],
     ["101", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Taschkent", "address": ["Sharaf-Rashidov-Straße 15", "100017 Taschkent"], "phone": "+998 71 120 84 40"},
+  embassy: {"title": "Deutsche Botschaft Taschkent", "address": ["Sharaf-Rashidov-Straße 15", "100017 Taschkent"], "phone": "+998 78 120 84 40", "emergency": "+998 93 181 54 06", "emergencyNote": "(nur Notfälle außerhalb der Öffnungszeiten; keine Visa-Anfragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/usbekistan-node",
 
   rules: [
-    ["Einreise", "Mit deutschem Pass bis 30 Tage visumfrei. Hotels registrieren automatisch – Belege aufbewahren, bei Kontrollen kann danach gefragt werden."],
+    ["Einreise", "Mit deutschem Pass bis 30 Tage visumfrei. Registrierung binnen 72 Stunden – Hotels erledigen das; Belege aufbewahren, sie werden für Bahn, Inlandsflüge und bei der Ausreise verlangt."],
     ["Moscheen & Medresen", "Schultern und Knie bedecken, Frauen in aktiven Moscheen ein Kopftuch; Schuhe ausziehen."],
     ["Brot", "Brot (Non) gilt als heilig – nie wegwerfen, nicht umgedreht hinlegen."],
     ["Medikamente", "Viele Schmerz-, Schlaf- und Beruhigungsmittel (z. B. Codein, Tramadol) gelten als Betäubungsmittel – nur mit ärztlicher Bescheinigung mitnehmen."],
-    ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."]
+    ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."],
+    ["Homosexualität", "Homosexuelle Handlungen zwischen Männern sind strafbar – in der Öffentlichkeit zurückhaltend sein."]
   ],
   car: [
     ["Promille", "0,0 ‰."],

@@ -29,24 +29,25 @@ window.QT = {
   emergency: [
     ["112", "Notruf (Rettung, Polizei, Feuerwehr)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Ankara", "address": ["Atatürk Bulvarı 114, Kavaklıdere", "06680 Ankara"], "phone": "+90 312 455 51 00", "emergency": "+90 212 334 61 00", "emergencyNote": "(Generalkonsulat Istanbul, Inönü Caddesi 10)"},
+  embassy: {"title": "Deutsche Botschaft Ankara", "address": ["Atatürk Bulvarı 114, Kavaklıdere", "06680 Ankara"], "phone": "+90 312 455 51 00", "emergency": "+90 532 111 91 05", "emergencyNote": "(gemeinsamer Bereitschaftsdienst aller deutschen Vertretungen in der Türkei)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/tuerkei-node",
 
   rules: [
     ["Moscheen", "Schultern und Knie bedecken, Schuhe ausziehen, Frauen Kopftuch. Während der Gebetszeiten nicht besichtigen."],
-    ["Atatürk & Staat", "Beleidigung Atatürks, der Nation oder staatlicher Symbole ist strafbar – auch in Social Media."],
+    ["Atatürk & Staat", "Beleidigung Atatürks, des Präsidenten, der Nation oder staatlicher Symbole ist strafbar – auch Teilen oder Liken in Social Media."],
     ["Handeln", "Im Basar ist Handeln üblich, in Geschäften mit Preisschildern nicht."],
-    ["Einfuhr", "Antiquitäten (auch alte Münzen oder Steine) dürfen nicht ausgeführt werden – Kaufbeleg aufbewahren."],
+    ["Einfuhr", "Antiquitäten (auch alte Münzen oder bearbeitete Steine) dürfen ohne Genehmigung nicht ausgeführt werden – bis zu 10 Jahre Haft. Kaufbeleg aufbewahren."],
+    ["Grenzgebiete", "Im Grenzgebiet zu Syrien (u. a. Şanlıurfa, Mardin) und zum Irak bestehen Gefahren; dort gilt ein striktes Fotografierverbot."],
     ["Bargeld", "Lira am Automaten abheben und dabei „ohne Umrechnung“ wählen; Euro werden in Touristenorten oft angenommen."]
   ],
   car: [
-    ["Promille", "0,5 ‰ (Berufsfahrer 0,0 ‰)."],
+    ["Promille", "0,5 ‰ (mit Anhänger 0,0 ‰)."],
     ["Kontrollen", "Viele Radarkontrollen und Polizeisperren – Führerschein, Pass und Mietvertrag griffbereit haben."]
   ],
   substances: [
     ["Alkohol", "Ab 18. Läden dürfen von 22 bis 6 Uhr keinen Alkohol verkaufen."],
     ["E-Zigaretten", "Verkauf und Einfuhr sind verboten – besser zu Hause lassen."],
-    ["Drogen", "Auch Cannabis ist verboten; es drohen lange Haftstrafen."]
+    ["Drogen", "Auch Cannabis und CBD-Produkte (auch medizinische) sind verboten; für die Einfuhr drohen 10 bis 20 Jahre Haft."]
   ],
   sim: [
     ["Roaming", "Die Türkei gehört nicht zur EU – Roaming kann teuer sein. Tarif vorher prüfen!"],

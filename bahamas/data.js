@@ -30,7 +30,7 @@ window.QT = {
     ["911", "Notruf (Polizei, Rettung, Feuerwehr)"],
     ["919", "Notruf (alternativ)"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Kingston (Jamaika)", "address": ["10 Waterloo Road", "Kingston 10, Jamaika", "Honorarkonsul in Nassau"], "phone": "+1 876 926 6728"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Kingston (Jamaika)", "address": ["10 Waterloo Road", "Kingston 10, Jamaika", "Honorarkonsul in Nassau"], "phone": "+1 876 926 6728", "emergency": "+1 876 819 4351", "emergencyNote": "(Bereitschaft Kingston bis 22 Uhr, auch SMS; Honorarkonsul Nassau: +1 242 376 3004, Notfall +1 242 457 1965)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/bahamas-node",
 
   rules: [

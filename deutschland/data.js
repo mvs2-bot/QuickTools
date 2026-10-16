@@ -58,7 +58,7 @@ window.QT = {
     ["Umweltzonen", "In vielen Städten nur mit grüner Umweltplakette."]
   ],
   bike: [
-    ["Radwege", "Ist der Radweg mit blauem Schild markiert, muss er benutzt werden. Keine Helmpflicht, Handy am Lenker verboten."],
+    ["Radwege", "Ist der Radweg mit blauem Schild markiert, muss er benutzt werden. Keine Helmpflicht. Das Handy während der Fahrt in der Hand zu halten ist verboten (Halterung erlaubt)."],
     ["Alkohol", "Auch auf dem Rad gibt es Promillegrenzen – ab 1,6 ‰ (bei Auffälligkeit schon früher) drohen Strafen und MPU."]
   ],
   substances: [

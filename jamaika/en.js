@@ -16,5 +16,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Komfortable Fernbusse zwischen Kingston, Ocho Rios, Montego Bay und Negril.": "Comfortable long-distance buses between Kingston, Ocho Rios, Montego Bay and Negril.",
 "Viele Schlaglöcher, riskante Überholmanöver – nachts nicht über Land fahren.": "Many potholes, risky overtaking – don't drive cross-country at night.",
 "Besitz kleiner Mengen (bis ca. 57 g) ist nur eine Ordnungswidrigkeit; Rauchen in der Öffentlichkeit ist verboten, Ausfuhr streng strafbar – am Flughafen wird kontrolliert.": "Possession of small amounts (up to approx. 57 g) is only a minor offence; smoking in public is banned and export is a serious crime – airport checks are common.",
-"In Städten und Hotels meist trinkbar, sonst Flaschenwasser": "Usually drinkable in towns and hotels, otherwise bottled water"
+"In Städten und Hotels meist trinkbar, sonst Flaschenwasser": "Usually drinkable in towns and hotels, otherwise bottled water",
+"(Bereitschaft werktags bis 22 Uhr, am Wochenende 8–22 Uhr, auch SMS)": "(on-call service weekdays until 10 pm, weekends 8 am–10 pm, also SMS)",
+"Vor der Reise kostenlos online registrieren – nur auf der offiziellen Seite enterjamaica.com, kostenpflichtige Fake-Seiten meiden.": "Register online for free before travelling – only on the official website enterjamaica.com; avoid paid fake sites."
 });

@@ -8,13 +8,11 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Deutsche Botschaft Eriwan": "German Embassy Yerevan",
 "Tscharenz-Straße 29": "29 Charents Street",
 "0025 Jerewan": "0025 Yerevan",
-"Von Reisen in das Grenzgebiet zu Aserbaidschan rät das Auswärtige Amt ab – aktuelle Hinweise prüfen.": "The German Foreign Office advises against travel to the border area with Azerbaijan – check current advice.",
 "Mit deutschem Pass bis 180 Tage visumfrei. Landweg nur über Georgien oder Iran.": "Visa-free for up to 180 days with a German passport. Overland only via Georgia or Iran.",
 "Schultern und Knie bedecken; Frauen tragen in Kirchen oft ein Kopftuch.": "Cover shoulders and knees; women often wear a headscarf in churches.",
 "Sensible Themen": "Sensitive topics",
 "Der Völkermord an den Armeniern (1915) und Bergkarabach sind sehr emotionale Themen – zurückhaltend und respektvoll ansprechen.": "The Armenian Genocide (1915) and Nagorno-Karabakh are very emotional topics – raise them with restraint and respect.",
 "Einladungen zu Essen und Trinksprüchen mit Cognac oder Wein sind üblich – ein Glas abzulehnen ist okay.": "Invitations to meals and toasts with brandy or wine are common – it's fine to decline a glass.",
-"Am besten gar nicht trinken – strenge Kontrollen.": "Best not to drink at all – strict checks.",
 "Bergstraßen teils in schlechtem Zustand, Fahrstil oft riskant. Im Winter Pässe teils gesperrt.": "Mountain roads are partly in poor condition, driving is often risky. Some passes are closed in winter.",
 "Viva, Team oder Ucom – günstig, am Flughafen erhältlich, Pass nötig. Alternativ vorab eSIM.": "Viva, Team or Ucom – cheap, available at the airport, passport required. Alternatively an eSIM in advance.",
 "Taxi-Apps – günstig, Preis steht vorher fest.": "Taxi apps – cheap, price fixed in advance.",
@@ -22,5 +20,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Kloster Geghard": "Geghard Monastery",
 "Sewansee": "Lake Sevan",
 "Dilidschan": "Dilijan",
-"Kloster Tatew": "Tatev Monastery"
+"Kloster Tatew": "Tatev Monastery",
+"(außerhalb der Öffnungszeiten bis 24 Uhr; keine Visa-Auskünfte)": "(outside opening hours until midnight; no visa information)",
+"Das Auswärtige Amt warnt vor Reisen in Teile des Grenzgebiets zu Aserbaidschan (u. a. östlich von Goris und Kapan in Syunik, östlich von Vardenis und Idschewan) und rät von grenznahen Straßen ab – Minengefahr, militärische Sperrgebiete.": "The German Foreign Office warns against travel to parts of the border area with Azerbaijan (incl. east of Goris and Kapan in Syunik, east of Vardenis and Ijevan) and advises against roads near the border – landmine risk, military zones.",
+"Absolutes Alkoholverbot am Steuer – strenge Kontrollen.": "Zero alcohol at the wheel – strict checks."
 });

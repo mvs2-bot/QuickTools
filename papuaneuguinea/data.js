@@ -39,7 +39,7 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/papuaneuguinea-node",
 
   rules: [
-    ["Sicherheit", "Das Auswärtige Amt rät von nicht notwendigen Reisen in die Provinzen Southern Highlands, Western Highlands, Hela und Enga sowie nach Bougainville ab; auch in Port Moresby ist die Kriminalität hoch – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Sicherheit", "Das Auswärtige Amt rät von nicht notwendigen Reisen in die Provinzen Southern Highlands, Western Highlands, Hela und Enga sowie nach Bougainville ab und empfiehlt, derzeit auch auf Reisen nach Port Moresby zu verzichten (Unruhen, sehr hohe Kriminalität) – vor jeder Reise die aktuelle Lage prüfen."],
     ["Einreise", "Visum nötig; zusätzlich spätestens 72 h vor Ankunft die kostenlose PNG Digital Arrival Card ausfüllen. Der Pass muss noch 6 Monate gültig sein."],
     ["Unterwegs", "Nach Einbruch der Dunkelheit nicht zu Fuß gehen oder fahren; Transfers über Hotel oder Touranbieter statt PMV-Busse und Straßentaxis."],
     ["Malaria", "Hohes Malariarisiko im ganzen Land – Prophylaxe mit dem Arzt besprechen, Mückenschutz."],

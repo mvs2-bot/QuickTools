@@ -29,7 +29,7 @@ window.QT = {
   emergency: [
     ["112", "Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Wilna", "address": ["Z. Sierakausko g. 24", "LT-03105 Vilnius"], "phone": "+370 5 210 64 00"},
+  embassy: {"title": "Deutsche Botschaft Wilna", "address": ["Z. Sierakausko g. 24", "LT-03105 Vilnius"], "phone": "+370 5 210 64 00", "emergency": "+370 650 55510"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/litauen-node",
 
   rules: [
@@ -39,7 +39,7 @@ window.QT = {
   ],
   car: [
     ["Promille", "0,4 ‰; Fahranfänger 0,0 ‰."],
-    ["Licht & Winter", "Licht auch tagsüber Pflicht. Von Mitte November bis Ende März Winterreifen Pflicht."]
+    ["Licht & Winter", "Licht auch tagsüber Pflicht. Vom 10. November bis 1. April Winterreifen Pflicht; Feuerlöscher und Warnweste mitführen."]
   ],
   substances: [
     ["Alkohol", "Ab 20 Jahren. Im Laden Mo–Sa 10–20 Uhr, So 10–15 Uhr."],

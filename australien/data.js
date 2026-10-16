@@ -52,7 +52,7 @@ window.QT = {
     ["Outback", "Lange Strecken ohne Tankstelle: Wasser, Sprit und Bescheid geben, wohin man fährt."]
   ],
   car: [
-    ["Linksverkehr", "0,5 ‰ (Lern- und Probeführerschein 0,0 ‰). Handy am Steuer wird per Kamera geahndet."],
+    ["Linksverkehr", "0,5 ‰ (Lern- und Probeführerschein 0,0 ‰). Handy am Steuer wird per Kamera geahndet. Deutscher Führerschein nur mit internationalem Führerschein oder beglaubigter englischer Übersetzung."],
     ["Wildtiere", "In der Dämmerung auf Kängurus achten; Outback-Strecken nur mit Wasser- und Tankreserve."]
   ],
   bike: [

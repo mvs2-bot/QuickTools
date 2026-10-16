@@ -38,7 +38,8 @@ window.QT = {
   rules: [
     ["Euro", "Montenegro nutzt den Euro, ist aber nicht in der EU."],
     ["Kirchen & Klöster", "Schultern und Knie bedecken, z. B. im Kloster Ostrog."],
-    ["Kurtaxe", "Unterkünfte müssen Gäste anmelden – den Anmeldezettel aufbewahren."]
+    ["Anmeldung", "Ausländer müssen innerhalb von 24 Stunden polizeilich gemeldet sein – Hotels erledigen das, bei Privatunterkünften nachfragen und den Anmeldezettel aufbewahren."],
+    ["Einreise", "Mit Personalausweis nur bis 30 Tage, sonst Reisepass. Dokumente sollten bei Einreise noch 3 Monate gültig sein."]
   ],
   car: [
     ["Promille", "0,3 ‰."],

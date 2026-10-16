@@ -10,5 +10,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Bus Rimini – San Marino": "Bus Rimini – San Marino",
 "Linienbus vom Bahnhof Rimini, Tickets im Bus oder online.": "Scheduled bus from Rimini station, tickets on the bus or online.",
 "Autos auf den ausgeschilderten Parkplätzen unterhalb der Altstadt abstellen; von Borgo Maggiore fährt eine Seilbahn hinauf.": "Leave your car in the signposted car parks below the old town; a cable car runs up from Borgo Maggiore.",
-"Guaita (Erster Turm)": "Guaita (First Tower)"
+"Guaita (Erster Turm)": "Guaita (First Tower)",
+"Zuständig: Deutsches Generalkonsulat Mailand (Italien)": "Responsible: German Consulate General Milan (Italy)"
 });

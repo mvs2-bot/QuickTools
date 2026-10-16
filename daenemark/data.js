@@ -40,9 +40,10 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/daenemark-node',
 
   rules: [
-    ["Bezahlen", "Fast alles geht mit Karte oder MobilePay – Bargeld braucht man kaum. Euro wird selten angenommen."],
+    ["Bezahlen", "Fast alles geht mit Karte – Bargeld braucht man kaum; Parkautomaten und Nahverkehr nehmen kein Bargeld. MobilePay nur mit dänischer CPR-Nummer. Euro wird selten angenommen."],
     ["Strand & Dünen", "Nicht über geschützte Dünen laufen. Mit dem Auto nur auf freigegebenen Strandabschnitten fahren."],
-    ["Trinkgeld", "Service ist im Preis enthalten – Trinkgeld ist nicht üblich, Aufrunden bei gutem Service ist aber gern gesehen."]
+    ["Trinkgeld", "Service ist im Preis enthalten – Trinkgeld ist nicht üblich, Aufrunden bei gutem Service ist aber gern gesehen."],
+    ["Messer & Spray", "Messer in der Öffentlichkeit mitzuführen ist verboten (im Auto verschlossen lagern); Pfefferspray ist ganz verboten."]
   ],
   car: [
     ["Promille", "0,5 ‰."],

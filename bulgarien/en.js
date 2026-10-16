@@ -7,10 +7,11 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Schultern und Knie bedecken, z. B. im Rila-Kloster.": "Cover shoulders and knees, e.g. at Rila Monastery.",
 "Schrift": "Script",
 "Viele Schilder sind nur kyrillisch – Ortsnamen notfalls mit dem Übersetzer abgleichen.": "Many signs are in Cyrillic only – check place names with a translator if needed.",
-"Für Autobahnen und die meisten Fernstraßen ist eine elektronische Vignette (bgtoll.bg) Pflicht.": "An electronic vignette (bgtoll.bg) is mandatory on motorways and most trunk roads.",
 "eSIM (z. B. Airalo) oder Prepaid-SIM von A1, Yettel oder Vivacom.": "eSIM (e.g. Airalo) or prepaid SIM from A1, Yettel or Vivacom.",
 "Taxi per App in Sofia und anderen Städten – schützt vor Touristenpreisen.": "Taxi by app in Sofia and other cities – protects you from tourist prices.",
 "Plowdiw": "Plovdiv",
 "Warna": "Varna",
-"Rila-Kloster": "Rila Monastery"
+"Rila-Kloster": "Rila Monastery",
+"0,5 ‰. Licht ganzjährig auch tagsüber Pflicht; Winterreifen vom 15. November bis 1. März.": "0.5 ‰. Headlights are mandatory all year, even during the day; winter tyres from 15 November to 1 March.",
+"Für Autobahnen und Nationalstraßen ist eine elektronische Vignette (bgtoll.bg) Pflicht. Bußgelder nie bar an Polizisten zahlen, nur per Bankeinzahlung.": "An electronic vignette (bgtoll.bg) is mandatory on motorways and national roads. Never pay fines in cash to police officers – only by bank payment."
 });

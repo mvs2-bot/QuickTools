@@ -7,7 +7,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Radwege (rot markiert) sind kein Gehweg – Radfahrer haben oft Vorfahrt und klingeln nicht lange.": "Cycle lanes (marked red) are not pavements – cyclists often have right of way and won’t ring their bell for long.",
 "Viele Läden und Cafés nehmen nur Karte (PIN), manche gar kein Bargeld.": "Many shops and cafés only take cards (PIN), some no cash at all.",
 "Im Rotlichtviertel keine Fotos von Personen, Trinken auf der Straße ist in der Innenstadt verboten.": "No photos of people in the red-light district; drinking in the street is banned in the city centre.",
-"Strand": "Beach",
 "Strömungen an der Nordsee beachten, nur an bewachten Stellen baden.": "Watch out for currents in the North Sea, only swim at patrolled spots.",
 "eSIM (z. B. Airalo) oder Prepaid-SIM von KPN, Vodafone oder Odido.": "eSIM (e.g. Airalo) or prepaid SIM from KPN, Vodafone or Odido.",
 "Zugfahrpläne und Tickets; in Bahn, Bus und Tram einfach mit Kreditkarte ein- und auschecken (OVpay).": "Train timetables and tickets; simply check in and out with your credit card on trains, buses and trams (OVpay).",

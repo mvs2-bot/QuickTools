@@ -38,7 +38,7 @@ window.QT = {
     ["103", "Rettungsdienst"],
     ["101", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Astana", "address": ["Kosmonawtow-Straße 62", "010000 Astana"], "phone": "+7 7172 79 12 00"},
+  embassy: {"title": "Deutsche Botschaft Astana", "address": ["Kosmonawtow-Straße 62", "010000 Astana"], "phone": "+7 7172 79 12 00", "emergency": "+7 701 768 06 62", "emergencyNote": "(außerhalb der Öffnungszeiten; keine Visa-Anfragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/kasachstan-node",
 
   rules: [

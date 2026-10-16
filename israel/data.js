@@ -38,21 +38,22 @@ window.QT = {
   emergency: [
     ["100", "Polizei"],
     ["101", "Rettungsdienst (Magen David Adom)"],
-    ["102", "Feuerwehr"]
+    ["102", "Feuerwehr"],
+    ["104", "Heimatfrontkommando (Zivilschutz-Auskunft, Englisch)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Tel Aviv", "address": ["Daniel Frisch Street 3, 19. Stock", "6473104 Tel Aviv"], "phone": "+972 3 693 1313"},
+  embassy: {"title": "Deutsche Botschaft Tel Aviv", "address": ["2 HaShlosha Street, Gebäudeteil C", "6706054 Tel Aviv"], "phone": "+972 3 693 1313", "emergency": "+972 54 994 4724", "emergencyNote": "(außerhalb der Öffnungszeiten, nur akute Notfälle)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/israel-node",
 
   rules: [
-    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen in den Gazastreifen und die Grenzgebiete; die Lage kann sich schnell ändern – vor jeder Reise die aktuelle Lage prüfen."],
-    ["Einreise", "Vor der Reise online die elektronische Reisegenehmigung ETA-IL beantragen. Am Flughafen gibt es ausführliche Sicherheitsbefragungen."],
+    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen in den Gazastreifen und ins Westjordanland (außer Ostjerusalem). Von Reisen in das Gebiet um Gaza und den Norden Israels wird dringend, von Reisen in das übrige Land abgeraten – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Einreise", "Vor der Reise online die elektronische Reisegenehmigung ETA-IL beantragen; Reisepass (kein Personalausweis) mind. 6 Monate gültig. Am Flughafen gibt es ausführliche Sicherheitsbefragungen."],
     ["Raketenalarm", "Bei Sirenenalarm sofort den nächsten Schutzraum aufsuchen – die App des Heimatfrontkommandos warnt rechtzeitig."],
     ["Schabbat", "Von Freitagnachmittag bis Samstagabend fahren kaum Busse und Züge, viele Läden und Restaurants (besonders in Jerusalem) sind geschlossen."],
     ["Heilige Stätten", "An der Klagemauer, in Kirchen und Moscheen Schultern und Knie bedecken; am Schabbat an der Klagemauer nicht fotografieren."]
   ],
   car: [
     ["Promille", "0,5 ‰."],
-    ["Westjordanland", "Israelische Mietwagen sind in den palästinensischen A-Gebieten meist nicht versichert. Einige Straßen sind mautpflichtig (Route 6 – Abrechnung über den Mietwagen)."]
+    ["Westjordanland", "Israelische Mietwagen dürfen grundsätzlich nicht in den Palästinensischen Gebieten fahren (Ausnahmen: Straße 1 Jerusalem–Totes Meer und Straße 90 im Jordantal). Einige Straßen sind mautpflichtig (Route 6 – Abrechnung über den Mietwagen)."]
   ],
   substances: [
     ["Alkohol", "Ab 18. Verkauf in Läden zwischen 23 und 6 Uhr verboten."],

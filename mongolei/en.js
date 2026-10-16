@@ -1,11 +1,12 @@
 /* Englische Texte nur für Mongolei (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Mit deutschem Reisepass bis 30 Tage visumfrei; der Pass muss bei Einreise noch mind. 6 Monate gültig sein. Personalausweis reicht nicht.": "Visa-free for up to 30 days with a German passport; it must be valid for at least 6 more months on entry. An ID card is not enough.",
+"Internationaler Führerschein nur zusammen mit dem deutschen (oder amtliche mongolische Übersetzung). Grenze 0,2 ‰ Atem- bzw. 0,5 ‰ Blutalkohol, häufige Kontrollen.": "International driving permit only together with your German licence (or an official Mongolian translation). Limit 0.2 ‰ breath or 0.5 ‰ blood alcohol, frequent checks.",
 "Mongolischer Tögrög": "Mongolian tögrög",
 "Nicht trinkbar – Flaschenwasser oder abkochen": "Not drinkable – bottled or boiled water",
 "Nicht üblich, in Touristenrestaurants ca. 10 %": "Not customary, approx. 10 % in tourist restaurants",
 "🇲🇳 Mongolisch": "🇲🇳 Mongolian",
 "Deutsche Botschaft Ulan Bator": "German Embassy Ulaanbaatar",
-"Mit deutschem Pass bis 30 Tage visumfrei.": "Visa-free for up to 30 days with a German passport.",
 "Jurte (Ger)": "Yurt (ger)",
 "Nicht auf die Türschwelle treten, im Uhrzeigersinn bewegen, nicht zwischen den beiden Mittelpfosten hindurchgehen. Angebotenes mit der rechten Hand (Ellbogen mit links stützen) annehmen.": "Don't step on the threshold, move clockwise, don't walk between the two central pillars. Accept what is offered with your right hand (supporting the elbow with your left).",
 "Hunde": "Dogs",

@@ -31,7 +31,7 @@ window.QT = {
     ["110", "Polizei"],
     ["113", "Rettungsdienst"]
   ],
-  embassy: {"title": "Deutsche Botschaft Riga", "address": ["Raiņa bulvāris 13", "LV-1050 Riga"], "phone": "+371 67 08 51 00"},
+  embassy: {"title": "Deutsche Botschaft Riga", "address": ["Raiņa bulvāris 13", "LV-1050 Riga"], "phone": "+371 67 08 51 00", "emergency": "+371 29 46 64 56"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/lettland-node",
 
   rules: [

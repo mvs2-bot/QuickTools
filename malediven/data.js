@@ -36,13 +36,14 @@ window.QT = {
     ["118", "Feuerwehr"],
     ["191", "Küstenwache"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Colombo (Sri Lanka)", "address": ["40 Alfred House Avenue", "Colombo 3"], "phone": "+94 11 258 0431", "emergency": "+94 77 734 4283"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Colombo (Sri Lanka)", "address": ["40 Alfred House Avenue", "Colombo 3"], "phone": "+94 11 258 0431", "emergency": "+94 77 734 4283", "emergencyNote": "(Mo–Fr 15:30–22 Uhr, Wochenende 8–22 Uhr; das Honorarkonsulat in Malé ist derzeit geschlossen, Hilfe nur telefonisch)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/malediven-node",
 
   rules: [
-    ["Einreise", "Vor der Ankunft die Online-Einreiseerklärung „Traveller Declaration“ (IMUGA) ausfüllen."],
+    ["Einreise", "Touristenvisum für 30 Tage gibt es kostenlos bei Ankunft. Höchstens 96 Stunden vorher die Online-Einreiseerklärung „Traveller Declaration“ (IMUGA) ausfüllen."],
     ["Einheimische Inseln", "Die Malediven sind ein muslimisches Land: Außerhalb der Resorts Schultern und Knie bedecken; Bikini nur an ausgewiesenen „Bikini Beaches“."],
-    ["Einfuhr", "Alkohol, Schweinefleisch, Pornografie und Drogen dürfen nicht eingeführt werden – das Gepäck wird kontrolliert."],
+    ["Einfuhr", "Alkohol, Schweinefleisch, Pornografie, Götterstatuen (z. B. Buddhas), E-Zigaretten und Drogen dürfen nicht eingeführt werden – das Gepäck wird kontrolliert."],
+    ["Homosexualität", "Homosexuelle Handlungen sind strafbar – in der Öffentlichkeit zurückhaltend sein."],
     ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."],
     ["Korallen", "Korallen und Muscheln nicht berühren oder mitnehmen – die Ausfuhr ist verboten."]
   ],
@@ -51,7 +52,8 @@ window.QT = {
   ],
   substances: [
     ["Alkohol", "Nur in Resorts, auf Safari-Booten und in einigen Hotels erlaubt – auf bewohnten Inseln verboten."],
-    ["Drogen", "Drogendelikte werden extrem hart bestraft, bis hin zur Todesstrafe."]
+    ["Drogen", "Drogendelikte werden extrem hart bestraft, bis hin zur Todesstrafe."],
+    ["Rauchen", "Wer ab dem 1.1.2007 geboren ist, darf keinen Tabak kaufen oder konsumieren – gilt auch für Reisende. E-Zigaretten sind komplett verboten."]
   ],
   sim: [
     ["Lokale SIM", "Dhiraagu oder Ooredoo direkt am Flughafen Malé – Pass nötig. Resort-WLAN ist oft langsam oder teuer."],

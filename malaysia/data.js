@@ -36,9 +36,11 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/malaysia-node",
 
   rules: [
+    ["Sabah", "Das Auswärtige Amt warnt vor Reisen in den Sulu-Archipel und rät von nicht notwendigen Reisen an die Ostküste Sabahs (Sandakan bis Tawau, inkl. Semporna) und auf die vorgelagerten Inseln ab. Vom Landweg nach Thailand wird dringend abgeraten."],
     ["Einreise", "Vor der Einreise die digitale Ankunftskarte (MDAC) online ausfüllen."],
     ["Moscheen", "Schultern, Knie und bei Frauen die Haare bedecken – Umhänge gibt es meist am Eingang. Schuhe ausziehen."],
-    ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen oder trinken."]
+    ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen oder trinken."],
+    ["Gesetze", "Homosexuelle Handlungen sind strafbar (bis 20 Jahre Haft und Stockschläge); auch LGBTIQ-Symbole wie Regenbogen-Accessoires können strafbar sein."]
   ],
   car: [
     ["Promille", "0,5 ‰ – Trunkenheit am Steuer wird mit hohen Geld- und Haftstrafen geahndet."],

@@ -31,11 +31,11 @@ window.QT = {
     ["103", "Rettungsdienst"],
     ["101", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Ulan Bator", "address": ["Negdsen Undestnii Gudamj 7", "Ulaanbaatar 14201"], "phone": "+976 11 32 33 25"},
+  embassy: {"title": "Deutsche Botschaft Ulan Bator", "address": ["Baga Toiruu 2, United Nations Street 16", "Ulaanbaatar 14201"], "phone": "+976 7013 3900", "emergency": "+976 9911 4665", "emergencyNote": "(außerhalb der Öffnungszeiten; keine Visafragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/mongolei-node",
 
   rules: [
-    ["Einreise", "Mit deutschem Pass bis 30 Tage visumfrei."],
+    ["Einreise", "Mit deutschem Reisepass bis 30 Tage visumfrei; der Pass muss bei Einreise noch mind. 6 Monate gültig sein. Personalausweis reicht nicht."],
     ["Jurte (Ger)", "Nicht auf die Türschwelle treten, im Uhrzeigersinn bewegen, nicht zwischen den beiden Mittelpfosten hindurchgehen. Angebotenes mit der rechten Hand (Ellbogen mit links stützen) annehmen."],
     ["Hunde", "Hirtenhunde sind oft scharf – nicht allein auf eine Jurte zugehen, laut rufen und warten."],
     ["Klima", "Extreme Temperaturen: Winter bis −30 °C, auch im Sommer kalte Nächte. In der Steppe große Entfernungen ohne Versorgung."],
@@ -43,7 +43,8 @@ window.QT = {
   ],
   car: [
     ["Pisten", "Außerhalb der Städte meist Pisten ohne Beschilderung – nur mit Allrad, ortskundigem Fahrer und GPS."],
-    ["Ulan Bator", "Sehr dichter Verkehr; teils Fahrverbote nach Kennzeichen-Endziffer."]
+    ["Ulan Bator", "Sehr dichter Verkehr; teils Fahrverbote nach Kennzeichen-Endziffer."],
+    ["Führerschein & Promille", "Internationaler Führerschein nur zusammen mit dem deutschen (oder amtliche mongolische Übersetzung). Grenze 0,2 ‰ Atem- bzw. 0,5 ‰ Blutalkohol, häufige Kontrollen."]
   ],
   substances: [
     ["Alkohol", "Ab 21 Jahren. Am 1. jedes Monats kein Alkoholverkauf in Ulan Bator."],

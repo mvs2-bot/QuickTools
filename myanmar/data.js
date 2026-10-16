@@ -31,25 +31,25 @@ window.QT = {
     ["192", "Rettungsdienst"],
     ["191", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Rangun", "address": ["9 Bogyoke Aung San Museum Road, Bahan Township", "Yangon"], "phone": "+95 1 548 951"},
+  embassy: {"title": "Deutsche Botschaft Rangun", "address": ["9 Bogyoke Aung San Museum Road, Bahan Township", "Yangon 11201"], "phone": "+95 1 548 951", "emergency": "+95 9 502 3209", "emergencyNote": "(Deutsch/Englisch, außerhalb der Öffnungszeiten)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/myanmar-node",
 
   rules: [
-    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen in große Teile Myanmars und rät von Reisen ins übrige Land dringend ab (Bürgerkrieg seit dem Militärputsch 2021) – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Myanmar (Bürgerkrieg seit dem Militärputsch 2021, Kämpfe in weiten Landesteilen). Ein- und Ausreise auf dem Land- und Seeweg sind nicht möglich, nur über den Flughafen Rangun."],
     ["Pagoden & Klöster", "Schuhe und Socken ausziehen, Schultern und Knie bedecken. Buddha-Figuren nicht berühren."],
     ["Mönche", "Frauen sollten Mönche nicht berühren oder ihnen direkt etwas reichen."],
-    ["Politik & Fotos", "Politische Gespräche in der Öffentlichkeit meiden; keine Fotos von Militär, Polizei, Checkpoints oder Demonstrationen."],
-    ["Bargeld", "Karten werden kaum akzeptiert. Euro oder US-Dollar nur in sauberen, unbeschädigten Scheinen mitnehmen."]
+    ["Politik & Fotos", "Politische Gespräche in der Öffentlichkeit meiden; keine Fotos von Militär, Polizei, Checkpoints, Brücken oder Demonstrationen. Drohnen nur mit Genehmigung."],
+    ["Bargeld", "Kreditkarten oft nur mit hohen Gebühren, Geldautomaten mit ausländischen Karten unzuverlässig. US-Dollar (oder Euro) nur in neuen, unbeschädigten Scheinen mitnehmen. Kyat dürfen nicht ein- oder ausgeführt werden."]
   ],
   car: [
-    ["Selbstfahren", "Mietwagen nur mit Fahrer üblich. Rechtsverkehr, aber viele Autos haben das Lenkrad rechts; zahlreiche Checkpoints."]
+    ["Selbstfahren", "Deutsche und internationale Führerscheine werden nicht anerkannt – Mietwagen nur mit Fahrer. Rechtsverkehr, aber viele Autos haben das Lenkrad rechts; zahlreiche Checkpoints."]
   ],
   substances: [
     ["Alkohol", "Ab 18."],
     ["Drogen", "Drogendelikte werden sehr hart bestraft, mit langen Haftstrafen bis hin zur Todesstrafe."]
   ],
   sim: [
-    ["Lokale SIM", "MPT, ATOM oder Mytel – Pass nötig. Internet wird regional häufig abgeschaltet oder gedrosselt, viele Seiten sind gesperrt."],
+    ["Lokale SIM", "MPT, ATOM oder Mytel – Pass nötig. Internet wird regional häufig abgeschaltet oder gedrosselt, viele Seiten sind gesperrt; VPN-Nutzung ist verboten."],
     ["eSIM", "Alternativ vorab eSIM (z. B. Airalo) buchen – am einfachsten schon vor dem Abflug einrichten."]
   ],
   apps: [

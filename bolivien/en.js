@@ -1,5 +1,9 @@
 /* Englische Texte nur für Bolivien (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"(Notfälle bis Mitternacht, keine Visaanfragen)": "(emergencies until midnight, no visa enquiries)",
+"Das Auswärtige Amt rät dringend von Reisen in den Chapare (Cochabamba, inkl. Villa Tunari, Routen 4 und 24) und von Reisen ins Grenzgebiet zu Brasilien (Santa Cruz) ab. Landesweit gilt bis voraussichtlich 17.12.2026 der Ausnahmezustand. Nur offizielle Funk- oder App-Taxis nutzen, bei Straßenblockaden (bloqueos) nicht durchfahren.": "The German Foreign Office strongly advises against travel to the Chapare (Cochabamba, incl. Villa Tunari, routes 4 and 24) and advises against travel to the border area with Brazil (Santa Cruz). A nationwide state of emergency applies, expected until 17 Dec 2026. Only use official radio or app taxis; don't drive through road blockades (bloqueos).",
+"Nachts nicht über Land fahren. Bei Straßenblockaden (bloqueos) nicht durchfahren. Benzin und Diesel sind zeitweise knapp – vollen Reservekanister mitnehmen.": "Don’t drive cross-country at night. Don’t drive through road blockades (bloqueos). Petrol and diesel are sometimes scarce – carry a full spare canister.",
+"Alkohol ab 18, Trinken in der Öffentlichkeit ist verboten; rund um Wahlen gilt oft ein Alkoholverbot („Ley seca“). Andere Drogen werden mit langen Haftstrafen bestraft.": "Alcohol from 18, drinking in public is prohibited; around elections an alcohol ban (\"ley seca\") often applies. Other drugs are punished with long prison sentences.",
 "🇧🇴 Spanisch": "🇧🇴 Spanish",
 "🏔️ Aymara & Quechua (Grüße)": "🏔️ Aymara & Quechua (greetings)",
 "Hallo / Guten Tag (Aymara)": "Hello / Good day (Aymara)",
@@ -10,13 +14,11 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "La Paz liegt auf ca. 3.600 m, El Alto über 4.000 m: langsam akklimatisieren, viel trinken, Coca-Tee hilft vielen. Bei starken Beschwerden absteigen und Arzt aufsuchen.": "La Paz is at about 3,600 m, El Alto above 4,000 m: acclimatise slowly, drink plenty, coca tea helps many people. With severe symptoms, descend and see a doctor.",
 "Coca-Blätter sind in Bolivien legal, dürfen aber nicht nach Deutschland/EU mitgenommen werden.": "Coca leaves are legal in Bolivia, but may not be taken to Germany/the EU.",
 "Menschen, besonders Indigene, nur nach vorheriger Frage fotografieren.": "Only photograph people, especially indigenous people, after asking first.",
-"Nur offizielle Funk- oder App-Taxis nutzen, Wertsachen nicht offen zeigen. Bei Straßenblockaden (bloqueos) nicht durchfahren.": "Only use official radio or app taxis, don't show valuables openly. Don't drive through road blockades (bloqueos).",
 "Kleine Scheine bereithalten – Wechselgeld ist oft knapp. Außerhalb der Städte kaum Kartenzahlung.": "Keep small notes handy – change is often scarce. Hardly any card payments outside the cities.",
 "Prepaid-SIM von Entel (beste Abdeckung), Tigo oder Viva im Shop – Reisepass nötig.": "Prepaid SIM from Entel (best coverage), Tigo or Viva in a shop – passport required.",
 "Alternativ vorab eSIM (z. B. Airalo) – in ländlichen Gebieten aber oft kein Netz.": "Alternatively an eSIM in advance (e.g. Airalo) – but often no signal in rural areas.",
 "Fahrdienste in La Paz, Santa Cruz und Cochabamba.": "Ride-hailing in La Paz, Santa Cruz and Cochabamba.",
 "Infos zu den Seilbahnlinien in La Paz / El Alto.": "Info on the cable car lines in La Paz / El Alto.",
 "In La Paz teils 115 V – Netzteil prüfen": "Partly 115 V in La Paz – check your charger",
-"Copacabana (Titicacasee)": "Copacabana (Lake Titicaca)",
-"Nachts nicht über Land fahren. Bei Straßenblockaden (bloqueos) nicht durchfahren.": "Don’t drive cross-country at night. Don’t drive through road blockades (bloqueos)."
+"Copacabana (Titicacasee)": "Copacabana (Lake Titicaca)"
 });

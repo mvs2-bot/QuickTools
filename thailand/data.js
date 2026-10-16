@@ -39,6 +39,8 @@ window.QT = {
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/thailand-node',
 
   rules: [
+    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen ins Grenzgebiet zu Kambodscha (20 km ab Grenze, alle Grenzübergänge geschlossen) und rät dringend von Reisen in die Südprovinzen Narathiwat, Yala, Pattani und Teile von Songkhla ab."],
+    ["Einreise", "Visumfrei höchstens 30 Tage (einmal um 30 Tage verlängerbar). Frühestens 3 Tage vor Ankunft die kostenlose Thailand Digital Arrival Card (TDAC) online ausfüllen."],
     ["Tempel & Klöster", "Schultern und Knie bedecken, Schuhe vor dem Betreten ausziehen."],
     ["Buddha-Statuen", "Nicht besteigen oder berühren, keine respektlosen Posen für Fotos."],
     ["Mönche", "Nicht berühren und (als Frau) nichts direkt in die Hand geben – Gegenstände ablegen."],

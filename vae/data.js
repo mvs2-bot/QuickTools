@@ -32,10 +32,11 @@ window.QT = {
     ["997", "Feuerwehr"],
     ["112", "Notruf vom Handy"]
   ],
-  embassy: {"title": "Deutsche Botschaft Abu Dhabi", "address": ["Towers at the Trade Center, West Tower, 14. Stock", "Abu Dhabi Mall, Abu Dhabi", "Generalkonsulat Dubai: Sheikh Zayed Road, Tel. +971 4 349 8888"], "phone": "+971 2 596 7700"},
+  embassy: {"title": "Deutsche Botschaft Abu Dhabi", "address": ["Towers at the Trade Center, West Tower, 14. Stock", "Abu Dhabi Mall, Abu Dhabi", "Generalkonsulat Dubai (konsularische Dienste): Street 14A, Jumeirah 1, Tel. +971 4 302 4333"], "phone": "+971 2 596 7700", "emergency": "+971 50 650 4134", "emergencyNote": "(außerhalb der Öffnungszeiten, nur konsularische Notfälle)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/vereinigtearabischeemirate-node",
 
   rules: [
+    ["Reisehinweis", "Das Auswärtige Amt rät von nicht notwendigen Reisen in die VAE ab (volatile Lage in der Region, Angriffe und Luftraumsperrungen möglich) – vor jeder Reise die aktuelle Lage prüfen."],
     ["Kleidung", "In Malls, Souks und Moscheen Schultern und Knie bedecken; Badekleidung nur am Pool und Strand. Oben-ohne ist verboten."],
     ["Verhalten", "Keine Zärtlichkeiten in der Öffentlichkeit, keine obszönen Gesten oder Beschimpfungen – auch in Chats und sozialen Medien kann das strafbar sein."],
     ["Fotografieren", "Fremde Menschen nicht ohne Erlaubnis fotografieren oder Fotos von ihnen posten – das ist strafbar. Keine Fotos von Militär und Regierungsgebäuden."],

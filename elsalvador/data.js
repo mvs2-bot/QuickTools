@@ -39,7 +39,8 @@ window.QT = {
     ["Meer", "An Surfstränden wie El Tunco starke Strömungen – nur bei ruhiger See und an bewachten Stellen baden."]
   ],
   car: [
-    ["Kontrollen", "Häufige Polizei- und Militärkontrollen: Pass, Führerschein und Mietvertrag bereithalten. Nachts nicht über Land fahren."]
+    ["Kontrollen", "Häufige Polizei- und Militärkontrollen: Pass, Führerschein und Mietvertrag bereithalten. Nachts nicht über Land fahren."],
+    ["Promille", "0,0 ‰ – Verstöße werden mit Haft bestraft."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren."],

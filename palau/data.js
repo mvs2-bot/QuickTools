@@ -39,7 +39,7 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/palau-node",
 
   rules: [
-    ["Einreise", "Das Palau-Einreiseformular vorab online ausfüllen (kostenlos – Vorsicht vor kostenpflichtigen Fake-Seiten). Bei Ankunft wird der „Palau Pledge“ (Umweltversprechen) in den Pass gestempelt und unterschrieben."],
+    ["Einreise", "Das Palau-Einreiseformular innerhalb von 72 h vor Ankunft online ausfüllen (kostenlos – Vorsicht vor kostenpflichtigen Fake-Seiten). Bei Ankunft wird der „Palau Pledge“ (Umweltversprechen) in den Pass gestempelt und unterschrieben."],
     ["Sonnencreme", "Korallenschädliche Sonnencreme ist verboten – nur „reef-safe“ verwenden, sonst bis 1.000 $ Strafe."],
     ["Rock Islands", "Für Rock Islands und Jellyfish Lake ist eine Genehmigung (Permit) nötig, meist über den Touranbieter."],
     ["Ausgangssperre", "In Teilen von Koror und Airai gilt eine traditionelle nächtliche Ausgangssperre (Bul, ca. 0–5 Uhr)."],
@@ -49,9 +49,9 @@ window.QT = {
     ["Straßen", "Rechtsverkehr, Tempo meist 25 mph (40 km/h). Kein Alkohol am Steuer."]
   ],
   substances: [
-    ["E-Zigaretten", "Vapes sind komplett verboten – Einfuhr, Verkauf und Benutzung (bis 1.000 $ Strafe)."],
+    ["E-Zigaretten", "Vapes sind seit 2023 komplett verboten – Einfuhr, Besitz und Benutzung; mitgebrachte Geräte bei der Einreise straffrei abgeben."],
     ["Alkohol", "Ab 21. Trinken in der Öffentlichkeit ist verboten."],
-    ["Drogen", "Für harte Drogen droht eine Mindeststrafe von 25 Jahren Haft."]
+    ["Drogen", "Drogenhandel wird grundsätzlich mit 25 Jahren Haft und 50.000 $ Geldstrafe bestraft; auch Besitz wird streng geahndet."]
   ],
   sim: [
     ["Lokale SIM", "PNCC (Palau National Communications Corp.) am Flughafen oder in Koror."],

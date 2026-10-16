@@ -1,10 +1,11 @@
 /* Englische Texte nur für Brasilien (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"(auch Notfallnummer außerhalb der Öffnungszeiten, für ganz Brasilien)": "(also the emergency number outside opening hours, for all of Brazil)",
+"Keine Wertsachen, Schmuck oder Handys offen zeigen; nachts Uber statt zu Fuß. Das Auswärtige Amt rät vom Besuch jeglicher Favelas ab, auch mit geführten Touren, sowie von Reisen ins Grenzgebiet zu Venezuela.": "Don't show valuables, jewellery or phones openly; at night take an Uber instead of walking. The German Foreign Office advises against visiting any favelas, even on guided tours, and against travel to the border area with Venezuela.",
+"Starke Strömungen an vielen Stränden – nur an bewachten Abschnitten baden, rote Fahnen beachten. Oben-ohne-Baden kann zur Festnahme führen; Kinder am Strand nicht fotografieren.": "Strong currents at many beaches – only swim in patrolled sections and heed red flags. Topless bathing can lead to arrest; don't photograph children on the beach.",
 "Brasilianischer Real": "Brazilian real",
 "🇧🇷 Portugiesisch (Brasilien)": "🇧🇷 Portuguese (Brazil)",
 "Deutsche Botschaft Brasília": "German Embassy Brasília",
-"Keine Wertsachen, Schmuck oder Handys offen zeigen; nachts Uber statt zu Fuß. Favelas nur mit seriösen Touren besuchen.": "Don't show valuables, jewellery or phones openly; at night take an Uber instead of walking. Only visit favelas on reputable tours.",
-"Starke Strömungen an vielen Stränden – nur an bewachten Abschnitten baden, rote Fahnen beachten.": "Strong currents at many beaches – only swim in patrolled sections and heed red flags.",
 "Mückenschutz gegen Dengue; für Amazonas und viele Regionen wird die Gelbfieberimpfung empfohlen.": "Use mosquito repellent against dengue; the yellow fever vaccination is recommended for the Amazon and many other regions.",
 "Karten werden fast überall akzeptiert, Einheimische zahlen meist per Pix. Am Automaten tagsüber und in Einkaufszentren abheben.": "Cards are accepted almost everywhere; locals mostly pay via Pix. Withdraw cash during the day and at ATMs in shopping centres.",
 "0,0 ‰ – strikte Null-Toleranz („Lei Seca“), häufige Kontrollen.": "0.0 ‰ – strict zero tolerance (\"Lei Seca\"), frequent checks.",

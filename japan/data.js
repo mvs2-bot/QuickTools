@@ -35,11 +35,14 @@ window.QT = {
   embassy: {
     title: 'Deutsche Botschaft Tokyo',
     address: ['4-5-10 Minami-Azabu, Minato-ku', 'Tokyo 106-0047', '(Metro Hiro-o, Hibiya Line, Ausgang 1)'],
-    phone: '+81 3 5791 7700'
+    phone: '+81 3 5791 7700',
+    emergency: '+81 90 1708 4823', emergencyNote: '(außerhalb der Öffnungszeiten)'
   },
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/japan-node',
 
   rules: [
+    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Aufenthalten in den evakuierten Gebieten um das Kernkraftwerk Fukushima Daiichi (Teile von Futaba, Okuma, Namie, Tomioka u. a.). Übriges Japan unbedenklich."],
+    ["Einreise", "Mit deutschem Reisepass bis 90 Tage visumfrei; Pass für den ganzen Aufenthalt gültig. Personalausweis reicht nicht."],
     ["Schuhe", "In Wohnungen, Ryokans, vielen Tempeln und manchen Restaurants Schuhe ausziehen – auf Hausschuhe/Regale achten."],
     ["Trinkgeld", "Kein Trinkgeld geben – das gilt eher als unhöflich."],
     ["Öffentlicher Raum", "In Bahnen leise sein und nicht telefonieren. Im Gehen essen ist unüblich. Müll wieder mitnehmen – es gibt kaum Mülleimer."],

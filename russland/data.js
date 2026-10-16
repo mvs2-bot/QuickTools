@@ -39,23 +39,24 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/russischefoederation-node",
 
   rules: [
-    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Russland – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Russland und rät, die Ausreise zu prüfen, wenn man sich dort aufhält."],
+    ["Einreise", "Nur mit Reisepass (mind. 6 Monate gültig) und Visum, vorab beantragt; E-Visum für bis zu 30 Tage möglich. Ab 7 Tagen Aufenthalt Anmeldepflicht."],
     ["Festnahmen", "Deutsche (besonders mit doppelter Staatsangehörigkeit) riskieren willkürliche Festnahmen. Kritik am Krieg, auch in Social Media, kann strafbar sein."],
-    ["Bezahlen", "Deutsche Kredit- und Bankkarten funktionieren nicht – ausreichend Bargeld in Euro mitbringen und vor Ort tauschen."],
+    ["Bezahlen", "Deutsche Kredit- und Bankkarten und Bezahlapps funktionieren nicht. Euro-Bargeld darf laut EU-Sanktionen nur für den persönlichen Reisebedarf mitgenommen werden (in der Praxis wenige hundert Euro) – sonst drohen Beschlagnahme und Strafverfahren."],
     ["Fotografieren", "Keine Fotos oder Drohnenaufnahmen von Militär, Behörden, Brücken, Bahnhöfen oder Flughäfen."],
     ["Gesetze", "Öffentliches Eintreten für LGBTQ-Rechte wird als „Extremismus“ verfolgt."]
   ],
   car: [
     ["Promille", "Praktisch 0,0 ‰ (Messtoleranz ca. 0,3 ‰)."],
-    ["Licht", "Licht auch tagsüber Pflicht. Viele Radarkontrollen."]
+    ["Licht", "Licht auch tagsüber Pflicht. Viele Radarkontrollen. EU-Kfz-Versicherungen gelten nicht – an der Grenze eine russische Versicherung abschließen."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren. Verkauf in Läden nachts meist verboten (oft 23–8 Uhr)."],
     ["Drogen", "Auch Cannabis und CBD sind verboten, ebenso manche bei uns rezeptfreie Medikamente (z. B. mit Codein) – sehr harte Strafen."]
   ],
   sim: [
-    ["Roaming", "Deutsche Tarife funktionieren meist nicht oder sind extrem teuer. Mobiles Internet wird regional oft abgeschaltet; viele Apps und Messenger-Anrufe sind blockiert."],
-    ["Lokale SIM", "SIM von MTS, MegaFon oder Beeline nur mit Pass; Ausländer müssen sie zusätzlich behördlich registrieren – aufwendig."]
+    ["Roaming", "Ausländische SIM-Karten werden nach der Einreise meist 24 Stunden für mobiles Internet und SMS gesperrt; Roaming ist extrem teuer. Mobiles Internet wird regional oft abgeschaltet, viele Apps sind blockiert. Nicht zugelassene VPNs zu nutzen ist strafbar."],
+    ["Lokale SIM", "SIM von MTS, MegaFon oder Beeline: Ausländer brauchen seit 2025 SNILS-Nummer, Gosuslugi-Konto und biometrische Erfassung – sehr aufwendig."]
   ],
   apps: [
     ["Yandex Go", "Taxi bestellen."],

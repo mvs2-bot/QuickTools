@@ -5,7 +5,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Deutsche Botschaft Taschkent": "German Embassy Tashkent",
 "Sharaf-Rashidov-Straße 15": "15 Sharaf Rashidov Street",
 "100017 Taschkent": "100017 Tashkent",
-"Mit deutschem Pass bis 30 Tage visumfrei. Hotels registrieren automatisch – Belege aufbewahren, bei Kontrollen kann danach gefragt werden.": "Visa-free for up to 30 days with a German passport. Hotels register you automatically – keep the slips, you may be asked for them at checks.",
 "Moscheen & Medresen": "Mosques & madrasas",
 "Schultern und Knie bedecken, Frauen in aktiven Moscheen ein Kopftuch; Schuhe ausziehen.": "Cover shoulders and knees, women wear a headscarf in active mosques; take off your shoes.",
 "Brot": "Bread",
@@ -18,5 +17,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Zugtickets (Afrosiyob Taschkent–Samarkand–Buchara) – früh buchen.": "Train tickets (Afrosiyob Tashkent–Samarkand–Bukhara) – book early.",
 "Taschkent": "Tashkent",
 "Buchara": "Bukhara",
-"Chiwa": "Khiva"
+"Chiwa": "Khiva",
+"(nur Notfälle außerhalb der Öffnungszeiten; keine Visa-Anfragen)": "(emergencies outside opening hours only; no visa enquiries)",
+"Mit deutschem Pass bis 30 Tage visumfrei. Registrierung binnen 72 Stunden – Hotels erledigen das; Belege aufbewahren, sie werden für Bahn, Inlandsflüge und bei der Ausreise verlangt.": "Visa-free for up to 30 days with a German passport. Registration within 72 hours – hotels do this; keep the slips, they are needed for trains, domestic flights and on departure.",
+"Homosexuelle Handlungen zwischen Männern sind strafbar – in der Öffentlichkeit zurückhaltend sein.": "Homosexual acts between men are a criminal offence – be discreet in public."
 });

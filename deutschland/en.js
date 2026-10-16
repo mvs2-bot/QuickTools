@@ -37,9 +37,9 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Köln": "Cologne",
 "0,5 ‰; in der Probezeit und unter 21 Jahren 0,0 ‰.": "0.5 ‰; 0.0 ‰ for probationary drivers and under 21s.",
 "In vielen Städten nur mit grüner Umweltplakette.": "Many cities can only be entered with a green emissions sticker.",
-"Ist der Radweg mit blauem Schild markiert, muss er benutzt werden. Keine Helmpflicht, Handy am Lenker verboten.": "If the cycle path has a blue sign, you must use it. Helmets are not mandatory, using your phone while riding is forbidden.",
 "Auch auf dem Rad gibt es Promillegrenzen – ab 1,6 ‰ (bei Auffälligkeit schon früher) drohen Strafen und MPU.": "Alcohol limits also apply on a bike – from 1.6 ‰ (or earlier if you ride erratically) you face penalties.",
 "Bier und Wein ab 16, Spirituosen ab 18. Trinken in der Öffentlichkeit ist meist erlaubt.": "Beer and wine from 16, spirits from 18. Drinking in public is mostly allowed.",
 "Ab 18 legal: bis 25 g dabei haben. Kein Konsum in Sichtweite von Schulen/Spielplätzen und tagsüber nicht in Fußgängerzonen. Am Steuer gilt ein THC-Grenzwert.": "Legal from 18: carry up to 25 g. No use within sight of schools/playgrounds or in pedestrian zones during the day. A THC limit applies when driving.",
-"In Restaurants und Kneipen meist verboten (je nach Bundesland Raucherräume).": "Mostly banned in restaurants and pubs (smoking rooms depending on the state)."
+"In Restaurants und Kneipen meist verboten (je nach Bundesland Raucherräume).": "Mostly banned in restaurants and pubs (smoking rooms depending on the state).",
+"Ist der Radweg mit blauem Schild markiert, muss er benutzt werden. Keine Helmpflicht. Das Handy während der Fahrt in der Hand zu halten ist verboten (Halterung erlaubt).": "If the cycle path has a blue sign, you must use it. Helmets are not mandatory. Holding your phone while riding is forbidden (a mount is allowed)."
 });

@@ -41,7 +41,7 @@ window.QT = {
     ["Trinkgeld", "Wer beim Bezahlen „dziękuję“ sagt, signalisiert oft „Rest ist für Sie“ – Vorsicht beim Wechselgeld."]
   ],
   car: [
-    ["Promille & Licht", "Sehr strenge Promillegrenze (0,2 ‰). Licht auch tagsüber Pflicht."]
+    ["Promille & Licht", "Sehr strenge Promillegrenze (0,2 ‰, auch für Radfahrer; Fahranfänger in der Probezeit 0,0 ‰). Licht auch tagsüber Pflicht."]
   ],
   substances: [
     ["Alkohol", "Ab 18. Trinken in der Öffentlichkeit (Straße, Parks) ist verboten und wird mit Bußgeld bestraft."],

@@ -31,12 +31,13 @@ window.QT = {
     ["128", "Rettungsdienst (Rotes Kreuz)"],
     ["115", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Managua", "address": ["Bolonia, de la Rotonda El Güegüense 1½ c. al lago", "Managua"], "phone": "+505 2266 3917"},
+  embassy: {"title": "Deutsche Botschaft Managua", "address": ["Carretera a Masaya km 5, del Colegio Teresiano 1 c. al sur, 1 c. abajo", "Calle Erasmus de Rotterdam, Managua"], "phone": "+505 2255 6920", "emergency": "+505 8882 3971", "emergencyNote": "(nur dringende Notfälle außerhalb der Dienstzeiten, auch WhatsApp/SMS)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/nicaragua-node",
 
   rules: [
     ["Politik", "Keine politischen Äußerungen (auch nicht in sozialen Medien), nicht an Demonstrationen teilnehmen. Die Einreise kann ohne Begründung verweigert werden."],
-    ["Drohnen & Fotos", "Drohnen und Profi-Kameras können bei der Einreise beschlagnahmt werden; Polizei, Militär und Behörden nicht fotografieren."],
+    ["Drohnen & Fotos", "Drohnen sind verboten und werden beschlagnahmt, auch Ferngläser können konfisziert werden. Polizei, Militär und Gefängnisse nicht fotografieren."],
+    ["Einreise", "Bei Einreise über Land oder See das Einreiseformular 7 Tage vorher online übermitteln. Touristenkarte (10–13 US$) nur bar."],
     ["Vulkane", "Touren (z. B. Cerro Negro, Masaya, Telica) nur mit Guide; viel Wasser und Sonnenschutz mitnehmen."],
     ["Bargeld", "Kleine Córdoba- oder Dollar-Scheine bereithalten; außerhalb der Städte kaum Kartenzahlung."]
   ],

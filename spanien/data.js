@@ -35,7 +35,8 @@ window.QT = {
   embassy: {
     title: 'Deutsche Botschaft Madrid',
     address: ['Calle de Fortuny 8', '28010 Madrid'],
-    phone: '+34 91 557 90 00'
+    phone: '+34 91 557 90 00',
+    emergency: '+34 661 611 104', emergencyNote: '(außerhalb der Öffnungszeiten)'
   },
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/spanien-node',
 

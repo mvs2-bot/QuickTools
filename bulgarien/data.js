@@ -32,7 +32,7 @@ window.QT = {
     ["150", "Rettungsdienst"],
     ["160", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Sofia", "address": ["ul. Frederic Joliot-Curie 25", "1113 Sofia"], "phone": "+359 2 918 380"},
+  embassy: {"title": "Deutsche Botschaft Sofia", "address": ["ul. Frederic Joliot-Curie 25", "1113 Sofia"], "phone": "+359 2 91 83 80", "emergency": "+359 887 217 511"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/bulgarien-node",
 
   rules: [
@@ -42,8 +42,8 @@ window.QT = {
     ["Schrift", "Viele Schilder sind nur kyrillisch – Ortsnamen notfalls mit dem Übersetzer abgleichen."]
   ],
   car: [
-    ["Promille", "0,5 ‰."],
-    ["Vignette", "Für Autobahnen und die meisten Fernstraßen ist eine elektronische Vignette (bgtoll.bg) Pflicht."]
+    ["Promille & Licht", "0,5 ‰. Licht ganzjährig auch tagsüber Pflicht; Winterreifen vom 15. November bis 1. März."],
+    ["Vignette", "Für Autobahnen und Nationalstraßen ist eine elektronische Vignette (bgtoll.bg) Pflicht. Bußgelder nie bar an Polizisten zahlen, nur per Bankeinzahlung."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren."],

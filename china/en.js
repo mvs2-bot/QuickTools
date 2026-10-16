@@ -1,5 +1,8 @@
 /* Englische Texte nur für China (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Faktisch 0,0 ‰ – schon ab 0,2 ‰ wird bestraft, ab 0,8 ‰ ist es eine Straftat mit Haft. Nach Unfällen wird der Pass oft einbehalten (Ausreise unmöglich).": "Effectively 0.0 ‰ – penalties apply from 0.2 ‰, from 0.8 ‰ it is a criminal offence with jail time. After accidents your passport is often withheld (you cannot leave the country).",
+"Google (inkl. Maps, Gmail), WhatsApp, Instagram u. a. sind gesperrt. Eine ausländische eSIM mit Roaming umgeht das meist – vor der Reise einrichten! VPN-Nutzung ist offiziell verboten.": "Google (incl. Maps, Gmail), WhatsApp, Instagram etc. are blocked. A foreign eSIM with roaming usually gets around this – set it up before you travel! Using a VPN is officially prohibited.",
+"Mit deutschem Reisepass bis 30 Tage visumfrei (Regelung gilt bis 31.12.2026); Pass muss für den ganzen Aufenthalt gültig sein. Personalausweis wird nicht anerkannt.": "Visa-free for up to 30 days with a German passport (rule applies until 31 Dec 2026); the passport must be valid for the whole stay. ID cards are not accepted.",
 "Die Volksrepublik betrachtet Taiwan als Teil Chinas und erkennt die Regierung in Taipeh nicht an. Taiwan hat eigene Einreiseregeln und eine eigene Währung.": "The People's Republic regards Taiwan as part of China and does not recognise the government in Taipei. Taiwan has its own entry rules and its own currency.",
 "Hongkong & Macau": "Hong Kong & Macau",
 "Sonderverwaltungszonen mit eigener Einreise, eigener Währung und eigenem Notruf (999) – bei der Weiterreise nach Festlandchina gilt wieder die chinesische Einreise.": "Special administrative regions with their own entry rules, currency and emergency number (999) – travelling on to mainland China means going through Chinese immigration again.",
@@ -8,7 +11,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Verkehrsunfall": "Traffic accident",
 "Deutsche Botschaft Peking": "German Embassy Beijing",
 "(nur für deutsche Staatsangehörige, keine Visafragen)": "(German nationals only, no visa questions)",
-"Google (inkl. Maps, Gmail), WhatsApp, Instagram u. a. sind gesperrt. Eine ausländische eSIM mit Roaming umgeht das meist – vor der Reise einrichten!": "Google (incl. Maps, Gmail), WhatsApp, Instagram etc. are blocked. A foreign eSIM with roaming usually gets around this – set it up before you travel!",
 "Fast alles läuft über Alipay oder WeChat Pay. Beide Apps vorab installieren und mit Kreditkarte verknüpfen. Etwas Bargeld als Reserve.": "Almost everything is paid with Alipay or WeChat Pay. Install both apps in advance and link a credit card. Keep some cash in reserve.",
 "Pass immer dabeihaben – er wird für Hotels, Züge und viele Sehenswürdigkeiten (Online-Reservierung!) gebraucht.": "Always carry your passport – it's needed for hotels, trains and many sights (online reservations!).",
 "Politische Themen in der Öffentlichkeit meiden; keine Fotos von Militär, Polizei oder Demonstrationen.": "Avoid political topics in public; no photos of the military, police or demonstrations.",
@@ -24,7 +26,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "teils – Eurostecker passt oft": "partly – Europlug often fits",
 "Peking": "Beijing",
 "Der internationale Führerschein wird nicht anerkannt – Autofahren nur mit chinesischer (Kurzzeit-)Fahrerlaubnis. Einfacher: DiDi oder Fahrer buchen.": "International driving permits are not recognised – you can only drive with a Chinese (temporary) permit. Easier: use DiDi or book a driver.",
-"0,2 ‰ – ab 0,8 ‰ ist es eine Straftat mit Haft.": "0.2 ‰ – from 0.8 ‰ it is a criminal offence with jail time.",
 "E-Bikes": "E-bikes",
 "Auf Radwegen sind viele lautlose E-Roller unterwegs – auch beim Überqueren gut schauen. Leihräder laufen meist über Alipay/WeChat.": "Lots of silent e-scooters use the bike lanes – look carefully when crossing too. Rental bikes usually work via Alipay/WeChat.",
 "Extrem harte Strafen bis zur Todesstrafe. Auch positive Drogentests (Konsum vor der Einreise) können bestraft werden.": "Extremely harsh penalties up to the death penalty. Even positive drug tests (use before entry) can be punished.",

@@ -22,5 +22,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Auch auf dem Rad gilt 0,0 ‰.": "0.0 ‰ also applies on a bike.",
 "Ab 18. In Budapest ist Trinken auf vielen öffentlichen Plätzen verboten.": "From 18. In Budapest drinking is banned in many public places.",
 "Null Toleranz – auch der Konsum (auch Cannabis) ist strafbar.": "Zero tolerance – even use (including cannabis) is a criminal offence.",
-"In Restaurants und Bars verboten.": "Banned in restaurants and bars."
+"In Restaurants und Bars verboten.": "Banned in restaurants and bars.",
+"Bars & Clubs": "Bars & clubs",
+"Vorsicht vor Lokalen, in die man (auch per Taxi) gelotst wird – dort drohen stark überhöhte Rechnungen und Druck beim Bezahlen.": "Beware of venues you are steered to (including by taxi drivers) – grossly inflated bills and pressure to pay are common there."
 });

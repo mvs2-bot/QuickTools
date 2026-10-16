@@ -34,10 +34,11 @@ window.QT = {
   emergency: [
     ["999", "Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Port of Spain (Trinidad und Tobago)", "address": ["19th Floor, Nicholas Tower", "63-65 Independence Square, Port of Spain"], "phone": "+1 868 628 1630"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Port of Spain (Trinidad und Tobago)", "address": ["19 St. Clair Avenue", "St. Clair, Port of Spain 190125"], "phone": "+1 868 628 1630", "emergency": "+1 868 460 9687", "emergencyNote": "(Bereitschaft Port of Spain, auch SMS/WhatsApp; vor Ort gibt es zusätzlich ein deutsches Honorarkonsulat)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/dominica-node",
 
   rules: [
+    ["Einreise", "Vor der Einreise das Online-Einreise- und Zollformular auf edcard.dominica.gov.dm ausfüllen (frühestens 3 Tage vorher)."],
     ["Wandern", "Für Touren wie zum Boiling Lake einen lizenzierten Guide nehmen; Wege sind nach Regen rutschig, Flüsse können schnell anschwellen."],
     ["Naturpark-Gebühr", "Für die Nationalparks und Wasserfälle ist ein „Site Pass“ nötig – Wochenpass lohnt sich."],
     ["Bargeld", "US-Dollar werden fast überall angenommen, Wechselgeld kommt aber meist in Ostkaribischen Dollar (1 US$ = 2,70 EC$)."],

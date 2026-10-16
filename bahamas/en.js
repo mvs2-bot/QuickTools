@@ -12,5 +12,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Fähren zwischen Nassau und den Out Islands.": "Ferries between Nassau and the Out Islands.",
 "Viele Mietwagen haben trotzdem das Lenkrad links (US-Importe) – beim Überholen besonders vorsichtig.": "Many rental cars still have left-hand drive (US imports) – take extra care when overtaking.",
 "In Nassau meist trinkbar, schmeckt aber oft salzig – viele nehmen Flaschenwasser": "Usually drinkable in Nassau but often tastes salty – many prefer bottled water",
-"15 % – steht oft schon auf der Rechnung": "15 % – often already on the bill"
+"15 % – steht oft schon auf der Rechnung": "15 % – often already on the bill",
+"(Bereitschaft Kingston bis 22 Uhr, auch SMS; Honorarkonsul Nassau: +1 242 376 3004, Notfall +1 242 457 1965)": "(Kingston on-call service until 10 pm, also SMS; honorary consul Nassau: +1 242 376 3004, emergencies +1 242 457 1965)"
 });

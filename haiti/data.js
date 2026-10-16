@@ -35,13 +35,14 @@ window.QT = {
   emergency: [
     ["114", "Polizei"],
     ["115", "Feuerwehr"],
-    ["116", "Rettungsdienst (Rotes Kreuz)"]
+    ["116", "Rettungsdienst (Rotes Kreuz)"],
+    ["122", "Polizei (alternativ)"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Santo Domingo (Dominikanische Republik)", "address": ["Die Botschaft in Port-au-Prince arbeitet wegen der Sicherheitslage nur eingeschränkt – aktuelle Hinweise beim Auswärtigen Amt.", "Torre Piantini, Piso 16", "Av. Gustavo Mejía Ricart 196, Santo Domingo"], "phone": "+1 809 542 8950"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Santo Domingo (Dominikanische Republik)", "address": ["Die Botschaft in Port-au-Prince ist für Besucher geschlossen und leistet keine konsularische Hilfe vor Ort.", "Edificio Equinox, Piso 5 y 6", "Av. Núñez de Cáceres No. 11, Bella Vista, Santo Domingo"], "phone": "+1 809 542 8949", "emergency": "+1 809 543 5650", "emergencyNote": "(Bereitschaft Santo Domingo, auch SMS; Notfallnummer der Botschaft Port-au-Prince: +509 3752 0163, auch WhatsApp)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/haiti-node",
 
   rules: [
-    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Haiti – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Haiti und fordert Deutsche zur Ausreise auf. Der Flughafen Port-au-Prince ist geschlossen, Flüge gibt es nur eingeschränkt ab Cap-Haïtien; von Reisen auf dem Landweg wird dringend abgeraten."],
     ["Sicherheit", "Bewaffnete Banden kontrollieren große Teile von Port-au-Prince und wichtige Straßen; Entführungen sind häufig. Flughafen und Grenzübergänge können kurzfristig schließen."],
     ["Gesundheit", "Cholera tritt immer wieder auf – nur abgefülltes Wasser trinken, auf Hygiene achten."],
     ["Hurrikansaison", "Juni bis November – Wetterwarnungen verfolgen und Reiserücktritts-/Reiseversicherung prüfen."]

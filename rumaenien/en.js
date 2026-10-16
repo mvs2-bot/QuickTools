@@ -11,7 +11,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Fahrdienste in Bukarest und den großen Städten – günstiger und sicherer als Straßentaxis.": "Ride-hailing in Bucharest and the big cities – cheaper and safer than street taxis.",
 "Bahntickets und Fahrpläne.": "Train tickets and timetables.",
 "Für alle Nationalstraßen außerhalb der Orte ist eine elektronische Vignette („Rovinieta“) Pflicht – online vor der Fahrt kaufen.": "An electronic vignette (\"rovinieta\") is mandatory on all national roads outside towns – buy it online before you drive.",
-"0,0 ‰. Licht außerhalb von Ortschaften auch tagsüber Pflicht.": "0.0 ‰. Headlights are mandatory outside built-up areas, even during the day.",
 "In Städten meist trinkbar, auf dem Land lieber Flaschenwasser": "Mostly drinkable in cities, better bottled water in the countryside",
-"Bukarest": "Bucharest"
+"Bukarest": "Bucharest",
+"0,0 ‰. Auf Autobahnen, Schnell- und Europastraßen Licht auch tagsüber Pflicht. Feuerlöscher und zwei Warndreiecke mitführen.": "0.0 ‰. Headlights are mandatory during the day on motorways, expressways and European routes. Carry a fire extinguisher and two warning triangles."
 });

@@ -16,5 +16,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Taxi und Lieferdienste – Preis steht vorher fest.": "Taxis and delivery – price fixed in advance.",
 "Sehr genaue Offline-Stadtpläne mit Bussen, Geschäften und Eingängen.": "Very detailed offline city maps with buses, shops and entrances.",
 "Tscharyn-Canyon": "Charyn Canyon",
-"Kolsai-Seen": "Kolsai Lakes"
+"Kolsai-Seen": "Kolsai Lakes",
+"(außerhalb der Öffnungszeiten; keine Visa-Anfragen)": "(outside opening hours; no visa enquiries)"
 });

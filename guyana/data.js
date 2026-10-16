@@ -31,17 +31,19 @@ window.QT = {
     ["912", "Feuerwehr"],
     ["913", "Rettungsdienst"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Port of Spain (Trinidad und Tobago)", "address": ["19th Floor, Nicholas Tower", "63-65 Independence Square, Port of Spain"], "phone": "+1 868 628 1630"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Port of Spain (Trinidad und Tobago)", "address": ["19 St. Clair Avenue", "St. Clair, Port of Spain 190125"], "phone": "+1 868 628 1630", "emergency": "+1 868 460 9687", "emergencyNote": "(Bereitschaft Port of Spain, auch SMS/WhatsApp; Honorarkonsul Georgetown: +592 233 2462)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/guyana-node",
 
   rules: [
     ["Sicherheit", "In Georgetown nachts nicht zu Fuß gehen, keine Wertsachen zeigen; Taxis telefonisch oder über die Unterkunft bestellen."],
     ["Landesinneres", "Regenwald und Savanne sind kaum per Straße erreichbar – Inlandsflüge oder organisierte Touren nutzen."],
-    ["Gesundheit", "Im Landesinneren Malaria-Risiko; Gelbfieberimpfung wird empfohlen und kann bei Einreise verlangt werden."],
+    ["Gesundheit", "Malaria-Risiko je nach Region; Gelbfieberimpfung wird empfohlen (Pflicht nur bei Einreise aus Gelbfiebergebieten)."],
+    ["Einreise", "Vor Ein- und Ausreise das Online-Formular ausfüllen (ed.gpf.gov.gy). Pass muss 6 Monate über die Reise hinaus gültig sein."],
+    ["Homosexualität", "Homosexuelle Handlungen sind strafbar, Strafverfolgungen sind aber nicht bekannt."],
     ["Sprache", "Amtssprache ist Englisch; untereinander sprechen viele Guyanisch-Kreol."]
   ],
   car: [
-    ["Linksverkehr", "Es wird links gefahren. Außerhalb der Küste kaum befestigte Straßen; nachts nicht fahren."]
+    ["Linksverkehr", "Es wird links gefahren. Außerhalb der Küste kaum befestigte Straßen; nachts nicht fahren. Der deutsche Führerschein gilt höchstens 60 Tage."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren."],

@@ -33,7 +33,7 @@ window.QT = {
     ["150", "Feuerwehr"],
     ["18 300", "Bergwacht"]
   ],
-  embassy: {"title": "Deutsche Botschaft Bratislava", "address": ["Hlavné námestie 7", "813 15 Bratislava"], "phone": "+421 2 5920 4400"},
+  embassy: {"title": "Deutsche Botschaft Bratislava", "address": ["Hviezdoslavovo námestie 10", "813 03 Bratislava"], "phone": "+421 2 5920 4400", "emergency": "+421 903 444 633", "emergencyNote": "(Mo–Fr 17–24 Uhr, Wochenende 8–24 Uhr; auch SMS)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/slowakei-node",
 
   rules: [

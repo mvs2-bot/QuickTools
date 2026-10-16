@@ -34,17 +34,18 @@ window.QT = {
   emergency: [
     ["115", "Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Port of Spain (Trinidad und Tobago)", "address": ["19th Floor, Nicholas Tower", "63-65 Independence Square, Port of Spain"], "phone": "+1 868 628 1630"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Port of Spain (Trinidad und Tobago)", "address": ["19 St. Clair Avenue", "St. Clair, Port of Spain 190125"], "phone": "+1 868 628 1630", "emergency": "+1 868 460 9687", "emergencyNote": "(Bereitschaft Port of Spain, auch SMS/WhatsApp; Honorarkonsul Paramaribo: +597 471150)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/suriname-node",
 
   rules: [
     ["Sprache", "Amtssprache ist Niederländisch; Sranan Tongo spricht fast jeder, Englisch wird oft verstanden."],
+    ["Einreise", "Touristenkarte vorab online beantragen und ausgedruckt mitführen; zusätzlich das Online-Einreiseformular ausfüllen (frühestens 7 Tage vor Abflug)."],
     ["Bargeld", "Euro und US-Dollar in bar mitnehmen und in Wechselstuben („cambio“) tauschen; Kartenzahlung nur eingeschränkt."],
     ["Gesundheit", "Im Landesinneren Malaria-Risiko; Gelbfieberimpfung wird empfohlen. Mückenschutz gegen Dengue."],
     ["Sicherheit", "In Paramaribo nachts nicht allein zu Fuß unterwegs sein; Touren ins Inland nur mit seriösen Anbietern."]
   ],
   car: [
-    ["Linksverkehr", "Es wird links gefahren. Abseits der Küste viele Schotterpisten; nachts nicht fahren."]
+    ["Linksverkehr", "Es wird links gefahren. Abseits der Küste viele Schotterpisten; nachts nicht fahren. Internationaler Führerschein nötig (gilt nur zusammen mit dem deutschen)."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren."],

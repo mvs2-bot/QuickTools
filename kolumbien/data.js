@@ -41,8 +41,9 @@ window.QT = {
 
   rules: [
     ["„No dar papaya“", "Keine Gelegenheit für Diebe bieten: Handy nicht offen zeigen, Wertsachen im Hotel lassen, nur App-Taxis nutzen."],
-    ["K.-o.-Tropfen", "Getränke nie unbeaufsichtigt lassen und nichts von Fremden annehmen (Scopolamin-Fälle)."],
-    ["Reisehinweise", "Einige Regionen gelten als gefährlich – aktuelle Hinweise des Auswärtigen Amts vor jeder Etappe prüfen."],
+    ["K.-o.-Tropfen", "Getränke nie unbeaufsichtigt lassen und nichts von Fremden annehmen (Scopolamin-Fälle, oft über Dating-Apps) – flüchtige Bekanntschaften nicht mit in die Unterkunft nehmen."],
+    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Grenzgebiete zu Venezuela (Norte de Santander, Cesar) und rät von vielen weiteren Regionen dringend ab, u. a. Cauca, Valle del Cauca (außer Cali per Flug), Nariño (außer Pasto), Arauca, Putumayo, Caquetá, Huila und großen Teilen des Chocó – aktuelle Hinweise vor jeder Etappe prüfen."],
+    ["Check-MIG", "Online-Registrierung bei Migración Colombia innerhalb von 72 Stunden vor Einreise und erneut vor Ausreise – die Airline verlangt die Bestätigung."],
     ["Höhe", "Bogotá liegt auf ca. 2.600 m – die ersten Tage langsam angehen."],
     ["Trinkgeld", "In Restaurants werden 10 % „servicio“ oft vorgeschlagen – freiwillig, man wird gefragt."]
   ],

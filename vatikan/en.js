@@ -1,5 +1,6 @@
 /* Englische Texte nur für Vatikanstadt (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Zuständig: Deutsche Botschaft Rom (Italien)": "Responsible: German Embassy Rome (Italy)",
 "🇻🇦 Italienisch": "🇻🇦 Italian",
 "Kein UN-Mitglied": "Not a UN member",
 "Die Vatikanstadt ist kein Mitglied der Vereinten Nationen; der Heilige Stuhl hat dort Beobachterstatus. Völkerrechtlich handelt der Heilige Stuhl, nicht der Staat Vatikanstadt.": "Vatican City is not a member of the United Nations; the Holy See has observer status there. Under international law it is the Holy See, not the state of Vatican City, that acts.",

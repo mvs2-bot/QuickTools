@@ -31,12 +31,13 @@ window.QT = {
     ["104", "Polizei"],
     ["103", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Panama-Stadt", "address": ["Edificio World Trade Center, Piso 20", "Calle 53 Este, Marbella", "Ciudad de Panamá"], "phone": "+507 263 7733"},
+  embassy: {"title": "Deutsche Botschaft Panama-Stadt", "address": ["Edificio World Trade Center, Piso 20", "Calle 53 Este, Marbella", "Ciudad de Panamá"], "phone": "+507 307 6300", "emergency": "+507 6517 3200", "emergencyNote": "(außerhalb der Dienstzeit bis 24 Uhr, auch SMS/WhatsApp)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/panama-node",
 
   rules: [
     ["US-Dollar", "Bezahlt wird mit US-Dollar; Münzen gibt es auch als panamaischen Balboa (gleicher Wert). Große Scheine (50/100 $) werden oft nicht angenommen."],
-    ["Darién", "Vom Grenzgebiet zu Kolumbien (Darién) rät das Auswärtige Amt dringend ab."],
+    ["Darién", "Von Reisen in den Osten und Süden der Provinz Darién (südlich von Yaviza, Grenzgebiet zu Kolumbien) rät das Auswärtige Amt dringend ab."],
+    ["Einreise", "Rück- oder Weiterreiseticket und Nachweis über 1.000 US$ (bar oder Kreditkarte) nötig; Pass noch 3 Monate gültig. Ausweis immer mitführen."],
     ["Guna Yala", "Die San-Blas-Inseln werden von den Guna selbst verwaltet – Eintritt zahlen, Menschen nur nach Erlaubnis fotografieren."],
     ["Meer", "An der Pazifikküste starke Strömungen – nur an bewachten Stränden baden."]
   ],
@@ -45,7 +46,7 @@ window.QT = {
     ["Straßen", "Dichter, chaotischer Verkehr in der Hauptstadt; nachts nicht über Land fahren."]
   ],
   substances: [
-    ["Alkohol", "Ab 18 Jahren."],
+    ["Alkohol", "Ab 18 Jahren. Trinken in der Öffentlichkeit ist verboten."],
     ["Drogen", "Auch Cannabis ist verboten; Drogendelikte werden streng bestraft."]
   ],
   sim: [

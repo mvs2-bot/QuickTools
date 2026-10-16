@@ -50,10 +50,12 @@ window.QT = {
     ["Buddha-Darstellungen", "Nicht mit dem Rücken zur Statue posieren. Buddha-Tattoos offen zu zeigen kann zur Einreiseverweigerung oder Ausweisung führen."],
     ["Mönche", "Respektvoll begegnen; Frauen sollten Mönche nicht berühren. In Bussen sind vordere Plätze oft für Mönche reserviert."],
     ["Linke Hand", "Essen, Geld und Geschenke mit der rechten Hand geben und annehmen."],
-    ["Gesetze", "Oben-ohne und Nacktbaden sind verboten."]
+    ["Gesetze", "Oben-ohne und Nacktbaden sind verboten."],
+    ["Einreise", "Gebührenfreies Visum (ETA, 30 Tage) vorab über das offizielle ETA-Portal beantragen – Drittanbieter mit Aufschlag meiden. Pass mind. 6 Monate gültig."],
+    ["Fotoverbote", "Die Wolkenmädchen-Fresken in Sigiriya und militärische Anlagen nicht fotografieren."]
   ],
   car: [
-    ["Führerschein", "Internationaler Führerschein plus örtliche Anerkennung (Recognition Permit, z. B. über AA Ceylon) nötig – auch für Tuk-Tuks."],
+    ["Führerschein", "Seit 2025 gibt es am Flughafen gegen Gebühr eine befristete Fahrerlaubnis (deutschen Führerschein und Pass vorlegen). Tuk-Tuks nur, wenn die Klasse im Führerschein eingetragen ist. Nach Unfällen drohen monatelange Ausreisesperren."],
     ["Linksverkehr", "Chaotischer Verkehr, Busse fahren rücksichtslos. Viele nehmen lieber einen Fahrer."]
   ],
   substances: [
@@ -61,7 +63,7 @@ window.QT = {
     ["Drogen", "Drogen werden sehr streng bestraft."]
   ],
   sim: [
-    ['Einfachste Lösung', 'Am Flughafen Colombo eine Touristen-SIM von Dialog (beste Abdeckung) oder Mobitel holen – Reisepass nötig.'],
+    ['Einfachste Lösung', 'Am Flughafen Colombo eine Touristen-SIM von Dialog (beste Abdeckung) oder SLT-Mobitel holen – Reisepass nötig.'],
     ['eSIM', 'Alternativ vorab eSIM (z. B. Airalo) buchen.']
   ],
   apps: [

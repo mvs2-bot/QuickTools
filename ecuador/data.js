@@ -22,7 +22,7 @@ window.QT = {
       {"de": "Ich habe Höhenkrankheit", "local": "Tengo soroche / mal de altura", "phonetic": "TEN-go so-RO-tsche / mal de al-TU-ra"},
       {"de": "Ich bin Vegetarier/in", "local": "Soy vegetariano / vegetariana", "phonetic": "soi we-che-ta-RJA-no / -na"},
       {"de": "Ich esse kein Fleisch und Fisch, aber Eier schon", "local": "No como carne ni pescado, pero sí huevos", "phonetic": "no KO-mo KAR-ne ni pes-KA-do, PE-ro si WE-wos"},
-      {"de": "Das Essen war sehr lecker", "local": "La comida estaba muy rica", "phonetic": ""},
+      {"de": "Das Essen war sehr lecker", "local": "La comida estaba muy rica", "phonetic": "la ko-MI-da es-TA-ba mui RI-ka"},
       {"de": "Hilfe! Es ist ein Notfall!", "local": "¡Ayuda! ¡Es una emergencia!", "phonetic": "a-JU-da! es U-na e-mer-CHEN-sja"}
     ]},
     { title: "🏔️ Kichwa (Grüße)", lang: "es-EC", items: [
@@ -34,13 +34,13 @@ window.QT = {
   emergency: [
     ["911", "ECU 911 – Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Quito", "address": ["Av. Naciones Unidas E10-44 y República de El Salvador", "Edificio Citiplaza, 14. Stock, Quito"], "phone": "+593 2 297 0820", "emergency": "+593 99 949 7967", "emergencyNote": "(nur Notfälle deutscher Staatsangehöriger)"},
+  embassy: {"title": "Deutsche Botschaft Quito", "address": ["Av. Naciones Unidas E10-44 y República de El Salvador", "Edificio Citiplaza, 14. Stock, Quito"], "phone": "+593 2 297 0820", "emergency": "+593 99 949 7967", "emergencyNote": "(außerhalb der Öffnungszeiten, nur Notfälle deutscher Staatsangehöriger)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/ecuador-node",
 
   rules: [
     ["Höhe", "Quito liegt auf ca. 2.850 m – die ersten Tage langsam angehen, viel trinken."],
     ["Galápagos", "Für die Inseln fallen Nationalparkgebühr und Transitkarte an; strenge Kontrollen von Lebensmitteln und Pflanzen."],
-    ["Sicherheit", "Reisehinweise des Auswärtigen Amts prüfen, besonders für Guayaquil und die Küste. Nur App- oder registrierte Taxis."],
+    ["Sicherheit", "Das Auswärtige Amt rät von nicht notwendigen Reisen ins Grenzgebiet zu Kolumbien (außer Grenzübergang Tulcán), nach Esmeraldas-Stadt, Durán und Guayaquil südlich der Av. Portete de Tarquí ab. In vielen Provinzen gilt der Ausnahmezustand. Nur App- oder registrierte Taxis."],
     ["Bargeld", "Kleine Dollarscheine bereithalten – große Scheine (50/100 $) werden oft nicht angenommen."]
   ],
   car: [
@@ -49,7 +49,7 @@ window.QT = {
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren. Rund um Wahlen gilt oft ein Alkoholverbot („Ley seca“)."],
-    ["Drogen", "Drogendelikte werden streng bestraft."]
+    ["Drogen", "Schon bei kleinen Mengen drohen lange Haftstrafen (ca. 8–16 Jahre). Nie Gepäck oder Päckchen für andere transportieren."]
   ],
   sim: [
     ["Lokale SIM", "Claro (beste Abdeckung) oder Movistar – Pass nötig."],

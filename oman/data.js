@@ -29,11 +29,12 @@ window.QT = {
   emergency: [
     ["9999", "Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Maskat", "address": ["Al Shati Street, Shatti Al Qurum", "Maskat"], "phone": "+968 2483 2482"},
+  embassy: {"title": "Deutsche Botschaft Maskat", "address": ["Diplomatic Area, Al-Khuwair, Jamiat Al-Duwal Al-Arabiah Street", "Maskat"], "phone": "+968 2469 1218", "emergency": "+968 9121 8549", "emergencyNote": "(nach Dienstschluss bis 24 Uhr, nur Notfälle)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/oman-node",
 
   rules: [
-    ["Visum", "Deutsche dürfen bis zu 14 Tage visumfrei einreisen; für längere Aufenthalte vorab e-Visum."],
+    ["Reisehinweis", "Das Auswärtige Amt rät von Reisen in die Exklave Musandam (Straße von Hormus) ab; die unmittelbare Grenzregion zum Jemen meiden – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Visum", "Deutsche brauchen ein Visum: bei Einreise für bis zu 14 Tage kostenlos (mit Hotelbuchung und Rück- oder Weiterflug), sonst vorab e-Visum. Reisepass mind. 6 Monate gültig."],
     ["Kleidung", "In Städten, Souks und Dörfern Schultern und Knie bedecken; Badekleidung nur am Pool und Strand."],
     ["Moscheen", "Die Große Sultan-Qabus-Moschee ist vormittags (außer Freitag) für Besucher offen – lange Kleidung, Frauen mit Kopftuch."],
     ["Wadis", "Bei Regen drohen in Wadis gefährliche Sturzfluten – nie bei Unwetterwarnung hineinfahren oder dort campen."],

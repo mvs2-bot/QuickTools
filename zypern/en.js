@@ -17,5 +17,9 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Fahrdienst und Taxis in den Städten.": "Ride-hailing and taxis in the cities.",
 "Achtung, in Zypern wird links gefahren. Mietwagen haben rote Kennzeichen.": "Careful: Cyprus drives on the left. Hire cars have red number plates.",
 "Trinkbar (oft entsalzt), viele nehmen Flaschenwasser": "Drinkable (often desalinated), many people drink bottled water",
-"Nikosia": "Nicosia"
+"Nikosia": "Nicosia",
+"(außerhalb der Öffnungszeiten, auch SMS)": "(outside opening hours, SMS also possible)",
+"Einreise über den Norden": "Entering via the north",
+"Die Republik Zypern wertet die Einreise über Flug- oder Seehäfen im Norden (z. B. Ercan) als illegale Einreise – strafbar.": "The Republic of Cyprus treats entry via airports or seaports in the north (e.g. Ercan) as illegal entry – a criminal offence.",
+"Nacktbaden und Baden „oben ohne“ sind an den meisten Stränden strafbar.": "Nude and topless bathing are punishable on most beaches."
 });

@@ -35,7 +35,7 @@ window.QT = {
   emergency: [
     ["112 / 999", "Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Dublin", "address": ["31 Trimleston Avenue", "Booterstown, Blackrock, Co. Dublin"], "phone": "+353 1 269 30 11"},
+  embassy: {"title": "Deutsche Botschaft Dublin", "address": ["31 Trimleston Avenue", "Booterstown, Blackrock, Co. Dublin A94 TX94"], "phone": "+353 1 2776 100", "emergency": "+353 87 22 11 382", "emergencyNote": "(außerhalb der Öffnungszeiten, nur Notfälle – keine Pass- oder Visaanfragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/irland-node",
 
   rules: [

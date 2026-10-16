@@ -27,5 +27,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Seit Juni 2025 nur noch mit ärztlichem Rezept erhältlich; Rauchen in der Öffentlichkeit ist verboten.": "Since June 2025 only available with a doctor’s prescription; smoking in public is forbidden.",
 "Ab 20. Verkauf nur 11–14 und 17–24 Uhr, an buddhistischen Feiertagen und bei Wahlen gar nicht.": "From 20. Sold only 11 am–2 pm and 5 pm–midnight, not at all on Buddhist holidays and during elections.",
 "Rauchen & Drogen": "Smoking & drugs",
-"Rauchen ist an vielen Stränden untersagt. Andere Drogen werden sehr streng bestraft.": "Smoking is prohibited on many beaches. Other drugs are punished very severely."
+"Rauchen ist an vielen Stränden untersagt. Andere Drogen werden sehr streng bestraft.": "Smoking is prohibited on many beaches. Other drugs are punished very severely.",
+"Das Auswärtige Amt warnt vor Reisen ins Grenzgebiet zu Kambodscha (20 km ab Grenze, alle Grenzübergänge geschlossen) und rät dringend von Reisen in die Südprovinzen Narathiwat, Yala, Pattani und Teile von Songkhla ab.": "The German Foreign Office warns against travel to the border area with Cambodia (20 km from the border, all border crossings closed) and strongly advises against travel to the southern provinces of Narathiwat, Yala, Pattani and parts of Songkhla.",
+"Visumfrei höchstens 30 Tage (einmal um 30 Tage verlängerbar). Frühestens 3 Tage vor Ankunft die kostenlose Thailand Digital Arrival Card (TDAC) online ausfüllen.": "Visa-free for up to 30 days (extendable once by 30 days). Fill in the free Thailand Digital Arrival Card (TDAC) online no earlier than 3 days before arrival."
 });

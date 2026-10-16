@@ -20,5 +20,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Viele Bodenschwellen („topes“). Nachts nicht über Land fahren, gebührenpflichtige Autobahnen („cuota“) sind sicherer.": "Many speed bumps (\"topes\"). Don’t drive cross-country at night; toll motorways (\"cuota\") are safer.",
 "Vapes sind seit 2025 verboten – nicht mitbringen, es drohen hohe Strafen.": "Vapes are banned since 2025 – don’t bring any, heavy penalties are possible.",
 "An Stränden, in Parks und an vielen öffentlichen Orten verboten.": "Banned on beaches, in parks and in many public places.",
-"Finger weg – es drohen Haft, Erpressung und Gefahr durch Kartelle.": "Stay away – you risk jail, extortion and danger from cartels."
+"Finger weg – es drohen Haft, Erpressung und Gefahr durch Kartelle.": "Stay away – you risk jail, extortion and danger from cartels.",
+"Gefährliche Regionen": "Dangerous regions",
+"Das Auswärtige Amt rät dringend ab von Reisen nach Colima, Guerrero (außer Acapulco und Ixtapa-Zihuatanejo per Flug), Michoacán (außer Morelia per Flug), Sinaloa, Tamaulipas nördlich von Ciudad Victoria, Zacatecas (außer der Stadt) und in die Grenzregion zu den USA.": "The German Foreign Office strongly advises against travel to Colima, Guerrero (except Acapulco and Ixtapa-Zihuatanejo by air), Michoacán (except Morelia by air), Sinaloa, Tamaulipas north of Ciudad Victoria, Zacatecas (except the city) and the border region with the USA."
 });

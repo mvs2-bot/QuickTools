@@ -30,7 +30,7 @@ window.QT = {
     ["112", "Notruf: Rettung & Feuerwehr"],
     ["113", "Polizei"]
   ],
-  embassy: {"title": "Deutsche Botschaft Ljubljana", "address": ["Prešernova cesta 27", "1000 Ljubljana"], "phone": "+386 1 479 0300", "emergency": "+386 30 708 055", "emergencyNote": "(nur dringende konsularische Notfälle)"},
+  embassy: {"title": "Deutsche Botschaft Ljubljana", "address": ["Prešernova cesta 27", "1000 Ljubljana"], "phone": "+386 1 479 0300", "emergency": "+386 30 708 055", "emergencyNote": "(nur dringende konsularische Notfälle; werktags bis 22 Uhr, Wochenende 8–22 Uhr, Juni–Sept. bis 24 Uhr)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/slowenien-node",
 
   rules: [
@@ -45,7 +45,7 @@ window.QT = {
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren."],
-    ["Drogen", "Auch Cannabis ist verboten."]
+    ["Drogen", "Cannabis ist illegal; kleine Mengen sind entkriminalisiert, es drohen aber Bußgeld und Beschlagnahme."]
   ],
   sim: [
     ["EU-Roaming", "Mit deutschem Tarif ohne Aufpreis surfen und telefonieren („Roam like at home“)."],

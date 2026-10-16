@@ -5,11 +5,16 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Polizei & Rettungsdienst": "Police & ambulance",
 "Deutsche Botschaft Tripolis": "German Embassy Tripoli",
 "Tripolis": "Tripoli",
-"(Botschaft nur eingeschränkt arbeitsfähig – Kontaktdaten vorab auf der AA-Seite prüfen)": "(embassy operating with limitations – check contact details on the Foreign Office page beforehand)",
 "Das Auswärtige Amt warnt vor Reisen nach Libyen – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to Libya – check the current situation before every trip.",
 "Bewaffnete Konflikte zwischen Milizen und ein hohes Entführungsrisiko. Konsularische Hilfe ist nur sehr eingeschränkt möglich.": "Armed clashes between militias and a high risk of kidnapping. Consular assistance is only possible to a very limited extent.",
 "Nicht empfohlen – zahlreiche bewaffnete Kontrollpunkte und unklare Zuständigkeiten.": "Not recommended – numerous armed checkpoints and unclear lines of authority.",
 "Libyana oder Al-Madar – Pass nötig. Netz außerhalb der Küstenstädte lückenhaft.": "Libyana or Al-Madar – passport required. Patchy coverage outside the coastal cities.",
 "Bengasi": "Benghazi",
-"Kyrene (Shahhat)": "Cyrene (Shahhat)"
+"Kyrene (Shahhat)": "Cyrene (Shahhat)",
+"UN Common Compound, Coastal Road km 12": "UN Common Compound, Coastal Road km 12",
+"Janzur, Tripolis": "Janzur, Tripoli",
+"(Anruf oder SMS außerhalb der Öffnungszeiten, nur Notfälle; die Botschaft empfängt derzeit keine Besucher, Pässe und Konsularisches über die Botschaft Tunis)": "(call or text outside opening hours, emergencies only; the embassy currently does not receive visitors – passports and consular matters via the Embassy in Tunis)",
+"Visum vorab bei einer libyschen Vertretung beantragen; Reisepass mind. 6 Monate gültig. Israelische Stempel im Pass führen zur Einreiseverweigerung. Für Wüstenreisen ist eine Genehmigung nötig.": "Apply for a visa in advance at a Libyan mission; passport valid for at least 6 months. Israeli stamps in your passport lead to refusal of entry. Desert trips require a permit.",
+"Internationaler Führerschein nötig, nur zusammen mit dem deutschen gültig. Nachts nicht fahren (Raubüberfälle, Carjacking).": "International driving permit required, only valid together with your German licence. Don't drive at night (robberies, carjacking).",
+"Komplett verboten – auch die Einfuhr (selbst alkoholhaltiger Medikamente) wird bestraft.": "Completely banned – importing it (even alcohol-based medicines) is punished."
 });

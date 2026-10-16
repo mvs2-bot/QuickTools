@@ -30,21 +30,23 @@ window.QT = {
     ["1515", "Polizei & Rettungsdienst"],
     ["180", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Tripolis", "address": ["Tripolis", "Telefon: Zentrale des Auswärtigen Amts (Berlin), leitet weiter"], "phone": "+49 30 1817-0", "emergencyNote": "(Botschaft nur eingeschränkt arbeitsfähig – Kontaktdaten vorab auf der AA-Seite prüfen)"},
+  embassy: {"title": "Deutsche Botschaft Tripolis", "address": ["UN Common Compound, Coastal Road km 12", "Janzur, Tripolis"], "phone": "+218 94 641 2445", "emergency": "+218 91 214 6063", "emergencyNote": "(Anruf oder SMS außerhalb der Öffnungszeiten, nur Notfälle; die Botschaft empfängt derzeit keine Besucher, Pässe und Konsularisches über die Botschaft Tunis)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/libyen-node",
 
   rules: [
     ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Libyen – vor jeder Reise die aktuelle Lage prüfen."],
     ["Sicherheit", "Bewaffnete Konflikte zwischen Milizen und ein hohes Entführungsrisiko. Konsularische Hilfe ist nur sehr eingeschränkt möglich."],
     ["Krisenvorsorge", "Wer trotzdem reist, sollte sich in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts eintragen."],
+    ["Einreise", "Visum vorab bei einer libyschen Vertretung beantragen; Reisepass mind. 6 Monate gültig. Israelische Stempel im Pass führen zur Einreiseverweigerung. Für Wüstenreisen ist eine Genehmigung nötig."],
     ["Kleidung", "Konservativ kleiden: lange Hosen und Ärmel, Frauen am besten mit Kopftuch."],
     ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."]
   ],
   car: [
-    ["Selbst fahren?", "Nicht empfohlen – zahlreiche bewaffnete Kontrollpunkte und unklare Zuständigkeiten."]
+    ["Selbst fahren?", "Nicht empfohlen – zahlreiche bewaffnete Kontrollpunkte und unklare Zuständigkeiten."],
+    ["Führerschein", "Internationaler Führerschein nötig, nur zusammen mit dem deutschen gültig. Nachts nicht fahren (Raubüberfälle, Carjacking)."]
   ],
   substances: [
-    ["Alkohol", "Komplett verboten – auch Einfuhr und Besitz werden bestraft."],
+    ["Alkohol", "Komplett verboten – auch die Einfuhr (selbst alkoholhaltiger Medikamente) wird bestraft."],
     ["Drogen", "Schon kleine Mengen werden extrem streng bestraft."]
   ],
   sim: [

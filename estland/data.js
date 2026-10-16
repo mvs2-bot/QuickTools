@@ -30,7 +30,7 @@ window.QT = {
     ["112", "Notruf (Polizei, Rettung, Feuerwehr)"],
     ["1220", "Ärztliche Beratung (rund um die Uhr, nicht dringend)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Tallinn", "address": ["Toom-Kuninga 11", "15048 Tallinn"], "phone": "+372 627 53 00"},
+  embassy: {"title": "Deutsche Botschaft Tallinn", "address": ["Toom-Kuninga 11", "15048 Tallinn"], "phone": "+372 627 53 00", "emergency": "+372 5012 560"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/estland-node",
 
   rules: [
@@ -39,7 +39,7 @@ window.QT = {
     ["Jedermannsrecht", "Wandern und Zelten in der Natur ist weitgehend erlaubt; Feuer nur an ausgewiesenen Plätzen (RMK)."]
   ],
   car: [
-    ["Promille", "0,2 ‰."],
+    ["Promille", "Faktisch 0,0 ‰ – strenge Kontrollen, hohe Strafen."],
     ["Licht & Winter", "Licht auch tagsüber Pflicht. Von Dezember bis Februar Winterreifen Pflicht. Achtung vor Elchen und Wildschweinen."]
   ],
   substances: [

@@ -38,11 +38,11 @@ window.QT = {
     ["911", "Notruf (Polizei, Rettung, Feuerwehr)"],
     ["811", "Gesundheitstelefon (nicht dringend, in vielen Provinzen)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Ottawa", "address": ["1 Waverley Street", "Ottawa, Ontario K2P 0T8"], "phone": "+1 613 232 1101"},
+  embassy: {"title": "Deutsche Botschaft Ottawa", "address": ["1 Waverley Street", "Ottawa, Ontario K2P 0T8"], "phone": "+1 613 232 1101", "emergencyNote": "(Konsularisches: Generalkonsulat Toronto +1 416 925 2813, für Westkanada Generalkonsulat Vancouver +1 604 684 8377)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/kanada-node",
 
   rules: [
-    ["Einreise", "Vorab eTA online beantragen (nur auf der offiziellen Seite canada.ca)."],
+    ["Einreise", "Bei Einreise per Flugzeug vorab eTA online beantragen (7 CAD, nur auf der offiziellen Seite canada.ca)."],
     ["Trinkgeld & Steuern", "15–20 % Trinkgeld sind üblich; Preise sind ohne Steuern angegeben (je nach Provinz 5–15 %)."],
     ["Wildtiere", "In Nationalparks Abstand zu Bären und Elchen halten, kein Essen offen lassen, Bärenspray für Wanderungen."],
     ["Québec", "In Québec ist Französisch Amtssprache – ein „Bonjour“ kommt immer gut an."]

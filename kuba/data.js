@@ -31,22 +31,24 @@ window.QT = {
     ["104", "Rettungsdienst"],
     ["105", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Havanna", "address": ["Calle 13 No. 652, esq. a B, Vedado", "La Habana"], "phone": "+53 7 833 2539"},
+  embassy: {"title": "Deutsche Botschaft Havanna", "address": ["Calle 13 No. 652, esq. a B, Vedado", "La Habana"], "phone": "+53 7 833 2569", "emergency": "+53 5280 5942", "emergencyNote": "(Bereitschaft, auch SMS/WhatsApp; keine Visafragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/kuba-node",
 
   rules: [
-    ["Einreise", "Touristenkarte nötig (über Reiseveranstalter oder Airline) und vor der Ankunft das Online-Formular „D’Viajeros“ ausfüllen. Auslandskrankenversicherung ist Pflicht."],
-    ["Bargeld", "Genug Euro in bar mitnehmen – Karten funktionieren oft nicht, Geldautomaten sind unzuverlässig. Der Straßenkurs liegt weit über dem offiziellen Kurs."],
+    ["Reisehinweis", "Das Auswärtige Amt rät derzeit dringend von Reisen nach Kuba ab: Stromabschaltungen bis zu 20 Stunden täglich, Mangel an Treibstoff, Wasser, Lebensmitteln und Medikamenten, stark eingeschränkte medizinische Versorgung."],
+    ["Einreise", "Visum nötig – nur online über eVisaCuba beantragen. Innerhalb von 48 Stunden vor dem Check-in das Online-Formular „D’Viajeros“ ausfüllen. Eine für Kuba gültige Auslandskrankenversicherung ist Pflicht (gesetzliche deutsche Kassen zählen nicht)."],
+    ["Bargeld", "Genug Euro oder US-Dollar in bar mitnehmen – seit Juni 2026 funktionieren VISA und Mastercard nicht mehr, Geldautomaten sind praktisch nicht nutzbar. Der Straßenkurs liegt weit über dem offiziellen Kurs."],
     ["Versorgung", "Lange Stromausfälle und Engpässe bei Medikamenten, Treibstoff und Lebensmitteln – Reiseapotheke, Taschenlampe und Powerbank mitbringen."],
     ["USA-Reisen", "Wer seit dem 12. Januar 2021 in Kuba war, kann für die USA kein ESTA mehr nutzen und braucht ein Visum."],
-    ["Politik & Fotos", "Keine Kritik an der Regierung in der Öffentlichkeit; Polizei, Militär und Behörden nicht fotografieren."]
+    ["Politik & Fotos", "Politische Betätigung ist Ausländern verboten; keine Menschenansammlungen, Polizei, Uniformierte oder militärische Anlagen fotografieren."]
   ],
   car: [
-    ["Straßen", "Schlaglöcher, Pferdekutschen und unbeleuchtete Fahrzeuge – nachts nicht fahren. Benzin ist oft knapp; Mietwagen sind teuer und rar."]
+    ["Straßen", "Wegen Treibstoffmangels (max. 20 Liter pro Tankvorgang) sind Überlandfahrten mit Mietwagen derzeit kaum möglich. Schlaglöcher, Pferdekutschen und unbeleuchtete Fahrzeuge – nachts nicht fahren."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren."],
-    ["Drogen", "Drogendelikte werden sehr streng bestraft – lange Haftstrafen, auch für kleine Mengen."]
+    ["E-Zigaretten", "Die Einfuhr von E-Zigaretten ist verboten."],
+    ["Drogen", "Schon kleine Mengen werden drastisch bestraft – 4 bis 30 Jahre Haft, in schweren Fällen droht die Todesstrafe."]
   ],
   sim: [
     ["Lokale SIM", "Nur über ETECSA: Touristen-SIM „Cubacel Tur“ vorab online bestellen oder im Büro kaufen. Mobiles Internet ist langsam."],

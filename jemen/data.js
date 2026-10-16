@@ -37,7 +37,7 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/jemen-node",
 
   rules: [
-    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen in den Jemen – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen in den Jemen, auch auf die Insel Sokotra; Deutsche im Land sind zur Ausreise aufgefordert."],
     ["Sicherheit", "Bürgerkrieg, Entführungsgefahr und Kontrollpunkte bewaffneter Gruppen im ganzen Land. Ausländer wurden mehrfach festgenommen."],
     ["Sokotra", "Die Insel ist nur über wenige Flüge (meist ab Abu Dhabi) und mit organisierter Tour erreichbar."],
     ["Kleidung", "Konservativ kleiden – lange Hosen und Ärmel; Frauen mit Kopftuch."],

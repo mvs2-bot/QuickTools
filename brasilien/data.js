@@ -31,12 +31,12 @@ window.QT = {
     ["192", "Rettungsdienst (SAMU)"],
     ["193", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Brasília", "address": ["SES – Avenida das Nações, Quadra 807, Lote 25", "70415-900 Brasília – DF"], "phone": "+55 61 3442 7000"},
+  embassy: {"title": "Deutsche Botschaft Brasília", "address": ["SES – Avenida das Nações, Quadra 807, Lote 25", "70415-900 Brasília – DF"], "phone": "+55 61 3442 7000", "emergencyNote": "(auch Notfallnummer außerhalb der Öffnungszeiten, für ganz Brasilien)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/brasilien-node",
 
   rules: [
-    ["Sicherheit", "Keine Wertsachen, Schmuck oder Handys offen zeigen; nachts Uber statt zu Fuß. Favelas nur mit seriösen Touren besuchen."],
-    ["Meer", "Starke Strömungen an vielen Stränden – nur an bewachten Abschnitten baden, rote Fahnen beachten."],
+    ["Sicherheit", "Keine Wertsachen, Schmuck oder Handys offen zeigen; nachts Uber statt zu Fuß. Das Auswärtige Amt rät vom Besuch jeglicher Favelas ab, auch mit geführten Touren, sowie von Reisen ins Grenzgebiet zu Venezuela."],
+    ["Meer", "Starke Strömungen an vielen Stränden – nur an bewachten Abschnitten baden, rote Fahnen beachten. Oben-ohne-Baden kann zur Festnahme führen; Kinder am Strand nicht fotografieren."],
     ["Gesundheit", "Mückenschutz gegen Dengue; für Amazonas und viele Regionen wird die Gelbfieberimpfung empfohlen."],
     ["Bezahlen", "Karten werden fast überall akzeptiert, Einheimische zahlen meist per Pix. Am Automaten tagsüber und in Einkaufszentren abheben."]
   ],

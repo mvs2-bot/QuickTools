@@ -29,10 +29,11 @@ window.QT = {
   emergency: [
     ["911", "Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Port of Spain (Trinidad und Tobago)", "address": ["19th Floor, Nicholas Tower", "63-65 Independence Square, Port of Spain"], "phone": "+1 868 628 1630"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Port of Spain (Trinidad und Tobago)", "address": ["19 St. Clair Avenue", "St. Clair, Port of Spain 190125"], "phone": "+1 868 628 1630", "emergency": "+1 868 460 9687", "emergencyNote": "(Bereitschaft Port of Spain, auch SMS/WhatsApp; vor Ort gibt es zusätzlich ein deutsches Honorarkonsulat)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/stkittsundnevis-node",
 
   rules: [
+    ["Einreise", "Vorab eine kostenpflichtige elektronische Reisegenehmigung (eTA) online beantragen, am besten ca. 14 Tage vor Abflug."],
     ["Bargeld", "US-Dollar werden fast überall angenommen, Wechselgeld kommt aber meist in Ostkaribischen Dollar (1 US$ = 2,70 EC$)."],
     ["Taxi", "Taxis haben keinen Taxameter – Preis vor der Fahrt vereinbaren (oft in US-Dollar)."],
     ["Tarnkleidung", "Kleidung im Camouflage-Muster ist Zivilisten verboten – auch für Kinder."],

@@ -32,13 +32,14 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/philippinen-node",
 
   rules: [
+    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen auf die Zamboanga-Halbinsel, nach Misamis Occidental, Lanao del Norte, in die Region BARMM, nach Soccsksargen und in den Sulu-Archipel. Vom übrigen Mindanao wird abgeraten (außer Davao City, Camiguin, Dinagat und Siargao)."],
     ["Englisch", "Englisch ist Amtssprache – fast überall kommt man damit gut durch. „po“ macht Sätze höflich."],
     ["Einreise", "Vor der Einreise das kostenlose eTravel-Formular online ausfüllen."],
-    ["Inselhopping", "Fähren und Bangkas fallen bei Sturm/Taifun aus – Puffertage einplanen (Taifunsaison ca. Juni–November)."],
+    ["Inselhopping", "Fähren und Bangkas fallen bei Sturm/Taifun aus – Puffertage einplanen (Taifunsaison ca. Juni–Dezember)."],
     ["Respekt", "Ältere werden mit „po“ angesprochen. Lautes Streiten in der Öffentlichkeit wird als Gesichtsverlust gesehen."]
   ],
   car: [
-    ["Promille", "0,5 ‰. Internationalen Führerschein mitnehmen."],
+    ["Promille", "0,5 ‰. Der deutsche Führerschein wird bei Aufenthalten bis 3 Monate anerkannt."],
     ["Manila", "An bestimmten Wochentagen gilt je nach Kennzeichen-Endziffer ein Fahrverbot („Number Coding“) – Mietwagenfirma fragen."]
   ],
   substances: [

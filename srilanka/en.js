@@ -14,14 +14,17 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Buddha-Darstellungen": "Buddha images",
 "Nicht mit dem Rücken zur Statue posieren. Buddha-Tattoos offen zu zeigen kann zur Einreiseverweigerung oder Ausweisung führen.": "Don't pose with your back to a statue. Showing Buddha tattoos openly can lead to denied entry or deportation.",
 "Respektvoll begegnen; Frauen sollten Mönche nicht berühren. In Bussen sind vordere Plätze oft für Mönche reserviert.": "Treat them with respect; women should not touch monks. On buses the front seats are often reserved for monks.",
-"Am Flughafen Colombo eine Touristen-SIM von Dialog (beste Abdeckung) oder Mobitel holen – Reisepass nötig.": "Get a tourist SIM from Dialog (best coverage) or Mobitel at Colombo airport – passport required.",
 "Alternativ vorab eSIM (z. B. Airalo) buchen.": "Alternatively book an eSIM in advance (e.g. Airalo).",
 "Tuk-Tuks und Taxis zu Festpreisen bestellen.": "Order tuk-tuks and taxis at fixed prices.",
 "Sri Lanka Railways (Fahrpläne) & 12Go": "Sri Lanka Railways (timetables) & 12Go",
 "Zugfahrten, z. B. Kandy–Ella, frühzeitig reservieren.": "Reserve train journeys early, e.g. Kandy–Ella.",
 "Oben-ohne und Nacktbaden sind verboten.": "Topless and nude bathing are forbidden.",
-"Internationaler Führerschein plus örtliche Anerkennung (Recognition Permit, z. B. über AA Ceylon) nötig – auch für Tuk-Tuks.": "International driving permit plus a local recognition permit (e.g. via AA Ceylon) is required – also for tuk-tuks.",
 "Chaotischer Verkehr, Busse fahren rücksichtslos. Viele nehmen lieber einen Fahrer.": "Chaotic traffic, buses drive aggressively. Many people prefer to hire a driver.",
 "Ab 21. An Poya-Tagen (Vollmond) wird kein Alkohol verkauft.": "From 21. No alcohol is sold on Poya days (full moon).",
-"Drogen werden sehr streng bestraft.": "Drugs are punished very severely."
+"Drogen werden sehr streng bestraft.": "Drugs are punished very severely.",
+"Gebührenfreies Visum (ETA, 30 Tage) vorab über das offizielle ETA-Portal beantragen – Drittanbieter mit Aufschlag meiden. Pass mind. 6 Monate gültig.": "Apply in advance for the free visa (ETA, 30 days) via the official ETA portal – avoid third-party sites that charge a fee. Passport valid for at least 6 months.",
+"Fotoverbote": "Photography bans",
+"Die Wolkenmädchen-Fresken in Sigiriya und militärische Anlagen nicht fotografieren.": "Do not photograph the Sigiriya maiden frescoes or military installations.",
+"Seit 2025 gibt es am Flughafen gegen Gebühr eine befristete Fahrerlaubnis (deutschen Führerschein und Pass vorlegen). Tuk-Tuks nur, wenn die Klasse im Führerschein eingetragen ist. Nach Unfällen drohen monatelange Ausreisesperren.": "Since 2025 a temporary driving permit can be obtained at the airport for a fee (show your German licence and passport). Tuk-tuks only if the category is on your licence. After accidents, exit bans lasting months are possible.",
+"Am Flughafen Colombo eine Touristen-SIM von Dialog (beste Abdeckung) oder SLT-Mobitel holen – Reisepass nötig.": "Get a tourist SIM from Dialog (best coverage) or SLT-Mobitel at Colombo airport – passport required."
 });

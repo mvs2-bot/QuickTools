@@ -35,11 +35,11 @@ window.QT = {
     ["112", "Rettungsdienst"],
     ["110", "Feuerwehr"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Neu-Delhi (Indien)", "address": ["No. 6/50G, Shanti Path, Chanakyapuri", "New Delhi 110021"], "phone": "+91 11 4419 9199"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Neu-Delhi (Indien)", "address": ["No. 6/50G, Shanti Path, Chanakyapuri", "New Delhi 110021"], "phone": "+91 11 4419 9199", "emergency": "+91 93113 10567", "emergencyNote": "(außerhalb der Öffnungszeiten, auch SMS/WhatsApp; in Thimphu gibt es einen Honorarkonsul)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/bhutan-node",
 
   rules: [
-    ["Einreise & Abgabe", "Visum vorab online; pro Nacht wird eine Nachhaltigkeitsabgabe (SDF) von 100 US$ fällig. Meist bucht man über einen lizenzierten Reiseveranstalter."],
+    ["Einreise & Abgabe", "Visum vorab online; pro Nacht wird eine Nachhaltigkeitsabgabe (SDF) von 100 US$ fällig (Kinder 6–12 Jahre: 50 US$). Meist bucht man über einen lizenzierten Reiseveranstalter. Der Pass muss bei Ausreise noch 6 Monate gültig sein."],
     ["Guide", "Außerhalb von Thimphu und Paro sowie bei Wanderungen ist ein lizenzierter Guide Pflicht."],
     ["Dzongs & Klöster", "Lange Ärmel und lange Hosen/Röcke, keine Kopfbedeckung. In Tempeln oft Fotoverbot – Schilder beachten. Heilige Stätten im Uhrzeigersinn umrunden."],
     ["Bargeld", "Der Ngultrum ist 1:1 an die Indische Rupie gekoppelt, Rupien werden meist auch angenommen. Kartenzahlung und Geldautomaten außerhalb der Städte selten."],

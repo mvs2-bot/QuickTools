@@ -17,5 +17,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Fahrdienst in Guatemala-Stadt und Antigua.": "Ride-hailing in Guatemala City and Antigua.",
 "Touristen-Shuttles zwischen Antigua, Atitlán und Flores am besten über die Unterkunft oder Agenturen vor Ort buchen.": "Tourist shuttles between Antigua, Atitlán and Flores are best booked via your accommodation or local agencies.",
 "Guatemala-Stadt": "Guatemala City",
-"Nachts nicht über Land fahren. Viele Bodenschwellen („túmulos“) ohne Warnung. Internationalen Führerschein mitnehmen.": "Don’t drive cross-country at night. Many speed bumps (\"túmulos\") without warning. Bring an international driving permit."
+"Vor Ein- und Ausreise online die Reiseerklärung („Declaración Jurada Regional de Viajero“) ausfüllen und den QR-Code bereithalten. Der Pass muss noch 6 Monate gültig sein.": "Before entering and leaving, fill in the online traveller declaration (\"Declaración Jurada Regional de Viajero\") and keep the QR code ready. Your passport must be valid for another 6 months.",
+"Nachts nicht über Land fahren. Viele Bodenschwellen („túmulos“) ohne Warnung. Deutscher Führerschein wird anerkannt, internationaler Führerschein empfohlen.": "Don’t drive cross-country at night. Many speed bumps (\"túmulos\") without warning. A German licence is recognised; an international driving permit is recommended."
 });

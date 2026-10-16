@@ -35,6 +35,8 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/kambodscha-node",
 
   rules: [
+    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen ins Grenzgebiet zu Thailand (20 km ab Grenze). Alle Grenzübergänge nach Thailand sind geschlossen; im Grenzgebiet nicht fotografieren."],
+    ["Einreise", "Visum nötig (E-Visum vorab oder Visum bei Einreise). Frühestens 7 Tage vor Einreise die Cambodia e-Arrival Card online ausfüllen."],
     ["US-Dollar", "Fast überall wird in US-Dollar bezahlt, Wechselgeld unter 1 $ gibt es in Riel (4.000 ៛ ≈ 1 $). Nur saubere, unbeschädigte Dollarscheine werden angenommen."],
     ["Angkor", "Für Angkor Wat Schultern und Knie bedecken – sonst kein Einlass. Tickets nur am offiziellen Ticket-Center oder online."],
     ["Mönche", "Frauen sollten Mönche nicht berühren oder ihnen direkt etwas reichen."],
@@ -54,7 +56,7 @@ window.QT = {
   ],
   apps: [
     ["Grab & PassApp", "Tuk-Tuks und Taxis zum Festpreis."],
-    ["12Go Asia", "Busse und Fähren, z. B. nach Thailand oder Vietnam."],
+    ["12Go Asia", "Busse und Fähren, z. B. nach Vietnam."],
     ["Google Maps & Translate", "Offline-Karten herunterladen und Übersetzer parat haben."]
   ],
 

@@ -42,18 +42,18 @@ window.QT = {
     ["103", "Rettungsdienst"],
     ["101", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Eriwan", "address": ["Tscharenz-Straße 29", "0025 Jerewan"], "phone": "+374 10 523 279"},
+  embassy: {"title": "Deutsche Botschaft Eriwan", "address": ["Tscharenz-Straße 29", "0025 Jerewan"], "phone": "+374 10 52 45 81", "emergency": "+374 91 94 71 29", "emergencyNote": "(außerhalb der Öffnungszeiten bis 24 Uhr; keine Visa-Auskünfte)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/armenien-node",
 
   rules: [
-    ["Grenzgebiet", "Von Reisen in das Grenzgebiet zu Aserbaidschan rät das Auswärtige Amt ab – aktuelle Hinweise prüfen."],
+    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in Teile des Grenzgebiets zu Aserbaidschan (u. a. östlich von Goris und Kapan in Syunik, östlich von Vardenis und Idschewan) und rät von grenznahen Straßen ab – Minengefahr, militärische Sperrgebiete."],
     ["Einreise", "Mit deutschem Pass bis 180 Tage visumfrei. Landweg nur über Georgien oder Iran."],
     ["Kirchen & Klöster", "Schultern und Knie bedecken; Frauen tragen in Kirchen oft ein Kopftuch."],
     ["Sensible Themen", "Der Völkermord an den Armeniern (1915) und Bergkarabach sind sehr emotionale Themen – zurückhaltend und respektvoll ansprechen."],
     ["Gastfreundschaft", "Einladungen zu Essen und Trinksprüchen mit Cognac oder Wein sind üblich – ein Glas abzulehnen ist okay."]
   ],
   car: [
-    ["Promille", "Am besten gar nicht trinken – strenge Kontrollen."],
+    ["Promille", "Absolutes Alkoholverbot am Steuer – strenge Kontrollen."],
     ["Straßen", "Bergstraßen teils in schlechtem Zustand, Fahrstil oft riskant. Im Winter Pässe teils gesperrt."]
   ],
   substances: [

@@ -31,21 +31,22 @@ window.QT = {
     ["991", "Rettungsdienst"],
     ["995", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Bandar Seri Begawan", "address": ["Unit 2.01, Block A, Yayasan Complex, Jalan Pretty", "Bandar Seri Begawan BS8711"], "phone": "+673 222 5547"},
+  embassy: {"title": "Deutsche Botschaft Bandar Seri Begawan", "address": ["Unit 2.01, Block A, Complex Yayasan Sultan Haji Hassanal Bolkiah, Jalan Pretty", "Bandar Seri Begawan BS8711"], "phone": "+673 222 5547", "emergency": "+673 875 0750", "emergencyNote": "(außerhalb der Öffnungszeiten; Konsularisches erledigt die Botschaft Kuala Lumpur)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/bruneidarussalam-node",
 
   rules: [
+    ["Einreise", "Visumfrei bis 90 Tage. Vor der Einreise die e-Arrival Card online ausfüllen."],
     ["Scharia-Recht", "Neben dem weltlichen Recht gilt ein Scharia-Strafrecht mit sehr harten Strafen, teils auch für Nicht-Muslime. Homosexuelle Handlungen sind strafbar."],
     ["Kleidung", "Konservativ kleiden: Schultern und Knie bedecken, in Moscheen Frauen auch die Haare (Umhänge gibt es am Eingang)."],
     ["Freitagsgebet", "Freitags schließen Geschäfte und Restaurants über die Mittagszeit (ca. 12–14 Uhr)."],
-    ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."],
+    ["Ramadan", "Im Ramadan ist Essen, Trinken und Rauchen in der Öffentlichkeit tagsüber für alle verboten – auch für Nicht-Muslime (Geld- oder Haftstrafe)."],
     ["Sultan", "Kritik am Sultan und am Königshaus ist strafbar."]
   ],
   car: [
     ["Promille", "Kein Alkohol am Steuer. Linksverkehr, gute Straßen, Internationaler Führerschein nötig."]
   ],
   substances: [
-    ["Alkohol", "Verkauf und Ausschank sind verboten. Nicht-Muslime ab 17 dürfen begrenzte Mengen (2 Flaschen Wein/Spirituosen und 12 Dosen Bier) einführen – bei der Einreise anmelden, nur privat trinken."],
+    ["Alkohol", "Verkauf und Ausschank sind verboten. Nicht-Muslime ab 17 dürfen 2 Liter Wein oder Spirituosen oder 12 Dosen Bier einführen (höchstens alle 48 Stunden) – beim Zoll anmelden, nur privat trinken."],
     ["Drogen", "Drogendelikte werden extrem hart bestraft, bis hin zur Todesstrafe."]
   ],
   sim: [

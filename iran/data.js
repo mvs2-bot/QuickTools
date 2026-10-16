@@ -31,16 +31,16 @@ window.QT = {
     ["115", "Rettungsdienst"],
     ["125", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Teheran", "address": ["Ferdowsi Avenue 320–324", "Teheran"], "phone": "+98 21 3999 0000", "emergencyNote": "Die Botschaft war 2025 zeitweise geschlossen – Erreichbarkeit vor der Reise prüfen."},
+  embassy: {"title": "Deutsche Botschaft Teheran", "address": ["Ferdowsi Avenue 320–324", "11365 Teheran"], "phone": "+98 21 3999 0000", "emergencyNote": "Das Botschaftspersonal wurde vorübergehend aus Iran verlegt – derzeit keine konsularische Hilfe möglich."},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/iran-node",
 
   rules: [
-    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Iran – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Iran und fordert Deutsche zur Ausreise auf (Gefahr willkürlicher Verhaftungen). Das Botschaftspersonal wurde vorübergehend verlegt – derzeit keine konsularische Hilfe vor Ort."],
     ["Festnahmen", "Deutsche, besonders mit doppelter Staatsangehörigkeit, wurden wiederholt willkürlich festgenommen. Doppelstaater gelten in Iran nur als Iraner."],
     ["Kleidung", "Frauen müssen in der Öffentlichkeit Kopftuch und weite, lange Kleidung tragen; Männer keine kurzen Hosen."],
     ["Bargeld", "Wegen der Sanktionen funktionieren ausländische Bank- und Kreditkarten nicht – alles Geld bar (Euro) mitnehmen. Preise werden oft in Toman genannt (1 Toman = 10 Rial)."],
     ["Fotografieren", "Keine Fotos von Militär, Polizei, Regierungsgebäuden oder Demonstrationen; Menschen nur mit Erlaubnis."],
-    ["Internet", "Viele Websites und Apps (z. B. Instagram, WhatsApp) sind gesperrt; die Nutzung von VPN ist verbreitet, aber rechtlich heikel."]
+    ["Internet", "Viele Websites und Apps (z. B. Instagram, Facebook) sind gesperrt; die Nutzung nicht genehmigter VPNs ist strafbar."]
   ],
   car: [
     ["Verkehr", "Sehr chaotischer Verkehr – besser App-Taxi oder Fahrer nehmen."],

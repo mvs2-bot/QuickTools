@@ -240,7 +240,7 @@
         <address class="addr"><strong>${esc(C.embassy.title)}</strong><br>${C.embassy.address.map(esc).join('<br>')}</address>
         <p class="contact">
           ${T.phone}: <a href="${telHref(C.embassy.phone)}">${esc(C.embassy.phone)}</a>
-          ${C.embassy.emergency ? `<br>${T.outside}: <a href="${telHref(C.embassy.emergency)}">${esc(C.embassy.emergency)}</a>${C.embassy.emergencyNote ? ' ' + esc(C.embassy.emergencyNote) : ''}` : ''}
+          ${C.embassy.emergency ? `<br>${T.outside}: <a href="${telHref(C.embassy.emergency)}">${esc(C.embassy.emergency)}</a>${C.embassy.emergencyNote ? ' ' + esc(C.embassy.emergencyNote) : ''}` : (C.embassy.emergencyNote ? `<br>${esc(C.embassy.emergencyNote)}` : '')}
         </p>` : ''}
         ${C.embassy || C.aaUrl ? `<div class="link-row">
           ${C.embassy ? `<a class="link-btn primary" href="https://www.google.com/maps/search/?api=1&amp;query=${encodeURIComponent(C.embassy.title + ', ' + C.embassy.address.join(', '))}" target="_blank" rel="noopener">${T.gmaps}</a>` : ''}

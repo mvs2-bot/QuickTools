@@ -3,9 +3,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Kirgisischer Som": "Kyrgyzstani som",
 "🇰🇬 Kirgisisch": "🇰🇬 Kyrgyz",
 "Deutsche Botschaft Bischkek": "German Embassy Bishkek",
-"Ul. Rasakowa 28": "28 Razzakov Street",
 "720040 Bischkek": "720040 Bishkek",
-"Mit deutschem Pass bis 60 Tage visumfrei.": "Visa-free for up to 60 days with a German passport.",
 "Grenzzonen": "Border zones",
 "Für Gebiete nahe der chinesischen und tadschikischen Grenze (z. B. Inyltschek, Pik Lenin, Sary-Tschelek-Umland) braucht man ein Border Permit – über Reiseagenturen vorab beantragen.": "Areas near the Chinese and Tajik borders (e.g. Inylchek, Lenin Peak, around Sary-Chelek) require a border permit – apply in advance through a travel agency.",
 "Jurte": "Yurts",
@@ -20,5 +18,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Sehr genaue Offline-Stadtpläne mit Bussen und Marschrutkas.": "Very detailed offline city maps with buses and marshrutkas.",
 "Bischkek": "Bishkek",
 "Issyk-Kul (Tscholpon-Ata)": "Issyk-Kul (Cholpon-Ata)",
-"Osch": "Osh"
+"Osch": "Osh",
+"Business-Center Orion (8. Etage), Erkindik-Boulevard 21": "Orion Business Centre (8th floor), 21 Erkindik Boulevard",
+"(außerhalb der Öffnungszeiten, deutschsprachig, auch per SMS; keine Visa-Auskünfte)": "(outside opening hours, German-speaking, SMS too; no visa information)",
+"Mit deutschem Pass bis 30 Tage (innerhalb von 60 Tagen) visumfrei. Der Pass muss noch 6 Monate über die Ausreise hinaus gültig und unbeschädigt sein.": "Visa-free for up to 30 days (within 60 days) with a German passport. The passport must be valid for 6 months beyond departure and undamaged."
 });

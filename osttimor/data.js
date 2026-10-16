@@ -36,7 +36,7 @@ window.QT = {
     ["110", "Rettungsdienst"],
     ["115", "Feuerwehr"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Jakarta (Indonesien)", "address": ["Jalan M. H. Thamrin No. 1", "Jakarta 10310"], "phone": "+62 21 3985 5000", "emergency": "+62 811 152 526", "emergencyNote": "(nicht für Visafragen)"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Jakarta (Indonesien)", "address": ["Jalan M. H. Thamrin No. 1", "Jakarta 10310", "Honorarkonsulin Dili: Rua St. Antonio 11, Farol-Palapaso, Tel. +670 7802 4018"], "phone": "+62 21 3985 5000", "emergency": "+62 811 152 526", "emergencyNote": "(nicht für Visafragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/timorleste-node",
 
   rules: [

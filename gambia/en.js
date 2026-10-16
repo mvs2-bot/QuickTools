@@ -6,7 +6,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Hallo (muslimischer Gruß)": "Hello (Muslim greeting)",
 "Deutsche Botschaft Banjul": "German Embassy Banjul",
 "(Bereitschaft der Botschaft Dakar; Visa nur über Dakar)": "(on-call service of the Dakar embassy; visas only via Dakar)",
-"Reisepass nötig (kein Personalausweis). Am Flughafen Banjul wird eine Sicherheitsabgabe von 20 € bzw. 20 USD in bar fällig.": "Passport required (no ID card). A security fee of €20 or USD 20 in cash is due at Banjul airport.",
 "Strand & „Bumster“": "Beach & \"bumsters\"",
 "Am Strand bieten junge Männer Führungen, Geschäfte oder „Freundschaft“ an – freundlich, aber bestimmt ablehnen. Vorsicht vor Liebes- und Heiratsbetrug; nachts nicht am Strand spazieren.": "On the beach young men offer tours, deals or \"friendship\" – decline politely but firmly. Beware of romance and marriage scams; don't walk on the beach at night.",
 "Überwiegend muslimisches Land – außerhalb von Strand und Hotel Schultern und Knie bedecken.": "Predominantly Muslim country – cover shoulders and knees away from the beach and hotel.",

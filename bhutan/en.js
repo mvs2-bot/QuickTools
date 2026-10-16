@@ -5,7 +5,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "🇬🇧 Englisch (verbreitete Verkehrssprache)": "🇬🇧 English (widely spoken lingua franca)",
 "Zuständig: Deutsche Botschaft Neu-Delhi (Indien)": "Responsible: German Embassy New Delhi (India)",
 "Einreise & Abgabe": "Entry & fee",
-"Visum vorab online; pro Nacht wird eine Nachhaltigkeitsabgabe (SDF) von 100 US$ fällig. Meist bucht man über einen lizenzierten Reiseveranstalter.": "Visa online in advance; a Sustainable Development Fee (SDF) of US$100 per night is charged. Most people book through a licensed tour operator.",
 "Guide": "Guide",
 "Außerhalb von Thimphu und Paro sowie bei Wanderungen ist ein lizenzierter Guide Pflicht.": "A licensed guide is mandatory outside Thimphu and Paro and for treks.",
 "Dzongs & Klöster": "Dzongs & monasteries",
@@ -18,5 +17,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Streng verboten, auch Cannabis, das dort wild wächst.": "Strictly illegal – including cannabis, which grows wild there.",
 "B-Mobile (Bhutan Telecom) oder TashiCell – Pass nötig, oft direkt am Flughafen Paro.": "B-Mobile (Bhutan Telecom) or TashiCell – passport required, often available right at Paro airport.",
 "Offizielle Seite für Visum und Nachhaltigkeitsabgabe.": "Official site for the visa and the Sustainable Development Fee.",
-"Tigernest (Taktsang)": "Tiger's Nest (Taktsang)"
+"Tigernest (Taktsang)": "Tiger's Nest (Taktsang)",
+"(außerhalb der Öffnungszeiten, auch SMS/WhatsApp; in Thimphu gibt es einen Honorarkonsul)": "(outside opening hours, SMS/WhatsApp too; there is an honorary consul in Thimphu)",
+"Visum vorab online; pro Nacht wird eine Nachhaltigkeitsabgabe (SDF) von 100 US$ fällig (Kinder 6–12 Jahre: 50 US$). Meist bucht man über einen lizenzierten Reiseveranstalter. Der Pass muss bei Ausreise noch 6 Monate gültig sein.": "Visa online in advance; a Sustainable Development Fee (SDF) of US$100 per night is charged (children aged 6–12: US$50). Most people book through a licensed tour operator. The passport must still be valid for 6 months on departure."
 });

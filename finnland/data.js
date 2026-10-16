@@ -36,14 +36,15 @@ window.QT = {
     ["112", "Notruf (Polizei, Rettung, Feuerwehr)"],
     ["116 117", "Ärztliche Beratung (nicht dringend)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Helsinki", "address": ["Krogiuksentie 4", "00340 Helsinki"], "phone": "+358 9 458 580"},
+  embassy: {"title": "Deutsche Botschaft Helsinki", "address": ["Krogiuksentie 4b", "00340 Helsinki"], "phone": "+358 9 458 580", "emergency": "+358 50 563 6546", "emergencyNote": "(Mo–Fr 17–24 Uhr, Wochenende/Feiertage 8–24 Uhr)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/finnland-node",
 
   rules: [
     ["Jedermannsrecht", "Wandern, Zelten sowie Beeren- und Pilzesammeln sind in der Natur erlaubt – nicht nah an Häusern, kein Feuer ohne Erlaubnis."],
     ["Sauna", "Nackt saunieren ist normal, öffentliche Saunen sind meist nach Geschlechtern getrennt; in gemischten Saunen Badekleidung."],
     ["Mücken", "Im Sommer viele Mücken, besonders im Norden und an Seen – Mückenschutz mitnehmen."],
-    ["Bargeldlos", "Karte oder Handy werden fast überall akzeptiert, auch bei kleinen Beträgen."]
+    ["Bargeldlos", "Karte oder Handy werden fast überall akzeptiert, auch bei kleinen Beträgen."],
+    ["Grenze zu Russland", "Alle Grenzübergänge nach Russland sind geschlossen. Das Grenzgebiet nicht ohne Genehmigung betreten – es gab Festnahmen."]
   ],
   car: [
     ["Promille", "0,5 ‰."],

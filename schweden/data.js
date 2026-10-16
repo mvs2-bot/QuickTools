@@ -34,7 +34,8 @@ window.QT = {
   embassy: {
     title: 'Deutsche Botschaft Stockholm',
     address: ['Skarpögatan 9', '115 27 Stockholm'],
-    phone: '+46 8 670 15 00'
+    phone: '+46 8 670 15 00',
+    emergency: '+46 70 852 94 20', emergencyNote: '(außerhalb der Telefonzeiten, nicht 22–8 Uhr; auch SMS)'
   },
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/schweden-node',
 
@@ -51,7 +52,7 @@ window.QT = {
     ["Helm", "Helmpflicht bis 15 Jahre."]
   ],
   substances: [
-    ["Alkohol", "Wein und Schnaps gibt es nur im staatlichen „Systembolaget“ (Mindestalter 20, eingeschränkte Öffnungszeiten). In Bars ab 18."],
+    ["Alkohol", "Wein und Schnaps gibt es nur im staatlichen „Systembolaget“ (Mindestalter 20, eingeschränkte Öffnungszeiten). In Bars ab 18. Trinken in der Öffentlichkeit ist vielerorts verboten."],
     ["Drogen", "Null Toleranz – auch der Konsum selbst ist strafbar, die Polizei darf testen."]
   ],
   sim: [

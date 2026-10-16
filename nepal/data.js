@@ -33,12 +33,12 @@ window.QT = {
     ["101", "Feuerwehr"],
     ["1144", "Touristenpolizei"]
   ],
-  embassy: {"title": "Deutsche Botschaft Kathmandu", "address": ["Gyaneshwar Marg 690", "Kathmandu"], "phone": "+977 1 4217 200"},
+  embassy: {"title": "Deutsche Botschaft Kathmandu", "address": ["Gyaneshwor Marg 690", "Kathmandu"], "phone": "+977 1 4217 200", "emergency": "+977 985 113 7943", "emergencyNote": "(nur Notfälle außerhalb der Öffnungszeiten; Deutsch/Englisch)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/nepal-node",
 
   rules: [
     ["Tempel & Stupas", "Schuhe ausziehen, Stupas und Gebetsmühlen im Uhrzeigersinn umrunden. Manche Hindu-Tempel (z. B. Pashupatinath) dürfen nur Hindus betreten."],
-    ["Trekking", "Für die meisten Trekkingrouten sind Genehmigungen nötig; in vielen Gebieten ist ein lizenzierter Guide Pflicht – Alleinwandern ist dort nicht erlaubt."],
+    ["Trekking", "Alle Trekker brauchen eine TIMS Card, für bestimmte Gebiete zusätzlich ein Permit. Seit 2023 ist Trekking in Nationalparks und im Hochgebirge nur mit zertifiziertem Guide erlaubt."],
     ["Höhe", "Langsam aufsteigen (ab ca. 3.000 m nicht mehr als 300–500 m Schlafhöhe pro Tag) und Symptome der Höhenkrankheit ernst nehmen."],
     ["Linke Hand", "Essen, Geld und Geschenke mit der rechten Hand geben und annehmen."],
     ["Kühe", "Kühe sind heilig – auf der Straße Vorrang lassen, Rindfleisch ist kaum zu bekommen."]

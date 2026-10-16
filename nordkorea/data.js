@@ -34,7 +34,7 @@ window.QT = {
     ["+49 30 1817 0", "Auswärtiges Amt Berlin (rund um die Uhr)"]
   ],
   embassy: {"title": "Deutsche Botschaft Pjöngjang (derzeit geschlossen)", "address": ["Munsu-dong, Pjöngjang", "Seit 2020 nicht besetzt – im Notfall das Auswärtige Amt in Berlin kontaktieren"], "phone": "+49 30 1817 0"},
-  aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/nordkorea-node",
+  aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/koreademokratischevolksrepublik-node",
 
   rules: [
     ["Reisewarnung", "Das Auswärtige Amt rät dringend von Reisen nach Nordkorea ab; konsularische Hilfe ist kaum möglich – vor jeder Reise die aktuelle Lage prüfen."],

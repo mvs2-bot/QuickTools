@@ -12,7 +12,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Keine Kritik am Präsidenten oder an der Regierung – auch nicht in Nachrichten oder sozialen Medien.": "No criticism of the president or the government – not even in messages or on social media.",
 "Für Touristen praktisch nicht möglich – Fahrer über die Reiseagentur. Viele Polizeikontrollen.": "Practically impossible for tourists – arrange a driver through your travel agency. Many police checks.",
 "Erhältlich, ab 18 Jahren; Verkauf zeitlich eingeschränkt.": "Available from 18; sales restricted to certain hours.",
-"In der Öffentlichkeit verboten, Tabak streng reguliert – nur kleine Mengen Zigaretten einführen.": "Banned in public, tobacco is strictly regulated – only bring in small quantities of cigarettes.",
 "Sehr harte Strafen, auch für kleine Mengen.": "Very harsh penalties, even for small amounts.",
 "TMCell – Pass nötig, Kauf oft umständlich. Viele Reisende bleiben offline und nutzen Hotel-WLAN.": "TMCell – passport required, buying one is often cumbersome. Many travellers stay offline and use hotel Wi-Fi.",
 "Offline-Karten – vor der Einreise herunterladen.": "Offline maps – download before entering the country.",
@@ -20,5 +19,9 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Darvaza-Krater": "Darvaza Crater",
 "Merw": "Merv",
 "Köneürgenç": "Konye-Urgench",
-"Türkmenbaşy": "Turkmenbashi"
+"Türkmenbaşy": "Turkmenbashi",
+"Hotel Ak Altyn, Magtymguly şaýoly / Ecke Hydyr Derýaýew": "Hotel Ak Altyn, Magtymguly Ave. / corner of Hydyr Deryayev St.",
+"(deutschsprachig, nur Notfälle außerhalb der Öffnungszeiten; keine Visa-Anfragen)": "(German-speaking, emergencies outside opening hours only; no visa enquiries)",
+"Homosexuelle Handlungen zwischen Männern sind strafbar (Haft).": "Homosexual acts between men are a criminal offence (prison).",
+"In der Öffentlichkeit verboten, Tabak streng reguliert – höchstens zwei Packungen Zigaretten einführen.": "Banned in public, tobacco is strictly regulated – bring in no more than two packs of cigarettes."
 });

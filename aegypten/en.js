@@ -22,6 +22,5 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Das Auswärtige Amt warnt vor Reisen in den Nordsinai, das ägyptisch-israelische Grenzgebiet (außer Küste und Taba) und in entlegene Gebiete der Sahara inkl. der Grenzgebiete zu Libyen und Sudan – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to North Sinai, the Egyptian-Israeli border area (except the coast and Taba) and remote parts of the Sahara including the border areas with Libya and Sudan – check the current situation before every trip.",
 "Drohnen & Geräte": "Drones & devices",
 "Drohnen, Satellitentelefone, Funkgeräte und Fernrohre nur mit Genehmigung einführen – sonst Beschlagnahme und Strafverfolgung.": "Only bring drones, satellite phones, walkie-talkies and telescopes with a permit – otherwise they will be confiscated and you may be prosecuted.",
-"Führerschein & Promille": "Driving licence & alcohol limit",
 "Internationaler Führerschein nur zusammen mit dem deutschen gültig. 0,0 ‰.": "International driving permit only valid together with your German licence. 0.0 ‰."
 });

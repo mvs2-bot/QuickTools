@@ -35,18 +35,18 @@ window.QT = {
     ["101", "Rettungsdienst (Roter Halbmond)"],
     ["102", "Feuerwehr"]
   ],
-  embassy: {"title": "Vertretungsbüro der Bundesrepublik Deutschland Ramallah", "address": ["Al-Erssal Street", "Ramallah"], "phone": "+970 2 297 7630"},
+  embassy: {"title": "Vertretungsbüro der Bundesrepublik Deutschland Ramallah", "address": ["13 Berlin Street", "Ramallah"], "phone": "+972 2 297 7630"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node",
 
   rules: [
-    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen in den Gazastreifen und rät von Reisen ins Westjordanland ab – vor jeder Reise die aktuelle Lage prüfen."],
-    ["Einreise", "Nur über Israel (ETA-IL nötig) oder von Jordanien über die Allenby-/König-Hussein-Brücke; Israel kontrolliert alle Übergänge."],
+    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen in den Gazastreifen und ins Westjordanland (außer Ostjerusalem, dort wird abgeraten); Deutsche vor Ort sollen möglichst ausreisen – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Einreise", "Nur über Israel (ETA-IL nötig) oder von Jordanien über die Allenby-/König-Hussein-Brücke; Israel kontrolliert alle Übergänge. Für reine Westjordanland-Reisen ist vorab eine Genehmigung der israelischen Behörde CoGAT nötig."],
     ["Kontrollpunkte", "Zwischen Israel und dem Westjordanland sowie innerhalb davon gibt es Checkpoints – Pass immer dabeihaben, Wartezeiten einplanen."],
     ["Kleidung", "Schultern und Knie bedecken, besonders in Moscheen, Kirchen und in Hebron oder Nablus."],
     ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."]
   ],
   car: [
-    ["Mietwagen", "Israelische Mietwagen sind in den palästinensischen A-Gebieten meist nicht versichert – besser palästinensisches Taxi oder Mietwagen aus Ramallah/Ostjerusalem."]
+    ["Mietwagen", "Israelische Mietwagen dürfen im Westjordanland nicht genutzt werden (Ausnahmen: Straße 1 und Straße 90) – besser palästinensisches Taxi oder Mietwagen aus Ramallah/Ostjerusalem."]
   ],
   substances: [
     ["Alkohol", "In christlichen Orten (Bethlehem, Ramallah, Taybeh mit eigener Brauerei) erhältlich, sonst kaum; nicht in der Öffentlichkeit trinken."],

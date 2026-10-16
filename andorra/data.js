@@ -38,12 +38,13 @@ window.QT = {
     ["116", "Rettungsdienst"],
     ["118", "Feuerwehr"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Madrid (Spanien)", "address": ["Calle de Fortuny 8", "28010 Madrid"], "phone": "+34 91 557 90 00"},
+  embassy: {"title": "Zuständig: Deutsches Generalkonsulat Barcelona (Spanien)", "address": ["Torre Mapfre, C/ de la Marina 16-18, 30°", "08005 Barcelona"], "phone": "+34 93 292 10 00", "emergency": "+34 661 611 104", "emergencyNote": "(außerhalb der Öffnungszeiten; Honorarkonsulin in Andorra la Vella: +376 87 49 00)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/andorra-node",
 
   rules: [
     ["Euro", "Andorra nutzt den Euro, ist aber nicht in der EU."],
-    ["Zoll", "Einkaufen ist steuergünstig, bei der Rückkehr in die EU gelten aber Freimengen (z. B. 200 Zigaretten, 1 l Spirituosen) – an der Grenze wird oft kontrolliert."],
+    ["Einreise", "Personalausweis oder Reisepass muss noch mindestens drei Monate über den Aufenthalt hinaus gültig sein."],
+    ["Zoll", "Einkaufen ist steuergünstig, bei der Rückkehr in die EU gelten aber Freimengen (z. B. 300 Zigaretten, 1,5 l Spirituosen) – an der Grenze wird oft kontrolliert."],
     ["Sprache", "Amtssprache ist Katalanisch; Spanisch und Französisch werden überall verstanden."],
     ["Berge", "Das Wetter ändert sich schnell – beim Wandern passende Ausrüstung, im Winter auf Lawinenwarnungen achten."]
   ],
@@ -52,7 +53,7 @@ window.QT = {
     ["Winter", "Im Winter Winterreifen oder Schneeketten – der Pass Port d’Envalira kann bei Schnee gesperrt sein."]
   ],
   substances: [
-    ["Alkohol", "Ab 18 Jahren."],
+    ["Alkohol", "Ab 18 Jahren. Trinken in der Öffentlichkeit (Straße, Plätze, Verkehrsmittel) ist verboten."],
     ["Drogen", "Auch Cannabis ist verboten; Drogendelikte werden streng bestraft."]
   ],
   sim: [

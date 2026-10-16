@@ -39,7 +39,8 @@ window.QT = {
     ["Servicegebühr", "Viele Restaurants schlagen 10–15 % „szervízdíj“ auf – dann ist kein weiteres Trinkgeld nötig."],
     ["Anstoßen", "Traditionell stößt man mit Bier nicht an – mit Wein oder Pálinka schon."],
     ["Euro", "Euro werden oft angenommen, aber zu schlechtem Kurs – lieber Forint oder Karte."],
-    ["Thermalbäder", "Badekappe ist in manchen Schwimmbecken Pflicht; Badeschlappen mitnehmen."]
+    ["Thermalbäder", "Badekappe ist in manchen Schwimmbecken Pflicht; Badeschlappen mitnehmen."],
+    ["Bars & Clubs", "Vorsicht vor Lokalen, in die man (auch per Taxi) gelotst wird – dort drohen stark überhöhte Rechnungen und Druck beim Bezahlen."]
   ],
   car: [
     ["Promille & Vignette", "0,0 ‰. Für Autobahnen ist eine digitale Vignette (e-matrica) Pflicht."],

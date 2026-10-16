@@ -36,6 +36,7 @@ window.QT = {
 
   rules: [
     ["Sicherheit", "Reisehinweise des Auswärtigen Amts je Bundesstaat prüfen. Nachts keine Überlandfahrten, nur App- oder Hoteltaxis."],
+    ["Gefährliche Regionen", "Das Auswärtige Amt rät dringend ab von Reisen nach Colima, Guerrero (außer Acapulco und Ixtapa-Zihuatanejo per Flug), Michoacán (außer Morelia per Flug), Sinaloa, Tamaulipas nördlich von Ciudad Victoria, Zacatecas (außer der Stadt) und in die Grenzregion zu den USA."],
     ["Wasser", "Auch zum Zähneputzen Flaschenwasser nutzen; Eis in Restaurants ist meist aus gereinigtem Wasser."],
     ["Einreise", "Die Einreise wird heute meist digital erfasst – die genehmigte Aufenthaltsdauer beim Grenzbeamten prüfen."],
     ["Bargeld", "Pesos an Bankautomaten in Banken abheben; Kartenzahlung „in Pesos“ wählen."],

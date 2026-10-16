@@ -44,12 +44,13 @@ window.QT = {
     ["Kopfnicken", "Achtung: Kopfnicken kann „nein“ bedeuten und Kopfschütteln „ja“ – im Zweifel nachfragen."],
     ["Moscheen & Kirchen", "Schultern und Knie bedecken, in Moscheen Schuhe ausziehen; Frauen ggf. Kopftuch."],
     ["Bargeld", "Viele kleine Läden, Busse und Restaurants akzeptieren nur Bargeld. Euro wird oft angenommen, Lek ist aber meist günstiger."],
-    ["Trinkgeld", "Rund 10 % in Restaurants sind üblich."]
+    ["Trinkgeld", "Rund 10 % in Restaurants sind üblich."],
+    ["Demonstrationen", "In Tirana und anderen Städten gibt es häufig Demonstrationen, teils gewaltsam – weiträumig meiden."]
   ],
   car: [
     ["Promille", "Praktisch 0,0 ‰ – die Grenze liegt bei 0,1 ‰."],
     ["Fahrweise", "Defensiv fahren – Schlaglöcher, Tiere und unvorhersehbares Fahrverhalten. Nachts wenn möglich nicht über Land fahren."],
-    ["Führerschein", "Internationalen Führerschein zusätzlich zum deutschen mitnehmen."]
+    ["Papiere", "Der deutsche Führerschein (Scheckkartenformat) wird anerkannt. Die Grüne Versicherungskarte ist Pflicht und wird kontrolliert."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren."],

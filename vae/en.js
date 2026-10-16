@@ -4,7 +4,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "🇦🇪 Arabisch": "🇦🇪 Arabic",
 "Deutsche Botschaft Abu Dhabi": "German Embassy Abu Dhabi",
 "Towers at the Trade Center, West Tower, 14. Stock": "Towers at the Trade Center, West Tower, 14th floor",
-"Generalkonsulat Dubai: Sheikh Zayed Road, Tel. +971 4 349 8888": "Consulate General Dubai: Sheikh Zayed Road, Tel. +971 4 349 8888",
 "In Malls, Souks und Moscheen Schultern und Knie bedecken; Badekleidung nur am Pool und Strand. Oben-ohne ist verboten.": "Cover shoulders and knees in malls, souks and mosques; swimwear only at the pool and beach. Topless bathing is forbidden.",
 "Keine Zärtlichkeiten in der Öffentlichkeit, keine obszönen Gesten oder Beschimpfungen – auch in Chats und sozialen Medien kann das strafbar sein.": "No public displays of affection, no obscene gestures or insults – this can be punishable in chats and on social media too.",
 "Fremde Menschen nicht ohne Erlaubnis fotografieren oder Fotos von ihnen posten – das ist strafbar. Keine Fotos von Militär und Regierungsgebäuden.": "Don't photograph strangers or post photos of them without permission – it's a criminal offence. No photos of the military or government buildings.",
@@ -18,5 +17,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Metro, Busse, Taxis und die nol-Karte in Dubai.": "Metro, buses, taxis and the nol card in Dubai.",
 "Schardscha": "Sharjah",
 "Ras al-Chaima": "Ras Al Khaimah",
-"Fudschaira": "Fujairah"
+"Fudschaira": "Fujairah",
+"Das Auswärtige Amt rät von nicht notwendigen Reisen in die VAE ab (volatile Lage in der Region, Angriffe und Luftraumsperrungen möglich) – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office advises against non-essential travel to the UAE (volatile regional situation, attacks and airspace closures possible) – check the current situation before every trip.",
+"Generalkonsulat Dubai (konsularische Dienste): Street 14A, Jumeirah 1, Tel. +971 4 302 4333": "Consulate General Dubai (consular services): Street 14A, Jumeirah 1, Tel. +971 4 302 4333",
+"(außerhalb der Öffnungszeiten, nur konsularische Notfälle)": "(outside office hours, consular emergencies only)"
 });

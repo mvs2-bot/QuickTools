@@ -36,22 +36,23 @@ window.QT = {
     ["16", "Feuerwehr"],
     ["130", "Autobahnpolizei"]
   ],
-  embassy: {"title": "Deutsche Botschaft Islamabad", "address": ["Ramna 5, Diplomatic Enclave", "Islamabad"], "phone": "+92 51 227 94 30"},
+  embassy: {"title": "Deutsche Botschaft Islamabad", "address": ["Ramna 5, Diplomatic Enclave", "Islamabad"], "phone": "+92 51 2007 100", "emergency": "+92 334 058 0589", "emergencyNote": "(nur für deutsche Staatsangehörige in Notfällen; keine Visa-Anfragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/pakistan-node",
 
   rules: [
-    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in Teile Pakistans (u. a. Belutschistan, Teile von Khyber Pakhtunkhwa sowie die Grenzgebiete zu Afghanistan und Indien) – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Belutschistan, nach Khyber Pakhtunkhwa (außer u. a. Hauptroute Islamabad–Babusar-Pass–Gilgit und Nathia Gali) und ins Grenzgebiet zu Indien inkl. Waffenstillstandslinie sowie vor Ein- und Ausreisen über Land via Iran und Afghanistan. Von Reisen nach Asad Kaschmir wird derzeit abgeraten."],
     ["Einreise", "Visum vorab online beantragen (e-Visum). Für manche Gebiete (z. B. nahe der Grenzen) braucht man zusätzliche Genehmigungen (NOC)."],
     ["Kleidung", "Lange, weite Kleidung; Frauen bedecken Arme und Beine, ein Schal (Dupatta) ist empfehlenswert. In Moscheen Kopftuch für Frauen."],
     ["Fotografieren", "Keine Fotos von Militär, Polizei, Flughäfen oder Brücken. Frauen nur mit ausdrücklicher Erlaubnis fotografieren."],
     ["Linke Hand", "Essen, Geld und Geschenke mit der rechten Hand geben und annehmen."],
-    ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."]
+    ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."],
+    ["Homosexualität", "Homosexuelle Handlungen sind strafbar (meist 2–10 Jahre Haft) – in der Öffentlichkeit zurückhaltend sein."]
   ],
   car: [
     ["Linksverkehr", "Chaotischer Verkehr – besser Auto mit Fahrer. Auf dem Karakorum Highway Steinschlag und Erdrutsche."]
   ],
   substances: [
-    ["Alkohol", "Für Muslime verboten. Ausländer bekommen Alkohol nur in lizenzierten Hotels/Läden (teils mit Genehmigung); öffentliches Trinken ist verboten."],
+    ["Alkohol", "Für Muslime verboten, Einfuhr verboten. Nicht-Muslime bekommen Alkohol nur in lizenzierten Hotels/Läden (teils mit Genehmigung); öffentliches Trinken ist verboten."],
     ["Drogen", "Drogendelikte werden extrem hart bestraft, bis hin zur Todesstrafe."]
   ],
   sim: [

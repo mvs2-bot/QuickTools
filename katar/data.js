@@ -29,10 +29,11 @@ window.QT = {
   emergency: [
     ["999", "Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Doha", "address": ["6 Al Jazira Al Arabiya Street, Fereej Kulaib", "Doha"], "phone": "+974 4408 2300"},
+  embassy: {"title": "Deutsche Botschaft Doha", "address": ["Tornado Tower, Majlis Al Taawon Street (Building 17, Zone 60, Street 810)", "Doha"], "phone": "+974 4408 2300", "emergency": "+974 5552 6672", "emergencyNote": "(nach Dienstschluss bis Mitternacht und am Wochenende, auch SMS; keine Visaauskünfte)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/katar-node",
 
   rules: [
+    ["Reisehinweis", "Das Auswärtige Amt rät von Reisen nach Katar ab (volatile Lage in der Region, Angriffe und Luftraumsperrungen möglich) – vor jeder Reise die aktuelle Lage prüfen."],
     ["Kleidung", "In Malls, Museen und Souks Schultern und Knie bedecken; Badekleidung nur am Pool und Strand."],
     ["Verhalten", "Keine Zärtlichkeiten in der Öffentlichkeit, keine obszönen Gesten oder Beschimpfungen – auch online kann das strafbar sein."],
     ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."],

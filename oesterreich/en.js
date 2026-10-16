@@ -9,7 +9,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Quark": "Quark (curd cheese)",
 "Januar": "January",
 "Rettung": "Ambulance",
-"Bergrettung": "Mountain rescue",
 "Ärztenotdienst (nachts & Wochenende)": "Out-of-hours doctor (nights & weekends)",
 "Deutsche Botschaft Wien": "German Embassy Vienna",
 "1030 Wien": "1030 Vienna",

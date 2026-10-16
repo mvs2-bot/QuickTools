@@ -37,12 +37,12 @@ window.QT = {
     ["103", "Rettungsdienst"],
     ["101", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Duschanbe", "address": ["Ul. Warsob 16", "734001 Duschanbe"], "phone": "+992 37 221 21 89"},
+  embassy: {"title": "Deutsche Botschaft Duschanbe", "address": ["I.-Somoni-Str. 59/1", "734064 Duschanbe"], "phone": "+992 43 377 30 00", "emergency": "+992 907 727 583", "emergencyNote": "(nur Notfälle außerhalb der Öffnungszeiten, auch per SMS; keine Visa-Auskünfte)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/tadschikistan-node",
 
   rules: [
-    ["Grenzgebiete", "Vom Grenzgebiet zu Afghanistan und zu Kirgisistan rät das Auswärtige Amt ab – vor jeder Reise die aktuelle Lage prüfen."],
-    ["Einreise & Pamir", "Visum bzw. e-Visum vorab beantragen. Für den Pamir (Berg-Badachschan, GBAO) braucht man zusätzlich ein Permit – gleich mit dem e-Visum beantragen."],
+    ["Grenzgebiet Afghanistan", "Von Reisen in alle grenznahen Gebiete zu Afghanistan rät das Auswärtige Amt dringend ab (Angriffe, Minen). Auch an der Straße Duschanbe–Chorugh und an der Grenze zu Kirgisistan teils Minenfelder."],
+    ["Einreise & Pamir", "Mit deutschem Pass bis 30 Tage visumfrei (dann binnen 10 Arbeitstagen beim OVIR registrieren) oder mit e-Visum bis 60 Tage. Für den Pamir (Berg-Badachschan, GBAO) braucht man zusätzlich ein Permit – am besten mit dem e-Visum beantragen."],
     ["Kleidung", "Konservativ: Schultern und Knie bedecken, besonders auf dem Land und in Moscheen."],
     ["Fotografieren", "Keine Fotos von Militär, Polizei, Grenzanlagen, Brücken oder Regierungsgebäuden."],
     ["Bargeld", "Außerhalb von Duschanbe fast nur Bargeld; Geldautomaten im Pamir rar."]
@@ -55,7 +55,7 @@ window.QT = {
     ["Drogen", "Streng verboten, sehr harte Strafen – Grenzregion zu Afghanistan ist Schmuggelroute."]
   ],
   sim: [
-    ["Lokale SIM", "Tcell, Megafon oder Babilon-M – Pass nötig. Im Pamir oft kein Netz."]
+    ["Lokale SIM", "Tcell, Zet-Mobile (ehemals Megafon) oder Babilon-M – Pass nötig. Im Pamir oft kein Netz."]
   ],
   apps: [
     ["Yandex Go", "Taxi-App in Duschanbe und Chudschand – Preis steht vorher fest."],

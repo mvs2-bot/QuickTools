@@ -9,5 +9,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "eSIM (z. B. Airalo) oder Prepaid-SIM von Telia, Elisa oder Tele2.": "eSIM (e.g. Airalo) or prepaid SIM from Telia, Elisa or Tele2.",
 "Fahrdienst aus Estland – in allen größeren Städten verbreitet.": "Ride-hailing app from Estonia – common in all larger towns.",
 "Zugtickets im ganzen Land.": "Train tickets throughout the country.",
-"Lahemaa-Nationalpark": "Lahemaa National Park"
+"Lahemaa-Nationalpark": "Lahemaa National Park",
+"Faktisch 0,0 ‰ – strenge Kontrollen, hohe Strafen.": "Effectively 0.0 ‰ – strict checks, heavy penalties."
 });

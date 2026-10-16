@@ -33,7 +33,7 @@ window.QT = {
 
   emergency: [
     ["192", "Polizei"],
-    ["194", "Rettungsdienst (Süd-Tarawa)"],
+    ["194", "Rettungsdienst (Bikenibeu; Betio: 195)"],
     ["193", "Feuerwehr"]
   ],
   embassy: {"title": "Zuständig: Deutsche Botschaft Wellington (Neuseeland)", "address": ["90-92 Hobson Street, Thorndon", "6011 Wellington, Neuseeland"], "phone": "+64 4 473 6063", "emergency": "+64 21 651 987", "emergencyNote": "(auch per SMS; die Botschaft Suva leistet vor Ort nur Nothilfe)"},
