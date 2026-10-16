@@ -12,5 +12,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Taxi per App in Sofia und anderen Städten – schützt vor Touristenpreisen.": "Taxi by app in Sofia and other cities – protects you from tourist prices.",
 "Plowdiw": "Plovdiv",
 "Warna": "Varna",
-"Rila-Kloster": "Rila Monastery"
+"Rila-Kloster": "Rila Monastery",
+"Promille & Licht": "Alcohol limit & lights",
+"0,5 ‰. Licht ganzjährig auch tagsüber Pflicht; Winterreifen vom 15. November bis 1. März.": "0.5 ‰. Headlights are mandatory all year, even during the day; winter tyres from 15 November to 1 March.",
+"Für Autobahnen und Nationalstraßen ist eine elektronische Vignette (bgtoll.bg) Pflicht. Bußgelder nie bar an Polizisten zahlen, nur per Bankeinzahlung.": "An electronic vignette (bgtoll.bg) is mandatory on motorways and national roads. Never pay fines in cash to police officers – only by bank payment."
 });

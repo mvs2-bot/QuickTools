@@ -29,7 +29,7 @@ window.QT = {
   emergency: [
     ["112", "Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Bukarest", "address": ["Strada Cpt. Av. Gheorghe Demetriade 6–8", "011849 Bukarest"], "phone": "+40 21 202 98 30"},
+  embassy: {"title": "Deutsche Botschaft Bukarest", "address": ["Strada Cpt. Av. Gheorghe Demetriade 6–8", "011849 Bukarest"], "phone": "+40 21 202 98 30", "emergency": "+40 721 37 47 86"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/rumaenien-node",
 
   rules: [
@@ -40,7 +40,7 @@ window.QT = {
   ],
   car: [
     ["Vignette", "Für alle Nationalstraßen außerhalb der Orte ist eine elektronische Vignette („Rovinieta“) Pflicht – online vor der Fahrt kaufen."],
-    ["Promille", "0,0 ‰. Licht außerhalb von Ortschaften auch tagsüber Pflicht."]
+    ["Promille", "0,0 ‰. Auf Autobahnen, Schnell- und Europastraßen Licht auch tagsüber Pflicht. Feuerlöscher und zwei Warndreiecke mitführen."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren."],

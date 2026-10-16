@@ -38,19 +38,19 @@ window.QT = {
     ["103", "Rettungsdienst"],
     ["101", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Minsk", "address": ["Uliza Sacharowa 26", "220034 Minsk"], "phone": "+375 17 217 59 00"},
+  embassy: {"title": "Deutsche Botschaft Minsk", "address": ["Uliza Sacharowa 26", "220034 Minsk"], "phone": "+375 17 217 59 00", "emergency": "+375 29 651 50 16", "emergencyNote": "(deutschsprachig)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/belarus-node",
 
   rules: [
     ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Belarus – vor jeder Reise die aktuelle Lage prüfen."],
-    ["Einreise", "Die Regeln zur visumfreien Einreise ändern sich immer wieder – vorab prüfen. Bei längerem Aufenthalt ist eine Registrierung nötig (Hotels übernehmen das)."],
-    ["Bargeld", "Deutsche Kredit- und Bankkarten funktionieren wegen der Sanktionen meist nicht – genug Euro in bar mitnehmen und vor Ort tauschen."],
+    ["Einreise", "Nur mit Reisepass (mind. 3 Monate gültig), nicht mit Personalausweis. Visumfrei bis 30 Tage (derzeit befristet bis 31.12.2026), Reisekrankenversicherung Pflicht. Ab 10 Tagen Aufenthalt Registrierung nötig (Hotels übernehmen das)."],
+    ["Bargeld", "Deutsche Kredit- und Bankkarten funktionieren wegen der Sanktionen meist nicht. Die Ausfuhr von Euro-Banknoten nach Belarus ist laut EU-Sanktionen grundsätzlich verboten – an der Grenze drohen Kontrollen und Beschlagnahme; vorab beim Auswärtigen Amt informieren."],
     ["Fotografieren", "Keine Fotos von Militär, Grenzanlagen, Polizei und Regierungsgebäuden."],
-    ["Politik", "Kritische Äußerungen, auch in sozialen Medien, und Symbole der Opposition können zur Festnahme führen."]
+    ["Politik", "Kritische Äußerungen, auch in sozialen Medien, und Symbole der Opposition (rot-weiß) können zur Festnahme führen. VPN-Nutzung ist verboten; „LGBT-Propaganda“ wird bestraft."]
   ],
   car: [
     ["Promille", "0,3 ‰."],
-    ["Versicherung", "Die Grüne Karte gilt in Belarus nicht – an der Grenze eine Kfz-Versicherung abschließen. Häufige Polizeikontrollen."]
+    ["Versicherung", "Die Grüne Karte gilt in Belarus nicht – an der Grenze eine Kfz-Versicherung abschließen. Maut (BelToll) auf vielen Überlandstraßen. Deutscher Führerschein nur mit beglaubigter russischer Übersetzung."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren."],

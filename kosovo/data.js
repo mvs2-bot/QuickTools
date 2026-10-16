@@ -34,7 +34,7 @@ window.QT = {
   status: [
     ["Unabhängigkeit", "Kosovo hat 2008 seine Unabhängigkeit von Serbien erklärt. Deutschland und die meisten EU-Staaten erkennen Kosovo an; Serbien, Russland, China sowie die EU-Staaten Spanien, Griechenland, Zypern, Rumänien und die Slowakei nicht. Kosovo ist kein UN-Mitglied."],
     ["Weiterreise nach Serbien", "Serbien betrachtet die Grenzübergänge Kosovos nicht als Staatsgrenze: Wer per Flug oder aus einem Nachbarland (nicht Serbien) eingereist ist, wird an der Grenze Kosovo–Serbien oft abgewiesen – Umweg über Nordmazedonien oder Montenegro einplanen."],
-    ["Norden", "Im Norden (u. a. Nord-Mitrovica) lebt überwiegend die serbische Minderheit; dort kommt es immer wieder zu Spannungen – aktuelle Hinweise des Auswärtigen Amts beachten."]
+    ["Norden", "Im Norden (Nord-Mitrovica, Zvečan, Zubin Potok, Leposavić) lebt überwiegend die serbische Minderheit; dort kommt es immer wieder zu Spannungen. Das Auswärtige Amt rät dort zu besonderer Vorsicht (keine formelle Teilreisewarnung); Grenzübergänge zu Serbien können kurzfristig schließen."]
   ],
   emergency: [
     ["112", "Allgemeiner Notruf"],
@@ -42,12 +42,14 @@ window.QT = {
     ["194", "Rettungsdienst"],
     ["193", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Pristina", "address": ["Rruga Azem Jashanica 17", "10000 Pristina"], "phone": "+383 38 25 45 00"},
+  embassy: {"title": "Deutsche Botschaft Pristina", "address": ["Rruga Azem Jashanica 66", "10000 Pristina"], "phone": "+383 38 25 45 00", "emergency": "+383 38 25 45 00", "emergencyNote": "(gleiche Nummer, auch außerhalb der Dienstzeiten)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/kosovo-node",
 
   rules: [
     ["Euro", "Kosovo nutzt den Euro, ist aber nicht in der EU."],
     ["Moscheen", "Schultern und Knie bedecken, Frauen ein Kopftuch, Schuhe ausziehen."],
+    ["Anmeldung", "Ausländer müssen sich innerhalb von 3 Tagen nach Einreise anmelden – Hotels erledigen das. Ausweis muss bei Einreise noch 3 Monate gültig sein."],
+    ["Falschgeld", "Es kursieren viele gefälschte 2-Euro-Münzen (deutsches Adlermotiv) – Münzen prüfen."],
     ["Sprache", "Viele Kosovaren haben in Deutschland, Österreich oder der Schweiz gelebt – mit Deutsch kommt man oft weiter."]
   ],
   car: [

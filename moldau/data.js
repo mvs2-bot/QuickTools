@@ -33,12 +33,12 @@ window.QT = {
   ],
 
   status: [
-    ["Transnistrien", "Der Landesteil östlich des Dnister hat sich abgespalten und ist von keinem UN-Staat anerkannt. Eigene Kontrollposten, eigene Währung (Transnistrischer Rubel); deutsche Konsularhilfe ist dort kaum möglich."]
+    ["Transnistrien", "Der Landesteil östlich des Dnister hat sich abgespalten und ist von keinem UN-Staat anerkannt. Eigene Kontrollposten, eigene Währung (Transnistrischer Rubel); deutsche Konsularhilfe ist dort nicht möglich. Das Auswärtige Amt rät von Reisen nach Transnistrien ab."]
   ],
   emergency: [
     ["112", "Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Chișinău", "address": ["Strada Maria Cebotari 35", "MD-2012 Chișinău"], "phone": "+373 22 20 06 00"},
+  embassy: {"title": "Deutsche Botschaft Chișinău", "address": ["Str. Alexei Mateevici 82", "MD-2009 Chișinău"], "phone": "+373 22 20 06 00", "emergency": "+373 76 00 08 13"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/moldau-node",
 
   rules: [
@@ -48,8 +48,8 @@ window.QT = {
     ["Weinkeller", "Cricova und Mileștii Mici nur mit Führung – vorher reservieren. Nach der Weinprobe nicht selbst fahren."]
   ],
   car: [
-    ["Vignette", "Für Autos mit ausländischem Kennzeichen ist eine Vignette („Rovinietă“) Pflicht – an der Grenze kaufen."],
-    ["Promille", "0,3 ‰. Straßen außerhalb der Städte oft in schlechtem Zustand."]
+    ["Vignette", "Für Autos mit ausländischem Kennzeichen ist eine Vignette („Rovinietă“) Pflicht – an Tankstellen, Bankfilialen oder online als E-Vignette. Grüne Karte vorgeschrieben."],
+    ["Promille", "0,0 ‰. Straßen außerhalb der Städte oft in schlechtem Zustand – nachts nicht über Land fahren."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren."],

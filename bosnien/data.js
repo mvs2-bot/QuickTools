@@ -29,9 +29,10 @@ window.QT = {
   emergency: [
     ["122", "Polizei"],
     ["124", "Rettungsdienst"],
-    ["123", "Feuerwehr"]
+    ["123", "Feuerwehr"],
+    ["121", "Bergrettung"]
   ],
-  embassy: {"title": "Deutsche Botschaft Sarajevo", "address": ["Skenderija 3", "71000 Sarajevo"], "phone": "+387 33 56 53 00"},
+  embassy: {"title": "Deutsche Botschaft Sarajevo", "address": ["Skenderija 3", "71000 Sarajevo"], "phone": "+387 33 56 53 00", "emergency": "+387 61 130 032"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/bosnienundherzegowina-node",
 
   rules: [
@@ -41,8 +42,8 @@ window.QT = {
     ["Landesteile", "Das Land besteht aus der Föderation Bosnien und Herzegowina und der Republika Srpska – politische Themen und der Krieg sind heikel."]
   ],
   car: [
-    ["Promille", "0,3 ‰."],
-    ["Licht & Straßen", "Licht auch tagsüber Pflicht. Bergstraßen sind eng und kurvig – defensiv fahren, besonders nachts."]
+    ["Promille", "0,3 ‰; Fahranfänger und unter 21 Jahren 0,0 ‰."],
+    ["Licht & Straßen", "Licht auch tagsüber Pflicht. Vom 1. November bis 1. April Winterreifen Pflicht. Bergstraßen sind eng und kurvig – defensiv fahren, besonders nachts."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren."],

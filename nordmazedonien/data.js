@@ -37,17 +37,17 @@ window.QT = {
     ["193", "Feuerwehr"],
     ["194", "Rettungsdienst"]
   ],
-  embassy: {"title": "Deutsche Botschaft Skopje", "address": ["Lerinska 59", "1000 Skopje"], "phone": "+389 2 3093 900"},
+  embassy: {"title": "Deutsche Botschaft Skopje", "address": ["ul. Lerinska 59", "1000 Skopje"], "phone": "+389 2 309 39 00"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/nordmazedonien-node",
 
   rules: [
-    ["Anmeldung", "Ausländer müssen innerhalb von 24 Stunden polizeilich gemeldet sein – Hotels erledigen das, bei Privatunterkünften nachfragen."],
+    ["Anmeldung", "Ausländer müssen innerhalb von 24 Stunden polizeilich gemeldet sein (privat untergebracht: 48 Stunden) – Hotels erledigen das, bei Privatunterkünften nachfragen. Pass/Ausweis muss bei Einreise noch 6 Monate gültig sein."],
     ["Kirchen & Moscheen", "Schultern und Knie bedecken; in Moscheen Schuhe ausziehen, Frauen Kopftuch."],
     ["Bargeld", "Außerhalb der Städte oft nur Bargeld. Euro werden manchmal angenommen, Wechselgeld kommt in Denar."],
     ["Trinkgeld", "Rund 10 % in Restaurants sind üblich."]
   ],
   car: [
-    ["Promille", "0,5 ‰; Fahranfänger 0,0 ‰."],
+    ["Promille", "0,5 ‰; Fahranfänger 0,1 ‰ (in den ersten zwei Jahren außerdem kein Fahren von 23 bis 5 Uhr)."],
     ["Licht & Maut", "Licht auch tagsüber Pflicht. Maut auf den Autobahnen, an den Mautstellen bar oder mit Karte zahlen."]
   ],
   substances: [

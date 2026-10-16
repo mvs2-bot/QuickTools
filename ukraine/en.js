@@ -23,5 +23,10 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Lwiw": "Lviv",
 "Odessa": "Odesa",
 "Czernowitz": "Chernivtsi",
-"Uschhorod": "Uzhhorod"
+"Uschhorod": "Uzhhorod",
+"Deutsche Botschaft Kyjiw": "German Embassy Kyiv",
+"01901 Kyjiw": "01901 Kyiv",
+"In Kyjiw und vielen anderen Orten gilt nachts eine Ausgangssperre – Zeiten je nach Region, kurzfristige Änderungen möglich, vor Ort erfragen.": "A night-time curfew applies in Kyiv and many other places – times vary by region and may change at short notice, ask locally.",
+"Einreise": "Entry",
+"Nur mit Reisepass, nicht mit Personalausweis. Visumfrei bis 90 Tage je 180 Tage; Krankenversicherung Pflicht.": "Passport only, not an ID card. Visa-free for up to 90 days in any 180; health insurance is mandatory."
 });

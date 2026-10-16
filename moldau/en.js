@@ -16,5 +16,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Prepaid-SIM von Orange oder Moldcell (Pass nötig) – günstig und gutes Netz. Oder vorab eSIM.": "Prepaid SIM from Orange or Moldcell (passport required) – cheap with good coverage. Or an eSIM in advance.",
 "Taxis in Chișinău zum Festpreis bestellen.": "Book taxis in Chișinău at a fixed price.",
 "Für Autos mit ausländischem Kennzeichen ist eine Vignette („Rovinietă“) Pflicht – an der Grenze kaufen.": "Cars with foreign plates need a vignette (\"rovinietă\") – buy it at the border.",
-"0,3 ‰. Straßen außerhalb der Städte oft in schlechtem Zustand.": "0.3 ‰. Roads outside the cities are often in poor condition."
+"0,3 ‰. Straßen außerhalb der Städte oft in schlechtem Zustand.": "0.3 ‰. Roads outside the cities are often in poor condition.",
+"Der Landesteil östlich des Dnister hat sich abgespalten und ist von keinem UN-Staat anerkannt. Eigene Kontrollposten, eigene Währung (Transnistrischer Rubel); deutsche Konsularhilfe ist dort nicht möglich. Das Auswärtige Amt rät von Reisen nach Transnistrien ab.": "The region east of the Dniester has broken away and is not recognised by any UN member state. It has its own checkpoints and currency (Transnistrian rouble); German consular assistance is not possible there. The German Foreign Office advises against travel to Transnistria.",
+"Für Autos mit ausländischem Kennzeichen ist eine Vignette („Rovinietă“) Pflicht – an Tankstellen, Bankfilialen oder online als E-Vignette. Grüne Karte vorgeschrieben.": "Cars with foreign plates need a vignette (\"rovinietă\") – available at petrol stations, bank branches or online as an e-vignette. A Green Card is required.",
+"0,0 ‰. Straßen außerhalb der Städte oft in schlechtem Zustand – nachts nicht über Land fahren.": "0.0 ‰. Roads outside the cities are often in poor condition – avoid driving cross-country at night."
 });

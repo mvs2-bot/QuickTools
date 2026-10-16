@@ -27,19 +27,20 @@ window.QT = {
   ],
 
   status: [
-    ["Kosovo", "Serbien erkennt die Unabhängigkeit des Kosovo (2008) nicht an. Wer über den Kosovo einreist, wird an der Grenze zu Serbien oft abgewiesen – Einreise nach Serbien daher direkt planen."]
+    ["Kosovo", "Serbien erkennt die Unabhängigkeit des Kosovo (2008) nicht an. Einreise aus Kosovo nach Serbien nur, wenn man zuvor aus Serbien nach Kosovo eingereist ist – sonst wird man abgewiesen. Einreise nach Serbien daher direkt planen."]
   ],
   emergency: [
     ["192", "Polizei"],
     ["193", "Feuerwehr"],
     ["194", "Rettungsdienst"]
   ],
-  embassy: {"title": "Deutsche Botschaft Belgrad", "address": ["Kneza Miloša 74–76", "11000 Belgrad"], "phone": "+381 11 306 4300"},
+  embassy: {"title": "Deutsche Botschaft Belgrad", "address": ["Kneza Miloša 74–76", "11000 Belgrad"], "phone": "+381 11 306 44 00", "emergency": "+381 63 21 93 62"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/serbien-node",
 
   rules: [
     ["Anmeldung", "Ausländer müssen innerhalb von 24 Stunden polizeilich gemeldet sein – Hotels erledigen das, bei Privatunterkünften nachfragen."],
     ["Rauchen", "In vielen Cafés und Kneipen wird drinnen geraucht."],
+    ["Demonstrationen", "Landesweit kann es spontan zu teils gewaltsamen Protesten kommen, besonders in Belgrad – Menschenansammlungen meiden."],
     ["Kirchen & Klöster", "Schultern und Knie bedecken."],
     ["Trinkgeld", "Rund 10 % in Restaurants sind üblich."]
   ],

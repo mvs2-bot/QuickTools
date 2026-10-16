@@ -35,18 +35,19 @@ window.QT = {
     ["102", "Polizei"],
     ["103", "Rettungsdienst"]
   ],
-  embassy: {"title": "Deutsche Botschaft Kiew", "address": ["wul. Bohdana Chmelnyzkoho 25", "01901 Kiew"], "phone": "+380 44 281 100"},
+  embassy: {"title": "Deutsche Botschaft Kyjiw", "address": ["wul. Bohdana Chmelnyzkoho 25", "01901 Kyjiw"], "phone": "+380 44 281 11 00"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/ukraine-node",
 
   rules: [
     ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Ukraine – vor jeder Reise die aktuelle Lage prüfen."],
     ["Luftalarm", "Bei Luftalarm sofort einen Schutzraum oder eine Metrostation aufsuchen. Alarm-App installieren."],
-    ["Ausgangssperre", "Nachts gilt landesweit eine Ausgangssperre – Zeiten je nach Region, vor Ort erfragen."],
+    ["Ausgangssperre", "In Kyjiw und vielen anderen Orten gilt nachts eine Ausgangssperre – Zeiten je nach Region, kurzfristige Änderungen möglich, vor Ort erfragen."],
     ["Fotografieren", "Keine Fotos oder Videos von Militär, Checkpoints, Infrastruktur oder Einschlagorten – auch nicht posten."],
-    ["Anreise", "Kein ziviler Flugverkehr – Anreise nur auf dem Landweg, meist per Zug über Polen."]
+    ["Anreise", "Kein ziviler Flugverkehr – Anreise nur auf dem Landweg, meist per Zug über Polen."],
+    ["Einreise", "Nur mit Reisepass, nicht mit Personalausweis. Visumfrei bis 90 Tage je 180 Tage; Krankenversicherung Pflicht."]
   ],
   car: [
-    ["Promille", "0,2 ‰."],
+    ["Promille", "0,0 ‰."],
     ["Kontrollen", "Viele Checkpoints – Pass, Führerschein und Fahrzeugpapiere griffbereit haben."]
   ],
   substances: [

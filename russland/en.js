@@ -21,5 +21,12 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Sankt Petersburg": "St Petersburg",
 "Kasan": "Kazan",
 "Sotschi": "Sochi",
-"Wladiwostok": "Vladivostok"
+"Wladiwostok": "Vladivostok",
+"Das Auswärtige Amt warnt vor Reisen nach Russland und rät, die Ausreise zu prüfen, wenn man sich dort aufhält.": "The German Foreign Office warns against travel to Russia and advises anyone there to consider leaving.",
+"Einreise": "Entry",
+"Nur mit Reisepass (mind. 6 Monate gültig) und Visum, vorab beantragt; E-Visum für bis zu 30 Tage möglich. Ab 7 Tagen Aufenthalt Anmeldepflicht.": "Passport (valid for at least 6 months) and a visa applied for in advance only; an e-visa for up to 30 days is possible. Stays of 7 days or more require registration.",
+"Deutsche Kredit- und Bankkarten und Bezahlapps funktionieren nicht. Euro-Bargeld darf laut EU-Sanktionen nur für den persönlichen Reisebedarf mitgenommen werden (in der Praxis wenige hundert Euro) – sonst drohen Beschlagnahme und Strafverfahren.": "German credit and debit cards and payment apps do not work. Under EU sanctions, euro cash may only be taken for personal travel needs (in practice a few hundred euros) – otherwise confiscation and prosecution may follow.",
+"Licht auch tagsüber Pflicht. Viele Radarkontrollen. EU-Kfz-Versicherungen gelten nicht – an der Grenze eine russische Versicherung abschließen.": "Headlights are mandatory during the day. Many speed cameras. EU car insurance is not valid – buy Russian insurance at the border.",
+"Ausländische SIM-Karten werden nach der Einreise meist 24 Stunden für mobiles Internet und SMS gesperrt; Roaming ist extrem teuer. Mobiles Internet wird regional oft abgeschaltet, viele Apps sind blockiert. Nicht zugelassene VPNs zu nutzen ist strafbar.": "Foreign SIM cards are usually blocked for mobile data and SMS for 24 hours after entry; roaming is extremely expensive. Mobile internet is often shut down regionally and many apps are blocked. Using unapproved VPNs is a criminal offence.",
+"SIM von MTS, MegaFon oder Beeline: Ausländer brauchen seit 2025 SNILS-Nummer, Gosuslugi-Konto und biometrische Erfassung – sehr aufwendig.": "SIM from MTS, MegaFon or Beeline: since 2025 foreigners need a SNILS number, a Gosuslugi account and biometric registration – very cumbersome."
 });

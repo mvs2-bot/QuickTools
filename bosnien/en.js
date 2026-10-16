@@ -12,5 +12,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Licht auch tagsüber Pflicht. Bergstraßen sind eng und kurvig – defensiv fahren, besonders nachts.": "Headlights are mandatory during the day. Mountain roads are narrow and winding – drive defensively, especially at night.",
 "Bosnien und Herzegowina ist nicht in der EU – Roaming kann teuer sein. Tarif vorher prüfen!": "Bosnia and Herzegovina is not in the EU – roaming can be expensive. Check your plan beforehand!",
 "Touristen-SIM von BH Telecom, m:tel oder HT Eronet (Pass nötig) – oder vorab eSIM.": "Tourist SIM from BH Telecom, m:tel or HT Eronet (passport required) – or an eSIM in advance.",
-"Kravica-Wasserfälle": "Kravica Waterfalls"
+"Kravica-Wasserfälle": "Kravica Waterfalls",
+"0,3 ‰; Fahranfänger und unter 21 Jahren 0,0 ‰.": "0.3 ‰; new drivers and under-21s 0.0 ‰.",
+"Licht auch tagsüber Pflicht. Vom 1. November bis 1. April Winterreifen Pflicht. Bergstraßen sind eng und kurvig – defensiv fahren, besonders nachts.": "Headlights are mandatory during the day. Winter tyres are mandatory from 1 November to 1 April. Mountain roads are narrow and winding – drive defensively, especially at night.",
+"Bergrettung": "Mountain rescue"
 });

@@ -14,5 +14,12 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Die Grüne Karte gilt in Kosovo nicht – an der Grenze eine Kfz-Grenzversicherung abschließen.": "The Green Card is not valid in Kosovo – buy border car insurance when you enter.",
 "Kosovo ist nicht in der EU – Roaming ist mit vielen deutschen Tarifen sehr teuer. Tarif vorher prüfen!": "Kosovo is not in the EU – roaming is very expensive with many German plans. Check your plan beforehand!",
 "Prepaid-SIM von Vala oder IPKO (Pass nötig) – oder vorab eSIM.": "Prepaid SIM from Vala or IPKO (passport required) – or an eSIM in advance.",
-"Rugova-Schlucht": "Rugova Gorge"
+"Rugova-Schlucht": "Rugova Gorge",
+"Rruga Azem Jashanica 66": "Rruga Azem Jashanica 66",
+"(gleiche Nummer, auch außerhalb der Dienstzeiten)": "(same number, also outside office hours)",
+"Im Norden (Nord-Mitrovica, Zvečan, Zubin Potok, Leposavić) lebt überwiegend die serbische Minderheit; dort kommt es immer wieder zu Spannungen. Das Auswärtige Amt rät dort zu besonderer Vorsicht (keine formelle Teilreisewarnung); Grenzübergänge zu Serbien können kurzfristig schließen.": "The north (North Mitrovica, Zvečan, Zubin Potok, Leposavić) is mainly home to the Serbian minority; tensions flare up there repeatedly. The German Foreign Office advises particular caution there (no formal partial travel warning); border crossings to Serbia may close at short notice.",
+"Anmeldung": "Registration",
+"Ausländer müssen sich innerhalb von 3 Tagen nach Einreise anmelden – Hotels erledigen das. Ausweis muss bei Einreise noch 3 Monate gültig sein.": "Foreigners must register within 3 days of arrival – hotels do this. Your ID must be valid for 3 more months on entry.",
+"Falschgeld": "Counterfeit money",
+"Es kursieren viele gefälschte 2-Euro-Münzen (deutsches Adlermotiv) – Münzen prüfen.": "Many counterfeit 2-euro coins (German eagle design) are in circulation – check your coins."
 });

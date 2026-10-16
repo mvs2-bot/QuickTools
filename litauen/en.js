@@ -11,5 +11,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "eSIM (z. B. Airalo) oder Prepaid-SIM von Telia, Tele2 oder Bitė.": "eSIM (e.g. Airalo) or prepaid SIM from Telia, Tele2 or Bitė.",
 "Fahrdienst – in Vilnius und anderen Städten verbreitet.": "Ride-hailing – common in Vilnius and other towns.",
 "Zugtickets im Land und nach Riga.": "Train tickets within the country and to Riga.",
-"Nida (Kurische Nehrung)": "Nida (Curonian Spit)"
+"Nida (Kurische Nehrung)": "Nida (Curonian Spit)",
+"Licht auch tagsüber Pflicht. Vom 10. November bis 1. April Winterreifen Pflicht; Feuerlöscher und Warnweste mitführen.": "Headlights are mandatory during the day. Winter tyres are mandatory from 10 November to 1 April; carry a fire extinguisher and a hi-vis vest."
 });

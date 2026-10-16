@@ -20,5 +20,12 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Viele Radarkontrollen und Polizeisperren – Führerschein, Pass und Mietvertrag griffbereit haben.": "Many speed cameras and police checkpoints – keep your licence, passport and rental contract handy.",
 "Ab 18. Läden dürfen von 22 bis 6 Uhr keinen Alkohol verkaufen.": "From 18. Shops may not sell alcohol between 10 pm and 6 am.",
 "Verkauf und Einfuhr sind verboten – besser zu Hause lassen.": "Sale and import are banned – better leave them at home.",
-"Auch Cannabis ist verboten; es drohen lange Haftstrafen.": "Cannabis is also illegal; long prison sentences are possible."
+"Auch Cannabis ist verboten; es drohen lange Haftstrafen.": "Cannabis is also illegal; long prison sentences are possible.",
+"(gemeinsamer Bereitschaftsdienst aller deutschen Vertretungen in der Türkei)": "(joint on-call service of all German missions in Turkey)",
+"Beleidigung Atatürks, des Präsidenten, der Nation oder staatlicher Symbole ist strafbar – auch Teilen oder Liken in Social Media.": "Insulting Atatürk, the president, the nation or state symbols is a criminal offence – including sharing or liking posts on social media.",
+"Antiquitäten (auch alte Münzen oder bearbeitete Steine) dürfen ohne Genehmigung nicht ausgeführt werden – bis zu 10 Jahre Haft. Kaufbeleg aufbewahren.": "Antiques (including old coins or worked stones) may not be exported without a permit – up to 10 years in prison. Keep the receipt.",
+"Grenzgebiete": "Border areas",
+"Im Grenzgebiet zu Syrien (u. a. Şanlıurfa, Mardin) und zum Irak bestehen Gefahren; dort gilt ein striktes Fotografierverbot.": "The border areas with Syria (incl. Şanlıurfa, Mardin) and Iraq are dangerous; photography is strictly banned there.",
+"0,5 ‰ (mit Anhänger 0,0 ‰).": "0.5 ‰ (0.0 ‰ when towing a trailer).",
+"Auch Cannabis und CBD-Produkte (auch medizinische) sind verboten; für die Einfuhr drohen 10 bis 20 Jahre Haft.": "Cannabis and CBD products (including medical ones) are also illegal; importing them carries 10 to 20 years in prison."
 });
