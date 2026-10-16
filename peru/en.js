@@ -1,5 +1,7 @@
 /* Englische Texte nur für Peru (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"(Notfälle, auch SMS/WhatsApp – keine Visafragen)": "(emergencies, also SMS/WhatsApp – no visa questions)",
+"Nur offizielle oder App-Taxis nutzen, Wertsachen nicht offen zeigen, besonders in Lima. In Lima/Callao, Teilen des Nordens und im VRAEM gilt der Ausnahmezustand; Demonstrationen und Straßenblockaden meiden.": "Only use official or app taxis, don't show valuables openly, especially in Lima. A state of emergency applies in Lima/Callao, parts of the north and the VRAEM; avoid demonstrations and road blockades.",
 "Peruanischer Sol": "Peruvian sol",
 "🇵🇪 Spanisch": "🇵🇪 Spanish",
 "🏔️ Quechua (Grüße)": "🏔️ Quechua (greetings)",

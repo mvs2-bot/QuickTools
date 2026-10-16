@@ -1,5 +1,9 @@
 /* Englische Texte nur für Bolivien (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"(Notfälle bis Mitternacht, keine Visaanfragen)": "(emergencies until midnight, no visa enquiries)",
+"Das Auswärtige Amt rät dringend von Reisen in den Chapare (Cochabamba, inkl. Villa Tunari, Routen 4 und 24) und von Reisen ins Grenzgebiet zu Brasilien (Santa Cruz) ab. Landesweit gilt bis voraussichtlich 17.12.2026 der Ausnahmezustand. Nur offizielle Funk- oder App-Taxis nutzen, bei Straßenblockaden (bloqueos) nicht durchfahren.": "The German Foreign Office strongly advises against travel to the Chapare (Cochabamba, incl. Villa Tunari, routes 4 and 24) and advises against travel to the border area with Brazil (Santa Cruz). A nationwide state of emergency applies, expected until 17 Dec 2026. Only use official radio or app taxis; don't drive through road blockades (bloqueos).",
+"Nachts nicht über Land fahren. Bei Straßenblockaden (bloqueos) nicht durchfahren. Benzin und Diesel sind zeitweise knapp – vollen Reservekanister mitnehmen.": "Don’t drive cross-country at night. Don’t drive through road blockades (bloqueos). Petrol and diesel are sometimes scarce – carry a full spare canister.",
+"Alkohol ab 18, Trinken in der Öffentlichkeit ist verboten; rund um Wahlen gilt oft ein Alkoholverbot („Ley seca“). Andere Drogen werden mit langen Haftstrafen bestraft.": "Alcohol from 18, drinking in public is prohibited; around elections an alcohol ban (\"ley seca\") often applies. Other drugs are punished with long prison sentences.",
 "🇧🇴 Spanisch": "🇧🇴 Spanish",
 "🏔️ Aymara & Quechua (Grüße)": "🏔️ Aymara & Quechua (greetings)",
 "Hallo / Guten Tag (Aymara)": "Hello / Good day (Aymara)",

@@ -40,7 +40,8 @@ window.QT = {
   embassy: {
     title: 'Deutsche Botschaft Lima',
     address: ['Av. Dionisio Derteano 144, Edificio Alto Caral, 7./8. Stock', 'San Isidro, Lima'],
-    phone: '+51 1 203 5940'
+    phone: '+51 1 203 5940',
+    emergency: '+51 989 556 999', emergencyNote: '(Notfälle, auch SMS/WhatsApp – keine Visafragen)'
   },
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/peru-node',
 
@@ -48,7 +49,7 @@ window.QT = {
     ["Höhe", "Cusco liegt auf ca. 3.400 m, Puno auf ca. 3.800 m: langsam akklimatisieren, viel trinken, Coca-Tee hilft vielen. Bei starken Beschwerden absteigen und Arzt aufsuchen."],
     ["Machu Picchu", "Tickets sind auf festgelegte Zeitfenster und Rundwege begrenzt – lange vorher buchen und Reisepass mitnehmen."],
     ["Fotografieren", "Menschen nur nach vorheriger Frage fotografieren – für Fotos mit Lamas oder Trachten wird oft ein kleiner Betrag erwartet."],
-    ["Sicherheit", "Nur offizielle oder App-Taxis nutzen, Wertsachen nicht offen zeigen, besonders in Lima."]
+    ["Sicherheit", "Nur offizielle oder App-Taxis nutzen, Wertsachen nicht offen zeigen, besonders in Lima. In Lima/Callao, Teilen des Nordens und im VRAEM gilt der Ausnahmezustand; Demonstrationen und Straßenblockaden meiden."]
   ],
   car: [
     ["Promille", "0,5 ‰. Internationalen Führerschein mitnehmen."],

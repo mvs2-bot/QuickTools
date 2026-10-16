@@ -40,23 +40,24 @@ window.QT = {
   embassy: {
     title: 'Deutsche Botschaft La Paz',
     address: ['Avenida Arce 2395, Ecke Calle Belisario Salinas', 'La Paz'],
-    phone: '+591 2 244 0066'
+    phone: '+591 2 244 0066',
+    emergency: '+591 7152 7279', emergencyNote: '(Notfälle bis Mitternacht, keine Visaanfragen)'
   },
   aaUrl: 'https://www.auswaertiges-amt.de/de/service/laender/bolivien-node',
 
   rules: [
     ["Höhe", "La Paz liegt auf ca. 3.600 m, El Alto über 4.000 m: langsam akklimatisieren, viel trinken, Coca-Tee hilft vielen. Bei starken Beschwerden absteigen und Arzt aufsuchen."],
     ["Fotografieren", "Menschen, besonders Indigene, nur nach vorheriger Frage fotografieren."],
-    ["Sicherheit", "Nur offizielle Funk- oder App-Taxis nutzen, Wertsachen nicht offen zeigen. Bei Straßenblockaden (bloqueos) nicht durchfahren."],
+    ["Sicherheit", "Das Auswärtige Amt rät dringend von Reisen in den Chapare (Cochabamba, inkl. Villa Tunari, Routen 4 und 24) und von Reisen ins Grenzgebiet zu Brasilien (Santa Cruz) ab. Landesweit gilt bis voraussichtlich 17.12.2026 der Ausnahmezustand. Nur offizielle Funk- oder App-Taxis nutzen, bei Straßenblockaden (bloqueos) nicht durchfahren."],
     ["Bargeld", "Kleine Scheine bereithalten – Wechselgeld ist oft knapp. Außerhalb der Städte kaum Kartenzahlung."]
   ],
   car: [
     ["Promille", "0,5 ‰. Internationalen Führerschein mitnehmen."],
-    ["Straßen", "Nachts nicht über Land fahren. Bei Straßenblockaden (bloqueos) nicht durchfahren."]
+    ["Straßen", "Nachts nicht über Land fahren. Bei Straßenblockaden (bloqueos) nicht durchfahren. Benzin und Diesel sind zeitweise knapp – vollen Reservekanister mitnehmen."]
   ],
   substances: [
     ["Coca", "Coca-Blätter sind in Bolivien legal, dürfen aber nicht nach Deutschland/EU mitgenommen werden."],
-    ["Alkohol & Drogen", "Alkohol ab 18; rund um Wahlen gilt oft ein Alkoholverbot („Ley seca“). Andere Drogen werden streng bestraft."]
+    ["Alkohol & Drogen", "Alkohol ab 18, Trinken in der Öffentlichkeit ist verboten; rund um Wahlen gilt oft ein Alkoholverbot („Ley seca“). Andere Drogen werden mit langen Haftstrafen bestraft."]
   ],
   sim: [
     ['Lokale SIM', 'Prepaid-SIM von Entel (beste Abdeckung), Tigo oder Viva im Shop – Reisepass nötig.'],
