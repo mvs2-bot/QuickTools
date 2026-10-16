@@ -1,6 +1,5 @@
 /* Englische Texte nur für Spanien (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
-"🇪🇸 Spanisch": "🇪🇸 Spanish",
 "Deutsche Botschaft Madrid": "German Embassy Madrid",
 "Mittagessen meist 14–16 Uhr, Abendessen ab ca. 21 Uhr. Viele Restaurants sind dazwischen geschlossen.": "Lunch usually 2–4 pm, dinner from about 9 pm. Many restaurants are closed in between.",
 "Strand & Stadt": "Beach & city",

@@ -1,7 +1,6 @@
 /* Englische Texte nur für Albanien (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Albanischer Lek": "Albanian lek",
-"🇦🇱 Albanisch": "🇦🇱 Albanian",
 "Deutsche Botschaft Tirana": "German Embassy Tirana",
 "(Deutsch/Englisch)": "(German/English)",
 "Achtung: Kopfnicken kann „nein“ bedeuten und Kopfschütteln „ja“ – im Zweifel nachfragen.": "Careful: nodding can mean \"no\" and shaking your head \"yes\" – ask if in doubt.",
@@ -12,7 +11,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Albanien gehört nicht zur EU – Roaming mit deutschem Tarif kann teuer sein. Tarif vorher prüfen!": "Albania is not in the EU – roaming with a German plan can be expensive. Check your plan beforehand!",
 "Prepaid-SIM von Vodafone Albania oder One im Shop (Pass nötig) oder vorab eSIM (z. B. Airalo).": "Prepaid SIM from Vodafone Albania or One in a shop (passport required) or an eSIM in advance (e.g. Airalo).",
 "Kein Uber – im Taxi auf Taximeter bestehen oder den Preis vor der Fahrt vereinbaren.": "No Uber – insist on the meter or agree on the price before the ride.",
-"Busse": "Buses",
 "Fernbusse (Furgon) fahren oft ohne festen Online-Fahrplan – vor Ort am Busbahnhof oder in der Unterkunft fragen.": "Long-distance buses (furgon) often run without a fixed online timetable – ask at the bus station or your accommodation.",
 "Praktisch 0,0 ‰ – die Grenze liegt bei 0,1 ‰.": "Practically 0.0 ‰ – the limit is 0.1 ‰.",
 "Fahrweise": "Driving style",

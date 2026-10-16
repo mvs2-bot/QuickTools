@@ -1,0 +1,24 @@
+/* Englische Texte nur für Turkmenistan (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Turkmenistan-Manat": "Turkmenistan manat",
+"Nicht üblich, in besseren Restaurants ca. 10 %": "Not customary, approx. 10 % in better restaurants",
+"🇹🇲 Turkmenisch": "🇹🇲 Turkmen",
+"Deutsche Botschaft Aschgabat": "German Embassy Ashgabat",
+"744000 Aschgabat": "744000 Ashgabat",
+"Visum nur mit Einladung (LOI) einer Reiseagentur oder als Transitvisum; Touristen reisen meist mit Agentur und Guide. Registrierung bei längerem Aufenthalt Pflicht.": "Visa only with a letter of invitation (LOI) from a travel agency or as a transit visa; tourists usually travel with an agency and guide. Registration is mandatory for longer stays.",
+"Keine Fotos von Regierungsgebäuden, Polizei, Militär oder Präsidentenpalast – in Aschgabat wird das streng kontrolliert.": "No photos of government buildings, police, the military or the presidential palace – this is strictly enforced in Ashgabat.",
+"Saubere, neue US-Dollar-Scheine mitbringen; ausländische Karten funktionieren kaum.": "Bring clean, new US dollar notes; foreign cards hardly work.",
+"Stark zensiert und langsam; viele Apps und Seiten sind gesperrt, VPN-Nutzung ist verboten.": "Heavily censored and slow; many apps and websites are blocked, using a VPN is forbidden.",
+"Keine Kritik am Präsidenten oder an der Regierung – auch nicht in Nachrichten oder sozialen Medien.": "No criticism of the president or the government – not even in messages or on social media.",
+"Für Touristen praktisch nicht möglich – Fahrer über die Reiseagentur. Viele Polizeikontrollen.": "Practically impossible for tourists – arrange a driver through your travel agency. Many police checks.",
+"Erhältlich, ab 18 Jahren; Verkauf zeitlich eingeschränkt.": "Available from 18; sales restricted to certain hours.",
+"In der Öffentlichkeit verboten, Tabak streng reguliert – nur kleine Mengen Zigaretten einführen.": "Banned in public, tobacco is strictly regulated – only bring in small quantities of cigarettes.",
+"Sehr harte Strafen, auch für kleine Mengen.": "Very harsh penalties, even for small amounts.",
+"TMCell – Pass nötig, Kauf oft umständlich. Viele Reisende bleiben offline und nutzen Hotel-WLAN.": "TMCell – passport required, buying one is often cumbersome. Many travellers stay offline and use hotel Wi-Fi.",
+"Offline-Karten – vor der Einreise herunterladen.": "Offline maps – download before entering the country.",
+"Aschgabat": "Ashgabat",
+"Darvaza-Krater": "Darvaza Crater",
+"Merw": "Merv",
+"Köneürgenç": "Konye-Urgench",
+"Türkmenbaşy": "Turkmenbashi"
+});

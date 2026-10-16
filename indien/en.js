@@ -1,0 +1,27 @@
+/* Englische Texte nur für Indien (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Indische Rupie": "Indian rupee",
+"Nicht trinkbar – nur versiegeltes Flaschenwasser": "Not drinkable – sealed bottled water only",
+"🇮🇳 Hindi": "🇮🇳 Hindi",
+"🇮🇳 Tamil (Südindien)": "🇮🇳 Tamil (South India)",
+"Kaschmir ist zwischen Indien, Pakistan und (in Teilen) China umstritten. Indien verwaltet Jammu und Kaschmir sowie Ladakh und beansprucht auch die pakistanisch und chinesisch verwalteten Teile.": "Kashmir is disputed between India, Pakistan and (in part) China. India administers Jammu and Kashmir as well as Ladakh and also claims the parts administered by Pakistan and China.",
+"Wird von China als „Südtibet“ beansprucht. Für diesen und einige andere Grenzstaaten (z. B. Sikkim) brauchen Ausländer eine Sondergenehmigung (Protected/Restricted Area Permit).": "Claimed by China as \"South Tibet\". Foreigners need a special permit (Protected/Restricted Area Permit) for this and some other border states (e.g. Sikkim).",
+"Tourist-Helpline (auch Englisch)": "Tourist helpline (English too)",
+"Deutsche Botschaft Neu-Delhi": "German Embassy New Delhi",
+"Das Auswärtige Amt warnt vor Reisen in Teile Indiens (u. a. Jammu und Kaschmir außer Ladakh, das Grenzgebiet zu Pakistan und Manipur) – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to parts of India (incl. Jammu and Kashmir except Ladakh, the border area with Pakistan, and Manipur) – check the current situation before every trip.",
+"Visum nötig – am einfachsten vorab online als e-Visum (nur über die offizielle Regierungsseite, nicht über Vermittler).": "Visa required – easiest as an e-visa online in advance (only via the official government website, not through agents).",
+"Schuhe ausziehen, Schultern und Knie bedecken; Lederwaren sind in manchen Tempeln nicht erlaubt. Nicht-Hindus haben zu einigen Tempeln keinen Zutritt.": "Take off your shoes, cover shoulders and knees; leather items are not allowed in some temples. Non-Hindus may not enter some temples.",
+"Kühe sind Hindus heilig. Rindfleisch ist in vielen Bundesstaaten verboten.": "Cows are sacred to Hindus. Beef is banned in many states.",
+"Frauen": "Women",
+"Lieber dezent kleiden; nachts nicht allein in unregistrierte Taxis/Rikschas steigen – App-Taxis nutzen.": "Better dress modestly; don't get into unregistered taxis/rickshaws alone at night – use app taxis.",
+"0,3 ‰. Linksverkehr.": "0.3 ‰. Driving on the left.",
+"Sehr chaotischer Verkehr – besser Auto mit Fahrer mieten (günstig und üblich).": "Very chaotic traffic – better hire a car with a driver (cheap and common).",
+"Mindestalter je nach Bundesstaat 18–25. In Gujarat und Bihar gilt ein Alkoholverbot; an Wahl- und manchen Feiertagen („Dry Days“) kein Verkauf.": "Minimum age 18–25 depending on the state. Alcohol is banned in Gujarat and Bihar; no sales on election days and some holidays (\"dry days\").",
+"Verkauf und Einfuhr verboten – nicht mitnehmen.": "Sale and import banned – don't bring any.",
+"Drogendelikte werden sehr streng bestraft, auch kleine Mengen Cannabis.": "Drug offences are punished very severely, even small amounts of cannabis.",
+"Jio, Airtel oder Vi – mit Pass, Visum und Passfoto; Freischaltung dauert teils einige Stunden.": "Jio, Airtel or Vi – with passport, visa and passport photo; activation can take a few hours.",
+"Uber & Ola": "Uber & Ola",
+"Fahrdienste inkl. Autorikschas – Preis steht vorher fest.": "Ride-hailing incl. auto-rickshaws – price fixed in advance.",
+"Offizielle Zugtickets – Züge sind oft Wochen vorher ausgebucht.": "Official train tickets – trains are often booked out weeks ahead.",
+"Neu-Delhi": "New Delhi"
+});

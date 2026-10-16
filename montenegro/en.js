@@ -9,7 +9,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Unterkünfte müssen Gäste anmelden – den Anmeldezettel aufbewahren.": "Accommodation must register guests – keep the registration slip.",
 "Montenegro ist nicht in der EU – Roaming kann teuer sein. Tarif vorher prüfen!": "Montenegro is not in the EU – roaming can be expensive. Check your plan beforehand!",
 "Touristen-SIM von One, Crnogorski Telekom oder m:tel (Pass nötig) – oder vorab eSIM.": "Tourist SIM from One, Crnogorski Telekom or m:tel (passport required) – or an eSIM in advance.",
-"Auf Taxameter bestehen oder den Preis vor der Fahrt vereinbaren.": "Insist on the meter or agree on the price before the ride.",
 "Fernbusse im Land und in die Nachbarländer.": "Long-distance buses within the country and to neighbouring countries.",
 "In Städten meist trinkbar, an der Küste lieber Flaschenwasser": "Mostly drinkable in cities, better bottled water on the coast"
 });

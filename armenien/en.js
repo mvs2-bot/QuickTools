@@ -1,0 +1,26 @@
+/* Englische Texte nur für Armenien (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Armenischer Dram": "Armenian dram",
+"In Jerewan trinkbar (Quellwasser), sonst lieber Flaschenwasser": "Drinkable in Yerevan (spring water), otherwise better bottled water",
+"🇦🇲 Armenisch": "🇦🇲 Armenian",
+"Pakistan erkennt Armenien nicht als Staat an (aus Solidarität mit Aserbaidschan); es gibt keine diplomatischen Beziehungen.": "Pakistan does not recognise Armenia as a state (in solidarity with Azerbaijan); there are no diplomatic relations.",
+"Die früher armenisch kontrollierte Region steht seit 2023 vollständig unter aserbaidschanischer Kontrolle; fast die gesamte armenische Bevölkerung hat sie verlassen. Die Grenzen zu Aserbaidschan und zur Türkei sind geschlossen.": "The formerly Armenian-controlled region has been fully under Azerbaijani control since 2023; almost the entire Armenian population has left. The borders with Azerbaijan and Turkey are closed.",
+"Deutsche Botschaft Eriwan": "German Embassy Yerevan",
+"Tscharenz-Straße 29": "29 Charents Street",
+"0025 Jerewan": "0025 Yerevan",
+"Von Reisen in das Grenzgebiet zu Aserbaidschan rät das Auswärtige Amt ab – aktuelle Hinweise prüfen.": "The German Foreign Office advises against travel to the border area with Azerbaijan – check current advice.",
+"Mit deutschem Pass bis 180 Tage visumfrei. Landweg nur über Georgien oder Iran.": "Visa-free for up to 180 days with a German passport. Overland only via Georgia or Iran.",
+"Schultern und Knie bedecken; Frauen tragen in Kirchen oft ein Kopftuch.": "Cover shoulders and knees; women often wear a headscarf in churches.",
+"Sensible Themen": "Sensitive topics",
+"Der Völkermord an den Armeniern (1915) und Bergkarabach sind sehr emotionale Themen – zurückhaltend und respektvoll ansprechen.": "The Armenian Genocide (1915) and Nagorno-Karabakh are very emotional topics – raise them with restraint and respect.",
+"Einladungen zu Essen und Trinksprüchen mit Cognac oder Wein sind üblich – ein Glas abzulehnen ist okay.": "Invitations to meals and toasts with brandy or wine are common – it's fine to decline a glass.",
+"Am besten gar nicht trinken – strenge Kontrollen.": "Best not to drink at all – strict checks.",
+"Bergstraßen teils in schlechtem Zustand, Fahrstil oft riskant. Im Winter Pässe teils gesperrt.": "Mountain roads are partly in poor condition, driving is often risky. Some passes are closed in winter.",
+"Viva, Team oder Ucom – günstig, am Flughafen erhältlich, Pass nötig. Alternativ vorab eSIM.": "Viva, Team or Ucom – cheap, available at the airport, passport required. Alternatively an eSIM in advance.",
+"Taxi-Apps – günstig, Preis steht vorher fest.": "Taxi apps – cheap, price fixed in advance.",
+"Jerewan": "Yerevan",
+"Kloster Geghard": "Geghard Monastery",
+"Sewansee": "Lake Sevan",
+"Dilidschan": "Dilijan",
+"Kloster Tatew": "Tatev Monastery"
+});

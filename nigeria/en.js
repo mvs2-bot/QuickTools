@@ -1,0 +1,26 @@
+/* Englische Texte nur für Nigeria (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Nigerianischer Naira": "Nigerian naira",
+"🇳🇬 Englisch": "🇳🇬 English",
+"🇳🇬 Pidgin, Yoruba, Hausa & Igbo (Grüße)": "🇳🇬 Pidgin, Yoruba, Hausa & Igbo (greetings)",
+"Hallo / Wie geht’s? (Pidgin)": "Hello / How are you? (Pidgin)",
+"Mir geht’s gut (Pidgin)": "I'm fine (Pidgin)",
+"Guten Morgen (Yoruba)": "Good morning (Yoruba)",
+"Hallo (Hausa)": "Hello (Hausa)",
+"Danke (Hausa)": "Thank you (Hausa)",
+"Danke (Igbo)": "Thank you (Igbo)",
+"Notruf Lagos (Bundesstaat)": "Lagos State emergency line",
+"Deutsche Botschaft Abuja": "German Embassy Abuja",
+"Generalkonsulat Lagos: 15 Walter Carrington Crescent, Victoria Island": "Consulate General Lagos: 15 Walter Carrington Crescent, Victoria Island",
+"Das Auswärtige Amt warnt vor Reisen in große Teile des Nordens (u. a. Borno, Yobe, Kano, Kaduna, Plateau, Sokoto, Zamfara), Teile von Oyo, Adamawa und Nassarawa sowie das Grenzgebiet zu Kamerun; von nicht notwendigen Reisen außer nach Abuja, Lagos und Ibadan wird abgeraten – vor jeder Reise die aktuelle Lage prüfen.": "The Federal Foreign Office warns against travel to large parts of the north (incl. Borno, Yobe, Kano, Kaduna, Plateau, Sokoto, Zamfara), parts of Oyo, Adamawa and Nassarawa and the border area with Cameroon; non-essential travel anywhere except Abuja, Lagos and Ibadan is advised against – check the current situation before every trip.",
+"Entführungsgefahr: keine Überlandfahrten, nachts nicht unterwegs sein, nur bekannte Fahrer oder App-Taxis nutzen.": "Risk of kidnapping: no overland journeys, don't travel at night, only use known drivers or app taxis.",
+"Scharia im Norden": "Sharia in the north",
+"In zwölf nördlichen Bundesstaaten gilt Scharia-Strafrecht, Alkohol ist dort teils verboten – Kleidung und Verhalten anpassen.": "Sharia criminal law applies in twelve northern states, where alcohol is partly banned – adapt your clothing and behaviour.",
+"Gleichgeschlechtliche Beziehungen werden mit bis zu 14 Jahren Haft bestraft, im Norden teils noch härter.": "Same-sex relationships are punished with up to 14 years in prison, in the north partly even more harshly.",
+"Häufige Kontrollen, teils mit Geldforderungen – ruhig und freundlich bleiben, Pass und Visum immer dabeihaben.": "Frequent checks, sometimes with demands for money – stay calm and friendly, always carry your passport and visa.",
+"Chaotischer Verkehr und viele Kontrollposten – am besten mit ortskundigem Fahrer, nie nachts.": "Chaotic traffic and many checkpoints – best with a local driver, never at night.",
+"Im Süden weit verbreitet, in Scharia-Bundesstaaten im Norden teils verboten.": "Widely available in the south, partly banned in the Sharia states in the north.",
+"MTN, Airtel oder Glo – Registrierung mit Pass, kann dauern.": "MTN, Airtel or Glo – registration with passport, can take a while.",
+"Fahrdienste in Lagos und Abuja.": "Ride-hailing in Lagos and Abuja.",
+"Osun-Osogbo-Hain": "Osun-Osogbo Sacred Grove"
+});

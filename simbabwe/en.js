@@ -1,0 +1,25 @@
+/* Englische Texte nur für Simbabwe (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"US-Dollar (gesetzliches Zahlungsmittel)": "US dollar (legal tender)",
+"🇿🇼 Englisch": "🇿🇼 English",
+"🇿🇼 Shona & Ndebele (Grüße)": "🇿🇼 Shona & Ndebele (greetings)",
+"Hallo (Shona)": "Hello (Shona)",
+"Guten Morgen (Shona)": "Good morning (Shona)",
+"Danke (Shona)": "Thank you (Shona)",
+"Hallo (Ndebele)": "Hello (Ndebele)",
+"Danke (Ndebele)": "Thank you (Ndebele)",
+"Deutsche Botschaft Harare": "German Embassy Harare",
+"Währung": "Currency",
+"Bezahlt wird fast überall in US-Dollar – kleine, saubere Scheine mitbringen, Wechselgeld ist knapp. Daneben gibt es die Landeswährung ZiG (Zimbabwe Gold).": "Almost everything is paid in US dollars – bring small, clean notes, change is scarce. There is also the local currency ZiG (Zimbabwe Gold).",
+"Mit dem KAZA-Visum lassen sich Simbabwe und Sambia auf einer Reise besuchen.": "With the KAZA visa you can visit Zimbabwe and Zambia on one trip.",
+"Kritik am Präsidenten kann strafbar sein; politische Versammlungen meiden.": "Criticising the president can be a criminal offence; avoid political gatherings.",
+"Sexuelle Handlungen zwischen Männern sind strafbar – in der Öffentlichkeit zurückhaltend sein.": "Sexual acts between men are a criminal offence – be discreet in public.",
+"0,8 ‰. Linksverkehr.": "0.8 ‰. Driving on the left.",
+"Viele Straßensperren – zwei Warndreiecke, Feuerlöscher und reflektierende Aufkleber werden kontrolliert. Quittung für Bußgelder verlangen.": "Many roadblocks – two warning triangles, a fire extinguisher and reflective stickers are checked. Ask for a receipt for fines.",
+"Econet oder NetOne im Shop – Pass nötig (Registrierung).": "Econet or NetOne in a shop – passport required (registration).",
+"Fahrdienst in Harare und Bulawayo.": "Ride-hailing in Harare and Bulawayo.",
+"Victoria Falls (Stadt)": "Victoria Falls (town)",
+"Hwange-Nationalpark": "Hwange National Park",
+"Great Zimbabwe (Ruinen)": "Great Zimbabwe (ruins)",
+"Mana-Pools-Nationalpark": "Mana Pools National Park"
+});

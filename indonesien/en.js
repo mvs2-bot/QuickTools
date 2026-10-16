@@ -3,7 +3,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Indonesische Rupiah": "Indonesian rupiah",
 "🇮🇩 Indonesisch": "🇮🇩 Indonesian",
 "Deutsche Botschaft Jakarta": "German Embassy Jakarta",
-"(nicht für Visafragen)": "(not for visa questions)",
 "Honorarkonsul Bali: Jl. Pantai Karang 17, Sanur, Tel. +62 361 288 535": "Honorary consul Bali: Jl. Pantai Karang 17, Sanur, Tel. +62 361 288 535",
 "Tempel (Bali)": "Temples (Bali)",
 "Sarong und Schärpe tragen (oft zum Ausleihen am Eingang); während der Menstruation dürfen Frauen Tempel traditionell nicht betreten.": "Wear a sarong and sash (often available to borrow at the entrance); traditionally women may not enter temples during menstruation.",

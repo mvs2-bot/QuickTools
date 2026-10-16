@@ -1,0 +1,21 @@
+{
+  "id": "/QuickTools/kasachstan/",
+  "start_url": "./",
+  "scope": "./",
+  "name": "Quick-Tools Kasachstan",
+  "short_name": "Kasachstan",
+  "description": "Urlaubs-Quick-Tools Kasachstan",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7f4",
+  "theme_color": "#15803d",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

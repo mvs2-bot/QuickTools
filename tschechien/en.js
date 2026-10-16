@@ -18,7 +18,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Karlsbad": "Karlovy Vary",
 "Olmütz": "Olomouc",
 "0,0 ‰ – absolutes Alkoholverbot am Steuer.": "0.0 ‰ – no alcohol at all when driving.",
-"Vignette & Licht": "Vignette & lights",
 "Für Autobahnen ist eine elektronische Vignette (edalnice.cz) Pflicht. Licht auch tagsüber.": "An electronic vignette (edalnice.cz) is mandatory on motorways. Headlights on during the day.",
 "Helmpflicht bis 18 Jahre. Auch auf dem Rad gilt 0,0 ‰.": "Helmets are mandatory up to age 18. 0.0 ‰ also applies on a bike.",
 "Ab 18. In Prag ist Trinken auf vielen öffentlichen Plätzen verboten.": "From 18. In Prague drinking is banned in many public places.",

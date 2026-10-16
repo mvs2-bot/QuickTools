@@ -19,7 +19,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Essen und Einkäufe liefern lassen.": "Delivery of food and groceries.",
 "Bogotá & Medellín trinkbar, sonst Flaschenwasser": "Drinkable in Bogotá & Medellín, otherwise bottled water",
 "ca. 10 % (servicio wird gefragt)": "approx. 10 % (servicio will be offered)",
-"110 V – Netzteil muss 100–240 V können": "110 V – your charger must handle 100–240 V",
 "Praktisch 0,0 ‰ – schon ab 0,2 ‰ drohen hohe Strafen.": "Practically 0.0 ‰ – heavy penalties from 0.2 ‰.",
 "Pico y Placa": "Pico y placa",
 "In Bogotá, Medellín und anderen Städten gilt je nach Kennzeichen-Endziffer ein Fahrverbot.": "In Bogotá, Medellín and other cities a driving ban applies depending on the last digit of the number plate.",

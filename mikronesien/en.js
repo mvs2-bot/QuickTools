@@ -1,0 +1,26 @@
+/* Englische Texte nur für Mikronesien (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"🇫🇲 Englisch": "🇫🇲 English",
+"🌴 Lokale Grußformeln": "🌴 Local greetings",
+"Hallo (Pohnpei)": "Hello (Pohnpei)",
+"Danke (Pohnpei)": "Thank you (Pohnpei)",
+"Danke (Chuuk)": "Thank you (Chuuk)",
+"Danke (Yap)": "Thank you (Yap)",
+"Danke (Kosrae)": "Thank you (Kosrae)",
+"Notruf / Polizei (nicht in Chuuk)": "Emergency / police (not in Chuuk)",
+"Polizei Chuuk": "Police Chuuk",
+"Feuerwehr Pohnpei": "Fire brigade Pohnpei",
+"Vier Staaten": "Four states",
+"Pohnpei, Chuuk, Yap und Kosrae haben eigene Sprachen, Bräuche und teils eigene Einreise- und Tauchgebühren.": "Pohnpei, Chuuk, Yap and Kosrae each have their own languages, customs and in some cases their own entry and diving fees.",
+"Konservativ: Knie und Schultern bedecken; in Yap sollten Frauen die Oberschenkel bedecken.": "Conservative: cover knees and shoulders; in Yap women should cover their thighs.",
+"Privatland": "Private land",
+"Fast alles Land gehört Familien oder Clans – vor dem Betreten von Stränden, Pfaden oder Ruinen (z. B. Nan Madol) fragen, oft wird eine kleine Gebühr fällig.": "Almost all land belongs to families or clans – ask before entering beaches, trails or ruins (e.g. Nan Madol); a small fee is often charged.",
+"Wracks": "Wrecks",
+"Die Weltkriegswracks in der Chuuk-Lagune sind Kriegsgräber: nichts mitnehmen, nur mit Tauchgenehmigung.": "The WWII wrecks in Chuuk Lagoon are war graves: take nothing, dive only with a permit.",
+"Rechtsverkehr. Straßen teils schlecht und voller Schlaglöcher; nachts unbeleuchtet.": "Driving on the right. Roads are partly poor and full of potholes; unlit at night.",
+"Ab 21. In Teilen Chuuks gilt ein Alkoholverbot.": "From 21. Alcohol is banned in parts of Chuuk.",
+"Betelnuss & Sakau": "Betel nut & sakau",
+"Betelnuss und Sakau (Kava) sind weit verbreitet – Sakau nicht mit Alkohol kombinieren.": "Betel nut and sakau (kava) are widespread – don't combine sakau with alcohol.",
+"FSM Telecom (FSMTC) – Netz und Datenvolumen sind begrenzt.": "FSM Telecom (FSMTC) – coverage and data are limited.",
+"Flüge zwischen Guam, Chuuk, Pohnpei, Kosrae und weiter nach Majuro/Honolulu.": "Flights between Guam, Chuuk, Pohnpei, Kosrae and on to Majuro/Honolulu."
+});

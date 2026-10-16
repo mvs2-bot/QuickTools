@@ -8,7 +8,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Toilettenpapier": "Toilet paper",
 "In vielen Toiletten nicht ins WC werfen, sondern in den Eimer daneben – die Rohre sind sehr eng.": "In many toilets don't flush it but put it in the bin next to it – the pipes are very narrow.",
 "Ein kurzes Anheben des Kopfes (mit „ne“ = ja, „ochi“ = nein) kann „nein“ bedeuten – im Zweifel nachfragen.": "A quick upward tilt of the head (with \"ne\" = yes, \"ochi\" = no) can mean \"no\" – ask if in doubt.",
-"Sonne & Feuer": "Sun & fire",
 "Im Sommer hohe Waldbrandgefahr – kein offenes Feuer, Zigaretten nie wegwerfen.": "High risk of forest fires in summer – no open fires, never throw away cigarettes.",
 "Antiken": "Antiquities",
 "Steine oder Scherben von archäologischen Stätten mitzunehmen ist streng verboten.": "Taking stones or shards from archaeological sites is strictly forbidden.",

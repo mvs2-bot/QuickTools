@@ -4,7 +4,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "🇻🇳 Vietnamesisch": "🇻🇳 Vietnamese",
 "Deutsche Botschaft Hanoi": "German Embassy Hanoi",
 "(abends bis 24 Uhr, Wochenende & Feiertage; keine Visafragen)": "(evenings until midnight, weekends & public holidays; no visa questions)",
-"Straße überqueren": "Crossing the street",
 "Langsam und gleichmäßig gehen, nicht plötzlich stehen bleiben oder rennen – die Mopeds fahren um dich herum.": "Walk slowly and steadily, don't suddenly stop or run – the scooters will drive around you.",
 "Tempel & Pagoden": "Temples & pagodas",
 "Schultern und Knie bedecken, Schuhe ausziehen, wo es verlangt wird.": "Cover shoulders and knees, take off your shoes where required.",

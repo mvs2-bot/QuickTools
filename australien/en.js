@@ -9,7 +9,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Flip-Flops": "Flip-flops",
 "Tankstelle": "Petrol station",
 "Getränkemarkt": "Bottle shop",
-"Grillen": "Barbecue",
 "Giftnotruf": "Poison information",
 "Deutsche Botschaft Canberra": "German Embassy Canberra",
 "(auch per SMS, gilt auch für Sydney)": "(also by text message, also covers Sydney)",

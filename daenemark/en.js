@@ -17,7 +17,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Nahverkehr und Fahrpläne im ganzen Land.": "Public transport and timetables across the country.",
 "Zugtickets buchen.": "Book train tickets.",
 "Kopenhagen": "Copenhagen",
-"0,5 ‰.": "0.5 ‰.",
 "Tempoverstöße sind sehr teuer; Radfahrer haben beim Rechtsabbiegen Vorrang.": "Speeding is very expensive; cyclists have priority when you turn right.",
 "Linksabbiegen": "Turning left",
 "Mit dem Rad in zwei Schritten: erst geradeaus über die Kreuzung, dann warten und abbiegen. Zum Anhalten Hand heben.": "By bike in two steps: first straight across the junction, then wait and turn. Raise your hand to signal stopping.",

@@ -1,0 +1,21 @@
+{
+  "id": "/QuickTools/libyen/",
+  "start_url": "./",
+  "scope": "./",
+  "name": "Quick-Tools Libyen",
+  "short_name": "Libyen",
+  "description": "Urlaubs-Quick-Tools Libyen",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7f4",
+  "theme_color": "#15803d",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

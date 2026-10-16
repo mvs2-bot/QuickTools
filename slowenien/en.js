@@ -10,6 +10,5 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Zugfahrpläne und Tickets.": "Train timetables and tickets.",
 "Shuttles von/zu den Flughäfen der Region.": "Shuttles to/from the region's airports.",
 "Aufrunden, ca. 10 % im Restaurant": "Round up, approx. 10 % in restaurants",
-"0,5 ‰; Fahranfänger 0,0 ‰.": "0.5 ‰; new drivers 0.0 ‰.",
 "Vom 15. November bis 15. März Winterausrüstung Pflicht.": "Winter equipment is mandatory from 15 November to 15 March."
 });

@@ -1,0 +1,21 @@
+{
+  "id": "/QuickTools/indien/",
+  "start_url": "./",
+  "scope": "./",
+  "name": "Quick-Tools Indien",
+  "short_name": "Indien",
+  "description": "Urlaubs-Quick-Tools Indien",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7f4",
+  "theme_color": "#15803d",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

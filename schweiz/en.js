@@ -1,9 +1,6 @@
 /* Englische Texte nur für Schweiz (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
-"Schweizer Franken": "Swiss franc",
 "🇨🇭 Schweizerdeutsch": "🇨🇭 Swiss German",
-"Danke vielmals": "Thank you very much",
-"Auf Wiedersehen": "Goodbye",
 "Guten Appetit": "Enjoy your meal",
 "🇫🇷 Französisch (Westschweiz)": "🇫🇷 French (western Switzerland)",
 "🇮🇹 Italienisch (Tessin)": "🇮🇹 Italian (Ticino)",
@@ -12,7 +9,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Autobahnvignette ist Pflicht (auch als E-Vignette online). Radarkontrollen sind häufig, Bußgelder sehr hoch.": "The motorway vignette is mandatory (also as an e-vignette online). Speed cameras are common, fines are very high.",
 "Ruhezeiten": "Quiet hours",
 "Mittags- und Nachtruhe sowie Sonntagsruhe werden ernst genommen – z. B. kein lauter Lärm, keine Waschmaschine nachts.": "Midday, night and Sunday quiet hours are taken seriously – e.g. no loud noise, no washing machine at night.",
-"Müll": "Rubbish",
 "Mülltrennung ist streng, in vielen Orten nur mit gebührenpflichtigen Säcken.": "Waste separation is strict, in many places only with fee-paid bags.",
 "Wetter ändert sich schnell: Wetterbericht prüfen, Bergwanderungen nie ohne passende Ausrüstung. Bergrettung ist teuer – Versicherung prüfen.": "Weather changes quickly: check the forecast, never go mountain hiking without proper equipment. Mountain rescue is expensive – check your insurance.",
 "Die Schweiz gehört nicht zur EU – viele deutsche Tarife berechnen Roaming extra. Tarif vorher prüfen!": "Switzerland is not in the EU – many German plans charge extra for roaming. Check your plan beforehand!",
@@ -21,7 +17,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Offizielle Wetter- und Unwetterwarnungen.": "Official weather and severe weather warnings.",
 "Rega-App": "Rega app",
 "Alarmiert die Rettungsflugwacht mit automatischer Standortübermittlung – ideal beim Wandern.": "Alerts the air rescue service with automatic location sharing – ideal for hiking.",
-"Schuko: ja · Eurostecker passt": "Schuko: yes · Europlug fits",
 "Zürich": "Zurich",
 "Genf": "Geneva",
 "Luzern": "Lucerne",

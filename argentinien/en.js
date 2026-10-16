@@ -18,7 +18,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Alternativ vorab eSIM (z. B. Airalo) – in Patagonien oft kein Netz.": "Alternatively an eSIM in advance (e.g. Airalo) – often no signal in Patagonia.",
 "Fahrdienste in Buenos Aires und anderen Städten.": "Ride-hailing in Buenos Aires and other cities.",
 "Fernbustickets im ganzen Land.": "Long-distance bus tickets across the country.",
-"In Städten meist trinkbar": "Mostly drinkable in cities",
 "ca. 10 % (Restaurant)": "approx. 10 % (restaurants)",
 "0,0 ‰ auf Nationalstraßen und in den meisten Provinzen.": "0.0 ‰ on national highways and in most provinces.",
 "Auf Landstraßen Abblendlicht auch tagsüber Pflicht. Internationalen Führerschein mitnehmen.": "Dipped headlights are mandatory during the day on country roads. Bring an international driving permit.",

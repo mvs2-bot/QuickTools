@@ -1,0 +1,28 @@
+/* Englische Texte nur für Israel (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"🇮🇱 Hebräisch": "🇮🇱 Hebrew",
+"🇮🇱 Arabisch": "🇮🇱 Arabic",
+"Israel ist Mitglied der Vereinten Nationen, wird aber von einer Reihe von Staaten – vor allem in der arabischen und islamischen Welt – nicht anerkannt. Ein israelischer Stempel kann bei der Einreise in manche Länder Probleme machen.": "Israel is a member of the United Nations but is not recognised by a number of countries – mainly in the Arab and Islamic world. An Israeli stamp can cause problems when entering some countries.",
+"Jerusalem & Golan": "Jerusalem & Golan",
+"Israel betrachtet ganz Jerusalem als Hauptstadt; international wird das überwiegend nicht anerkannt, die meisten Botschaften – auch die deutsche – sind in Tel Aviv. Ostjerusalem, das Westjordanland und die Golanhöhen gelten völkerrechtlich als besetzt.": "Israel regards all of Jerusalem as its capital; this is largely not recognised internationally, and most embassies – including Germany's – are in Tel Aviv. Under international law, East Jerusalem, the West Bank and the Golan Heights are considered occupied.",
+"Rettungsdienst (Magen David Adom)": "Ambulance (Magen David Adom)",
+"Deutsche Botschaft Tel Aviv": "German Embassy Tel Aviv",
+"Daniel Frisch Street 3, 19. Stock": "Daniel Frisch Street 3, 19th floor",
+"Das Auswärtige Amt warnt vor Reisen in den Gazastreifen und die Grenzgebiete; die Lage kann sich schnell ändern – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to the Gaza Strip and the border areas; the situation can change quickly – check the current situation before every trip.",
+"Vor der Reise online die elektronische Reisegenehmigung ETA-IL beantragen. Am Flughafen gibt es ausführliche Sicherheitsbefragungen.": "Apply online for the ETA-IL electronic travel authorisation before your trip. Expect thorough security questioning at the airport.",
+"Raketenalarm": "Rocket alerts",
+"Bei Sirenenalarm sofort den nächsten Schutzraum aufsuchen – die App des Heimatfrontkommandos warnt rechtzeitig.": "When the sirens sound, go to the nearest shelter immediately – the Home Front Command app gives early warning.",
+"Schabbat": "Shabbat",
+"Von Freitagnachmittag bis Samstagabend fahren kaum Busse und Züge, viele Läden und Restaurants (besonders in Jerusalem) sind geschlossen.": "From Friday afternoon to Saturday evening hardly any buses or trains run, and many shops and restaurants (especially in Jerusalem) are closed.",
+"Heilige Stätten": "Holy sites",
+"An der Klagemauer, in Kirchen und Moscheen Schultern und Knie bedecken; am Schabbat an der Klagemauer nicht fotografieren.": "Cover shoulders and knees at the Western Wall and in churches and mosques; don't take photos at the Western Wall on Shabbat.",
+"Westjordanland": "West Bank",
+"Israelische Mietwagen sind in den palästinensischen A-Gebieten meist nicht versichert. Einige Straßen sind mautpflichtig (Route 6 – Abrechnung über den Mietwagen).": "Israeli rental cars are usually not insured in the Palestinian Area A. Some roads are tolled (Route 6 – charged via the rental car).",
+"Ab 18. Verkauf in Läden zwischen 23 und 6 Uhr verboten.": "From 18. Shops may not sell alcohol between 11 pm and 6 am.",
+"Cannabis ist nur medizinisch erlaubt; Besitz kann mit Bußgeld oder Strafe geahndet werden.": "Cannabis is only permitted for medical use; possession can lead to a fine or prosecution.",
+"Partner, Cellcom, Pelephone oder HOT mobile – Prepaid-SIM für Touristen, Pass nötig.": "Partner, Cellcom, Pelephone or HOT mobile – prepaid SIM for tourists, passport required.",
+"Heimatfrontkommando": "Home Front Command",
+"Offizielle App für Raketen- und Notfallwarnungen.": "Official app for rocket and emergency alerts.",
+"Busse und Züge im ganzen Land.": "Buses and trains throughout the country.",
+"Totes Meer (En Bokek)": "Dead Sea (Ein Bokek)"
+});

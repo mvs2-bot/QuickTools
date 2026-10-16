@@ -1,5 +1,6 @@
 /* Englische Texte nur für Südkorea (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Süd- und Nordkorea erkennen sich gegenseitig nicht als Staat an; ein Friedensvertrag nach dem Koreakrieg fehlt bis heute. Die Grenze (DMZ) ist nur mit geführten Touren zu besuchen.": "South and North Korea do not recognise each other as states; there is still no peace treaty after the Korean War. The border (DMZ) can only be visited on guided tours.",
 "Südkoreanischer Won": "South Korean won",
 "🇰🇷 Koreanisch": "🇰🇷 Korean",
 "Entschuldigung (Bedienung rufen)": "Excuse me (to call staff)",
@@ -13,7 +14,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Essen": "Eating",
 "Stäbchen nicht senkrecht in den Reis stecken. Beim Trinken mit Älteren den Kopf leicht abwenden.": "Don't stick chopsticks upright in rice. When drinking with older people, turn your head slightly away.",
 "Vorab eSIM (z. B. Airalo, KT, SK Telecom) buchen oder am Flughafen Incheon Daten-SIM / Pocket-WiFi holen.": "Book an eSIM in advance (e.g. Airalo, KT, SK Telecom) or get a data SIM / pocket Wi-Fi at Incheon airport.",
-"WLAN": "Wi-Fi",
 "Sehr gutes kostenloses WLAN in U-Bahn, Cafés und Städten.": "Very good free Wi-Fi on the metro, in cafés and cities.",
 "Navigation, Öffis und Restaurants (auch auf Englisch).": "Navigation, public transport and restaurants (also in English).",
 "Taxi-App, funktioniert auch mit ausländischer Kreditkarte.": "Taxi app, also works with foreign credit cards.",

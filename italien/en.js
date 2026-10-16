@@ -12,8 +12,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "eSIM (z. B. Airalo) oder Prepaid-SIM von TIM, Vodafone, WindTre oder Iliad – Ausweis nötig.": "eSIM (e.g. Airalo) or prepaid SIM from TIM, Vodafone, WindTre or Iliad – ID required.",
 "Zugtickets (Frecciarossa, Regionalzüge) buchen.": "Book train tickets (Frecciarossa, regional trains).",
 "Taxis in den Großstädten (Uber nur eingeschränkt).": "Taxis in the big cities (Uber only limited).",
-"teils – Eurostecker passt immer": "partly – Europlug always fits",
-"Coperto auf der Rechnung, Trinkgeld freiwillig": "Coperto on the bill, tip voluntary",
 "Rom": "Rome",
 "Mailand": "Milan",
 "Florenz": "Florence",

@@ -10,7 +10,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Touristen-Hotline": "Tourist hotline",
 "Deutsche Botschaft Colombo": "German Embassy Colombo",
 "(Mo–Fr 15:30–22 Uhr, Wochenende 8–22 Uhr; keine Visa-Auskünfte)": "(Mon–Fri 3:30–10 pm, weekends 8 am–10 pm; no visa information)",
-"Tempel": "Temples",
 "Schultern und Knie bedecken, Schuhe und Kopfbedeckung vor dem Betreten ablegen. Weiße Kleidung ist gern gesehen.": "Cover shoulders and knees, remove shoes and hats before entering. White clothing is appreciated.",
 "Buddha-Darstellungen": "Buddha images",
 "Nicht mit dem Rücken zur Statue posieren. Buddha-Tattoos offen zu zeigen kann zur Einreiseverweigerung oder Ausweisung führen.": "Don't pose with your back to a statue. Showing Buddha tattoos openly can lead to denied entry or deportation.",

@@ -2,7 +2,6 @@
 Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Deutsche Botschaft Paris": "German Embassy Paris",
 "(Bereitschaftsdienst, nur Notfälle)": "(on-call service, emergencies only)",
-"Begrüßung": "Greeting",
 "Beim Betreten von Geschäften, Bäckereien oder Restaurants immer „Bonjour“ sagen – das gilt als selbstverständlich.": "Always say \"Bonjour\" when entering shops, bakeries or restaurants – it's taken for granted.",
 "Auf den Platz warten statt sich selbst zu setzen. Leitungswasser („une carafe d’eau“) ist kostenlos.": "Wait to be seated rather than sitting down yourself. Tap water (\"une carafe d'eau\") is free.",
 "Service ist im Preis enthalten; Aufrunden oder ein paar Euro bei gutem Service sind üblich.": "Service is included; rounding up or a few euros for good service is customary.",

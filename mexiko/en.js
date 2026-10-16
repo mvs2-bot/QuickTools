@@ -15,7 +15,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Telcel (beste Abdeckung) oder AT&T – in Oxxo-Läden erhältlich.": "Telcel (best coverage) or AT&T – available in Oxxo shops.",
 "Fahrdienste in fast allen Städten.": "Ride-hailing in almost all cities.",
 "Fernbustickets (sehr gutes Busnetz).": "Long-distance bus tickets (very good bus network).",
-"127 V – Netzteil muss 100–240 V können": "127 V – your charger must handle 100–240 V",
 "Mexiko-Stadt": "Mexico City",
 "Je nach Bundesstaat; in Mexiko-Stadt enden Alkoholkontrollen („Alcoholímetro“) bei Überschreitung mit Arrest.": "Depends on the state; in Mexico City failing a breath test (\"alcoholímetro\") means detention.",
 "Viele Bodenschwellen („topes“). Nachts nicht über Land fahren, gebührenpflichtige Autobahnen („cuota“) sind sicherer.": "Many speed bumps (\"topes\"). Don’t drive cross-country at night; toll motorways (\"cuota\") are safer.",

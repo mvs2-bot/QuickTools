@@ -24,7 +24,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Sichere Fahrdienste in den Städten.": "Safe ride-hailing in the cities.",
 "Zeiten für Stromabschaltungen (Load Shedding).": "Times of power cuts (load shedding).",
 "Nationalparks und Unterkünfte buchen.": "Book national parks and accommodation.",
-"In Städten trinkbar": "Drinkable in cities",
 "10–15 % im Restaurant, Tankwart 5–10 R": "10–15 % in restaurants, petrol attendants 5–10 R",
 "Kapstadt": "Cape Town",
 "Krüger-Nationalpark (Skukuza)": "Kruger National Park (Skukuza)",

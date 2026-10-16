@@ -2,9 +2,7 @@
 Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Neuseeland-Dollar": "New Zealand dollar",
 "🇳🇿 Englisch": "🇳🇿 English",
-"Hallo / Danke": "Hello / Thank you",
 "Guten Tag (förmlich)": "Good day (formal)",
-"Willkommen": "Welcome",
 "Herzliche Grüße / Danke": "Warm regards / Thanks",
 "Healthline – Gesundheitstelefon": "Healthline – health advice line",
 "Deutsche Botschaft Wellington": "German Embassy Wellington",
@@ -13,7 +11,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Lebensmittel, Pflanzen, Wanderschuhe und Zeltausrüstung bei der Einreise deklarieren – sonst hohe Strafen.": "Declare food, plants, hiking boots and camping gear on arrival – otherwise heavy fines.",
 "Freedom Camping": "Freedom camping",
 "Wildcampen nur mit „self-contained“-Camper und nur an erlaubten Plätzen – sonst Bußgeld.": "Wild camping only with a \"self-contained\" camper and only at permitted sites – otherwise fines.",
-"Wandern": "Hiking",
 "Wetter in den Bergen kann sich rasch ändern. Für längere Touren Plan hinterlegen (adventuresmart.nz).": "Weather in the mountains can change quickly. For longer hikes, leave your plan with someone (adventuresmart.nz).",
 "Sehr hohe UV-Strahlung – Sonnenschutz auch bei kühlem Wetter.": "Very high UV radiation – use sun protection even when it's cool.",
 "One NZ, Spark oder 2degrees am Flughafen.": "One NZ, Spark or 2degrees at the airport.",

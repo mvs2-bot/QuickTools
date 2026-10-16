@@ -1,0 +1,26 @@
+/* Englische Texte nur für Mongolei (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Mongolischer Tögrög": "Mongolian tögrög",
+"Nicht trinkbar – Flaschenwasser oder abkochen": "Not drinkable – bottled or boiled water",
+"Nicht üblich, in Touristenrestaurants ca. 10 %": "Not customary, approx. 10 % in tourist restaurants",
+"🇲🇳 Mongolisch": "🇲🇳 Mongolian",
+"Deutsche Botschaft Ulan Bator": "German Embassy Ulaanbaatar",
+"Mit deutschem Pass bis 30 Tage visumfrei.": "Visa-free for up to 30 days with a German passport.",
+"Jurte (Ger)": "Yurt (ger)",
+"Nicht auf die Türschwelle treten, im Uhrzeigersinn bewegen, nicht zwischen den beiden Mittelpfosten hindurchgehen. Angebotenes mit der rechten Hand (Ellbogen mit links stützen) annehmen.": "Don't step on the threshold, move clockwise, don't walk between the two central pillars. Accept what is offered with your right hand (supporting the elbow with your left).",
+"Hunde": "Dogs",
+"Hirtenhunde sind oft scharf – nicht allein auf eine Jurte zugehen, laut rufen und warten.": "Herding dogs are often aggressive – don't approach a ger alone, call out loudly and wait.",
+"Klima": "Climate",
+"Extreme Temperaturen: Winter bis −30 °C, auch im Sommer kalte Nächte. In der Steppe große Entfernungen ohne Versorgung.": "Extreme temperatures: winters down to −30 °C, cold nights even in summer. Huge distances without supplies in the steppe.",
+"Umwelt & Heiliges": "Nature & sacred sites",
+"Ovoo (Steinhaufen) im Uhrzeigersinn umrunden, nichts daraus mitnehmen. Nicht in Flüsse oder Seen urinieren oder Müll hinterlassen.": "Walk clockwise around ovoo (stone cairns) and take nothing from them. Don't urinate in rivers or lakes or leave rubbish behind.",
+"Außerhalb der Städte meist Pisten ohne Beschilderung – nur mit Allrad, ortskundigem Fahrer und GPS.": "Outside the cities mostly unsigned dirt tracks – only with 4WD, a local driver and GPS.",
+"Ulan Bator": "Ulaanbaatar",
+"Sehr dichter Verkehr; teils Fahrverbote nach Kennzeichen-Endziffer.": "Very heavy traffic; driving bans based on the last digit of the number plate in some cases.",
+"Ab 21 Jahren. Am 1. jedes Monats kein Alkoholverkauf in Ulan Bator.": "From 21. No alcohol sales in Ulaanbaatar on the 1st of each month.",
+"Unitel, Mobicom oder Skytel – am Flughafen erhältlich, Pass nötig. In der Steppe oft kein Netz.": "Unitel, Mobicom or Skytel – available at the airport, passport required. Often no signal in the steppe.",
+"Taxi-App in Ulan Bator.": "Taxi app in Ulaanbaatar.",
+"Offline-Karten – in der Steppe unverzichtbar.": "Offline maps – essential in the steppe.",
+"Chöwsgöl-See": "Lake Khövsgöl",
+"Tereldsch": "Terelj"
+});

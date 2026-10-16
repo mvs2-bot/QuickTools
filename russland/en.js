@@ -1,0 +1,25 @@
+/* Englische Texte nur für Russland (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Russischer Rubel": "Russian rouble",
+"Deutsche Botschaft Moskau": "German Embassy Moscow",
+"Besetzte Gebiete der Ukraine": "Occupied territories of Ukraine",
+"Die Krim und die russisch besetzten Gebiete der Ukraine gelten völkerrechtlich als ukrainisch. Wer über Russland dorthin reist, verstößt gegen ukrainisches Recht; konsularische Hilfe ist dort nicht möglich.": "Under international law, Crimea and the Russian-occupied territories of Ukraine are Ukrainian. Travelling there via Russia violates Ukrainian law; consular assistance is not possible there.",
+"Das Auswärtige Amt warnt vor Reisen nach Russland – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to Russia – check the current situation before every trip.",
+"Deutsche (besonders mit doppelter Staatsangehörigkeit) riskieren willkürliche Festnahmen. Kritik am Krieg, auch in Social Media, kann strafbar sein.": "Germans (especially dual nationals) risk arbitrary arrest. Criticising the war, including on social media, can be a criminal offence.",
+"Deutsche Kredit- und Bankkarten funktionieren nicht – ausreichend Bargeld in Euro mitbringen und vor Ort tauschen.": "German credit and debit cards do not work – bring enough cash in euros and exchange it locally.",
+"Keine Fotos oder Drohnenaufnahmen von Militär, Behörden, Brücken, Bahnhöfen oder Flughäfen.": "No photos or drone footage of military sites, government buildings, bridges, stations or airports.",
+"Öffentliches Eintreten für LGBTQ-Rechte wird als „Extremismus“ verfolgt.": "Publicly advocating LGBTQ rights is prosecuted as \"extremism\".",
+"Deutsche Tarife funktionieren meist nicht oder sind extrem teuer. Mobiles Internet wird regional oft abgeschaltet; viele Apps und Messenger-Anrufe sind blockiert.": "German plans mostly don't work or are extremely expensive. Mobile internet is often shut down regionally; many apps and messenger calls are blocked.",
+"SIM von MTS, MegaFon oder Beeline nur mit Pass; Ausländer müssen sie zusätzlich behördlich registrieren – aufwendig.": "SIM from MTS, MegaFon or Beeline only with a passport; foreigners must also register it with the authorities – cumbersome.",
+"Karten und Nahverkehr – Google Maps ist oft ungenau.": "Maps and public transport – Google Maps is often inaccurate.",
+"Offline-Paket Russisch vorher herunterladen.": "Download the Russian offline pack beforehand.",
+"Praktisch 0,0 ‰ (Messtoleranz ca. 0,3 ‰).": "Effectively 0.0 ‰ (measurement tolerance approx. 0.3 ‰).",
+"Licht auch tagsüber Pflicht. Viele Radarkontrollen.": "Headlights are mandatory during the day. Many speed cameras.",
+"Ab 18 Jahren. Verkauf in Läden nachts meist verboten (oft 23–8 Uhr).": "From 18. Sales in shops are usually banned at night (often 11 pm–8 am).",
+"Auch Cannabis und CBD sind verboten, ebenso manche bei uns rezeptfreie Medikamente (z. B. mit Codein) – sehr harte Strafen.": "Cannabis and CBD are also illegal, as are some medicines sold over the counter in Germany (e.g. containing codeine) – very harsh penalties.",
+"Moskau": "Moscow",
+"Sankt Petersburg": "St Petersburg",
+"Kasan": "Kazan",
+"Sotschi": "Sochi",
+"Wladiwostok": "Vladivostok"
+});

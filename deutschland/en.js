@@ -3,7 +3,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "🥨 Bairisch": "🥨 Bavarian",
 "Ein Liter Bier, bitte": "A litre of beer, please",
 "Kleine Mahlzeit / Vesper": "Snack / light meal",
-"Prost!": "Cheers!",
 "Eichhörnchenschwanz (Zungenbrecher)": "Squirrel's tail (tongue twister)",
 "⚓ Norddeutsch": "⚓ Northern German",
 "Hallo (zu jeder Tageszeit)": "Hello (any time of day)",

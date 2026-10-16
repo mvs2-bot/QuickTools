@@ -1,0 +1,16 @@
+/* Englische Texte nur für Palästina (Deutsch → Englisch) */
+Object.assign(window.QT_EN = window.QT_EN || {}, {
+"🇵🇸 Arabisch": "🇵🇸 Arabic",
+"Staatlichkeit": "Statehood",
+"Palästina ist seit 2012 Beobachterstaat der Vereinten Nationen und wird von vielen Staaten als Staat anerkannt. Deutschland erkennt Palästina bislang nicht als Staat an.": "Palestine has been a UN observer state since 2012 and is recognised as a state by many countries. Germany has not yet recognised Palestine as a state.",
+"Westjordanland (mit Ostjerusalem) und Gazastreifen gelten völkerrechtlich als von Israel besetzt. Die Palästinensische Autonomiebehörde verwaltet nur Teile des Westjordanlands; Ein- und Ausreise kontrolliert Israel.": "Under international law, the West Bank (including East Jerusalem) and the Gaza Strip are considered occupied by Israel. The Palestinian Authority administers only parts of the West Bank; Israel controls entry and exit.",
+"Rettungsdienst (Roter Halbmond)": "Ambulance (Red Crescent)",
+"Vertretungsbüro der Bundesrepublik Deutschland Ramallah": "Representative Office of the Federal Republic of Germany Ramallah",
+"Das Auswärtige Amt warnt vor Reisen in den Gazastreifen und rät von Reisen ins Westjordanland ab – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to the Gaza Strip and advises against travel to the West Bank – check the current situation before every trip.",
+"Nur über Israel (ETA-IL nötig) oder von Jordanien über die Allenby-/König-Hussein-Brücke; Israel kontrolliert alle Übergänge.": "Only via Israel (ETA-IL required) or from Jordan via the Allenby/King Hussein Bridge; Israel controls all crossings.",
+"Zwischen Israel und dem Westjordanland sowie innerhalb davon gibt es Checkpoints – Pass immer dabeihaben, Wartezeiten einplanen.": "There are checkpoints between Israel and the West Bank and within it – always carry your passport and allow for waiting times.",
+"Schultern und Knie bedecken, besonders in Moscheen, Kirchen und in Hebron oder Nablus.": "Cover shoulders and knees, especially in mosques, churches and in Hebron or Nablus.",
+"Israelische Mietwagen sind in den palästinensischen A-Gebieten meist nicht versichert – besser palästinensisches Taxi oder Mietwagen aus Ramallah/Ostjerusalem.": "Israeli rental cars are usually not insured in the Palestinian Area A – better take a Palestinian taxi or a rental car from Ramallah/East Jerusalem.",
+"In christlichen Orten (Bethlehem, Ramallah, Taybeh mit eigener Brauerei) erhältlich, sonst kaum; nicht in der Öffentlichkeit trinken.": "Available in Christian towns (Bethlehem, Ramallah, Taybeh with its own brewery), hardly anywhere else; don't drink in public.",
+"Jawwal oder Ooredoo Palestine – Pass nötig. Israelische SIM/eSIM funktioniert in weiten Teilen des Westjordanlands.": "Jawwal or Ooredoo Palestine – passport required. An Israeli SIM/eSIM works in large parts of the West Bank."
+});

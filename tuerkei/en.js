@@ -17,7 +17,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Aufladbare Karte für Metro, Tram, Fähren und Busse in Istanbul.": "Rechargeable card for the metro, trams, ferries and buses in Istanbul.",
 "Kappadokien (Göreme)": "Cappadocia (Göreme)",
 "0,5 ‰ (Berufsfahrer 0,0 ‰).": "0.5 ‰ (professional drivers 0.0 ‰).",
-"Kontrollen": "Checks",
 "Viele Radarkontrollen und Polizeisperren – Führerschein, Pass und Mietvertrag griffbereit haben.": "Many speed cameras and police checkpoints – keep your licence, passport and rental contract handy.",
 "Ab 18. Läden dürfen von 22 bis 6 Uhr keinen Alkohol verkaufen.": "From 18. Shops may not sell alcohol between 10 pm and 6 am.",
 "Verkauf und Einfuhr sind verboten – besser zu Hause lassen.": "Sale and import are banned – better leave them at home.",

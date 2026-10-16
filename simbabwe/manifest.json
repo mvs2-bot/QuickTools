@@ -1,0 +1,21 @@
+{
+  "id": "/QuickTools/simbabwe/",
+  "start_url": "./",
+  "scope": "./",
+  "name": "Quick-Tools Simbabwe",
+  "short_name": "Simbabwe",
+  "description": "Urlaubs-Quick-Tools Simbabwe",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7f4",
+  "theme_color": "#15803d",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

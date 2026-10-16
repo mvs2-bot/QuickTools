@@ -3,7 +3,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "🇭🇷 Kroatisch": "🇭🇷 Croatian",
 "Deutsche Botschaft Zagreb": "German Embassy Zagreb",
 "In Dubrovnik, Split, Hvar u. a. ist Badekleidung oder nackter Oberkörper in der Altstadt verboten – Bußgelder möglich.": "In Dubrovnik, Split, Hvar etc. swimwear or going bare-chested in the old town is forbidden – fines possible.",
-"Schultern und Knie bedecken.": "Cover shoulders and knees.",
 "Waldbrandgefahr": "Forest fire risk",
 "Im Sommer kein offenes Feuer, keine Zigaretten wegwerfen – sehr hohe Brandgefahr und hohe Strafen.": "No open fires in summer, don't throw away cigarettes – very high fire risk and heavy fines.",
 "Licht ist von Ende Oktober bis Ende März auch tagsüber Pflicht. Maut auf den Autobahnen.": "Headlights are mandatory during the day from late October to late March. Tolls on the motorways.",

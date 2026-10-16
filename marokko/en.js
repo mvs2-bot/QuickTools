@@ -1,12 +1,11 @@
 /* Englische Texte nur für Marokko (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Westsahara": "Western Sahara",
+"Marokko beansprucht die Westsahara und verwaltet den größten Teil davon; der Status ist international umstritten, die Polisario fordert die Unabhängigkeit. Abseits der Küstenorte gilt dort erhöhte Vorsicht.": "Morocco claims Western Sahara and administers most of it; its status is disputed internationally and the Polisario Front demands independence. Away from the coastal towns, extra caution applies.",
 "Marokkanischer Dirham": "Moroccan dirham",
 "🇲🇦 Marokkanisches Arabisch (Darija)": "🇲🇦 Moroccan Arabic (Darija)",
-"Bitte": "Please",
 "Okay / Einverstanden": "Okay / Agreed",
 "Polizei (Städte)": "Police (cities)",
-"Gendarmerie (ländliche Gebiete)": "Gendarmerie (rural areas)",
-"Feuerwehr & Rettungsdienst": "Fire brigade & ambulance",
 "Deutsche Botschaft Rabat": "German Embassy Rabat",
 "Schultern und Knie bedecken, besonders außerhalb von Strand und Hotel. Moscheen dürfen Nicht-Muslime meist nicht betreten (Ausnahme: Hassan-II-Moschee).": "Cover shoulders and knees, especially away from the beach and hotel. Non-Muslims are usually not allowed into mosques (exception: Hassan II Mosque).",
 "In den Souks ist Handeln Pflicht – freundlich bleiben, am Ende muss es für beide passen.": "Haggling is a must in the souks – stay friendly, in the end it has to work for both sides.",
