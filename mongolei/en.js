@@ -1,5 +1,9 @@
 /* Englische Texte nur für Mongolei (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"(außerhalb der Öffnungszeiten; keine Visafragen)": "(outside office hours; no visa questions)",
+"Mit deutschem Reisepass bis 30 Tage visumfrei; der Pass muss bei Einreise noch mind. 6 Monate gültig sein. Personalausweis reicht nicht.": "Visa-free for up to 30 days with a German passport; it must be valid for at least 6 more months on entry. An ID card is not enough.",
+"Führerschein & Promille": "Licence & alcohol limit",
+"Internationaler Führerschein nur zusammen mit dem deutschen (oder amtliche mongolische Übersetzung). Grenze 0,2 ‰ Atem- bzw. 0,5 ‰ Blutalkohol, häufige Kontrollen.": "International driving permit only together with your German licence (or an official Mongolian translation). Limit 0.2 ‰ breath or 0.5 ‰ blood alcohol, frequent checks.",
 "Mongolischer Tögrög": "Mongolian tögrög",
 "Nicht trinkbar – Flaschenwasser oder abkochen": "Not drinkable – bottled or boiled water",
 "Nicht üblich, in Touristenrestaurants ca. 10 %": "Not customary, approx. 10 % in tourist restaurants",

@@ -34,7 +34,7 @@ window.QT = {
   status: [
     ["Politischer Status", "Taiwan (offiziell „Republik China“) hat eine eigene demokratische Regierung, Währung und eigene Pässe, wird aber von der Volksrepublik China als Teil Chinas beansprucht."],
     ["Anerkennung", "Nur wenige Staaten erkennen Taiwan diplomatisch an; Taiwan ist kein UN-Mitglied. Deutschland unterhält keine offiziellen diplomatischen Beziehungen, aber enge inoffizielle Kontakte über das Deutsche Institut Taipei."],
-    ["Einreise", "Eigene Einreiseregeln: Deutsche brauchen für bis zu 90 Tage kein Visum. Ein chinesisches Visum gilt nicht für Taiwan – und umgekehrt."]
+    ["Einreise", "Eigene Einreiseregeln: Deutsche brauchen für bis zu 90 Tage kein Visum (Pass mind. 6 Monate gültig, Rück-/Weiterflug). Vorab online die kostenlose Taiwan Arrival Card ausfüllen. Ein chinesisches Visum gilt nicht für Taiwan – und umgekehrt."]
   ],
   emergency: [
     ["110", "Polizei"],
@@ -42,7 +42,7 @@ window.QT = {
     ["112", "Notruf vom Handy"],
     ["0800 011 765", "Touristen-Hotline (Englisch, rund um die Uhr)"]
   ],
-  embassy: {"title": "Deutsches Institut Taipei", "address": ["12F, No. 333, Sec. 1, Keelung Road, Xinyi District", "Taipei 11012"], "phone": "+886 2 8722 2800"},
+  embassy: {"title": "Deutsches Institut Taipei", "address": ["Taipei 101 Tower, 33F, No. 7, Sec. 5, Xinyi Road", "Taipei 11049"], "phone": "+886 2 8722 2800", "emergency": "+886 933 154 031", "emergencyNote": "(außerhalb der Öffnungszeiten)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/taiwan-node",
 
   rules: [

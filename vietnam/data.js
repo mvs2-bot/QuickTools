@@ -36,6 +36,7 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/vietnam-node",
 
   rules: [
+    ["Einreise", "Mit deutschem Reisepass bis 45 Tage visumfrei (Weiterflugticket vorzeigen); Pass mind. 6 Monate gültig. Länger nur mit E-Visum (bis 90 Tage). Einreisestempel prüfen – Überziehen wird teuer."],
     ["Straße überqueren", "Langsam und gleichmäßig gehen, nicht plötzlich stehen bleiben oder rennen – die Mopeds fahren um dich herum."],
     ["Tempel & Pagoden", "Schultern und Knie bedecken, Schuhe ausziehen, wo es verlangt wird."],
     ["Geldscheine", "Die Scheine sehen sich ähnlich (z. B. 10.000 und 100.000 ₫) – beim Bezahlen genau hinschauen."],

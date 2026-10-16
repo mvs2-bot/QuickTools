@@ -1,5 +1,11 @@
 /* Englische Texte nur für Laos (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Touristenpolizei": "Tourist police",
+"(außerhalb der Öffnungszeiten; keine Visafragen)": "(outside office hours; no visa questions)",
+"Visumpflicht: E-Visum oder Visa on Arrival (30 Tage, ca. 40 USD, 2 Passfotos) an den internationalen Flughäfen und einigen Grenzübergängen. Pass mind. 6 Monate gültig, 2 freie Seiten. Vorab online die „Lao Digital Immigration Form“ ausfüllen.": "Visa required: e-visa or visa on arrival (30 days, approx. 40 USD, 2 passport photos) at the international airports and some land borders. Passport valid for at least 6 months with 2 blank pages. Fill in the \"Lao Digital Immigration Form\" online beforehand.",
+"Bokeo & Grenzgebiete": "Bokeo & border areas",
+"In der Provinz Bokeo (Sonderwirtschaftszone „Goldenes Dreieck“: Menschenhandel, Scam-Compounds) äußerste Vorsicht; Fahrten nach Bokeo, Sainyabuli und in den Grenzstreifen zu Kambodscha (Attapeu) meiden.": "Extreme caution in Bokeo province (\"Golden Triangle\" special economic zone: human trafficking, scam compounds); avoid trips to Bokeo, Sainyabuli and the border strip with Cambodia (Attapeu).",
+"Einfuhr, Besitz und Gebrauch von E-Zigaretten und Vapes sind verboten – hohe Geldstrafen.": "Importing, possessing and using e-cigarettes and vapes is banned – heavy fines.",
 "Laotischer Kip": "Lao kip",
 "Nicht erwartet, Aufrunden willkommen": "Not expected, rounding up welcome",
 "🇱🇦 Laotisch": "🇱🇦 Lao",

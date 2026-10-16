@@ -44,6 +44,7 @@ window.QT = {
     ["Geteiltes Land", "Süd- und Nordkorea erkennen sich gegenseitig nicht als Staat an; ein Friedensvertrag nach dem Koreakrieg fehlt bis heute. Die Grenze (DMZ) ist nur mit geführten Touren zu besuchen."]
   ],
   rules: [
+    ["Einreise", "Mit deutschem Reisepass bis 90 Tage visumfrei; K-ETA ist für Deutsche bis 31.12.2026 nicht nötig. e-Arrival Card kann vorab online ausgefüllt werden. Personalausweis reicht nicht."],
     ["Karten-Apps", "Google Maps funktioniert in Korea nur eingeschränkt (keine Fuß-/Autonavigation) – Naver Map oder KakaoMap nutzen."],
     ["Höflichkeit", "Gegenstände und Geld mit beiden Händen geben/annehmen, besonders bei Älteren. Leichte Verbeugung zur Begrüßung."],
     ["Schuhe", "In Wohnungen, Tempeln und vielen traditionellen Restaurants Schuhe ausziehen."],

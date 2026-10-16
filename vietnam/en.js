@@ -1,5 +1,6 @@
 /* Englische Texte nur für Vietnam (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Mit deutschem Reisepass bis 45 Tage visumfrei (Weiterflugticket vorzeigen); Pass mind. 6 Monate gültig. Länger nur mit E-Visum (bis 90 Tage). Einreisestempel prüfen – Überziehen wird teuer.": "Visa-free for up to 45 days with a German passport (show an onward ticket); passport valid for at least 6 months. Longer stays only with an e-visa (up to 90 days). Check your entry stamp – overstaying is expensive.",
 "Vietnamesischer Đồng": "Vietnamese đồng",
 "🇻🇳 Vietnamesisch": "🇻🇳 Vietnamese",
 "Deutsche Botschaft Hanoi": "German Embassy Hanoi",

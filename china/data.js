@@ -46,15 +46,16 @@ window.QT = {
     ["Hongkong & Macau", "Sonderverwaltungszonen mit eigener Einreise, eigener Währung und eigenem Notruf (999) – bei der Weiterreise nach Festlandchina gilt wieder die chinesische Einreise."]
   ],
   rules: [
-    ["Internet", "Google (inkl. Maps, Gmail), WhatsApp, Instagram u. a. sind gesperrt. Eine ausländische eSIM mit Roaming umgeht das meist – vor der Reise einrichten!"],
+    ["Internet", "Google (inkl. Maps, Gmail), WhatsApp, Instagram u. a. sind gesperrt. Eine ausländische eSIM mit Roaming umgeht das meist – vor der Reise einrichten! VPN-Nutzung ist offiziell verboten."],
     ["Bezahlen", "Fast alles läuft über Alipay oder WeChat Pay. Beide Apps vorab installieren und mit Kreditkarte verknüpfen. Etwas Bargeld als Reserve."],
+    ["Einreise", "Mit deutschem Reisepass bis 30 Tage visumfrei (Regelung gilt bis 31.12.2026); Pass muss für den ganzen Aufenthalt gültig sein. Personalausweis wird nicht anerkannt."],
     ["Reisepass", "Pass immer dabeihaben – er wird für Hotels, Züge und viele Sehenswürdigkeiten (Online-Reservierung!) gebraucht."],
     ["Politik", "Politische Themen in der Öffentlichkeit meiden; keine Fotos von Militär, Polizei oder Demonstrationen."],
     ["Trinkgeld", "Trinkgeld ist nicht üblich."]
   ],
   car: [
     ["Führerschein", "Der internationale Führerschein wird nicht anerkannt – Autofahren nur mit chinesischer (Kurzzeit-)Fahrerlaubnis. Einfacher: DiDi oder Fahrer buchen."],
-    ["Promille", "0,2 ‰ – ab 0,8 ‰ ist es eine Straftat mit Haft."]
+    ["Promille", "Faktisch 0,0 ‰ – schon ab 0,2 ‰ wird bestraft, ab 0,8 ‰ ist es eine Straftat mit Haft. Nach Unfällen wird der Pass oft einbehalten (Ausreise unmöglich)."]
   ],
   bike: [
     ["E-Bikes", "Auf Radwegen sind viele lautlose E-Roller unterwegs – auch beim Überqueren gut schauen. Leihräder laufen meist über Alipay/WeChat."]

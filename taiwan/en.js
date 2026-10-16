@@ -1,5 +1,7 @@
 /* Englische Texte nur für Taiwan (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"(außerhalb der Öffnungszeiten)": "(outside office hours)",
+"Eigene Einreiseregeln: Deutsche brauchen für bis zu 90 Tage kein Visum (Pass mind. 6 Monate gültig, Rück-/Weiterflug). Vorab online die kostenlose Taiwan Arrival Card ausfüllen. Ein chinesisches Visum gilt nicht für Taiwan – und umgekehrt.": "Separate entry rules: Germans don't need a visa for stays of up to 90 days (passport valid for at least 6 months, return/onward ticket). Fill in the free Taiwan Arrival Card online beforehand. A Chinese visa is not valid for Taiwan – and vice versa.",
 "Neuer Taiwan-Dollar": "New Taiwan dollar",
 "Nur abgekocht trinken – Wasserspender gibt es fast überall": "Only drink boiled – water dispensers are almost everywhere",
 "🇹🇼 Chinesisch (Mandarin)": "🇹🇼 Chinese (Mandarin)",

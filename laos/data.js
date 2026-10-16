@@ -29,13 +29,16 @@ window.QT = {
 
   emergency: [
     ["1191", "Polizei"],
+    ["+856 21 212 520", "Touristenpolizei"],
     ["1195", "Rettungsdienst"],
     ["1190", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Vientiane", "address": ["26 Rue Sok Paluang", "Vientiane"], "phone": "+856 21 312 110"},
+  embassy: {"title": "Deutsche Botschaft Vientiane", "address": ["26 Sokpalouang Road, Sisattanak District", "Vientiane"], "phone": "+856 21 312 110", "emergency": "+856 20 5551 5540", "emergencyNote": "(außerhalb der Öffnungszeiten; keine Visafragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/laos-node",
 
   rules: [
+    ["Einreise", "Visumpflicht: E-Visum oder Visa on Arrival (30 Tage, ca. 40 USD, 2 Passfotos) an den internationalen Flughäfen und einigen Grenzübergängen. Pass mind. 6 Monate gültig, 2 freie Seiten. Vorab online die „Lao Digital Immigration Form“ ausfüllen."],
+    ["Bokeo & Grenzgebiete", "In der Provinz Bokeo (Sonderwirtschaftszone „Goldenes Dreieck“: Menschenhandel, Scam-Compounds) äußerste Vorsicht; Fahrten nach Bokeo, Sainyabuli und in den Grenzstreifen zu Kambodscha (Attapeu) meiden."],
     ["Blindgänger", "Im ländlichen Raum (v. a. Xieng Khouang, Ebene der Tonkrüge) liegen noch viele Blindgänger – auf markierten Wegen bleiben."],
     ["Tempel & Mönche", "Schultern und Knie bedecken, Schuhe ausziehen. Frauen sollten Mönche nicht berühren. Beim Almosengang in Luang Prabang Abstand halten, kein Blitz."],
     ["Kopf & Füße", "Niemandem auf den Kopf fassen, Fußsohlen nicht auf Menschen oder Buddha-Figuren richten."],
@@ -46,6 +49,7 @@ window.QT = {
     ["Roller", "Helmpflicht. Ohne gültigen Führerschein (für Roller: Motorradklasse) zahlt keine Versicherung. Straßen außerhalb der Städte oft schlecht."]
   ],
   substances: [
+    ["E-Zigaretten", "Einfuhr, Besitz und Gebrauch von E-Zigaretten und Vapes sind verboten – hohe Geldstrafen."],
     ["Drogen", "Drogendelikte werden extrem hart bestraft, bis hin zur Todesstrafe – auch die „Happy Shakes“ in Vang Vieng."],
     ["Alkohol", "Selbstgebrannten Lao-Lao (Reisschnaps) meiden – 2024 gab es in Vang Vieng tödliche Methanolvergiftungen."]
   ],

@@ -1,5 +1,6 @@
 /* Englische Texte nur für Südkorea (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Mit deutschem Reisepass bis 90 Tage visumfrei; K-ETA ist für Deutsche bis 31.12.2026 nicht nötig. e-Arrival Card kann vorab online ausgefüllt werden. Personalausweis reicht nicht.": "Visa-free for up to 90 days with a German passport; Germans don't need a K-ETA until 31 Dec 2026. The e-Arrival Card can be filled in online beforehand. An ID card is not enough.",
 "Süd- und Nordkorea erkennen sich gegenseitig nicht als Staat an; ein Friedensvertrag nach dem Koreakrieg fehlt bis heute. Die Grenze (DMZ) ist nur mit geführten Touren zu besuchen.": "South and North Korea do not recognise each other as states; there is still no peace treaty after the Korean War. The border (DMZ) can only be visited on guided tours.",
 "Südkoreanischer Won": "South Korean won",
 "🇰🇷 Koreanisch": "🇰🇷 Korean",
