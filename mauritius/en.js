@@ -17,5 +17,5 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "0,2 ‰. Linksverkehr, enge Straßen und viele Busse.": "0.2 ‰. Driving on the left, narrow roads and lots of buses.",
 "Tabak & E-Zigaretten": "Tobacco & e-cigarettes",
 "Einfuhr von Tabakwaren, E-Zigaretten und Wasserpfeifen ist verboten; Rauchen im öffentlichen Raum ist untersagt.": "Importing tobacco products, e-cigarettes and hookahs is prohibited; smoking in public spaces is banned.",
-"Im Oktober 2026 Unruhen mit nächtlichen Ausgangssperren in Teilen der Insel – Menschenansammlungen meiden, Lage verfolgen.": "Unrest with night-time curfews in parts of the island in October 2026 – avoid crowds and follow the news."
+"Bei politischen Unruhen kann es kurzfristig nächtliche Ausgangssperren geben – Menschenansammlungen meiden und vor der Reise die aktuelle Lage beim Auswärtigen Amt prüfen.": "Political unrest can lead to short-notice night-time curfews – avoid crowds and check the current situation with official travel advice before you travel."
 });

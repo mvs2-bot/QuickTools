@@ -775,5 +775,10 @@ window.QT_EN = {
 "Das Auswärtige Amt warnt vor Reisen in Teile der Grenzgebiete zur DR Kongo und zum Südsudan – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to parts of the border areas with the DR Congo and South Sudan – check the current situation before every trip.",
 "Visum vorab online (e-Visum). Nachweis der Gelbfieberimpfung ist Pflicht.": "Visa in advance online (e-visa). Proof of yellow fever vaccination is mandatory.",
 "Gleichgeschlechtliche Handlungen werden sehr hart bestraft (Anti-Homosexuality Act 2023). Keine Zärtlichkeiten in der Öffentlichkeit.": "Same-sex acts are punished very harshly (Anti-Homosexuality Act 2023). No public displays of affection.",
-"Sehr sicheres Reiseland; in Montevideo nachts trotzdem auf Wertsachen achten.": "A very safe country to travel; still keep an eye on valuables in Montevideo at night."
+"Sehr sicheres Reiseland; in Montevideo nachts trotzdem auf Wertsachen achten.": "A very safe country to travel; still keep an eye on valuables in Montevideo at night.",
+"Simien-Nationalpark (Debark)": "Simien Mountains National Park (Debark)",
+"Bahir Dar (Tanasee)": "Bahir Dar (Lake Tana)",
+"Kibira-Nationalpark": "Kibira National Park",
+"Im Oktober 2026 Unruhen mit nächtlichen Ausgangssperren in Teilen der Insel – Menschenansammlungen meiden, Lage verfolgen.": "Unrest with night-time curfews in parts of the island in October 2026 – avoid crowds and follow the news.",
+"Seit 2026 ab 21 erlaubt: bis 25 g dabei, bis 100 g zu Hause. Verkauf bleibt verboten.": "Allowed from 21 since 2026: carry up to 25 g, up to 100 g at home. Sales remain illegal."
 };

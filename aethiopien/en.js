@@ -15,8 +15,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Khat ist legal und weit verbreitet – die Mitnahme nach Deutschland ist strafbar.": "Khat is legal and widespread – taking it to Germany is a criminal offence.",
 "Ethio Telecom oder Safaricom Ethiopia – Pass nötig. In Krisenregionen wird das Internet teils abgeschaltet.": "Ethio Telecom or Safaricom Ethiopia – passport required. The internet is sometimes shut down in crisis regions.",
 "Taxi-Apps in Addis Abeba – Preis steht vorher fest.": "Taxi apps in Addis Ababa – the price is fixed in advance.",
-"Simien-Nationalpark (Debark)": "Simien Mountains National Park (Debark)",
-"Bahir Dar (Tanasee)": "Bahir Dar (Lake Tana)",
 "Tsehafi Tiezaz Afewerk Street, Woreda 03 (Khebena)": "Tsehafi Tiezaz Afewerk Street, Woreda 03 (Khebena)",
 "Yeka Sub-City, Addis Abeba": "Yeka Sub-City, Addis Ababa",
 "(außerhalb der Öffnungszeiten, auch per Signal/WhatsApp, keine Visaanfragen)": "(outside opening hours, also via Signal/WhatsApp, no visa enquiries)",

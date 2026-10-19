@@ -68,7 +68,6 @@ window.QT = {
     ["Gitega", -3.4271, 29.9246],
     ["Bujumbura (Tanganjikasee)", -3.3614, 29.3599],
     ["Nilquelle (Rutovu)", -3.9167, 29.8333],
-    ["Kibira-Nationalpark", -2.9, 29.5],
     ["Rusizi-Nationalpark", -3.29, 29.27]
   ]
 };

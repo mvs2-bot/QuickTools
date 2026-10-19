@@ -64,10 +64,6 @@ window.QT = {
   ],
 
   places: [
-    ["Addis Abeba", 9.03, 38.74],
-    ["Lalibela", 12.0317, 39.0476],
-    ["Gondar", 12.6, 37.4667],
-    ["Simien-Nationalpark (Debark)", 13.1569, 37.8973],
-    ["Bahir Dar (Tanasee)", 11.5936, 37.3908]
+    ["Addis Abeba", 9.03, 38.74]
   ]
 };
