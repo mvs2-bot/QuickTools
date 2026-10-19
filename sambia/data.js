@@ -33,18 +33,20 @@ window.QT = {
   ],
 
   emergency: [
-    ["999", "Polizei"],
-    ["991", "Rettungsdienst"],
+    ["999", "Notruf / Polizei"],
+    ["991", "Polizei"],
+    ["992", "Rettungsdienst"],
     ["993", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Lusaka", "address": ["Plot 5219, Haile Selassie Avenue", "Lusaka"], "phone": "+260 211 250 644"},
+  embassy: {"title": "Deutsche Botschaft Lusaka", "address": ["Plot 5219, Haile Selassie Avenue", "Lusaka"], "phone": "+260 211 250 644", "emergency": "+260 977 773 000", "emergencyNote": "(außerhalb der Öffnungszeiten, keine Visaanfragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/sambia-node",
 
   rules: [
+    ["Grenzgebiet", "Von nicht nötigen Reisen in die unmittelbaren Grenzgebiete zur DR Kongo rät das Auswärtige Amt ab."],
     ["Malaria", "Ganzjährig Risiko – Mückenschutz (lange Kleidung, Repellent, Netz) und vorher ärztliche Beratung zur Prophylaxe."],
     ["Victoria-Fälle", "Von Livingstone aus erreichbar; mit dem KAZA-Visum lässt sich auch die Seite in Simbabwe besuchen. Am meisten Wasser etwa März–Mai."],
     ["Fotografieren", "Keine Fotos von Regierungsgebäuden, Militär, Polizei, Flughäfen und Brücken."],
-    ["Homosexualität", "Gleichgeschlechtliche Handlungen sind strafbar – in der Öffentlichkeit zurückhaltend sein."],
+    ["Homosexualität", "Gleichgeschlechtliche Handlungen sind strafbar (15 Jahre bis lebenslange Haft) – in der Öffentlichkeit zurückhaltend sein."],
     ["Bargeld", "Bezahlt wird in Kwacha. Karten in Städten und Lodges, auf dem Land nur Bargeld."]
   ],
   car: [

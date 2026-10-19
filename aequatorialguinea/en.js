@@ -11,5 +11,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Kritik an der Regierung kann zur Festnahme führen – politische Gespräche in der Öffentlichkeit meiden.": "Criticism of the government can lead to arrest – avoid political discussions in public.",
 "Erhältlich; Trinken in der Öffentlichkeit kann Ärger mit der Polizei bringen.": "Available; drinking in public can cause trouble with the police.",
 "GETESA oder Muni – im Shop, Pass nötig.": "GETESA or Muni – in their shops, passport required.",
-"Das eSIM-Angebot ist begrenzt und Roaming sehr teuer – vorher prüfen.": "eSIM options are limited and roaming is very expensive – check beforehand."
+"Das eSIM-Angebot ist begrenzt und Roaming sehr teuer – vorher prüfen.": "eSIM options are limited and roaming is very expensive – check beforehand.",
+"Visum vorab nötig (für Flugreisen als E-Visum), Reisepass mindestens 6 Monate über das Reiseende hinaus gültig. Gelbfieberimpfung wird teils auch bei Einreise aus Deutschland kontrolliert – Impfpass mitnehmen.": "Visa required in advance (e-visa for air travel), passport valid for at least 6 months beyond the end of your trip. Yellow fever vaccination is sometimes checked even when arriving from Germany – bring your vaccination certificate.",
+"Straßen meist gut, aber riskante Fahrweise (v. a. am Wochenende Alkohol am Steuer) und viele Kontrollposten. Nach Unfällen mit Verletzten droht lange Untersuchungshaft.": "Roads are mostly good, but driving is risky (especially drink-driving at weekends) and there are many checkpoints. After accidents with injuries, long pre-trial detention is possible."
 });

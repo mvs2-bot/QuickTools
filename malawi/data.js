@@ -38,15 +38,16 @@ window.QT = {
     ["998", "Rettungsdienst"],
     ["999", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Lilongwe", "address": ["Convention Drive, City Centre", "Lilongwe 3"], "phone": "+265 1 772 555"},
+  embassy: {"title": "Deutsche Botschaft Lilongwe", "address": ["40/8 off Convention Drive (Capital City)", "Lilongwe"], "phone": "+265 111 772 555", "emergency": "+265 991 393 393", "emergencyNote": "(außerhalb der Öffnungszeiten, keine Visaanfragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/malawi-node",
 
   rules: [
+    ["Einreise", "Seit Januar 2026 brauchen Deutsche ein Visum – bei Einreise oder online (einfache Einreise 50 USD), zunächst max. 30 Tage. Reisepass mindestens 6 Monate gültig."],
     ["Malaria", "Ganzjährig Risiko – Mückenschutz (lange Kleidung, Repellent, Netz) und vorher ärztliche Beratung zur Prophylaxe."],
     ["Bilharziose", "Im Malawisee besteht Bilharziose-Risiko – nach dem Baden einige Wochen später ärztlich testen lassen."],
-    ["Bargeld", "Devisen sind knapp: Euro oder US-Dollar nur bei Banken oder Wechselstuben tauschen, Geldautomaten in Städten. Auf dem Land nur Bargeld."],
+    ["Bargeld", "Devisen sind knapp: Euro oder US-Dollar nur bei Banken oder Wechselstuben tauschen (sonst illegal), Fremdwährung max. 1.000 USD pro Person. Geldautomaten in Städten, auf dem Land nur Bargeld."],
     ["Fotografieren", "Keine Fotos von Regierungsgebäuden, Militär, Polizei, Flughäfen und Brücken."],
-    ["Homosexualität", "Gleichgeschlechtliche Handlungen sind strafbar – in der Öffentlichkeit zurückhaltend sein."]
+    ["Homosexualität", "Gleichgeschlechtliche Handlungen sind strafbar (bis zu 14 Jahre Haft) – in der Öffentlichkeit zurückhaltend sein."]
   ],
   car: [
     ["Promille", "0,8 ‰. Linksverkehr, viele Polizeisperren."],
