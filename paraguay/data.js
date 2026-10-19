@@ -37,13 +37,14 @@ window.QT = {
     ["132", "Feuerwehr"],
     ["141", "Rettungsdienst"]
   ],
-  embassy: {"title": "Deutsche Botschaft Asunción", "address": ["Avenida Venezuela 241", "Asunción"], "phone": "+595 21 214 009"},
+  embassy: {"title": "Deutsche Botschaft Asunción", "address": ["Santa Teresa 2106, Paseo La Galería, Torre 2, Piso 21/22", "Asunción"], "phone": "+595 21 695 710", "emergency": "+595 981 457 216", "emergencyNote": "(Notfälle außerhalb der Dienstzeiten)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/paraguay-node",
 
   rules: [
     ["Tereré", "Kalter Mate wird überall in der Runde getrunken – ein Angebot mitzutrinken ist eine freundliche Geste."],
     ["Hitze", "Im Sommer oft über 40 °C – viel trinken, Mittagshitze meiden. Mückenschutz gegen Dengue."],
-    ["Sicherheit", "Im Norden (Concepción, San Pedro, Amambay) und an den Grenzen zu Brasilien Vorsicht; in Ciudad del Este auf Taschendiebe achten."],
+    ["Sicherheit", "Das Auswärtige Amt rät von nicht notwendigen Reisen ins Grenzgebiet zu Brasilien (Amambay, Canindeyú, Alto Paraná), in den Norden von San Pedro und den Süden von Concepción ab. Nachts nicht allein zu Fuß gehen, bei Überfällen keinen Widerstand leisten."],
+    ["Einreise", "Bei Einreise über Land (z. B. von Foz do Iguaçu oder Posadas) unbedingt den Einreisestempel holen, sonst droht eine Strafe. Gelbfieber-Impfnachweis Pflicht bei Einreise aus Brasilien, Bolivien, Peru oder Kolumbien (1–59 Jahre)."],
     ["Bargeld", "Viele Nullen: 100.000 ₲ sind nur gut 10 € – Scheine vor dem Bezahlen genau prüfen."]
   ],
   car: [

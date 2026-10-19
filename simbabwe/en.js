@@ -21,5 +21,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Victoria Falls (Stadt)": "Victoria Falls (town)",
 "Hwange-Nationalpark": "Hwange National Park",
 "Great Zimbabwe (Ruinen)": "Great Zimbabwe (ruins)",
-"Mana-Pools-Nationalpark": "Mana Pools National Park"
+"Mana-Pools-Nationalpark": "Mana Pools National Park",
+"Visum nötig – bei Ankunft (30 Tage, 30 US$) oder vorab online. Pass mindestens 6 Monate gültig, vier leere Seiten.": "Visa required – on arrival (30 days, US$30) or online in advance. Passport valid for at least 6 months, four blank pages.",
+"Keine Fotos von Regierungsgebäuden, Militär, Polizei, Flughäfen und Brücken – das Verbot wird sehr weit ausgelegt. Tarnkleidung ist verboten.": "No photos of government buildings, military, police, airports or bridges – the ban is interpreted very broadly. Camouflage clothing is prohibited."
 });

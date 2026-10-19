@@ -17,21 +17,12 @@
     <!-- Leaflet (Weltkarte) -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
     <style>
-      .land-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); gap: 8px; margin-top: 12px; }
-      .land { display: flex; flex-direction: column; align-items: center; gap: 2px; text-decoration: none; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 10px 6px; box-shadow: var(--shadow); transition: border-color .15s, transform .15s, background .15s; }
+      .land-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px; margin-top: 12px; }
+      .land { display: flex; flex-direction: column; align-items: center; gap: 2px; text-decoration: none; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px 8px; box-shadow: var(--shadow); transition: border-color .15s, transform .15s, background .15s; }
       .land:hover { border-color: var(--p1); background: var(--hover); transform: translateY(-1px); }
-      .land-flag { font-size: 1.8rem; line-height: 1.1; }
-      .land-name { font-weight: 800; color: var(--ink); font-size: .9rem; line-height: 1.2; text-align: center; hyphens: auto; overflow-wrap: anywhere; }
-      .land-tag { font-size: .68rem; font-weight: 700; color: var(--mute); text-align: center; }
-      /* Handy: 4 Länder pro Reihe */
-      @media (max-width: 600px) {
-        .region { padding: 12px 10px; }
-        .land-grid { grid-template-columns: repeat(auto-fill, minmax(72px, 1fr)); gap: 6px; }
-        .land { padding: 8px 2px; border-radius: 8px; }
-        .land-flag { font-size: 1.45rem; }
-        .land-name { font-size: .66rem; letter-spacing: -.015em; }
-        .land-tag { font-size: .56rem; }
-      }
+      .land-flag { font-size: 2.2rem; line-height: 1.1; }
+      .land-name { font-weight: 800; color: var(--ink); }
+      .land-tag { font-size: .72rem; font-weight: 700; color: var(--mute); }
       .map-box { padding: 0; overflow: hidden; }
       #worldMap { height: 340px; width: 100%; background: var(--bg); z-index: 0; }
       .map-pin { display: flex; align-items: center; justify-content: center; width: 36px; height: 36px; border-radius: 50%; background: var(--card); border: 2px solid var(--p1); box-shadow: 0 2px 8px rgba(0,0,0,.25); font-size: 1.25rem; line-height: 1; transition: transform .15s; }
@@ -39,7 +30,7 @@
       #worldMap.far .map-pin { width: 26px; height: 26px; font-size: .95rem; border-width: 1.5px; margin: 5px; }
       .leaflet-container, .leaflet-tooltip { font-family: 'Twemoji Country Flags', 'Plus Jakarta Sans', system-ui, sans-serif; }
       .leaflet-tooltip { font-weight: 700; }
-      :root[data-theme="dark"] #worldMap .leaflet-tile-pane { filter: invert(1) hue-rotate(180deg) brightness(.75) contrast(1.05); }
+      :root[data-theme="dark"] #worldMap .leaflet-tile-pane { filter: invert(1) hue-rotate(180deg) brightness(.85) contrast(.9); }
       .leaflet-container a { color: var(--p1); }
       @media (max-width: 600px) { #worldMap { height: 260px; } }
     </style>
@@ -48,8 +39,8 @@
   <div class="wrap">
     <div class="sticky-header">
       <header>
-        <div><h1>🌍 <span data-t="title">Urlaubs-Quick-Tools</span></h1><p data-t="sub">Phrasen, Währung &amp; Notfall</p></div>
-        <div class="header-actions"><button class="burger-btn theme-toggle" type="button" aria-label="Zum dunklen Modus wechseln">🌙</button><button class="burger-btn lang-toggle" type="button"><span>DE</span><span>EN</span></button></div>
+        <div><h1>🌍 <span data-t="title">Urlaubs-Quick-Tools</span></h1><p data-t="sub">Phrasen, Währung, GPS &amp; Notfall-Infos</p></div>
+        <div class="header-actions"><button class="burger-btn lang-toggle" type="button"><span>DE</span><span>EN</span></button><button class="burger-btn theme-toggle" type="button" aria-label="Zum dunklen Modus wechseln">🌙</button></div>
       </header>
     </div>
     <div class="box map-box" id="mapBox"><div id="worldMap" role="img" aria-label="Weltkarte mit allen Ländern"></div></div>
@@ -90,7 +81,7 @@
     const KEY = 'qt_theme_v1';
     /* Sprache DE/EN (gleiche Einstellung wie auf den Länderseiten) */
     let EN = false; try { EN = localStorage.getItem('qt_lang_v1') === 'en'; } catch (e) {}
-    const UI = { title: 'Holiday Quick Tools', sub: 'Phrases, currency &amp; emergency', calc: 'Calculator', phr: 'Phrases',
+    const UI = { title: 'Holiday Quick Tools', sub: 'Phrases, currency, GPS &amp; emergency info', calc: 'Calculator', phr: 'Phrases',
       nohit: 'No country found.', tipnote: 'Tip: every country can be installed as its own app and then works offline.' };
     document.querySelectorAll('.lang-toggle span')[EN ? 1 : 0].className = 'on';
     document.querySelectorAll('.lang-toggle').forEach(b => {
@@ -112,7 +103,7 @@
     function apply(t, save) {
       const dark = t === 'dark';
       document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
-      document.querySelector('meta[name="theme-color"]').setAttribute('content', dark ? '#000000' : '#15803d');
+      document.querySelector('meta[name="theme-color"]').setAttribute('content', dark ? '#0f1512' : '#15803d');
       document.querySelectorAll('.theme-toggle').forEach(b => { b.textContent = dark ? '☀️' : '🌙'; b.setAttribute('aria-label', dark ? 'Zum hellen Modus wechseln' : 'Zum dunklen Modus wechseln'); });
       if (save) { try { localStorage.setItem(KEY, t); } catch (e) {} }
     }

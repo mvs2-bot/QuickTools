@@ -5,8 +5,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "🇷🇼 Englisch": "🇷🇼 English",
 "🇷🇼 Kinyarwanda (Grüße)": "🇷🇼 Kinyarwanda (greetings)",
 "Deutsche Botschaft Kigali": "German Embassy Kigali",
-"Das Auswärtige Amt warnt vor Reisen in das Grenzgebiet zur DR Kongo – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to the border area with the DR Congo – check the current situation before every trip.",
-"Plastiktüten sind streng verboten – sie werden schon bei der Einreise abgenommen.": "Plastic bags are strictly banned – they are confiscated on entry.",
 "Umuganda": "Umuganda",
 "Am letzten Samstag im Monat ist vormittags Gemeinschaftsarbeit: Geschäfte zu, kaum Verkehr – Fahrten danach planen.": "On the last Saturday of the month there is community work in the morning: shops closed, hardly any traffic – plan journeys for afterwards.",
 "Genehmigungen (Permits) für den Volcanoes-Nationalpark sind teuer und früh ausgebucht – lange im Voraus beim Rwanda Development Board buchen.": "Permits for Volcanoes National Park are expensive and sell out early – book well in advance from the Rwanda Development Board.",
@@ -17,5 +15,14 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Volcanoes-Nationalpark (Musanze)": "Volcanoes National Park (Musanze)",
 "Nyungwe-Nationalpark": "Nyungwe National Park",
 "Akagera-Nationalpark": "Akagera National Park",
-"Kibuye (Kivusee)": "Kibuye (Lake Kivu)"
+"Kibuye (Kivusee)": "Kibuye (Lake Kivu)",
+"KN 27 St No. 5, Kiyovu": "KN 27 St No. 5, Kiyovu",
+"(außerhalb der Öffnungszeiten, auch SMS/WhatsApp, nur akute Notfälle Deutscher, keine Visaauskünfte)": "(outside opening hours, also SMS/WhatsApp, acute emergencies of German nationals only, no visa information)",
+"Das Auswärtige Amt rät von nicht notwendigen Reisen in die Grenzregionen zur DR Kongo ab (besondere Vorsicht im Distrikt Rusizi). Wer in den 30 Tagen vor der Einreise in der DR Kongo war (auch Transit), wird abgewiesen. Die Landgrenze zu Burundi ist geschlossen.": "The German Foreign Office advises against non-essential travel to the border regions with the DR Congo (special caution in Rusizi district). Anyone who was in the DR Congo in the 30 days before arrival (including transit) will be refused entry. The land border with Burundi is closed.",
+"Visum online oder bei Ankunft (ca. 50 USD, 30 Tage). Reisepass mind. 6 Monate über die Reise hinaus gültig.": "Visa online or on arrival (approx. USD 50, 30 days). Passport valid for at least 6 months beyond the trip.",
+"Drohnen & E-Zigaretten": "Drones & e-cigarettes",
+"Die Einfuhr von Drohnen und E-Zigaretten ist nicht erlaubt.": "Bringing in drones and e-cigarettes is not allowed.",
+"Plastiktüten und Plastikverpackungen dürfen nicht eingeführt werden – sie werden schon bei der Einreise abgenommen.": "Plastic bags and plastic packaging may not be brought in – they are taken away on arrival.",
+"Führerschein & Alkohol": "Driving licence & alcohol",
+"Internationaler Führerschein nötig, nur zusammen mit dem deutschen gültig. Alkohol am Steuer: hohe Geldstrafen, Fahrverbot und Haft.": "International driving permit required, only valid together with your German licence. Drink-driving: heavy fines, driving ban and detention."
 });

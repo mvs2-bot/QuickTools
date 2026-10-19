@@ -33,30 +33,33 @@ window.QT = {
   ],
 
   emergency: [
-    ["19", "Polizei (Städte)"],
+    ["19", "Polizei (Städte; vom Handy auch 112)"],
     ["177", "Gendarmerie (ländliche Gebiete)"],
     ["15", "Feuerwehr & Rettungsdienst"]
   ],
-  embassy: {"title": "Deutsche Botschaft Rabat", "address": ["7, Zankat Madnine", "Rabat"], "phone": "+212 537 63 54 00"},
+  embassy: {"title": "Deutsche Botschaft Rabat", "address": ["7, Zankat Madnine", "Rabat"], "phone": "+212 537 63 54 00", "emergency": "+212 661 14 70 59", "emergencyNote": "(außerhalb der Öffnungszeiten, Anruf oder SMS, nur Notfälle Deutscher, keine Visa- oder Passanfragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/marokko-node",
 
   status: [
-    ["Westsahara", "Marokko beansprucht die Westsahara und verwaltet den größten Teil davon; der Status ist international umstritten, die Polisario fordert die Unabhängigkeit. Abseits der Küstenorte gilt dort erhöhte Vorsicht."]
+    ["Westsahara", "Marokko beansprucht die Westsahara und verwaltet den größten Teil davon; der Status ist international umstritten, die Polisario fordert die Unabhängigkeit. Das Auswärtige Amt rät dringend von Reisen dorthin ab (Minen, keine konsularische Betreuung) – höchstens auf der Strecke Laayoune–Dakhla–mauretanische Grenze bleiben."]
   ],
   rules: [
+    ["Sicherheit", "Das Auswärtige Amt rät dringend von Reisen in die Westsahara und ins Grenzgebiet zu Algerien ab (Grenze geschlossen). Rif-Gebirge nicht allein bereisen, Trekking und Wüstentouren nur mit registrierten Führern – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Homosexualität", "Gleichgeschlechtliche Handlungen sind strafbar (bis zu 3 Jahre Haft), ebenso außerehelicher Sex – Hotels können von Paaren eine Heiratsurkunde verlangen."],
+    ["Drohnen", "Die Einfuhr von Drohnen ist streng verboten – sie werden beschlagnahmt, es drohen Strafverfahren."],
     ["Kleidung", "Schultern und Knie bedecken, besonders außerhalb von Strand und Hotel. Moscheen dürfen Nicht-Muslime meist nicht betreten (Ausnahme: Hassan-II-Moschee)."],
     ["Handeln", "In den Souks ist Handeln Pflicht – freundlich bleiben, am Ende muss es für beide passen."],
     ["„Führer“", "Ungefragte Wegweiser in der Medina erwarten Geld – höflich, aber bestimmt ablehnen."],
     ["Fotografieren", "Menschen nur mit Erlaubnis fotografieren; für Fotos mit Gauklern/Schlangenbeschwörern wird Geld verlangt."],
     ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."],
-    ["Dirham", "Dirham dürfen offiziell nicht ein- oder ausgeführt werden – vor Ort abheben und vor der Abreise zurücktauschen."]
+    ["Dirham", "Höchstens 2.000 Dirham dürfen ein- oder ausgeführt werden – vor Ort abheben und vor der Abreise zurücktauschen."]
   ],
   car: [
     ["Promille", "0,2 ‰. Sehr viele Radar- und Polizeikontrollen."]
   ],
   substances: [
     ["Alkohol", "Nur in lizenzierten Bars, Hotels und Supermärkten. Trinken in der Öffentlichkeit ist verboten."],
-    ["Cannabis", "Verboten, auch wenn es (z. B. im Rif-Gebirge) offen angeboten wird."]
+    ["Cannabis", "Verboten, auch wenn es (z. B. im Rif-Gebirge) offen angeboten wird. Schon kleinste Mengen sind strafbar, es drohen bis zu 10 Jahre Haft."]
   ],
   sim: [
     ["Lokale SIM", "Maroc Telecom, Orange oder inwi – oft gratis am Flughafen, Pass nötig."],

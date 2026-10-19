@@ -35,9 +35,9 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/brasilien-node",
 
   rules: [
-    ["Sicherheit", "Keine Wertsachen, Schmuck oder Handys offen zeigen; nachts Uber statt zu Fuß. Das Auswärtige Amt rät vom Besuch jeglicher Favelas ab, auch mit geführten Touren, sowie von Reisen ins Grenzgebiet zu Venezuela."],
+    ["Sicherheit", "Keine Wertsachen, Schmuck oder Handys offen zeigen; nachts Uber statt zu Fuß. Das Auswärtige Amt rät vom Besuch der Favelas in Rio de Janeiro ab, auch mit geführten Touren, sowie von Reisen ins unmittelbare Grenzgebiet zu Venezuela."],
     ["Meer", "Starke Strömungen an vielen Stränden – nur an bewachten Abschnitten baden, rote Fahnen beachten. Oben-ohne-Baden kann zur Festnahme führen; Kinder am Strand nicht fotografieren."],
-    ["Gesundheit", "Mückenschutz gegen Dengue; für Amazonas und viele Regionen wird die Gelbfieberimpfung empfohlen."],
+    ["Gesundheit", "Mückenschutz gegen Dengue; die Gelbfieberimpfung wird empfohlen – Risiko auch in São Paulo, Rio de Janeiro und Brasília."],
     ["Bezahlen", "Karten werden fast überall akzeptiert, Einheimische zahlen meist per Pix. Am Automaten tagsüber und in Einkaufszentren abheben."]
   ],
   car: [

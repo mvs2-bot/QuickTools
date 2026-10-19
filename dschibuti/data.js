@@ -36,21 +36,22 @@ window.QT = {
     ["17", "Polizei"],
     ["18", "Feuerwehr & Rettungsdienst"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Addis Abeba (Äthiopien)", "address": ["Yeka Kifle Ketema, Kebele 06", "Addis Abeba, Äthiopien"], "phone": "+251 11 123 5139"},
+  embassy: {"title": "Deutsche Botschaft Dschibuti", "address": ["Stadtviertel Haramous (ca. 2 km östlich der US-Botschaft)", "Dschibuti"], "phone": "+253 21 34 40 24", "emergency": "+251 911 204 020", "emergencyNote": "(Bereitschaftsdienst der Botschaft Addis Abeba, keine Visaanfragen; Dschibuti leistet nur Nothilfe – Pässe und Konsularisches über Addis Abeba)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/dschibuti-node",
 
   rules: [
-    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Grenzgebiete zu Eritrea und Somalia – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Sicherheit", "Das Auswärtige Amt rät von nicht erforderlichen Einzelreisen in entlegene Gebiete ab, besonders in die Grenzgebiete zu Eritrea und Somalia (Grenze zu Eritrea geschlossen); auf dem Weg nach Obock die Pisten nicht verlassen – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Einreise", "Visum nötig – vorab als e-Visum (evisa.gouv.dj), bei der Botschaft in Berlin oder bei Ankunft. Reisepass mind. 6 Monate gültig."],
     ["Hitze", "Von Juni bis September oft über 40 °C – Reisezeit Oktober bis April, viel trinken."],
     ["Kleidung", "Außerhalb von Strand und Hotel Schultern und Knie bedecken."],
-    ["Fotografieren", "Keine Fotos von Militärbasen (viele ausländische Stützpunkte), Hafen, Polizei und Regierungsgebäuden."],
+    ["Fotografieren", "Keine Fotos von Militärbasen (viele ausländische Stützpunkte), Flughafen, Hafen, Brücken, Polizei, Regierungsgebäuden und Moscheen; Menschen nur mit Erlaubnis – sonst Beschlagnahme oder Festnahme."],
     ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."]
   ],
   car: [
     ["Selbst fahren?", "Außerhalb der Hauptstadt meist nur mit Geländewagen und Fahrer. Nachts nicht fahren, Kontrollpunkte."]
   ],
   substances: [
-    ["Alkohol", "In Hotels, Bars und manchen Läden erhältlich. Trinken in der Öffentlichkeit vermeiden."],
+    ["Alkohol", "In Hotels, Bars und manchen Läden erhältlich. Trinken in der Öffentlichkeit ist verboten, Einfuhr max. 1 Liter pro Person."],
     ["Khat", "Khat ist legal und wird nachmittags überall gekaut – die Mitnahme nach Deutschland ist strafbar."],
     ["Drogen", "Andere Drogen werden streng bestraft."]
   ],

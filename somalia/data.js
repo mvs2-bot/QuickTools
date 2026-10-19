@@ -35,15 +35,17 @@ window.QT = {
     ["Somaliland", "Der Norden (Hauptstadt Hargeysa) hat sich 1991 für unabhängig erklärt, ist international aber weitgehend nicht anerkannt. Somaliland hat eigene Behörden, eigene Visa und eine eigene Währung (Somaliland-Schilling)."],
     ["Puntland", "Puntland im Nordosten ist eine weitgehend autonome Region Somalias mit eigener Verwaltung."]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Nairobi (Kenia)", "address": ["113 Riverside Drive", "Nairobi, Kenia"], "phone": "+254 20 4262 100"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Nairobi (Kenia)", "address": ["Ludwig Krapf House, 113 Riverside Drive", "Nairobi, Kenia"], "phone": "+254 20 4262 100", "emergency": "+254 721 322 443", "emergencyNote": "(außerhalb der Öffnungszeiten, auch SMS/WhatsApp, keine Visaanfragen; in Somalia selbst keine konsularische Hilfe, Ersatzpässe nur persönlich in Nairobi)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/somalia-node",
 
   rules: [
-    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Somalia – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Somalia und in die Gewässer vor Somalia und rät Deutschen vor Ort zur raschen Ausreise – vor jeder Reise die aktuelle Lage prüfen."],
     ["Sicherheit", "Terroranschläge (al-Shabaab), bewaffnete Konflikte und hohes Entführungsrisiko. Konsularische Hilfe ist kaum möglich."],
     ["Krisenvorsorge", "Wer trotzdem reist, sollte sich in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts eintragen."],
+    ["Einreise", "Visum vorab elektronisch beantragen (wird nicht überall anerkannt); für Somaliland zusätzlich ein eigenes Visum. Reisepass mind. 6 Monate gültig."],
+    ["Homosexualität", "Gleichgeschlechtliche Handlungen werden streng bestraft, bis hin zur Todesstrafe."],
     ["Kleidung", "Konservativ kleiden: lange Hosen und Ärmel, Frauen mit Kopftuch."],
-    ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."]
+    ["Ramadan", "Im Ramadan ist Essen, Trinken und Rauchen in der Öffentlichkeit tagsüber auch für Nicht-Muslime verboten."]
   ],
   car: [
     ["Selbst fahren?", "Nicht möglich – nur mit lokalem Sicherheitsschutz unterwegs sein."]

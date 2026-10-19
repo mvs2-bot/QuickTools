@@ -8,7 +8,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Puntland": "Puntland",
 "Puntland im Nordosten ist eine weitgehend autonome Region Somalias mit eigener Verwaltung.": "Puntland in the north-east is a largely autonomous region of Somalia with its own administration.",
 "Nairobi, Kenia": "Nairobi, Kenya",
-"Das Auswärtige Amt warnt vor Reisen nach Somalia – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to Somalia – check the current situation before every trip.",
 "Terroranschläge (al-Shabaab), bewaffnete Konflikte und hohes Entführungsrisiko. Konsularische Hilfe ist kaum möglich.": "Terrorist attacks (al-Shabaab), armed conflict and a high risk of kidnapping. Consular assistance is hardly possible.",
 "Konservativ kleiden: lange Hosen und Ärmel, Frauen mit Kopftuch.": "Dress conservatively: long trousers and sleeves, women with a headscarf.",
 "Nicht möglich – nur mit lokalem Sicherheitsschutz unterwegs sein.": "Not possible – only travel with local security protection.",
@@ -17,5 +16,10 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Hormuud oder Somtel, in Somaliland Telesom – Pass nötig, günstige Datenpakete.": "Hormuud or Somtel, Telesom in Somaliland – passport required, cheap data packages.",
 "Mobiles Bezahlen (meist in US-Dollar) ist allgegenwärtig – Zaad in Somaliland.": "Mobile payments (mostly in US dollars) are everywhere – Zaad in Somaliland.",
 "Mogadischu": "Mogadishu",
-"Hargeysa (Somaliland)": "Hargeisa (Somaliland)"
+"Hargeysa (Somaliland)": "Hargeisa (Somaliland)",
+"(außerhalb der Öffnungszeiten, auch SMS/WhatsApp, keine Visaanfragen; in Somalia selbst keine konsularische Hilfe, Ersatzpässe nur persönlich in Nairobi)": "(outside opening hours, also SMS/WhatsApp, no visa enquiries; no consular assistance inside Somalia, replacement passports only in person in Nairobi)",
+"Das Auswärtige Amt warnt vor Reisen nach Somalia und in die Gewässer vor Somalia und rät Deutschen vor Ort zur raschen Ausreise – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to Somalia and its coastal waters and advises Germans in the country to leave quickly – check the current situation before every trip.",
+"Visum vorab elektronisch beantragen (wird nicht überall anerkannt); für Somaliland zusätzlich ein eigenes Visum. Reisepass mind. 6 Monate gültig.": "Apply for a visa electronically in advance (not recognised everywhere); Somaliland requires its own additional visa. Passport valid for at least 6 months.",
+"Gleichgeschlechtliche Handlungen werden streng bestraft, bis hin zur Todesstrafe.": "Same-sex acts are severely punished, up to the death penalty.",
+"Im Ramadan ist Essen, Trinken und Rauchen in der Öffentlichkeit tagsüber auch für Nicht-Muslime verboten.": "During Ramadan, eating, drinking and smoking in public during the day is forbidden for non-Muslims too."
 });

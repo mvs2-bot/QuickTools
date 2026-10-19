@@ -36,14 +36,14 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/aequatorialguinea-node",
 
   rules: [
-    ["Einreise", "Visum vorab nötig (für Flugreisen als E-Visum). Gelbfieberimpfung Pflicht."],
+    ["Einreise", "Visum vorab nötig (für Flugreisen als E-Visum), Reisepass mindestens 6 Monate über das Reiseende hinaus gültig. Gelbfieberimpfung wird teils auch bei Einreise aus Deutschland kontrolliert – Impfpass mitnehmen."],
     ["Ausweis & Genehmigung", "Pass immer dabeihaben – häufige Kontrollen, teils mit Geldforderungen. Wer Malabo oder Bata verlässt, braucht eine Kurzzeitgenehmigung über eine registrierte Reiseagentur."],
     ["Fotografieren", "Sehr strikt: keine Behörden, Flughäfen, Häfen, Militär, Polizei oder Konvois. Die Polizei greift hart durch."],
     ["Sicherheit", "In Malabo und Bata nicht allein zu Fuß unterwegs sein, Taxis nur mit ortskundiger Begleitung, Mietwagen nur mit Fahrer."],
     ["Politik", "Kritik an der Regierung kann zur Festnahme führen – politische Gespräche in der Öffentlichkeit meiden."]
   ],
   car: [
-    ["Straßen", "Schlechte Straßen und viele Kontrollposten – nachts nicht über Land fahren."],
+    ["Straßen", "Straßen meist gut, aber riskante Fahrweise (v. a. am Wochenende Alkohol am Steuer) und viele Kontrollposten. Nach Unfällen mit Verletzten droht lange Untersuchungshaft."],
     ["Promille", "Am besten gar nicht trinken – Polizeikontrollen sind häufig."]
   ],
   substances: [

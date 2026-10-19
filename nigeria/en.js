@@ -12,7 +12,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Notruf Lagos (Bundesstaat)": "Lagos State emergency line",
 "Deutsche Botschaft Abuja": "German Embassy Abuja",
 "Generalkonsulat Lagos: 15 Walter Carrington Crescent, Victoria Island": "Consulate General Lagos: 15 Walter Carrington Crescent, Victoria Island",
-"Das Auswärtige Amt warnt vor Reisen in große Teile des Nordens (u. a. Borno, Yobe, Kano, Kaduna, Plateau, Sokoto, Zamfara), Teile von Oyo, Adamawa und Nassarawa sowie das Grenzgebiet zu Kamerun; von nicht notwendigen Reisen außer nach Abuja, Lagos und Ibadan wird abgeraten – vor jeder Reise die aktuelle Lage prüfen.": "The Federal Foreign Office warns against travel to large parts of the north (incl. Borno, Yobe, Kano, Kaduna, Plateau, Sokoto, Zamfara), parts of Oyo, Adamawa and Nassarawa and the border area with Cameroon; non-essential travel anywhere except Abuja, Lagos and Ibadan is advised against – check the current situation before every trip.",
 "Entführungsgefahr: keine Überlandfahrten, nachts nicht unterwegs sein, nur bekannte Fahrer oder App-Taxis nutzen.": "Risk of kidnapping: no overland journeys, don't travel at night, only use known drivers or app taxis.",
 "Scharia im Norden": "Sharia in the north",
 "In zwölf nördlichen Bundesstaaten gilt Scharia-Strafrecht, Alkohol ist dort teils verboten – Kleidung und Verhalten anpassen.": "Sharia criminal law applies in twelve northern states, where alcohol is partly banned – adapt your clothing and behaviour.",
@@ -22,5 +21,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Im Süden weit verbreitet, in Scharia-Bundesstaaten im Norden teils verboten.": "Widely available in the south, partly banned in the Sharia states in the north.",
 "MTN, Airtel oder Glo – Registrierung mit Pass, kann dauern.": "MTN, Airtel or Glo – registration with passport, can take a while.",
 "Fahrdienste in Lagos und Abuja.": "Ride-hailing in Lagos and Abuja.",
-"Osun-Osogbo-Hain": "Osun-Osogbo Sacred Grove"
+"Osun-Osogbo-Hain": "Osun-Osogbo Sacred Grove",
+"Das Auswärtige Amt warnt vor Reisen in den Großteil des Nordens (u. a. Borno, Yobe, Kano, Kaduna, Katsina, Bauchi, Niger, Kwara, Plateau, Sokoto, Zamfara), nach Oyo außer Großraum Ibadan, ins nördliche Adamawa, östliche Nassarawa und ins Grenzgebiet zu Kamerun. Dringend abgeraten wird u. a. von Abia, Benue, Ekiti, Kogi, Taraba und den Küstengewässern; von nicht notwendigen Reisen außer nach Abuja, Lagos und Ibadan wird abgeraten – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to most of the north (incl. Borno, Yobe, Kano, Kaduna, Katsina, Bauchi, Niger, Kwara, Plateau, Sokoto, Zamfara), to Oyo except greater Ibadan, northern Adamawa, eastern Nassarawa and the border area with Cameroon. It strongly advises against travel to Abia, Benue, Ekiti, Kogi, Taraba and the coastal waters, among others; non-essential travel anywhere except Abuja, Lagos and Ibadan is discouraged – check the current situation before every trip.",
+"Nur E-Visum vorab (evisa.immigration.gov.ng), zusätzlich Landing und Exit Card online beantragen. Reisepass mind. 6 Monate gültig, Gelbfieberimpfung Pflicht.": "E-visa only, applied for in advance (evisa.immigration.gov.ng); also apply online for the landing and exit card. Passport valid for at least 6 months, yellow fever vaccination mandatory."
 });

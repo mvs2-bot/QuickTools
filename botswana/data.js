@@ -38,11 +38,11 @@ window.QT = {
     ["997", "Rettungsdienst"],
     ["998", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Gaborone", "address": ["Professional House, Segoditshane Way, Broadhurst", "Gaborone"], "phone": "+267 395 3143"},
+  embassy: {"title": "Deutsche Botschaft Gaborone", "address": ["Queens Road 1079-1084 (Main Mall)", "Gaborone"], "phone": "+267 395 3143", "emergency": "+267 71 300 139", "emergencyNote": "(außerhalb der Öffnungszeiten, keine Visaanfragen; Honorarkonsulin Maun: +267 686 1616)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/botsuana-node",
 
   rules: [
-    ["Malaria", "Im Norden (Okavango, Chobe) Risiko, vor allem in der Regenzeit (Nov.–Apr.) – Mückenschutz und ärztliche Beratung zur Prophylaxe."],
+    ["Malaria", "Im Norden (Okavango, Chobe) hohes Risiko, vor allem Sept.–Mai – Mückenschutz und ärztliche Beratung zur Prophylaxe."],
     ["Wildtiere", "Elefanten und andere Tiere laufen auch außerhalb der Parks über Straßen und durch Camps. In Parks nur an erlaubten Stellen aussteigen."],
     ["Souvenirs", "Keine Produkte aus Elfenbein oder geschützten Tieren kaufen – Ausfuhr ist verboten."],
     ["Fotografieren", "Keine Fotos von Regierungsgebäuden, Militär, Polizei, Flughäfen und Brücken."]

@@ -1,5 +1,6 @@
 /* Englische Texte nur für Sambia (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Grenzgebiet": "Border area",
 "Sambischer Kwacha": "Zambian kwacha",
 "🇿🇲 Englisch": "🇿🇲 English",
 "🇿🇲 Nyanja & Bemba (Grüße)": "🇿🇲 Nyanja & Bemba (greetings)",
@@ -16,5 +17,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Victoria-Fälle (Livingstone)": "Victoria Falls (Livingstone)",
 "South-Luangwa-Nationalpark (Mfuwe)": "South Luangwa National Park (Mfuwe)",
 "Lower-Zambezi-Nationalpark": "Lower Zambezi National Park",
-"Karibasee (Siavonga)": "Lake Kariba (Siavonga)"
+"Karibasee (Siavonga)": "Lake Kariba (Siavonga)",
+"Von nicht nötigen Reisen in die unmittelbaren Grenzgebiete zur DR Kongo rät das Auswärtige Amt ab.": "The Federal Foreign Office advises against non-essential travel to the immediate border areas with the DR Congo.",
+"Gleichgeschlechtliche Handlungen sind strafbar (15 Jahre bis lebenslange Haft) – in der Öffentlichkeit zurückhaltend sein.": "Same-sex acts are illegal (15 years to life in prison) – be discreet in public."
 });

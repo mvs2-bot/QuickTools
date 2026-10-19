@@ -37,19 +37,20 @@ window.QT = {
     ["117", "Polizei"],
     ["118", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Bujumbura", "address": ["22, Rue du 18 Septembre", "Bujumbura"], "phone": "+257 22 25 77 77"},
+  embassy: {"title": "Deutsche Botschaft Bujumbura", "address": ["30, Avenue du 18 Septembre", "Bujumbura"], "phone": "+257 22 25 77 77", "emergency": "+254 721 322 443", "emergencyNote": "(Bereitschaftsdienst der Botschaft Nairobi, auch SMS, keine Visaanfragen; Bujumbura bietet keine Konsular- oder Nothilfe – zuständig ist Nairobi)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/burundi-node",
 
   rules: [
-    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Grenzgebiete zur DR Kongo (u. a. Provinzen Cibitoke und Bubanza) – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Sicherheit", "Das Auswärtige Amt rät dringend von nicht notwendigen Reisen in den Norden der Provinz Bujumbura und den Norden des Kibira-Nationalparks ab (v. a. nördlich und östlich der RN 10 Rugombo–Kayanza). Die Landgrenze zu Ruanda ist geschlossen – vor jeder Reise die aktuelle Lage prüfen."],
     ["Hauptstadt", "Politische Hauptstadt ist seit 2019 Gitega; Wirtschaftszentrum, Flughafen und die meisten Botschaften sind in Bujumbura."],
     ["Bargeld", "Kreditkarten und Geldautomaten funktionieren kaum. Saubere Euro- oder US-Dollar-Scheine mitbringen und nur offiziell tauschen."],
-    ["Einreise", "Visum vorab beantragen (teils auch bei Ankunft am Flughafen). Nachweis der Gelbfieberimpfung ist Pflicht."],
-    ["Homosexualität", "Gleichgeschlechtliche Handlungen sind strafbar. Keine Zärtlichkeiten in der Öffentlichkeit."],
+    ["Einreise", "Visum nur bei Ankunft am Flughafen Bujumbura (vorab online beantragbar, sonst bar in USD). Reisepass mind. 6 Monate gültig. Gelbfieberimpfung ist Pflicht (ab 9 Monaten)."],
+    ["Homosexualität", "Gleichgeschlechtliche Handlungen sind strafbar (3 Monate bis 2 Jahre Haft). Keine Zärtlichkeiten in der Öffentlichkeit."],
     ["Fotografieren", "Keine Fotos von Polizei, Militär und Regierungsgebäuden. Menschen nur mit Erlaubnis fotografieren."]
   ],
   car: [
-    ["Selbst fahren?", "Treibstoff ist oft knapp, viele Kontrollpunkte – nachts nicht über Land fahren, besser mit Fahrer."]
+    ["Selbst fahren?", "Treibstoff ist oft knapp (Kauf auf dem Schwarzmarkt wird hart bestraft), viele Kontrollpunkte – nachts nicht über Land fahren, besser mit Fahrer."],
+    ["Führerschein", "Internationaler Führerschein nötig, nur zusammen mit dem deutschen gültig."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren. Bier (z. B. Primus) gibt es überall."],

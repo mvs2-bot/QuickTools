@@ -10,10 +10,11 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Eswatini ist eine absolute Monarchie – Kritik am König vermeiden, königliche Residenzen nicht fotografieren.": "Eswatini is an absolute monarchy – avoid criticising the king, don't photograph royal residences.",
 "Feste": "Festivals",
 "Umhlanga (Aug./Sept.) und Incwala (Dez./Jan.) sind große Zeremonien – Fotoregeln vor Ort beachten.": "Umhlanga (Aug/Sept) and Incwala (Dec/Jan) are major ceremonies – follow the photo rules on site.",
-"Risiko nur im östlichen Tiefland (Lowveld), vor allem Nov.–Mai – Mückenschutz.": "Risk only in the eastern lowveld, mainly Nov–May – mosquito protection.",
 "MTN Eswatini oder Eswatini Mobile – Pass nötig (Registrierung).": "MTN Eswatini or Eswatini Mobile – passport required (registration).",
 "Ezulwini-Tal (Lobamba)": "Ezulwini Valley (Lobamba)",
 "Mlilwane-Wildschutzgebiet": "Mlilwane Wildlife Sanctuary",
 "Hlane-Royal-Nationalpark": "Hlane Royal National Park",
-"Malolotja-Naturreservat": "Malolotja Nature Reserve"
+"Malolotja-Naturreservat": "Malolotja Nature Reserve",
+"(außerhalb der Öffnungszeiten, keine Visaanfragen; Verbindungsbüro Mbabane: +268 2404 3174)": "(outside opening hours, no visa enquiries; liaison office in Mbabane: +268 2404 3174)",
+"Risiko nur im östlichen Tiefland (Lowveld), vor allem Sept.–Mai – Mückenschutz.": "Risk only in the eastern lowlands (Lowveld), mainly Sept–May – use mosquito protection."
 });

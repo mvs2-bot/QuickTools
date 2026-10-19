@@ -45,7 +45,8 @@ window.QT = {
     ["Preise", "Die Inflation ist hoch – Preise ändern sich schnell. Der Rechner nutzt den offiziellen Kurs."],
     ["Essenszeiten", "Abendessen selten vor 21 Uhr, viele Restaurants öffnen erst dann."],
     ["Mate", "Wer zum Mate eingeladen wird: Nicht am Strohhalm rühren und erst „gracias“ sagen, wenn man nichts mehr möchte."],
-    ["Sicherheit", "In Buenos Aires Handy nicht offen am Straßenrand nutzen, nur App-Taxis nehmen."]
+    ["Sicherheit", "In Buenos Aires Handy nicht offen am Straßenrand nutzen, nur App-Taxis nehmen."],
+    ["Einreise", "Nachweis einer Auslandskrankenversicherung (inkl. Rücktransport) wird verlangt – Airlines können sonst das Boarding verweigern. Nur mit Reisepass, nicht mit Personalausweis."]
   ],
   car: [
     ["Promille", "0,0 ‰ auf Nationalstraßen und in den meisten Provinzen."],
@@ -53,7 +54,7 @@ window.QT = {
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren. Rund um Wahlen gilt oft ein Alkoholverbot („Ley seca“)."],
-    ["Cannabis", "Verboten – kleine Mengen für den Eigenbedarf werden privat meist nicht verfolgt, in der Öffentlichkeit schon."]
+    ["Cannabis", "Verboten – laut Auswärtigem Amt sind auch Kleinstmengen nicht straffrei und können zu hohen Haftstrafen führen."]
   ],
   sim: [
     ['Lokale SIM', 'Prepaid-SIM von Personal, Claro oder Movistar – Reisepass nötig.'],

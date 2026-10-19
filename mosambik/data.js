@@ -31,13 +31,14 @@ window.QT = {
     ["117", "Rettungsdienst"],
     ["198", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Maputo", "address": ["Rua Damião de Góis 506", "Maputo"], "phone": "+258 21 482 700"},
+  embassy: {"title": "Deutsche Botschaft Maputo", "address": ["Rua Damião de Góis 506", "Maputo"], "phone": "+258 21 482 700", "emergency": "+258 82 303 33 00", "emergencyNote": "(außerhalb der Öffnungszeiten, alternativ +258 84 303 33 00 – keine Visaanfragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/mosambik-node",
 
   rules: [
-    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Provinz Cabo Delgado im Norden – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Provinz Cabo Delgado (alle Distrikte außer Pemba) sowie in die Distrikte Memba und Erati (Provinz Nampula) und Mecula und Marrupa (Provinz Niassa) – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Einreise", "Vorab online über evisa.gov.mz registrieren: eTA für bis zu 30 Tage (ca. 41 €). Reisepass mindestens 6 Monate gültig und unbeschädigt."],
     ["Malaria", "Ganzjährig Risiko – Mückenschutz (lange Kleidung, Repellent, Netz) und vorher ärztliche Beratung zur Prophylaxe."],
-    ["Ausweis", "Pass oder beglaubigte Passkopie immer dabeihaben – die Polizei kontrolliert häufig."],
+    ["Ausweis", "Pass im Original immer dabeihaben, Kopien getrennt aufbewahren – die Polizei kontrolliert häufig."],
     ["Fotografieren", "Keine Fotos von Regierungsgebäuden, Militär, Polizei, Flughäfen und Brücken."],
     ["Sprache", "Amtssprache ist Portugiesisch, Englisch sprechen vor allem Hotels und Tauchschulen."]
   ],

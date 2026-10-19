@@ -39,23 +39,24 @@ window.QT = {
     ["190", "Rettungsdienst (SAMU)"],
     ["198", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Tunis", "address": ["1, Rue El Hamra, Mutuelleville", "1002 Tunis"], "phone": "+216 71 143 200"},
+  embassy: {"title": "Deutsche Botschaft Tunis", "address": ["Impasse du Lac Windermere", "Les Berges du Lac 1, Tunis"], "phone": "+216 71 143 200", "emergency": "+216 98 305 090", "emergencyNote": "(außerhalb der Öffnungszeiten, nur dringende Notfälle, keine Visafragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/tunesien-node",
 
   rules: [
-    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Grenzgebiete zu Algerien und Libyen sowie in die militärischen Sperrgebiete im Süden – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Sicherheit", "Das Auswärtige Amt rät von Reisen in den Süden (südlich der Linie Tozeur/Nefta–Douz–Ksar Ghilane–Tataouine–Zarzis), ins Grenzgebiet zu Algerien (Ain Draham bis Kasserine, Jebel Chaambi) und von individuellen Wüstentouren ab. Der Grenzstreifen zu Libyen ist militärisches Sperrgebiet – vor jeder Reise die aktuelle Lage prüfen."],
     ["Dinar", "Dinar dürfen nicht ein- oder ausgeführt werden – vor Ort tauschen/abheben, Quittungen für den Rücktausch aufheben."],
     ["Kleidung", "Außerhalb von Strand und Hotel Schultern und Knie bedecken. Moscheen sind für Nicht-Muslime meist nur im Hof zugänglich."],
     ["Handeln", "In den Souks ist Handeln üblich – freundlich, aber bestimmt bleiben; aufdringliche „Führer“ höflich ablehnen."],
-    ["Fotografieren", "Keine Fotos von Polizei, Militär und Regierungsgebäuden."],
+    ["Fotografieren & Drohnen", "Keine Fotos von Polizei, Militär und Regierungsgebäuden – sonst droht Haft. Drohnen sind verboten, schon die Einfuhr (auch von Funkgeräten) kann Spionageverdacht auslösen."],
+    ["Homosexualität", "Gleichgeschlechtliche Handlungen sind strafbar – äußerste Diskretion."],
     ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."]
   ],
   car: [
-    ["Promille", "0,5 ‰. Viele Polizeikontrollen und Radarfallen."]
+    ["Promille", "0,3 ‰ (Fahranfänger 0,0 ‰). Viele Polizeikontrollen und Radarfallen. Der deutsche Führerschein wird für Urlauber anerkannt."]
   ],
   substances: [
     ["Alkohol", "In Hotels, lizenzierten Bars und manchen Supermärkten erhältlich. Trinken in der Öffentlichkeit ist verboten."],
-    ["Drogen", "Auch kleine Mengen Cannabis werden mit Haft bestraft."]
+    ["Drogen", "Schon kleinste Mengen (auch Cannabis) werden mit mindestens einem Jahr Haft bestraft."]
   ],
   sim: [
     ["Lokale SIM", "Ooredoo, Orange oder Tunisie Telecom – am Flughafen oder im Shop, Pass nötig."],

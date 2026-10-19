@@ -1,5 +1,7 @@
 /* Englische Texte nur für Argentinien (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Verboten – laut Auswärtigem Amt sind auch Kleinstmengen nicht straffrei und können zu hohen Haftstrafen führen.": "Illegal – according to the German Foreign Office, even tiny amounts are not exempt from punishment and can lead to long prison sentences.",
+"Nachweis einer Auslandskrankenversicherung (inkl. Rücktransport) wird verlangt – Airlines können sonst das Boarding verweigern. Nur mit Reisepass, nicht mit Personalausweis.": "Proof of travel health insurance (incl. repatriation) is required – otherwise airlines may refuse boarding. Passport only, not the German ID card.",
 "Argentinischer Peso": "Argentine peso",
 "🇦🇷 Spanisch (Argentinien)": "🇦🇷 Spanish (Argentina)",
 "Sprichst du Englisch?": "Do you speak English? (informal)",
@@ -20,6 +22,5 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Fernbustickets im ganzen Land.": "Long-distance bus tickets across the country.",
 "ca. 10 % (Restaurant)": "approx. 10 % (restaurants)",
 "0,0 ‰ auf Nationalstraßen und in den meisten Provinzen.": "0.0 ‰ on national highways and in most provinces.",
-"Auf Landstraßen Abblendlicht auch tagsüber Pflicht. Internationalen Führerschein mitnehmen.": "Dipped headlights are mandatory during the day on country roads. Bring an international driving permit.",
-"Verboten – kleine Mengen für den Eigenbedarf werden privat meist nicht verfolgt, in der Öffentlichkeit schon.": "Illegal – small amounts for personal use are usually not prosecuted in private, but they are in public."
+"Auf Landstraßen Abblendlicht auch tagsüber Pflicht. Internationalen Führerschein mitnehmen.": "Dipped headlights are mandatory during the day on country roads. Bring an international driving permit."
 });

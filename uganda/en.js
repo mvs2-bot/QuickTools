@@ -5,9 +5,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "🇺🇬 Luganda (Grüße)": "🇺🇬 Luganda (greetings)",
 "Herr / Frau (höfliche Anrede)": "Sir / Madam (polite address)",
 "Deutsche Botschaft Kampala": "German Embassy Kampala",
-"Das Auswärtige Amt warnt vor Reisen in Teile der Grenzgebiete zur DR Kongo und zum Südsudan – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to parts of the border areas with the DR Congo and South Sudan – check the current situation before every trip.",
-"Visum vorab online (e-Visum). Nachweis der Gelbfieberimpfung ist Pflicht.": "Visa in advance online (e-visa). Proof of yellow fever vaccination is mandatory.",
-"Gleichgeschlechtliche Handlungen werden sehr hart bestraft (Anti-Homosexuality Act 2023). Keine Zärtlichkeiten in der Öffentlichkeit.": "Same-sex acts are punished very harshly (Anti-Homosexuality Act 2023). No public displays of affection.",
 "Genehmigungen (Permits) für Bwindi und Mgahinga lange im Voraus bei der Uganda Wildlife Authority buchen.": "Book permits for Bwindi and Mgahinga well in advance from the Uganda Wildlife Authority.",
 "Dünne Plastiktüten sind verboten – lieber Stoffbeutel mitnehmen.": "Thin plastic bags are banned – better bring a cloth bag.",
 "Nachts nicht über Land fahren. Boda-Bodas (Motorradtaxis) sind unfallträchtig – wenn überhaupt, nur mit Helm.": "Don't drive cross-country at night. Boda-bodas (motorbike taxis) are accident-prone – if at all, only with a helmet.",
@@ -15,5 +12,10 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Motorradtaxis mit Helm und Festpreis in Kampala.": "Motorbike taxis with helmet and fixed price in Kampala.",
 "Fahrdienste in Kampala und Entebbe.": "Ride-hailing in Kampala and Entebbe.",
 "Bwindi (Gorillas)": "Bwindi (gorillas)",
-"Jinja (Nilquelle)": "Jinja (source of the Nile)"
+"Jinja (Nilquelle)": "Jinja (source of the Nile)",
+"(nur außerhalb der Öffnungszeiten, keine Visaangelegenheiten)": "(outside opening hours only, no visa matters)",
+"Das Auswärtige Amt rät dringend von nicht notwendigen Reisen in den Semliki-Nationalpark und von nicht notwendigen Reisen in das übrige Grenzgebiet zur DR Kongo (20 km) ab; die Grenze zur DR Kongo ist derzeit geschlossen – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office strongly advises against non-essential travel to Semliki National Park and advises against non-essential travel to the rest of the border area with the DR Congo (20 km); the border with the DR Congo is currently closed – check the current situation before every trip.",
+"Visum vorab online (e-Visum, ca. 50 USD). Gelbfieberimpfung bei Direkteinreise aus Deutschland nicht vorgeschrieben, aber empfohlen – bei Weiterreise (z. B. nach Ruanda) wird der Nachweis oft verlangt.": "Visa in advance online (e-visa, approx. USD 50). Yellow fever vaccination is not required when arriving directly from Germany but is recommended – proof is often required when travelling on (e.g. to Rwanda).",
+"Gleichgeschlechtliche Handlungen werden sehr hart bestraft (Anti-Homosexuality Act 2023, in schweren Fällen bis zur Todesstrafe). Keine Zärtlichkeiten in der Öffentlichkeit.": "Same-sex acts are punished very harshly (Anti-Homosexuality Act 2023, up to the death penalty in severe cases). No public displays of affection.",
+"Einfuhr nur mit vorheriger Genehmigung des Verteidigungsministeriums – sonst Beschlagnahme am Flughafen.": "Import only with prior permission from the Ministry of Defence – otherwise they will be confiscated at the airport."
 });

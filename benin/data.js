@@ -34,7 +34,7 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/benin-node",
 
   rules: [
-    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen in den Norden nahe der Grenze (Atakora und Alibori, inkl. Nationalparks Pendjari und W) und rät dringend vom Grenzgebiet zu Nigeria ab (Teilreisewarnung) – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Grenzgebiete (50 km) in Atakora und Alibori und rät dringend von Reisen nördlich der Linie Boukoumbé – Natitingou – Kérou – Kandi – Segbana (u. a. Nationalparks Pendjari und W) sowie ins Grenzgebiet zu Nigeria im Departement Borgou ab (Teilreisewarnung) – vor jeder Reise die aktuelle Lage prüfen."],
     ["Visum", "E-Visum mindestens 7 Tage vorher über evisa.bj beantragen – an der Grenze gibt es kein Visum mehr."],
     ["Voodoo", "Voodoo ist anerkannte Religion – an Kultstätten (z. B. Ouidah) Rücksicht nehmen und nur mit Erlaubnis fotografieren."],
     ["Baden", "Am Atlantik starke Brandung und gefährliche Unterströmungen – nur an bewachten Stränden baden. Süßwasser wegen Bilharziose meiden."],

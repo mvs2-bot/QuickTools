@@ -37,19 +37,21 @@ window.QT = {
     ["999", "Notruf (Polizei, Rettung, Feuerwehr)"],
     ["112", "Notruf vom Handy"]
   ],
-  embassy: {"title": "Deutsche Botschaft Kampala", "address": ["15 Philip Road, Kololo", "Kampala"], "phone": "+256 414 501 111"},
+  embassy: {"title": "Deutsche Botschaft Kampala", "address": ["15 Philip Road, Kololo", "Kampala"], "phone": "+256 414 501 111", "emergency": "+256 772 763 000", "emergencyNote": "(nur außerhalb der Öffnungszeiten, keine Visaangelegenheiten)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/uganda-node",
 
   rules: [
-    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in Teile der Grenzgebiete zur DR Kongo und zum Südsudan – vor jeder Reise die aktuelle Lage prüfen."],
-    ["Einreise", "Visum vorab online (e-Visum). Nachweis der Gelbfieberimpfung ist Pflicht."],
-    ["Homosexualität", "Gleichgeschlechtliche Handlungen werden sehr hart bestraft (Anti-Homosexuality Act 2023). Keine Zärtlichkeiten in der Öffentlichkeit."],
+    ["Sicherheit", "Das Auswärtige Amt rät dringend von nicht notwendigen Reisen in den Semliki-Nationalpark und von nicht notwendigen Reisen in das übrige Grenzgebiet zur DR Kongo (20 km) ab; die Grenze zur DR Kongo ist derzeit geschlossen – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Einreise", "Visum vorab online (e-Visum, ca. 50 USD). Gelbfieberimpfung bei Direkteinreise aus Deutschland nicht vorgeschrieben, aber empfohlen – bei Weiterreise (z. B. nach Ruanda) wird der Nachweis oft verlangt."],
+    ["Homosexualität", "Gleichgeschlechtliche Handlungen werden sehr hart bestraft (Anti-Homosexuality Act 2023, in schweren Fällen bis zur Todesstrafe). Keine Zärtlichkeiten in der Öffentlichkeit."],
+    ["Drohnen", "Einfuhr nur mit vorheriger Genehmigung des Verteidigungsministeriums – sonst Beschlagnahme am Flughafen."],
     ["Gorilla-Trekking", "Genehmigungen (Permits) für Bwindi und Mgahinga lange im Voraus bei der Uganda Wildlife Authority buchen."],
     ["Plastiktüten", "Dünne Plastiktüten sind verboten – lieber Stoffbeutel mitnehmen."],
     ["Fotografieren", "Keine Fotos von Polizei, Militär und Regierungsgebäuden. Menschen nur mit Erlaubnis fotografieren."]
   ],
   car: [
-    ["Linksverkehr", "Nachts nicht über Land fahren. Boda-Bodas (Motorradtaxis) sind unfallträchtig – wenn überhaupt, nur mit Helm."]
+    ["Linksverkehr", "Nachts nicht über Land fahren. Boda-Bodas (Motorradtaxis) sind unfallträchtig – wenn überhaupt, nur mit Helm."],
+    ["Führerschein", "Internationaler Führerschein nötig, nur zusammen mit dem deutschen gültig."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren."],

@@ -28,7 +28,7 @@ window.QT = {
       {"de": "Hallo / Guten Tag", "local": "Bonzour", "phonetic": "bon-SUR"},
       {"de": "Danke", "local": "Mersi", "phonetic": "mer-SI"},
       {"de": "Wie geht’s?", "local": "Ki manyer?", "phonetic": "ki ma-NJE"},
-      {"de": "Gut, danke", "local": "Mo bien, mersi", "phonetic": "mo BJÄ, mer-SI"}
+      {"de": "Gut, danke", "local": "Mo byen, mersi", "phonetic": "mo BJÄ, mer-SI"}
     ]}
   ],
 
@@ -38,21 +38,23 @@ window.QT = {
     ["114", "Rettungsdienst (SAMU)"],
     ["115", "Feuerwehr"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Antananarivo (Madagaskar)", "address": ["101, Rue du Pasteur Rabeony Hans, Ambodirotra", "Antananarivo 101"], "phone": "+261 20 22 238 02"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Antananarivo (Madagaskar)", "address": ["101, Rue du Pasteur Rabeony Hans, Ambodirotra", "Antananarivo 101"], "phone": "+261 20 22 238 02", "emergency": "+261 37 03 457 39", "emergencyNote": "(außerhalb der Öffnungszeiten, keine Visaanfragen; Honorarkonsul in Ébène: +230 5253 0300)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/mauritius-node",
 
   rules: [
+    ["Politische Lage", "Im Oktober 2026 Unruhen mit nächtlichen Ausgangssperren in Teilen der Insel – Menschenansammlungen meiden, Lage verfolgen."],
     ["Sprache", "Amtssprache ist Englisch, im Alltag sprechen die meisten Kreol und Französisch."],
     ["Tempel", "In Hindu-Tempeln Schultern und Knie bedecken und Schuhe ausziehen."],
     ["Riff", "Korallen und Muscheln nicht mitnehmen, beim Schnorcheln Riffschuhe tragen (Seeigel, Steinfische)."],
     ["Sonne", "Starke Tropensonne – hoher Lichtschutz, mittags Schatten."]
   ],
   car: [
-    ["Promille", "0,5 ‰. Linksverkehr, enge Straßen und viele Busse."]
+    ["Promille", "0,2 ‰. Linksverkehr, enge Straßen und viele Busse."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren."],
-    ["Drogen", "Schon kleine Mengen werden extrem streng bestraft."]
+    ["Drogen", "Schon kleine Mengen werden extrem streng bestraft."],
+    ["Tabak & E-Zigaretten", "Einfuhr von Tabakwaren, E-Zigaretten und Wasserpfeifen ist verboten; Rauchen im öffentlichen Raum ist untersagt."]
   ],
   sim: [
     ["Lokale SIM", "my.t (Mauritius Telecom) oder Emtel am Flughafen – Pass nötig."],

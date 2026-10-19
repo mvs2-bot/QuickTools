@@ -38,12 +38,13 @@ window.QT = {
     ["118", "Feuerwehr"],
     ["124", "Rettungsdienst"]
   ],
-  embassy: {"title": "Deutsche Botschaft Antananarivo", "address": ["101, Rue du Pasteur Rabeony Hans, Ambodirotra", "Antananarivo 101"], "phone": "+261 20 22 238 02"},
+  embassy: {"title": "Deutsche Botschaft Antananarivo", "address": ["101, Rue du Pasteur Rabeony Hans, Ambodirotra", "Antananarivo 101"], "phone": "+261 20 22 238 02", "emergency": "+261 37 03 457 39", "emergencyNote": "(außerhalb der Öffnungszeiten, keine Visaanfragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/madagaskar-node",
 
   rules: [
     ["Politische Lage", "Nach der Machtübernahme durch das Militär im Oktober 2025 sind Demonstrationen möglich – Menschenansammlungen meiden, Lage verfolgen."],
-    ["Sicherheit", "In Antananarivo nachts nicht zu Fuß gehen, Wertsachen nicht zeigen. Überlandfahrten nur bei Tag."],
+    ["Sicherheit", "Bewaffnete Überfälle auch tagsüber – in Antananarivo nachts nicht zu Fuß gehen, Wertsachen nicht zeigen. Überlandfahrten nur bei Tag. Vom Battery Beach bei Toliara, den Ufern des Tsiribihina und dem Pic Saint-Louis rät das AA ab."],
+    ["Einreise", "Visum bei Ankunft (30–50 € je nach Dauer, bis 90 Tage). Pass mindestens 6 Monate gültig. Tarnkleidung ist verboten."],
     ["Malaria", "Ganzjährig Risiko – Mückenschutz (lange Kleidung, Repellent, Netz) und vorher ärztliche Beratung zur Prophylaxe."],
     ["Fady", "Lokale Tabus („fady“) unterscheiden sich von Ort zu Ort – Guides fragen und respektieren."],
     ["Natur", "Keine Lemuren füttern; geschützte Tiere, Pflanzen und Fossilien dürfen nicht ausgeführt werden."],

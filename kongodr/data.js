@@ -44,7 +44,8 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/kongodemokratischerepublik-node",
 
   rules: [
-    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in den Osten und Norden (u. a. Ituri, Nord- und Süd-Kivu, Maniema, Tanganyika, Tshopo, Haut-Uélé, Bas-Uélé) und rät von nicht notwendigen Reisen in alle übrigen Landesteile ab, auch nach Kinshasa – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Provinzen Ituri, Nord- und Süd-Kivu, Haut-Lomami, Maniema, Mongala, Tanganyika, Tshopo, Süd-Ubangi, Bas-Uélé und Haut-Uélé, in den Norden von Haut-Katanga (v. a. Upemba-Nationalpark) und in das Grenzgebiet zur Zentralafrikanischen Republik (50 km); Deutsche in Nord- und Süd-Kivu sollen ausreisen. Von nicht notwendigen Reisen in alle übrigen Landesteile, auch nach Kinshasa, wird abgeraten – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Ebola & Gelbfieber", "Seit Mai 2026 Ebola-Ausbruch (Bundibugyo-Stamm, ohne zugelassenen Impfstoff) in Ituri; in Kinshasa und betroffenen Provinzen sind Großveranstaltungen verboten. Gelbfieber-Impfung ist zur Einreise Pflicht."],
     ["Fotografieren", "Verboten: Flughäfen, Militär, strategische Anlagen und Uniformierte; in Kinshasa auch Straßen und Plätze am Kongo-Ufer. Menschen nur mit Erlaubnis."],
     ["US-Dollar", "Größere Beträge werden in US-Dollar bezahlt – saubere, neue Scheine mitbringen; Kongo-Franc für Kleinigkeiten."],
     ["Sicherheit", "Demonstrationen und Menschenansammlungen meiden; Fahrten zum Flughafen N'Djili nicht nach Einbruch der Dunkelheit."],

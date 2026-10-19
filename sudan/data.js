@@ -30,21 +30,23 @@ window.QT = {
     ["999", "Polizei / Notruf"],
     ["998", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Khartum (geschlossen)", "address": ["Botschaft seit April 2023 geschlossen", "Telefon: Zentrale des Auswärtigen Amts (Berlin), leitet weiter"], "phone": "+49 30 1817-0"},
+  embassy: {"title": "Deutsche Botschaft Khartum (geschlossen)", "address": ["Botschaft seit April 2023 geschlossen", "Telefon: Zentrale des Auswärtigen Amts (Berlin), leitet weiter"], "phone": "+49 30 1817-0", "emergencyNote": "(Pass- und Konsularangelegenheiten für Sudan übernimmt die Botschaft Kairo, +20 2 2728 2000)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/sudan-node",
 
   rules: [
-    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen in den Sudan – vor jeder Reise die aktuelle Lage prüfen."],
-    ["Krieg", "Seit April 2023 herrscht Krieg zwischen Armee und RSF-Miliz. Flughafen Khartum ist außer Betrieb, konsularische Hilfe ist vor Ort nicht möglich."],
+    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Sudan und fordert Deutsche dringend zur Ausreise auf – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Krieg", "Seit April 2023 herrscht Krieg zwischen Armee und RSF-Miliz. Internationale Flüge von und nach Khartum sind ausgesetzt (nur Port Sudan wird regional angeflogen), konsularische Hilfe ist vor Ort nicht möglich."],
     ["Krisenvorsorge", "Wer trotzdem reist, sollte sich in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts eintragen."],
-    ["Fotografieren", "Für Fotos ist eine Genehmigung nötig. Keine Fotos von Militär, Brücken, Behörden und Infrastruktur."],
+    ["Fotografieren", "Für Fotos ist eine Genehmigung nötig. Keine Fotos von Militär, Uniformierten, Brücken, Behörden, Bahnhöfen, Flughäfen und Infrastruktur."],
+    ["Einreise", "Visum vorab (in Deutschland bei der sudanesischen Botschaft Berlin); Reisepass mind. 6 Monate gültig, keine israelischen Stempel. Binnen 3 Tagen registrieren, für Fahrten außerhalb von Khartum ist eine Reisegenehmigung nötig."],
+    ["Homosexualität", "Gleichgeschlechtliche Handlungen sind strafbar, im Wiederholungsfall droht lebenslange Haft."],
     ["Kleidung", "Konservativ kleiden: lange Hosen und Ärmel, Frauen am besten mit Kopftuch."]
   ],
   car: [
     ["Selbst fahren?", "Nicht möglich – Kampfgebiete, Minen und zahlreiche bewaffnete Kontrollpunkte."]
   ],
   substances: [
-    ["Alkohol", "Weitgehend verboten – Einfuhr ist strafbar."],
+    ["Alkohol", "Verboten – Einfuhr und Konsum werden streng bestraft (Haft, Geldstrafe, Auspeitschung)."],
     ["Drogen", "Schon kleine Mengen werden extrem streng bestraft."]
   ],
   sim: [

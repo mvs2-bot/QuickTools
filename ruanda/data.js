@@ -38,19 +38,22 @@ window.QT = {
     ["912", "Rettungsdienst (SAMU)"],
     ["113", "Verkehrspolizei"]
   ],
-  embassy: {"title": "Deutsche Botschaft Kigali", "address": ["KG 7 Avenue No. 2, Kacyiru", "Kigali"], "phone": "+250 280 575 222"},
+  embassy: {"title": "Deutsche Botschaft Kigali", "address": ["KN 27 St No. 5, Kiyovu", "Kigali"], "phone": "+250 280 575 222", "emergency": "+250 788 301 491", "emergencyNote": "(außerhalb der Öffnungszeiten, auch SMS/WhatsApp, nur akute Notfälle Deutscher, keine Visaauskünfte)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/ruanda-node",
 
   rules: [
-    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in das Grenzgebiet zur DR Kongo – vor jeder Reise die aktuelle Lage prüfen."],
-    ["Plastiktüten", "Plastiktüten sind streng verboten – sie werden schon bei der Einreise abgenommen."],
+    ["Sicherheit", "Das Auswärtige Amt rät von nicht notwendigen Reisen in die Grenzregionen zur DR Kongo ab (besondere Vorsicht im Distrikt Rusizi). Wer in den 30 Tagen vor der Einreise in der DR Kongo war (auch Transit), wird abgewiesen. Die Landgrenze zu Burundi ist geschlossen."],
+    ["Einreise", "Visum online oder bei Ankunft (ca. 50 USD, 30 Tage). Reisepass mind. 6 Monate über die Reise hinaus gültig."],
+    ["Drohnen & E-Zigaretten", "Die Einfuhr von Drohnen und E-Zigaretten ist nicht erlaubt."],
+    ["Plastiktüten", "Plastiktüten und Plastikverpackungen dürfen nicht eingeführt werden – sie werden schon bei der Einreise abgenommen."],
     ["Umuganda", "Am letzten Samstag im Monat ist vormittags Gemeinschaftsarbeit: Geschäfte zu, kaum Verkehr – Fahrten danach planen."],
     ["Gorilla-Trekking", "Genehmigungen (Permits) für den Volcanoes-Nationalpark sind teuer und früh ausgebucht – lange im Voraus beim Rwanda Development Board buchen."],
     ["Genozid-Gedenken", "Das Thema mit Respekt behandeln. Rund um den 7. April (Kwibuka) finden Gedenkwochen statt – keine lauten Feiern."],
     ["Fotografieren", "Keine Fotos von Polizei, Militär und Regierungsgebäuden. Menschen nur mit Erlaubnis fotografieren."]
   ],
   car: [
-    ["Straßenverkehr", "Gute Straßen, aber viele Tempokontrollen. Motorradtaxis nur mit dem gestellten Helm."]
+    ["Straßenverkehr", "Gute Straßen, aber viele Tempokontrollen. Motorradtaxis nur mit dem gestellten Helm."],
+    ["Führerschein & Alkohol", "Internationaler Führerschein nötig, nur zusammen mit dem deutschen gültig. Alkohol am Steuer: hohe Geldstrafen, Fahrverbot und Haft."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren."],

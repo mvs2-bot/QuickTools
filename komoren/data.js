@@ -38,10 +38,11 @@ window.QT = {
     ["17", "Polizei"],
     ["18", "Feuerwehr"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Antananarivo (Madagaskar)", "address": ["101, Rue du Pasteur Rabeony Hans, Ambodirotra", "Antananarivo 101"], "phone": "+261 20 22 238 02"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Daressalam (Tansania)", "address": ["Umoja House, Ecke Hamburg Avenue / Mirambo Street, 2. Stock", "Daressalam"], "phone": "+255 22 221 2300", "emergency": "+255 786 971 692", "emergencyNote": "(außerhalb der Öffnungszeiten bis 24 Uhr, keine Visaanfragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/komoren-node",
 
   rules: [
+    ["Einreise", "Visum bei Ankunft am Flughafen (ca. 30 €, bis 45 Tage) – Rückflugticket und Unterkunftsadresse bereithalten. Pass mindestens 6 Monate gültig."],
     ["Kleidung", "Muslimisches Land: Schultern und Knie bedecken, Badekleidung nur am Strand."],
     ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."],
     ["Malaria", "Ganzjährig Risiko – Mückenschutz (lange Kleidung, Repellent, Netz) und vorher ärztliche Beratung zur Prophylaxe."],
@@ -53,7 +54,7 @@ window.QT = {
     ["Straßen", "Schmale, oft schlechte Straßen – nachts nicht fahren."]
   ],
   substances: [
-    ["Alkohol", "Nur eingeschränkt erhältlich (einige Hotels); in der Öffentlichkeit nicht trinken."],
+    ["Alkohol", "Nur eingeschränkt erhältlich (einige Hotels); Trinken in der Öffentlichkeit und die Einfuhr sind verboten."],
     ["Drogen", "Auch Cannabis ist verboten; Drogendelikte werden streng bestraft."]
   ],
   sim: [

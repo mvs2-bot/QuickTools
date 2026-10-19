@@ -39,15 +39,16 @@ window.QT = {
     ["994", "Rettungsdienst"],
     ["993", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Harare", "address": ["30 Ceres Road, Avondale", "Harare"], "phone": "+263 242 308 655"},
+  embassy: {"title": "Deutsche Botschaft Harare", "address": ["30 Ceres Road, Avondale", "Harare"], "phone": "+263 242 308 655", "emergency": "+263 772 568 343", "emergencyNote": "(außerhalb der Öffnungszeiten)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/simbabwe-node",
 
   rules: [
     ["Währung", "Bezahlt wird fast überall in US-Dollar – kleine, saubere Scheine mitbringen, Wechselgeld ist knapp. Daneben gibt es die Landeswährung ZiG (Zimbabwe Gold)."],
+    ["Einreise", "Visum nötig – bei Ankunft (30 Tage, 30 US$) oder vorab online. Pass mindestens 6 Monate gültig, vier leere Seiten."],
     ["Victoria-Fälle", "Mit dem KAZA-Visum lassen sich Simbabwe und Sambia auf einer Reise besuchen."],
     ["Malaria", "Ganzjährig Risiko – Mückenschutz (lange Kleidung, Repellent, Netz) und vorher ärztliche Beratung zur Prophylaxe."],
     ["Politik", "Kritik am Präsidenten kann strafbar sein; politische Versammlungen meiden."],
-    ["Fotografieren", "Keine Fotos von Regierungsgebäuden, Militär, Polizei, Flughäfen und Brücken."],
+    ["Fotografieren", "Keine Fotos von Regierungsgebäuden, Militär, Polizei, Flughäfen und Brücken – das Verbot wird sehr weit ausgelegt. Tarnkleidung ist verboten."],
     ["Homosexualität", "Sexuelle Handlungen zwischen Männern sind strafbar – in der Öffentlichkeit zurückhaltend sein."]
   ],
   car: [

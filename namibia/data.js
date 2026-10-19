@@ -35,14 +35,16 @@ window.QT = {
   emergency: [
     ["10111", "Polizei"],
     ["112", "Notruf vom Handy"],
-    ["061 211 111", "Feuerwehr & Rettung Windhoek"]
+    ["061 211 111", "Feuerwehr & Rettung Windhoek"],
+    ["9682", "Verkehrsunfall (MVA Fund, Meldung & Ambulanz)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Windhuk", "address": ["Sanlam Centre, 154 Independence Avenue", "Windhoek"], "phone": "+264 61 273 100"},
+  embassy: {"title": "Deutsche Botschaft Windhuk", "address": ["Sanlam Allianz Centre (6. Etage), 145 Independence Avenue", "Windhoek"], "phone": "+264 61 273 100", "emergency": "+264 81 124 3572", "emergencyNote": "(außerhalb der Öffnungszeiten bis 22 Uhr, auch SMS; keine Visaanfragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/namibia-node",
 
   rules: [
+    ["Einreise", "Seit April 2025 Visumpflicht – E-Visum vorab online beantragen (90 Tage). Pass mindestens 6 Monate über die Reise hinaus gültig."],
     ["Schotterpisten", "Die meisten Straßen sind Pisten: höchstens 80 km/h, Überschläge und Reifenpannen sind die häufigste Unfallursache."],
-    ["Malaria", "Im Norden (Etosha, Kavango, Sambesi-Region) Risiko, vor allem Nov.–Apr. – Mückenschutz und ärztliche Beratung."],
+    ["Malaria", "Im Norden (Etosha, Kavango, Sambesi-Region) Risiko – in der Sambesi-Region ganzjährig, sonst vor allem Sept.–Mai. Mückenschutz und ärztliche Beratung."],
     ["Deutsch", "In Windhuk und Swakopmund wird oft Deutsch verstanden."],
     ["Wüste", "Immer genug Wasser und Treibstoff dabeihaben, Tankstellen liegen weit auseinander."],
     ["Rand", "Der Südafrikanische Rand wird 1:1 akzeptiert, Namibia-Dollar aber nicht in Südafrika."]
