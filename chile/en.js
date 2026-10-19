@@ -23,6 +23,5 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "In Städten trinkbar (sehr mineralhaltig)": "Drinkable in cities (very mineral-rich)",
 "ca. 10 % (propina)": "approx. 10 % (propina)",
 "Ab 0,3 ‰ drohen Strafen („Ley Tolerancia Cero“).": "Penalties from 0.3 ‰ (\"Ley Tolerancia Cero\").",
-"Santiagos Stadtautobahnen haben elektronische Maut (TAG) – Mietwagen fragen, sonst Tagespass kaufen.": "Santiago’s urban motorways have electronic tolls (TAG) – ask your rental company, otherwise buy a day pass.",
-"Privater Konsum wird toleriert, in der Öffentlichkeit gibt es Strafen.": "Private use is tolerated, public use is punished."
+"Santiagos Stadtautobahnen haben elektronische Maut (TAG) – Mietwagen fragen, sonst Tagespass kaufen.": "Santiago’s urban motorways have electronic tolls (TAG) – ask your rental company, otherwise buy a day pass."
 });

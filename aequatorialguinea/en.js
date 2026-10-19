@@ -3,7 +3,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "🇬🇶 Spanisch": "🇬🇶 Spanish",
 "Yaoundé, Kamerun": "Yaoundé, Cameroon",
 "Honorarkonsul Malabo: Viviendas Sipopo, Block 7, Portal 1, Tel. +240 222 531 260": "Honorary consul Malabo: Viviendas Sipopo, Block 7, Portal 1, Tel. +240 222 531 260",
-"Visum vorab nötig (für Flugreisen als E-Visum). Gelbfieberimpfung Pflicht.": "Visa required in advance (e-visa for air travel). Yellow fever vaccination required.",
 "Ausweis & Genehmigung": "ID & permit",
 "Pass immer dabeihaben – häufige Kontrollen, teils mit Geldforderungen. Wer Malabo oder Bata verlässt, braucht eine Kurzzeitgenehmigung über eine registrierte Reiseagentur.": "Always carry your passport – frequent checks, sometimes with demands for money. Leaving Malabo or Bata requires a short-term permit from a registered travel agency.",
 "Sehr strikt: keine Behörden, Flughäfen, Häfen, Militär, Polizei oder Konvois. Die Polizei greift hart durch.": "Very strict: no government buildings, airports, ports, military, police or convoys. Police act harshly.",

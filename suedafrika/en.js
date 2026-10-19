@@ -12,7 +12,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Gleich / irgendwann (Slang)": "Soon / sometime (slang)",
 "Deutsche Botschaft Pretoria": "German Embassy Pretoria",
 "Generalkonsulat Kapstadt: 4 Stirling Street, Tel. +27 21 405 3000": "Consulate General Cape Town: 4 Stirling Street, Tel. +27 21 405 3000",
-"Nachts nicht zu Fuß unterwegs sein, Wertsachen nicht zeigen, Autotüren verriegeln, an Ampeln Fenster zu. Nur App-Taxis.": "Don't walk around at night, don't show valuables, lock car doors, keep windows closed at traffic lights. Only app taxis.",
 "Load Shedding": "Load shedding",
 "Geplante Stromabschaltungen sind möglich – App „EskomSePush“ zeigt die Zeiten.": "Scheduled power cuts are possible – the \"EskomSePush\" app shows the times.",
 "Parkwächter": "Car guards",

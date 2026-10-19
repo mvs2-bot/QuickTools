@@ -3,8 +3,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "🇬🇼 Portugiesisch": "🇬🇼 Portuguese",
 "🇬🇼 Kriol (Grüße)": "🇬🇼 Kriol (greetings)",
 "Zuständig: Deutsche Botschaft Dakar (Senegal)": "Responsible: German Embassy Dakar (Senegal)",
-"Verbindungsbüro Bissau (nur Nothilfe): Notfalltel. +245 95 570 00 15": "Liaison office Bissau (emergency assistance only): emergency tel. +245 95 570 00 15",
-"Seit dem 26.11.2025 regiert das Militär; Wahlen sind für Dezember 2026 geplant. Demonstrationen meiden, kurzfristige Ausgangssperren sind möglich.": "The military has been in power since 26 Nov 2025; elections are planned for December 2026. Avoid demonstrations; curfews may be imposed at short notice.",
 "Visum vorab (Botschaft Brüssel) oder bei Ankunft am Flughafen (80 €, 30 Tage) – nicht an Landgrenzen. Gelbfieberimpfung Pflicht.": "Visa in advance (embassy in Brussels) or on arrival at the airport (€80, 30 days) – not at land borders. Yellow fever vaccination required.",
 "In Bissau viel Taschendiebstahl und Handtaschenraub – wenig Bargeld zeigen, nachts einsame Gegenden meiden.": "Lots of pickpocketing and bag snatching in Bissau – show little cash, avoid deserted areas at night.",
 "Kartenzahlung und Geldautomaten sind selten – genug Euro in bar mitbringen (fester Kurs zum CFA-Franc).": "Card payment and ATMs are rare – bring enough euros in cash (fixed rate to the CFA franc).",

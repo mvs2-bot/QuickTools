@@ -5,7 +5,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "🇲🇬 Malagasy (Grüße)": "🇲🇬 Malagasy (greetings)",
 "Deutsche Botschaft Antananarivo": "German Embassy Antananarivo",
 "Nach der Machtübernahme durch das Militär im Oktober 2025 sind Demonstrationen möglich – Menschenansammlungen meiden, Lage verfolgen.": "After the military takeover in October 2025, demonstrations are possible – avoid crowds and follow the news.",
-"In Antananarivo nachts nicht zu Fuß gehen, Wertsachen nicht zeigen. Überlandfahrten nur bei Tag.": "Don't walk around Antananarivo at night, don't show valuables. Overland journeys only by day.",
 "Lokale Tabus („fady“) unterscheiden sich von Ort zu Ort – Guides fragen und respektieren.": "Local taboos (\"fady\") differ from place to place – ask your guide and respect them.",
 "Keine Lemuren füttern; geschützte Tiere, Pflanzen und Fossilien dürfen nicht ausgeführt werden.": "Don't feed lemurs; protected animals, plants and fossils must not be exported.",
 "Karten werden selten akzeptiert – Euro in bar mitbringen und bei Banken tauschen, Geldautomaten nur in Städten.": "Cards are rarely accepted – bring euros in cash and exchange them at banks, ATMs only in towns.",

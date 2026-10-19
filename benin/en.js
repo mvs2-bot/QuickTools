@@ -2,7 +2,6 @@
 Object.assign(window.QT_EN = window.QT_EN || {}, {
 "🇧🇯 Französisch": "🇧🇯 French",
 "Deutsche Botschaft Cotonou": "German Embassy Cotonou",
-"Das Auswärtige Amt warnt vor Reisen in den Norden nahe der Grenze (Atakora und Alibori, inkl. Nationalparks Pendjari und W) und rät dringend vom Grenzgebiet zu Nigeria ab (Teilreisewarnung) – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to the north near the border (Atakora and Alibori, incl. Pendjari and W national parks) and strongly advises against the border area with Nigeria (partial travel warning) – check the current situation before every trip.",
 "E-Visum mindestens 7 Tage vorher über evisa.bj beantragen – an der Grenze gibt es kein Visum mehr.": "Apply for an e-visa via evisa.bj at least 7 days in advance – visas are no longer issued at the border.",
 "Voodoo": "Vodun",
 "Voodoo ist anerkannte Religion – an Kultstätten (z. B. Ouidah) Rücksicht nehmen und nur mit Erlaubnis fotografieren.": "Vodun is an officially recognised religion – be respectful at shrines (e.g. in Ouidah) and only take photos with permission.",

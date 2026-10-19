@@ -1,5 +1,6 @@
 /* Englische Texte nur für Sambia (Deutsch → Englisch) */
 Object.assign(window.QT_EN = window.QT_EN || {}, {
+"Grenzgebiet": "Border area",
 "Sambischer Kwacha": "Zambian kwacha",
 "🇿🇲 Englisch": "🇿🇲 English",
 "🇿🇲 Nyanja & Bemba (Grüße)": "🇿🇲 Nyanja & Bemba (greetings)",

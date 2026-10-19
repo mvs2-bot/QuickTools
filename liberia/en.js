@@ -11,7 +11,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Hohe Kriminalität in Monrovia, auch bewaffnete Überfälle. Nachts nicht zu Fuß unterwegs sein und die Strecke zum Flughafen Roberts nicht im Dunkeln fahren.": "High crime in Monrovia, including armed robbery. Don't walk at night and don't drive the route to Roberts airport after dark.",
 "Lebensgefährliche Strömungen außerhalb geschützter Buchten; in Monrovia ist das Meer stark verschmutzt.": "Life-threatening currents outside sheltered bays; the sea in Monrovia is heavily polluted.",
 "Polizei, Soldaten und deren Einrichtungen nicht fotografieren – sonst Festnahme und Bußgeld.": "Don't photograph police, soldiers or their facilities – otherwise arrest and a fine.",
-"Außerhalb von Monrovia viele Pisten, in der Regenzeit (Mai–Oktober) oft unpassierbar. Nachts nicht fahren.": "Outside Monrovia many dirt roads, often impassable in the rainy season (May–October). Don't drive at night.",
 "Weit verbreitet, auch Zuckerrohrschnaps („Cane Juice“).": "Widely available, including sugar-cane spirit (\"cane juice\").",
 "Besitz und Handel sind verboten. Auch Rauchen ist in der Öffentlichkeit verboten (Bußgeld).": "Possession and trafficking are illegal. Smoking in public is also banned (fine).",
 "Orange oder Lonestar Cell MTN – im Shop, Pass nötig.": "Orange or Lonestar Cell MTN – in their shops, passport required.",

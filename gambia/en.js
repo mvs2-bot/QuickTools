@@ -16,6 +16,5 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Africell oder QCell – günstig im Shop, Pass nötig.": "Africell or QCell – cheap in their shops, passport required.",
 "Abuko-Naturreservat": "Abuko Nature Reserve",
 "Reisepass nötig (kein Personalausweis), 6 Monate über das Reiseende gültig. Das Visum wird bei der Einreise kostenlos für 21–28 Tage erteilt. Am Flughafen Banjul wird eine Sicherheitsabgabe von 20 € bzw. 20 USD in bar fällig.": "Passport required (no ID card), valid for 6 months beyond the end of your trip. The visa is issued free of charge on arrival for 21–28 days. A security fee of €20 or USD 20 in cash is due at Banjul airport.",
-"Politische Lage": "Political situation",
 "Präsidentschaftswahl am 5.12.2026. Seit September 2026 kommt es im Großraum Banjul wegen Stromausfällen immer wieder zu teils gewaltsamen Protesten – Demonstrationen weiträumig meiden.": "Presidential election on 5 Dec 2026. Since September 2026 there have been repeated, sometimes violent protests over power cuts in the Greater Banjul area – keep well away from demonstrations."
 });

@@ -5,12 +5,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Polizei / Notruf": "Police / emergency",
 "Deutsche Botschaft Khartum (geschlossen)": "German Embassy Khartoum (closed)",
 "Botschaft seit April 2023 geschlossen": "Embassy closed since April 2023",
-"Das Auswärtige Amt warnt vor Reisen in den Sudan – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to Sudan – check the current situation before every trip.",
 "Krieg": "War",
-"Seit April 2023 herrscht Krieg zwischen Armee und RSF-Miliz. Flughafen Khartum ist außer Betrieb, konsularische Hilfe ist vor Ort nicht möglich.": "Since April 2023 there has been war between the army and the RSF militia. Khartoum airport is out of operation and consular assistance is not available on the ground.",
-"Für Fotos ist eine Genehmigung nötig. Keine Fotos von Militär, Brücken, Behörden und Infrastruktur.": "A permit is required for photography. No photos of the military, bridges, authorities or infrastructure.",
 "Nicht möglich – Kampfgebiete, Minen und zahlreiche bewaffnete Kontrollpunkte.": "Not possible – combat zones, landmines and numerous armed checkpoints.",
-"Weitgehend verboten – Einfuhr ist strafbar.": "Largely banned – importing it is a criminal offence.",
 "Zain, MTN oder Sudani – Pass nötig. Netz und Internet fallen kriegsbedingt oft aus.": "Zain, MTN or Sudani – passport required. Network and internet often fail due to the war.",
 "Khartum": "Khartoum",
 "Pyramiden von Meroë": "Pyramids of Meroë",
@@ -18,9 +14,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Das Auswärtige Amt warnt vor Reisen nach Sudan und fordert Deutsche dringend zur Ausreise auf – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to Sudan and urges Germans to leave the country – check the current situation before every trip.",
 "Seit April 2023 herrscht Krieg zwischen Armee und RSF-Miliz. Internationale Flüge von und nach Khartum sind ausgesetzt (nur Port Sudan wird regional angeflogen), konsularische Hilfe ist vor Ort nicht möglich.": "Since April 2023 there has been war between the army and the RSF militia. International flights to and from Khartoum are suspended (only Port Sudan has some regional flights); no consular assistance is possible on the ground.",
 "Für Fotos ist eine Genehmigung nötig. Keine Fotos von Militär, Uniformierten, Brücken, Behörden, Bahnhöfen, Flughäfen und Infrastruktur.": "A permit is required for photography. No photos of the military, people in uniform, bridges, authorities, stations, airports or infrastructure.",
-"Einreise": "Entry",
 "Visum vorab (in Deutschland bei der sudanesischen Botschaft Berlin); Reisepass mind. 6 Monate gültig, keine israelischen Stempel. Binnen 3 Tagen registrieren, für Fahrten außerhalb von Khartum ist eine Reisegenehmigung nötig.": "Visa required in advance (in Germany from the Sudanese Embassy in Berlin); passport valid for at least 6 months, no Israeli stamps. Register within 3 days; a travel permit is needed for trips outside Khartoum.",
-"Homosexualität": "Homosexuality",
 "Gleichgeschlechtliche Handlungen sind strafbar, im Wiederholungsfall droht lebenslange Haft.": "Same-sex acts are a criminal offence; repeat offenders face life imprisonment.",
 "Verboten – Einfuhr und Konsum werden streng bestraft (Haft, Geldstrafe, Auspeitschung).": "Banned – importing and drinking it are severely punished (prison, fines, flogging)."
 });

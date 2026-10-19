@@ -6,7 +6,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "🇧🇼 Setswana (Grüße)": "🇧🇼 Setswana (greetings)",
 "Hallo (höflich, zu Mann / Frau)": "Hello (polite, to a man / woman)",
 "Deutsche Botschaft Gaborone": "German Embassy Gaborone",
-"Im Norden (Okavango, Chobe) Risiko, vor allem in der Regenzeit (Nov.–Apr.) – Mückenschutz und ärztliche Beratung zur Prophylaxe.": "Risk in the north (Okavango, Chobe), especially in the rainy season (Nov–Apr) – mosquito protection and medical advice on prophylaxis.",
 "Elefanten und andere Tiere laufen auch außerhalb der Parks über Straßen und durch Camps. In Parks nur an erlaubten Stellen aussteigen.": "Elephants and other animals cross roads and walk through camps outside the parks too. In parks only get out at permitted spots.",
 "Keine Produkte aus Elfenbein oder geschützten Tieren kaufen – Ausfuhr ist verboten.": "Don't buy ivory or products from protected animals – export is prohibited.",
 "0,8 ‰. Linksverkehr, viele Radarkontrollen.": "0.8 ‰. Driving on the left, many speed cameras.",

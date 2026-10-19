@@ -18,6 +18,5 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Internationaler Führerschein nötig, nur zusammen mit dem deutschen gültig. Nachts nicht fahren (Raubüberfälle, Carjacking).": "International driving permit required, only valid together with your German licence. Don't drive at night (robberies, carjacking).",
 "Komplett verboten – auch die Einfuhr (selbst alkoholhaltiger Medikamente) wird bestraft.": "Completely banned – importing it (even alcohol-based medicines) is punished.",
 "Im Ramadan ist Essen, Trinken und Rauchen in der Öffentlichkeit tagsüber auch für Nicht-Muslime verboten; viele Restaurants sind geschlossen.": "During Ramadan, eating, drinking and smoking in public during the day is forbidden for non-Muslims too; many restaurants are closed.",
-"Bargeld": "Cash",
 "Fast nur Barzahlung, ausländische Karten funktionieren meist nicht. Euro oder US-Dollar mitbringen; Dinar-Ein- und -Ausfuhr max. 200 LYD.": "Almost cash only; foreign cards usually do not work. Bring euros or US dollars; import/export of dinars max. 200 LYD."
 });

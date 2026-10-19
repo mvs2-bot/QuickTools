@@ -8,7 +8,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Deutsche Botschaft Windhuk": "German Embassy Windhoek",
 "Schotterpisten": "Gravel roads",
 "Die meisten Straßen sind Pisten: höchstens 80 km/h, Überschläge und Reifenpannen sind die häufigste Unfallursache.": "Most roads are gravel: max. 80 km/h, rollovers and punctures are the most common cause of accidents.",
-"Im Norden (Etosha, Kavango, Sambesi-Region) Risiko, vor allem Nov.–Apr. – Mückenschutz und ärztliche Beratung.": "Risk in the north (Etosha, Kavango, Zambezi region), especially Nov–Apr – mosquito protection and medical advice.",
 "Deutsch": "German",
 "In Windhuk und Swakopmund wird oft Deutsch verstanden.": "German is often understood in Windhoek and Swakopmund.",
 "Immer genug Wasser und Treibstoff dabeihaben, Tankstellen liegen weit auseinander.": "Always carry enough water and fuel, petrol stations are far apart.",

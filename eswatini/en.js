@@ -10,7 +10,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Eswatini ist eine absolute Monarchie – Kritik am König vermeiden, königliche Residenzen nicht fotografieren.": "Eswatini is an absolute monarchy – avoid criticising the king, don't photograph royal residences.",
 "Feste": "Festivals",
 "Umhlanga (Aug./Sept.) und Incwala (Dez./Jan.) sind große Zeremonien – Fotoregeln vor Ort beachten.": "Umhlanga (Aug/Sept) and Incwala (Dec/Jan) are major ceremonies – follow the photo rules on site.",
-"Risiko nur im östlichen Tiefland (Lowveld), vor allem Nov.–Mai – Mückenschutz.": "Risk only in the eastern lowveld, mainly Nov–May – mosquito protection.",
 "MTN Eswatini oder Eswatini Mobile – Pass nötig (Registrierung).": "MTN Eswatini or Eswatini Mobile – passport required (registration).",
 "Ezulwini-Tal (Lobamba)": "Ezulwini Valley (Lobamba)",
 "Mlilwane-Wildschutzgebiet": "Mlilwane Wildlife Sanctuary",
