@@ -15,5 +15,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Mascom, Orange oder BTC im Shop – Pass nötig (Registrierung).": "Mascom, Orange or BTC in a shop – passport required (registration).",
 "Maun (Okavango-Delta)": "Maun (Okavango Delta)",
 "Kasane (Chobe-Nationalpark)": "Kasane (Chobe National Park)",
-"Makgadikgadi-Salzpfannen": "Makgadikgadi Pans"
+"Makgadikgadi-Salzpfannen": "Makgadikgadi Pans",
+"(außerhalb der Öffnungszeiten, keine Visaanfragen; Honorarkonsulin Maun: +267 686 1616)": "(outside opening hours, no visa enquiries; honorary consul in Maun: +267 686 1616)",
+"Im Norden (Okavango, Chobe) hohes Risiko, vor allem Sept.–Mai – Mückenschutz und ärztliche Beratung zur Prophylaxe.": "High risk in the north (Okavango, Chobe), especially Sept–May – use mosquito protection and get medical advice on prophylaxis."
 });

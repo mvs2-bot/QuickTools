@@ -38,13 +38,15 @@ window.QT = {
     ["121", "Rettungsdienst"],
     ["122", "Feuerwehr"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Pretoria (Südafrika)", "address": ["201 Florence Ribeiro Avenue, Groenkloof", "Pretoria 0181"], "phone": "+27 12 427 8900"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Pretoria (Südafrika)", "address": ["201 Florence Ribeiro Avenue, Groenkloof", "Pretoria 0181"], "phone": "+27 12 427 8900", "emergency": "+27 78 608 0950", "emergencyNote": "(außerhalb der Öffnungszeiten, keine Visaanfragen; Honorarkonsulin Maseru: +266 6200 0063)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/lesotho-node",
 
   rules: [
-    ["Höhe", "Das ganze Land liegt über 1.400 m – im Winter (Juni–Aug.) Frost und Schnee, warme Kleidung mitnehmen."],
+    ["Einreise", "Visumfrei nur bis 14 Tage; Pass mindestens 6 Monate gültig. Der Aufenthalt in Lesotho verlängert nicht die 90 Tage in Südafrika."],
+    ["Höhe", "Das ganze Land liegt über 1.400 m – von Juni bis Oktober Frost, Schnee und Passsperrungen möglich, warme Kleidung mitnehmen."],
     ["Sani Pass", "Nur mit Allradwagen; der südafrikanische Grenzposten hat feste Öffnungszeiten."],
     ["Grenzen", "Viele Grenzübergänge schließen abends – Öffnungszeiten vorher prüfen."],
+    ["Fotografieren", "Keine Fotos vom Königspalast, von Regierungsgebäuden, Flughafen, Militärfahrzeugen und Uniformierten."],
     ["Rand", "Der Südafrikanische Rand wird 1:1 akzeptiert."]
   ],
   car: [

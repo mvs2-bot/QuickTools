@@ -29,5 +29,9 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Krüger-Nationalpark (Skukuza)": "Kruger National Park (Skukuza)",
 "0,5 ‰. An „4-Way Stops“ fährt zuerst, wer zuerst da war. Nachts nicht über Land fahren.": "0.5 ‰. At \"4-way stops\" whoever arrived first goes first. Don’t drive cross-country at night.",
 "Für Erwachsene privat erlaubt – in der Öffentlichkeit und Kauf/Verkauf aber verboten.": "Allowed for adults in private – but forbidden in public, as is buying/selling.",
-"Ab 18. Trinken in der Öffentlichkeit ist verboten; Verkauf sonntags je nach Provinz eingeschränkt.": "From 18. Drinking in public is forbidden; Sunday sales restricted depending on the province."
+"Ab 18. Trinken in der Öffentlichkeit ist verboten; Verkauf sonntags je nach Provinz eingeschränkt.": "From 18. Drinking in public is forbidden; Sunday sales restricted depending on the province.",
+"(außerhalb der Öffnungszeiten, auch SMS, keine Visaanfragen)": "(outside opening hours, also by SMS, no visa enquiries)",
+"Die Innenstädte (CBD) von Johannesburg, Pretoria, Gqeberha und Durban meiden. Nachts nicht zu Fuß unterwegs sein, Wertsachen nicht zeigen, Autotüren verriegeln, an Ampeln Fenster zu. Nur App-Taxis.": "Avoid the city centres (CBD) of Johannesburg, Pretoria, Gqeberha and Durban. Don't walk around at night, don't show valuables, lock car doors, keep windows closed at traffic lights. Use app-based taxis only.",
+"Pass mindestens 30 Tage über die Ausreise hinaus gültig, zwei freie Seiten. Wer die 90 Tage überzieht, erhält eine Einreisesperre.": "Passport valid for at least 30 days beyond departure, two blank pages. Overstaying the 90 days leads to an entry ban.",
+"Im Nordosten (Krüger-Nationalpark, Limpopo, Mpumalanga) Sept.–Mai hohes Risiko – Mückenschutz und ärztliche Beratung.": "High risk in the north-east (Kruger National Park, Limpopo, Mpumalanga) Sept–May – use mosquito protection and get medical advice."
 });

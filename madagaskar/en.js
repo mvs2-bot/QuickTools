@@ -14,5 +14,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Taxis haben kein Taxameter – Preis vor der Fahrt vereinbaren.": "Taxis have no meter – agree on the price before the ride.",
 "Baobab-Allee (Morondava)": "Avenue of the Baobabs (Morondava)",
 "Andasibe-Nationalpark": "Andasibe National Park",
-"Isalo-Nationalpark": "Isalo National Park"
+"Isalo-Nationalpark": "Isalo National Park",
+"Bewaffnete Überfälle auch tagsüber – in Antananarivo nachts nicht zu Fuß gehen, Wertsachen nicht zeigen. Überlandfahrten nur bei Tag. Vom Battery Beach bei Toliara, den Ufern des Tsiribihina und dem Pic Saint-Louis rät das AA ab.": "Armed robberies happen even in daytime – don't walk around Antananarivo at night, don't show valuables. Travel overland only by day. The German Foreign Office advises against visiting Battery Beach near Toliara, the banks of the Tsiribihina and Pic Saint-Louis.",
+"Visum bei Ankunft (30–50 € je nach Dauer, bis 90 Tage). Pass mindestens 6 Monate gültig. Tarnkleidung ist verboten.": "Visa on arrival (€30–50 depending on length, up to 90 days). Passport valid for at least 6 months. Camouflage clothing is prohibited."
 });

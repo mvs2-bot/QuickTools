@@ -12,5 +12,10 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Korallen und Muscheln nicht mitnehmen, beim Schnorcheln Riffschuhe tragen (Seeigel, Steinfische).": "Don't take coral or shells; wear reef shoes when snorkelling (sea urchins, stonefish).",
 "0,5 ‰. Linksverkehr, enge Straßen und viele Busse.": "0.5 ‰. Driving on the left, narrow roads and many buses.",
 "my.t (Mauritius Telecom) oder Emtel am Flughafen – Pass nötig.": "my.t (Mauritius Telecom) or Emtel at the airport – passport required.",
-"Fahrdienst auf der Insel.": "Ride-hailing on the island."
+"Fahrdienst auf der Insel.": "Ride-hailing on the island.",
+"(außerhalb der Öffnungszeiten, keine Visaanfragen; Honorarkonsul in Ébène: +230 5253 0300)": "(outside opening hours, no visa enquiries; honorary consul in Ébène: +230 5253 0300)",
+"0,2 ‰. Linksverkehr, enge Straßen und viele Busse.": "0.2 ‰. Driving on the left, narrow roads and lots of buses.",
+"Tabak & E-Zigaretten": "Tobacco & e-cigarettes",
+"Einfuhr von Tabakwaren, E-Zigaretten und Wasserpfeifen ist verboten; Rauchen im öffentlichen Raum ist untersagt.": "Importing tobacco products, e-cigarettes and hookahs is prohibited; smoking in public spaces is banned.",
+"Im Oktober 2026 Unruhen mit nächtlichen Ausgangssperren in Teilen der Insel – Menschenansammlungen meiden, Lage verfolgen.": "Unrest with night-time curfews in parts of the island in October 2026 – avoid crowds and follow the news."
 });

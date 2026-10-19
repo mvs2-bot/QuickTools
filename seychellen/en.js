@@ -11,5 +11,8 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Die Nüsse dürfen nur mit offizieller Ausfuhrgenehmigung mitgenommen werden – beim Kauf nach dem Zertifikat fragen.": "The nuts may only be taken out with an official export permit – ask for the certificate when buying.",
 "Linksverkehr; auf Mahé und Praslin sind die Bergstraßen eng und steil, ohne Seitenstreifen.": "Driving on the left; the mountain roads on Mahé and Praslin are narrow and steep, with no hard shoulder.",
 "Airtel oder Cable & Wireless am Flughafen – Pass nötig.": "Airtel or Cable & Wireless at the airport – passport required.",
-"Fähren zwischen Mahé, Praslin und La Digue.": "Ferries between Mahé, Praslin and La Digue."
+"Fähren zwischen Mahé, Praslin und La Digue.": "Ferries between Mahé, Praslin and La Digue.",
+"Ludwig Krapf House, 113 Riverside Drive": "Ludwig Krapf House, 113 Riverside Drive",
+"(außerhalb der Öffnungszeiten, auch SMS/WhatsApp, keine Visaanfragen; Honorarkonsulin Victoria: +248 4 601 100)": "(outside opening hours, also via SMS/WhatsApp, no visa enquiries; honorary consul in Victoria: +248 4 601 100)",
+"Alle Strände sind öffentlich. Nacktbaden ist verboten; auf gefährliche Strömungen und rote Flaggen achten. Vor Praslin gab es tödliche Haiangriffe.": "All beaches are public. Nude bathing is prohibited; watch out for dangerous currents and red flags. There have been fatal shark attacks off Praslin."
 });

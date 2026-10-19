@@ -18,5 +18,10 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "MTC oder Paratus/TN Mobile am Flughafen oder im Shop – Pass nötig (Registrierung).": "MTC or Paratus/TN Mobile at the airport or in a shop – passport required (registration).",
 "Windhuk": "Windhoek",
 "Etosha-Nationalpark (Okaukuejo)": "Etosha National Park (Okaukuejo)",
-"Fischfluss-Canyon": "Fish River Canyon"
+"Fischfluss-Canyon": "Fish River Canyon",
+"Sanlam Allianz Centre (6. Etage), 145 Independence Avenue": "Sanlam Allianz Centre (6th floor), 145 Independence Avenue",
+"(außerhalb der Öffnungszeiten bis 22 Uhr, auch SMS; keine Visaanfragen)": "(outside opening hours until 10 pm, also by SMS; no visa enquiries)",
+"Verkehrsunfall (MVA Fund, Meldung & Ambulanz)": "Road accident (MVA Fund, report & ambulance)",
+"Seit April 2025 Visumpflicht – E-Visum vorab online beantragen (90 Tage). Pass mindestens 6 Monate über die Reise hinaus gültig.": "Visa required since April 2025 – apply for the e-visa online in advance (90 days). Passport valid for at least 6 months beyond the trip.",
+"Im Norden (Etosha, Kavango, Sambesi-Region) Risiko – in der Sambesi-Region ganzjährig, sonst vor allem Sept.–Mai. Mückenschutz und ärztliche Beratung.": "Risk in the north (Etosha, Kavango, Zambezi Region) – year-round in the Zambezi Region, elsewhere mainly Sept–May. Use mosquito protection and get medical advice."
 });

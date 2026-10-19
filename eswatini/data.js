@@ -38,13 +38,13 @@ window.QT = {
     ["977", "Rettungsdienst"],
     ["933", "Feuerwehr"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Pretoria (Südafrika)", "address": ["201 Florence Ribeiro Avenue, Groenkloof", "Pretoria 0181"], "phone": "+27 12 427 8900"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Pretoria (Südafrika)", "address": ["201 Florence Ribeiro Avenue, Groenkloof", "Pretoria 0181"], "phone": "+27 12 427 8900", "emergency": "+27 78 608 0950", "emergencyNote": "(außerhalb der Öffnungszeiten, keine Visaanfragen; Verbindungsbüro Mbabane: +268 2404 3174)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/eswatini-node",
 
   rules: [
     ["Monarchie", "Eswatini ist eine absolute Monarchie – Kritik am König vermeiden, königliche Residenzen nicht fotografieren."],
     ["Feste", "Umhlanga (Aug./Sept.) und Incwala (Dez./Jan.) sind große Zeremonien – Fotoregeln vor Ort beachten."],
-    ["Malaria", "Risiko nur im östlichen Tiefland (Lowveld), vor allem Nov.–Mai – Mückenschutz."],
+    ["Malaria", "Risiko nur im östlichen Tiefland (Lowveld), vor allem Sept.–Mai – Mückenschutz."],
     ["Homosexualität", "Gleichgeschlechtliche Handlungen sind strafbar – in der Öffentlichkeit zurückhaltend sein."],
     ["Rand", "Der Südafrikanische Rand wird 1:1 akzeptiert."]
   ],

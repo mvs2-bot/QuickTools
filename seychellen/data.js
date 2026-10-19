@@ -35,12 +35,12 @@ window.QT = {
   emergency: [
     ["999", "Notruf (Polizei, Rettung, Feuerwehr)"]
   ],
-  embassy: {"title": "Zuständig: Deutsche Botschaft Nairobi (Kenia)", "address": ["113 Riverside Drive", "Nairobi"], "phone": "+254 20 426 2100"},
+  embassy: {"title": "Zuständig: Deutsche Botschaft Nairobi (Kenia)", "address": ["Ludwig Krapf House, 113 Riverside Drive", "Nairobi"], "phone": "+254 20 426 2100", "emergency": "+254 721 322 443", "emergencyNote": "(außerhalb der Öffnungszeiten, auch SMS/WhatsApp, keine Visaanfragen; Honorarkonsulin Victoria: +248 4 601 100)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/seychellen-node",
 
   rules: [
     ["Einreise", "Vor der Reise online eine Reisegenehmigung (Travel Authorisation) beantragen – nur über die offizielle Regierungsseite."],
-    ["Strände", "Alle Strände sind öffentlich. Nacktbaden ist verboten; in der Regenzeit auf Strömungen und rote Flaggen achten."],
+    ["Strände", "Alle Strände sind öffentlich. Nacktbaden ist verboten; auf gefährliche Strömungen und rote Flaggen achten. Vor Praslin gab es tödliche Haiangriffe."],
     ["Coco de Mer", "Die Nüsse dürfen nur mit offizieller Ausfuhrgenehmigung mitgenommen werden – beim Kauf nach dem Zertifikat fragen."],
     ["Sonne", "Starke Tropensonne – hoher Lichtschutz, mittags Schatten."]
   ],

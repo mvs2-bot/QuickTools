@@ -12,5 +12,11 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Nur eingeschränkt erhältlich (einige Hotels); in der Öffentlichkeit nicht trinken.": "Only available to a limited extent (some hotels); don't drink in public.",
 "Comores Telecom (Huri) oder Telma – Pass nötig.": "Comores Telecom (Huri) or Telma – passport required.",
 "eSIM-Angebote sind begrenzt – vorher prüfen, ob die Komoren abgedeckt sind.": "eSIM options are limited – check beforehand whether the Comoros are covered.",
-"Karthala (Vulkan)": "Mount Karthala (volcano)"
+"Karthala (Vulkan)": "Mount Karthala (volcano)",
+"Zuständig: Deutsche Botschaft Daressalam (Tansania)": "Responsible: German Embassy Dar es Salaam (Tanzania)",
+"Umoja House, Ecke Hamburg Avenue / Mirambo Street, 2. Stock": "Umoja House, corner of Hamburg Avenue / Mirambo Street, 2nd floor",
+"Daressalam": "Dar es Salaam",
+"(außerhalb der Öffnungszeiten bis 24 Uhr, keine Visaanfragen)": "(outside opening hours until midnight, no visa enquiries)",
+"Nur eingeschränkt erhältlich (einige Hotels); Trinken in der Öffentlichkeit und die Einfuhr sind verboten.": "Only available to a limited extent (some hotels); drinking in public and importing alcohol are prohibited.",
+"Visum bei Ankunft am Flughafen (ca. 30 €, bis 45 Tage) – Rückflugticket und Unterkunftsadresse bereithalten. Pass mindestens 6 Monate gültig.": "Visa on arrival at the airport (approx. €30, up to 45 days) – have your return ticket and accommodation address ready. Passport valid for at least 6 months."
 });

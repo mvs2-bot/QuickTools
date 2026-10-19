@@ -15,5 +15,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Ezulwini-Tal (Lobamba)": "Ezulwini Valley (Lobamba)",
 "Mlilwane-Wildschutzgebiet": "Mlilwane Wildlife Sanctuary",
 "Hlane-Royal-Nationalpark": "Hlane Royal National Park",
-"Malolotja-Naturreservat": "Malolotja Nature Reserve"
+"Malolotja-Naturreservat": "Malolotja Nature Reserve",
+"(außerhalb der Öffnungszeiten, keine Visaanfragen; Verbindungsbüro Mbabane: +268 2404 3174)": "(outside opening hours, no visa enquiries; liaison office in Mbabane: +268 2404 3174)",
+"Risiko nur im östlichen Tiefland (Lowveld), vor allem Sept.–Mai – Mückenschutz.": "Risk only in the eastern lowlands (Lowveld), mainly Sept–May – use mosquito protection."
 });
