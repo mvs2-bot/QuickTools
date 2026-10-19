@@ -42,7 +42,7 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/mauritius-node",
 
   rules: [
-    ["Politische Lage", "Im Oktober 2026 Unruhen mit nächtlichen Ausgangssperren in Teilen der Insel – Menschenansammlungen meiden, Lage verfolgen."],
+    ["Politische Lage", "Bei politischen Unruhen kann es kurzfristig nächtliche Ausgangssperren geben – Menschenansammlungen meiden und vor der Reise die aktuelle Lage beim Auswärtigen Amt prüfen."],
     ["Sprache", "Amtssprache ist Englisch, im Alltag sprechen die meisten Kreol und Französisch."],
     ["Tempel", "In Hindu-Tempeln Schultern und Knie bedecken und Schuhe ausziehen."],
     ["Riff", "Korallen und Muscheln nicht mitnehmen, beim Schnorcheln Riffschuhe tragen (Seeigel, Steinfische)."],

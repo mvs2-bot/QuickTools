@@ -21,5 +21,5 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Für Autobahnen ist eine elektronische Vignette (edalnice.cz) Pflicht. Licht auch tagsüber.": "An electronic vignette (edalnice.cz) is mandatory on motorways. Headlights on during the day.",
 "Helmpflicht bis 18 Jahre. Auch auf dem Rad gilt 0,0 ‰.": "Helmets are mandatory up to age 18. 0.0 ‰ also applies on a bike.",
 "Ab 18. In Prag ist Trinken auf vielen öffentlichen Plätzen verboten.": "From 18. In Prague drinking is banned in many public places.",
-"Seit 2026 ab 21 erlaubt: bis 25 g dabei, bis 100 g zu Hause. Verkauf bleibt verboten.": "Allowed from 21 since 2026: carry up to 25 g, up to 100 g at home. Sales remain illegal."
+"Seit 2026 für Erwachsene ab 21 teilweise erlaubt (bis 25 g dabei), Kauf und Verkauf bleiben aber verboten. Das Auswärtige Amt warnt, dass Drogendelikte streng verfolgt werden – als Reisender besser ganz darauf verzichten.": "Partly allowed for adults aged 21+ since 2026 (up to 25 g on you), but buying and selling remain illegal. The German Foreign Office warns that drug offences are prosecuted strictly – as a visitor it's best to stay away from it."
 });

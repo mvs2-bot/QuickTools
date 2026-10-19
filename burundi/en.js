@@ -11,7 +11,6 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Lumitel oder Econet Leo – Pass nötig. Internet teils langsam.": "Lumitel or Econet Leo – passport required. Internet sometimes slow.",
 "Bujumbura (Tanganjikasee)": "Bujumbura (Lake Tanganyika)",
 "Nilquelle (Rutovu)": "Source of the Nile (Rutovu)",
-"Kibira-Nationalpark": "Kibira National Park",
 "Rusizi-Nationalpark": "Rusizi National Park",
 "30, Avenue du 18 Septembre": "30, Avenue du 18 Septembre",
 "(Bereitschaftsdienst der Botschaft Nairobi, auch SMS, keine Visaanfragen; Bujumbura bietet keine Konsular- oder Nothilfe – zuständig ist Nairobi)": "(on-call service of the Embassy in Nairobi, also SMS, no visa enquiries; Bujumbura provides no consular or emergency assistance – Nairobi is responsible)",

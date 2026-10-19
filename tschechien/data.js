@@ -55,7 +55,7 @@ window.QT = {
   ],
   substances: [
     ["Alkohol", "Ab 18. In Prag ist Trinken auf vielen öffentlichen Plätzen verboten."],
-    ["Cannabis", "Seit 2026 ab 21 erlaubt: bis 25 g dabei, bis 100 g zu Hause. Verkauf bleibt verboten."]
+    ["Cannabis", "Seit 2026 für Erwachsene ab 21 teilweise erlaubt (bis 25 g dabei), Kauf und Verkauf bleiben aber verboten. Das Auswärtige Amt warnt, dass Drogendelikte streng verfolgt werden – als Reisender besser ganz darauf verzichten."]
   ],
   sim: [
     ['EU-Roaming', 'Mit deutschem Tarif ohne Aufpreis surfen und telefonieren („Roam like at home“).'],
