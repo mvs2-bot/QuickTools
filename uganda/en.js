@@ -15,5 +15,14 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Motorradtaxis mit Helm und Festpreis in Kampala.": "Motorbike taxis with helmet and fixed price in Kampala.",
 "Fahrdienste in Kampala und Entebbe.": "Ride-hailing in Kampala and Entebbe.",
 "Bwindi (Gorillas)": "Bwindi (gorillas)",
-"Jinja (Nilquelle)": "Jinja (source of the Nile)"
+"Jinja (Nilquelle)": "Jinja (source of the Nile)",
+"(nur außerhalb der Öffnungszeiten, keine Visaangelegenheiten)": "(outside opening hours only, no visa matters)",
+"Sicherheit": "Safety",
+"Das Auswärtige Amt rät dringend von nicht notwendigen Reisen in den Semliki-Nationalpark und von nicht notwendigen Reisen in das übrige Grenzgebiet zur DR Kongo (20 km) ab; die Grenze zur DR Kongo ist derzeit geschlossen – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office strongly advises against non-essential travel to Semliki National Park and advises against non-essential travel to the rest of the border area with the DR Congo (20 km); the border with the DR Congo is currently closed – check the current situation before every trip.",
+"Visum vorab online (e-Visum, ca. 50 USD). Gelbfieberimpfung bei Direkteinreise aus Deutschland nicht vorgeschrieben, aber empfohlen – bei Weiterreise (z. B. nach Ruanda) wird der Nachweis oft verlangt.": "Visa in advance online (e-visa, approx. USD 50). Yellow fever vaccination is not required when arriving directly from Germany but is recommended – proof is often required when travelling on (e.g. to Rwanda).",
+"Gleichgeschlechtliche Handlungen werden sehr hart bestraft (Anti-Homosexuality Act 2023, in schweren Fällen bis zur Todesstrafe). Keine Zärtlichkeiten in der Öffentlichkeit.": "Same-sex acts are punished very harshly (Anti-Homosexuality Act 2023, up to the death penalty in severe cases). No public displays of affection.",
+"Drohnen": "Drones",
+"Einfuhr nur mit vorheriger Genehmigung des Verteidigungsministeriums – sonst Beschlagnahme am Flughafen.": "Import only with prior permission from the Ministry of Defence – otherwise they will be confiscated at the airport.",
+"Führerschein": "Driving licence",
+"Internationaler Führerschein nötig, nur zusammen mit dem deutschen gültig.": "International driving permit required, only valid together with your German licence."
 });

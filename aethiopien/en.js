@@ -18,5 +18,17 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Ethio Telecom oder Safaricom Ethiopia – Pass nötig. In Krisenregionen wird das Internet teils abgeschaltet.": "Ethio Telecom or Safaricom Ethiopia – passport required. The internet is sometimes shut down in crisis regions.",
 "Taxi-Apps in Addis Abeba – Preis steht vorher fest.": "Taxi apps in Addis Ababa – the price is fixed in advance.",
 "Simien-Nationalpark (Debark)": "Simien Mountains National Park (Debark)",
-"Bahir Dar (Tanasee)": "Bahir Dar (Lake Tana)"
+"Bahir Dar (Tanasee)": "Bahir Dar (Lake Tana)",
+"Tsehafi Tiezaz Afewerk Street, Woreda 03 (Khebena)": "Tsehafi Tiezaz Afewerk Street, Woreda 03 (Khebena)",
+"Yeka Sub-City, Addis Abeba": "Yeka Sub-City, Addis Ababa",
+"(außerhalb der Öffnungszeiten, auch per Signal/WhatsApp, keine Visaanfragen)": "(outside opening hours, also via Signal/WhatsApp, no visa enquiries)",
+"Das Auswärtige Amt warnt vor Reisen in die Regionen Tigray, Amhara, Benishangul-Gumuz, Gambela und Somali, Teile von Afar, die Zonen westlich von Addis Abeba in Oromia sowie Arsi und die Grenzgebiete zu Eritrea, Sudan, Südsudan und Kenia. Von nicht notwendigen Reisen in alle übrigen Landesteile außer Addis Abeba wird abgeraten – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to the Tigray, Amhara, Benishangul-Gumuz, Gambela and Somali regions, parts of Afar, the zones west of Addis Ababa in Oromia as well as Arsi, and the border areas with Eritrea, Sudan, South Sudan and Kenya. It advises against non-essential travel to all other parts of the country except Addis Ababa – check the current situation before every trip.",
+"Visum vorab (e-Visum, nur bei Ankunft am Flughafen Bole) oder Visum bei Ankunft gegen neue US-Dollar-Scheine. Reisepass mind. 6 Monate gültig.": "Visa in advance (e-visa, only for arrival at Bole airport) or visa on arrival paid with new US dollar notes. Passport valid for at least 6 months.",
+"Drohnen & Geräte": "Drones & devices",
+"Drohnen, Ferngläser, Teleobjektive, Funkgeräte und Satellitentelefone brauchen eine Genehmigung und werden oft schon bei der Einreise beschlagnahmt. In und um Addis Abeba gilt ein Drohnenflugverbot.": "Drones, binoculars, telephoto lenses, radios and satellite phones need a permit and are often confiscated on entry. Flying drones is banned in and around Addis Ababa.",
+"Homosexualität": "Homosexuality",
+"Gleichgeschlechtliche Handlungen sind strafbar (bis zu 15 Jahre Haft) – äußerste Diskretion.": "Same-sex acts are a criminal offence (up to 15 years in prison) – be extremely discreet.",
+"Führerschein": "Driving licence",
+"Der deutsche Führerschein gilt nur 45 Tage und muss vorab ins Englische übersetzt und von einer äthiopischen Vertretung legalisiert werden. Nach Unfällen kann der Fahrer unabhängig von der Schuld inhaftiert werden.": "A German licence is only valid for 45 days and must be translated into English and legalised by an Ethiopian mission beforehand. After an accident the driver may be detained regardless of fault.",
+"Andere Drogen (auch Cannabis) werden streng bestraft – Besitz bis zu 5 Jahre Haft.": "Other drugs (including cannabis) are severely punished – possession up to 5 years in prison."
 });

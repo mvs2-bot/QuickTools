@@ -31,10 +31,13 @@ window.QT = {
     ["114", "Feuerwehr"],
     ["115", "Rettungsdienst"]
   ],
-  embassy: {"title": "Deutsche Botschaft Daressalam", "address": ["Umoja House, Garden Avenue / Mirambo Street", "Daressalam"], "phone": "+255 22 2117 409"},
+  embassy: {"title": "Deutsche Botschaft Daressalam", "address": ["Umoja House (2. Stock), Ecke Hamburg Avenue / Mirambo Street", "Daressalam"], "phone": "+255 22 221 2300", "emergency": "+255 786 971 692", "emergencyNote": "(Bereitschaftsdienst, keine Visaauskünfte; Termine nur nach Vereinbarung)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/tansania-node",
 
   rules: [
+    ["Sicherheit", "Das Auswärtige Amt rät von nicht notwendigen Reisen in den Süden der Region Mtwara (Grenze zu Mosambik) sowie auf die Inseln und an die Küste südlich von Kisiju ab. Demonstrationen weiträumig meiden – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Versicherung", "Seit 1.10.2026 ist eine Einreise-Krankenversicherung der staatlichen NIC Pflicht (44 USD), für Sansibar gilt alternativ die ZIC-Versicherung."],
+    ["Homosexualität", "Gleichgeschlechtliche Handlungen werden mit sehr hohen Haftstrafen bedroht, auch für Ausländer – äußerste Diskretion, auch in sozialen Medien."],
     ["Einreise", "Visum vorab als e-Visum (oder bei Ankunft). Wer aus einem Gelbfiebergebiet einreist – auch nach längerem Transit z. B. in Kenia oder Äthiopien –, braucht die Gelbfieberimpfung."],
     ["Sansibar", "Sansibar ist muslimisch geprägt: In Stone Town Schultern und Knie bedecken, Badekleidung nur am Strand. Im Ramadan Rücksicht nehmen."],
     ["Plastiktüten", "Plastiktüten sind verboten – auch im Gepäck. Bei der Einreise werden sie abgenommen."],
@@ -42,7 +45,8 @@ window.QT = {
     ["Fotografieren", "Menschen nur mit Erlaubnis fotografieren. Keine Fotos von Polizei, Militär und Regierungsgebäuden."]
   ],
   car: [
-    ["Linksverkehr", "Nachts nicht über Land fahren. Viele Polizei- und Radarkontrollen – Tempolimits genau einhalten."]
+    ["Linksverkehr", "Nachts nicht über Land fahren. Viele Polizei- und Radarkontrollen – Tempolimits genau einhalten."],
+    ["Führerschein", "Internationaler Führerschein nötig, nur zusammen mit dem deutschen gültig."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren. Auf Sansibar meist nur in Hotels und Touristenrestaurants."],

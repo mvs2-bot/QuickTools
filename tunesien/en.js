@@ -13,5 +13,15 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "0,5 ‰. Viele Polizeikontrollen und Radarfallen.": "0.5 ‰. Lots of police checks and speed cameras.",
 "In Hotels, lizenzierten Bars und manchen Supermärkten erhältlich. Trinken in der Öffentlichkeit ist verboten.": "Available in hotels, licensed bars and some supermarkets. Drinking in public is forbidden.",
 "Ooredoo, Orange oder Tunisie Telecom – am Flughafen oder im Shop, Pass nötig.": "Ooredoo, Orange or Tunisie Telecom – at the airport or in a shop, passport required.",
-"Fahrdienst in Tunis und den Badeorten – Preis steht vorher fest.": "Ride-hailing in Tunis and the beach resorts – the price is fixed in advance."
+"Fahrdienst in Tunis und den Badeorten – Preis steht vorher fest.": "Ride-hailing in Tunis and the beach resorts – the price is fixed in advance.",
+"Impasse du Lac Windermere": "Impasse du Lac Windermere",
+"Les Berges du Lac 1, Tunis": "Les Berges du Lac 1, Tunis",
+"(außerhalb der Öffnungszeiten, nur dringende Notfälle, keine Visafragen)": "(outside opening hours, urgent emergencies only, no visa enquiries)",
+"Das Auswärtige Amt rät von Reisen in den Süden (südlich der Linie Tozeur/Nefta–Douz–Ksar Ghilane–Tataouine–Zarzis), ins Grenzgebiet zu Algerien (Ain Draham bis Kasserine, Jebel Chaambi) und von individuellen Wüstentouren ab. Der Grenzstreifen zu Libyen ist militärisches Sperrgebiet – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office advises against travel to the south (south of the line Tozeur/Nefta–Douz–Ksar Ghilane–Tataouine–Zarzis), to the border area with Algeria (Ain Draham to Kasserine, Jebel Chaambi) and against independent desert tours. The border strip with Libya is a military restricted zone – check the current situation before every trip.",
+"Fotografieren & Drohnen": "Photography & drones",
+"Keine Fotos von Polizei, Militär und Regierungsgebäuden – sonst droht Haft. Drohnen sind verboten, schon die Einfuhr (auch von Funkgeräten) kann Spionageverdacht auslösen.": "No photos of police, military or government buildings – you risk arrest. Drones are banned; even bringing them (or radios) in can raise suspicion of espionage.",
+"Homosexualität": "Homosexuality",
+"Gleichgeschlechtliche Handlungen sind strafbar – äußerste Diskretion.": "Same-sex acts are a criminal offence – be extremely discreet.",
+"0,3 ‰ (Fahranfänger 0,0 ‰). Viele Polizeikontrollen und Radarfallen. Der deutsche Führerschein wird für Urlauber anerkannt.": "0.3 ‰ (new drivers 0.0 ‰). Lots of police checks and speed cameras. A German driving licence is recognised for tourists.",
+"Schon kleinste Mengen (auch Cannabis) werden mit mindestens einem Jahr Haft bestraft.": "Even the smallest amounts (including cannabis) carry at least one year in prison."
 });

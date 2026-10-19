@@ -20,5 +20,16 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Marrakesch": "Marrakesh",
 "0,2 ‰. Sehr viele Radar- und Polizeikontrollen.": "0.2 ‰. Lots of speed cameras and police checks.",
 "Nur in lizenzierten Bars, Hotels und Supermärkten. Trinken in der Öffentlichkeit ist verboten.": "Only in licensed bars, hotels and supermarkets. Drinking in public is forbidden.",
-"Verboten, auch wenn es (z. B. im Rif-Gebirge) offen angeboten wird.": "Illegal, even if it is offered openly (e.g. in the Rif mountains)."
+"Verboten, auch wenn es (z. B. im Rif-Gebirge) offen angeboten wird.": "Illegal, even if it is offered openly (e.g. in the Rif mountains).",
+"Polizei (Städte; vom Handy auch 112)": "Police (cities; also 112 from mobiles)",
+"(außerhalb der Öffnungszeiten, Anruf oder SMS, nur Notfälle Deutscher, keine Visa- oder Passanfragen)": "(outside opening hours, call or text, emergencies of German nationals only, no visa or passport enquiries)",
+"Marokko beansprucht die Westsahara und verwaltet den größten Teil davon; der Status ist international umstritten, die Polisario fordert die Unabhängigkeit. Das Auswärtige Amt rät dringend von Reisen dorthin ab (Minen, keine konsularische Betreuung) – höchstens auf der Strecke Laayoune–Dakhla–mauretanische Grenze bleiben.": "Morocco claims Western Sahara and administers most of it; its status is internationally disputed and the Polisario demands independence. The German Foreign Office strongly advises against travel there (landmines, no consular support) – if at all, stay on the Laayoune–Dakhla–Mauritanian border route.",
+"Sicherheit": "Safety",
+"Das Auswärtige Amt rät dringend von Reisen in die Westsahara und ins Grenzgebiet zu Algerien ab (Grenze geschlossen). Rif-Gebirge nicht allein bereisen, Trekking und Wüstentouren nur mit registrierten Führern – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office strongly advises against travel to Western Sahara and the border area with Algeria (border closed). Do not travel the Rif mountains alone; trekking and desert tours only with registered guides – check the current situation before every trip.",
+"Homosexualität": "Homosexuality",
+"Gleichgeschlechtliche Handlungen sind strafbar (bis zu 3 Jahre Haft), ebenso außerehelicher Sex – Hotels können von Paaren eine Heiratsurkunde verlangen.": "Same-sex acts are a criminal offence (up to 3 years in prison), as is sex outside marriage – hotels may ask couples for a marriage certificate.",
+"Drohnen": "Drones",
+"Die Einfuhr von Drohnen ist streng verboten – sie werden beschlagnahmt, es drohen Strafverfahren.": "Importing drones is strictly prohibited – they will be confiscated and you may be prosecuted.",
+"Höchstens 2.000 Dirham dürfen ein- oder ausgeführt werden – vor Ort abheben und vor der Abreise zurücktauschen.": "At most 2,000 dirhams may be brought in or taken out – withdraw locally and exchange back before leaving.",
+"Verboten, auch wenn es (z. B. im Rif-Gebirge) offen angeboten wird. Schon kleinste Mengen sind strafbar, es drohen bis zu 10 Jahre Haft.": "Illegal, even if it is offered openly (e.g. in the Rif mountains). Even the smallest amounts are punishable, with up to 10 years in prison."
 });

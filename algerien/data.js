@@ -39,15 +39,17 @@ window.QT = {
     ["1055", "Gendarmerie (ländliche Gebiete)"],
     ["14", "Feuerwehr & Rettungsdienst (Protection Civile)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Algier", "address": ["165, Chemin Sfindja (ex Laperlier)", "16000 Algier"], "phone": "+213 21 74 19 56"},
+  embassy: {"title": "Deutsche Botschaft Algier", "address": ["165, Chemin Sfindja (ex Laperlier)", "16000 Algier"], "phone": "+213 21 74 24 89", "emergency": "+213 770 88 00 23", "emergencyNote": "(außerhalb der Öffnungszeiten, nur Notfälle Deutscher, keine Pass- oder Visaanfragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/algerien-node",
 
   rules: [
-    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Grenzgebiete zu Libyen, Niger, Mali und Mauretanien – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Grenzgebiete zu Tunesien (Wilaya Tebessa und südlich davon), Libyen, Niger, Mali, Mauretanien und zur Westsahara. Von touristischen Reisen in die übrige Sahara, ins Grenzgebiet zu Marokko und in ländliche Berggebiete im Norden wird abgeraten – vor jeder Reise die aktuelle Lage prüfen."],
     ["Einreise", "Visum vorab bei der algerischen Botschaft beantragen. Für Sahara-Reisen (z. B. Djanet, Tamanrasset) gibt es Visa über lizenzierte Reiseagenturen – dort nur mit Agentur unterwegs sein."],
     ["Bargeld", "Kreditkarten werden kaum akzeptiert. Euro bar mitbringen und nur offiziell (Bank, Hotel) tauschen. Devisen bei der Einreise deklarieren."],
     ["Kleidung", "Schultern und Knie bedecken, besonders außerhalb der Großstädte. Frauen in Moscheen zusätzlich Kopftuch."],
     ["Fotografieren", "Keine Fotos von Polizei, Militär, Kontrollpunkten und Regierungsgebäuden. Menschen nur mit Erlaubnis fotografieren."],
+    ["Verbotene Geräte", "Ferngläser, Satellitentelefone, GPS-Geräte, Funkgeräte und Laserpointer dürfen nicht eingeführt werden; Drohnen nur mit Lizenz."],
+    ["Homosexualität", "Gleichgeschlechtliche Handlungen sind strafbar – äußerste Diskretion."],
     ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."]
   ],
   car: [

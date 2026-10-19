@@ -17,5 +17,15 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Vodacom, Airtel oder Yas am Flughafen – Pass nötig, Registrierung mit Fingerabdruck.": "Vodacom, Airtel or Yas at the airport – passport required, registration with fingerprint.",
 "Fahrdienste in Daressalam, Arusha und auf Sansibar.": "Ride-hailing in Dar es Salaam, Arusha and on Zanzibar.",
 "Sansibar (Stone Town)": "Zanzibar (Stone Town)",
-"Kilimandscharo (Moshi)": "Kilimanjaro (Moshi)"
+"Kilimandscharo (Moshi)": "Kilimanjaro (Moshi)",
+"Umoja House (2. Stock), Ecke Hamburg Avenue / Mirambo Street": "Umoja House (2nd floor), corner of Hamburg Avenue / Mirambo Street",
+"(Bereitschaftsdienst, keine Visaauskünfte; Termine nur nach Vereinbarung)": "(on-call service, no visa information; visits by appointment only)",
+"Sicherheit": "Safety",
+"Das Auswärtige Amt rät von nicht notwendigen Reisen in den Süden der Region Mtwara (Grenze zu Mosambik) sowie auf die Inseln und an die Küste südlich von Kisiju ab. Demonstrationen weiträumig meiden – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office advises against non-essential travel to the south of Mtwara region (border with Mozambique) and to the islands and coast south of Kisiju. Stay well away from demonstrations – check the current situation before every trip.",
+"Versicherung": "Insurance",
+"Seit 1.10.2026 ist eine Einreise-Krankenversicherung der staatlichen NIC Pflicht (44 USD), für Sansibar gilt alternativ die ZIC-Versicherung.": "Since 1 Oct 2026, entry health insurance from the state insurer NIC is mandatory (USD 44); for Zanzibar the ZIC insurance is accepted instead.",
+"Homosexualität": "Homosexuality",
+"Gleichgeschlechtliche Handlungen werden mit sehr hohen Haftstrafen bedroht, auch für Ausländer – äußerste Diskretion, auch in sozialen Medien.": "Same-sex acts carry very long prison sentences, foreigners included – be extremely discreet, also on social media.",
+"Führerschein": "Driving licence",
+"Internationaler Führerschein nötig, nur zusammen mit dem deutschen gültig.": "International driving permit required, only valid together with your German licence."
 });

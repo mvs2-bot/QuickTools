@@ -17,5 +17,16 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Volcanoes-Nationalpark (Musanze)": "Volcanoes National Park (Musanze)",
 "Nyungwe-Nationalpark": "Nyungwe National Park",
 "Akagera-Nationalpark": "Akagera National Park",
-"Kibuye (Kivusee)": "Kibuye (Lake Kivu)"
+"Kibuye (Kivusee)": "Kibuye (Lake Kivu)",
+"KN 27 St No. 5, Kiyovu": "KN 27 St No. 5, Kiyovu",
+"(außerhalb der Öffnungszeiten, auch SMS/WhatsApp, nur akute Notfälle Deutscher, keine Visaauskünfte)": "(outside opening hours, also SMS/WhatsApp, acute emergencies of German nationals only, no visa information)",
+"Sicherheit": "Safety",
+"Das Auswärtige Amt rät von nicht notwendigen Reisen in die Grenzregionen zur DR Kongo ab (besondere Vorsicht im Distrikt Rusizi). Wer in den 30 Tagen vor der Einreise in der DR Kongo war (auch Transit), wird abgewiesen. Die Landgrenze zu Burundi ist geschlossen.": "The German Foreign Office advises against non-essential travel to the border regions with the DR Congo (special caution in Rusizi district). Anyone who was in the DR Congo in the 30 days before arrival (including transit) will be refused entry. The land border with Burundi is closed.",
+"Einreise": "Entry",
+"Visum online oder bei Ankunft (ca. 50 USD, 30 Tage). Reisepass mind. 6 Monate über die Reise hinaus gültig.": "Visa online or on arrival (approx. USD 50, 30 days). Passport valid for at least 6 months beyond the trip.",
+"Drohnen & E-Zigaretten": "Drones & e-cigarettes",
+"Die Einfuhr von Drohnen und E-Zigaretten ist nicht erlaubt.": "Bringing in drones and e-cigarettes is not allowed.",
+"Plastiktüten und Plastikverpackungen dürfen nicht eingeführt werden – sie werden schon bei der Einreise abgenommen.": "Plastic bags and plastic packaging may not be brought in – they are taken away on arrival.",
+"Führerschein & Alkohol": "Driving licence & alcohol",
+"Internationaler Führerschein nötig, nur zusammen mit dem deutschen gültig. Alkohol am Steuer: hohe Geldstrafen, Fahrverbot und Haft.": "International driving permit required, only valid together with your German licence. Drink-driving: heavy fines, driving ban and detention."
 });

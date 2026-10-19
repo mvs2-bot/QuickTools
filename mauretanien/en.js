@@ -13,5 +13,7 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Nicht bei Dunkelheit fahren; abseits der Asphaltstraßen nur im Konvoi mit Wasser, Treibstoff und Satellitentelefon.": "Don't drive after dark; off tarmac roads only in a convoy with water, fuel and a satellite phone.",
 "Verkauf und Einfuhr sind verboten – mitgebrachter Alkohol wird beschlagnahmt, es drohen Geldstrafen.": "Sale and import are banned – alcohol brought in is confiscated and fines may be imposed.",
 "Einfuhr und Handel sind verboten und werden streng bestraft.": "Import and trafficking are banned and severely punished.",
-"Mauritel, Mattel oder Chinguitel – Pass nötig. In der Wüste oft kein Netz.": "Mauritel, Mattel or Chinguitel – passport required. Often no signal in the desert."
+"Mauritel, Mattel oder Chinguitel – Pass nötig. In der Wüste oft kein Netz.": "Mauritel, Mattel or Chinguitel – passport required. Often no signal in the desert.",
+"Teilreisewarnung": "Partial travel warning",
+"Das Auswärtige Amt warnt vor Reisen in die Grenzgebiete zu Algerien und Mali. Dringend abgeraten wird von entlegenen Sahara-Gebieten (u. a. Tiris Zemmour nördlich von Zouérate, Adrar östlich von Ouadane) und Landreisen durch die Westsahara; ohne Sicherheitskonzept auch von den Hodh-Regionen (Oualata) und Tichitt – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to the border areas with Algeria and Mali. It strongly advises against remote Sahara areas (incl. Tiris Zemmour north of Zouérate, Adrar east of Ouadane) and overland travel through Western Sahara; without a security plan also against the Hodh regions (Oualata) and Tichitt – check the current situation before every trip."
 });

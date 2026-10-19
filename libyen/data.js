@@ -39,7 +39,8 @@ window.QT = {
     ["Krisenvorsorge", "Wer trotzdem reist, sollte sich in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts eintragen."],
     ["Einreise", "Visum vorab bei einer libyschen Vertretung beantragen; Reisepass mind. 6 Monate gültig. Israelische Stempel im Pass führen zur Einreiseverweigerung. Für Wüstenreisen ist eine Genehmigung nötig."],
     ["Kleidung", "Konservativ kleiden: lange Hosen und Ärmel, Frauen am besten mit Kopftuch."],
-    ["Ramadan", "Im Ramadan tagsüber nicht demonstrativ in der Öffentlichkeit essen, trinken oder rauchen."]
+    ["Ramadan", "Im Ramadan ist Essen, Trinken und Rauchen in der Öffentlichkeit tagsüber auch für Nicht-Muslime verboten; viele Restaurants sind geschlossen."],
+    ["Bargeld", "Fast nur Barzahlung, ausländische Karten funktionieren meist nicht. Euro oder US-Dollar mitbringen; Dinar-Ein- und -Ausfuhr max. 200 LYD."]
   ],
   car: [
     ["Selbst fahren?", "Nicht empfohlen – zahlreiche bewaffnete Kontrollpunkte und unklare Zuständigkeiten."],

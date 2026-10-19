@@ -37,15 +37,17 @@ window.QT = {
     ["997", "Rettungsdienst"],
     ["998", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Juba", "address": ["Juba", "Telefon: Zentrale des Auswärtigen Amts (Berlin), leitet weiter"], "phone": "+49 30 1817-0"},
+  embassy: {"title": "Deutsche Botschaft Juba", "address": ["EU Compound, Pope Francis Road (former Kololo Road)", "Juba"], "phone": "+211 912 133 661", "emergency": "+256 772 763 000", "emergencyNote": "(außerhalb der Öffnungszeiten, keine Visaanfragen; Juba leistet nur Nothilfe – Pässe und Konsularisches über die Botschaft Kampala)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/suedsudan-node",
 
   rules: [
-    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Südsudan – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen nach Südsudan und fordert Deutsche dringend zur Ausreise auf – vor jeder Reise die aktuelle Lage prüfen."],
     ["Sicherheit", "Bewaffnete Konflikte, hohe Kriminalität und Überfälle auch in Juba. Nachts nicht unterwegs sein."],
-    ["Fotografieren", "Für Fotos ist eine Genehmigung nötig. Keine Fotos von Militär, Polizei, Behörden, Brücken und Flughäfen – sonst drohen Festnahmen."],
+    ["Fotografieren", "Fotografieren im öffentlichen Raum ist nicht erlaubt (Profis brauchen eine Genehmigung der Media Authority). Ministerien, Sicherheitseinrichtungen, Brücken und Flughäfen nie fotografieren – sonst drohen Festnahmen."],
     ["Bargeld", "Kreditkarten funktionieren praktisch nicht. Saubere, neuere US-Dollar-Scheine mitbringen."],
-    ["Einreise", "Visum vorab (e-Visum) und Gelbfieberimpfung nötig."]
+    ["Einreise", "Visum vorab (Botschaft Berlin oder e-Visum) – Einreise ohne Visum kann zu Haft führen. Reisepass mind. 6 Monate gültig mit 6 freien Seiten. Gelbfieberimpfung ist Pflicht (ab 9 Monaten)."],
+    ["Homosexualität", "Gleichgeschlechtliche Handlungen sind strafbar – äußerste Diskretion."],
+    ["Kleidung", "In der Öffentlichkeit keine kurzen Hosen (auch Männer), keine sehr kurzen Röcke."]
   ],
   car: [
     ["Selbst fahren?", "Nicht empfohlen – schlechte Pisten, bewaffnete Kontrollpunkte und Überfälle. Außerhalb Jubas nur im Konvoi."]

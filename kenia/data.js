@@ -31,19 +31,21 @@ window.QT = {
     ["112", "Notruf vom Handy"],
     ["1199", "Rettungsdienst (Rotes Kreuz)"]
   ],
-  embassy: {"title": "Deutsche Botschaft Nairobi", "address": ["113 Riverside Drive", "Nairobi"], "phone": "+254 20 4262 100"},
+  embassy: {"title": "Deutsche Botschaft Nairobi", "address": ["113 Riverside Drive", "Nairobi"], "phone": "+254 20 4262 100", "emergency": "+254 721 322 443", "emergencyNote": "(außerhalb der Öffnungszeiten, auch SMS/WhatsApp, keine Visaanfragen)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/kenia-node",
 
   rules: [
-    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Grenzgebiete zu Somalia (u. a. Mandera, Wajir, Garissa und Teile von Lamu) – vor jeder Reise die aktuelle Lage prüfen."],
-    ["Einreise", "Vor der Reise online eine Electronic Travel Authorisation (eTA) beantragen."],
+    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Countys Mandera, Wajir, Garissa und Lamu (außer Lamu und Manda Island, dorthin nur notwendige Reisen). Dringend abgeraten wird von Baringo, West Pokot, Turkana und dem Norden von Tana River – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Einreise", "Vor der Reise online eine Electronic Travel Authorisation (eTA) beantragen (frühestens 3 Monate, spätestens 72 Stunden vorher); dabei ist seit Oktober 2026 eine kenianische Reisekrankenversicherung Pflicht. Reisepass mind. 6 Monate über den Aufenthalt hinaus gültig."],
+    ["Homosexualität", "Gleichgeschlechtliche Handlungen sind strafbar – in der Öffentlichkeit sehr zurückhaltend sein."],
     ["Plastiktüten", "Plastiktüten sind komplett verboten – auch im Gepäck. Es drohen hohe Strafen."],
     ["Safari", "Im Park im Fahrzeug bleiben (außer an markierten Stellen), Abstand zu Tieren halten, nicht füttern."],
     ["Fotografieren", "Menschen (z. B. Massai) nur mit Erlaubnis fotografieren, oft wird Geld erwartet. Keine Fotos von Polizei, Militär und Regierungsgebäuden."],
     ["Sicherheit", "In Nairobi und Mombasa nachts nicht zu Fuß unterwegs sein, Wertsachen nicht zeigen."]
   ],
   car: [
-    ["Linksverkehr", "Nachts nicht über Land fahren – Tiere, unbeleuchtete Fahrzeuge und Schlaglöcher. Matatus (Minibusse) fahren riskant."]
+    ["Linksverkehr", "Nachts nicht über Land fahren – Tiere, unbeleuchtete Fahrzeuge und Schlaglöcher. Matatus (Minibusse) fahren riskant."],
+    ["Führerschein", "Internationaler Führerschein nötig, nur zusammen mit dem deutschen gültig."]
   ],
   substances: [
     ["Alkohol", "Ab 18 Jahren."],

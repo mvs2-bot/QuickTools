@@ -43,7 +43,7 @@ window.QT = {
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/mauretanien-node",
 
   rules: [
-    ["Reisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Grenzgebiete zu Algerien und Mali und rät von Reisen in entlegene Gebiete der Sahara ab (Teilreisewarnung) – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Grenzgebiete zu Algerien und Mali. Dringend abgeraten wird von entlegenen Sahara-Gebieten (u. a. Tiris Zemmour nördlich von Zouérate, Adrar östlich von Ouadane) und Landreisen durch die Westsahara; ohne Sicherheitskonzept auch von den Hodh-Regionen (Oualata) und Tichitt – vor jeder Reise die aktuelle Lage prüfen."],
     ["Visum", "E-Visum vorab online beantragen und ausgedruckt mitnehmen; Gebühr (55 €) bar bei der Einreise. Reisepass mind. 6 Monate gültig."],
     ["Kleidung & Ramadan", "Schultern und Knie bedecken, keine Zärtlichkeiten in der Öffentlichkeit. Im Ramadan sind Restaurants tagsüber meist geschlossen (außer große Hotels)."],
     ["Homosexualität", "Gleichgeschlechtliche Handlungen sind strafbar, gesetzlich droht sogar die Todesstrafe – äußerste Diskretion."],

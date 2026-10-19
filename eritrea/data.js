@@ -31,15 +31,16 @@ window.QT = {
     ["114", "Rettungsdienst"],
     ["116", "Feuerwehr"]
   ],
-  embassy: {"title": "Deutsche Botschaft Asmara", "address": ["Saba Building, Warsay Street", "Asmara"], "phone": "+291 1 18 66 70"},
+  embassy: {"title": "Deutsche Botschaft Asmara", "address": ["Sertzu Gebremeskel Building (8. Stock), Warsay Street", "Asmara"], "phone": "+291 1 18 66 70", "emergency": "+254 721 322 443", "emergencyNote": "(Bereitschaftsdienst der Botschaft Nairobi, auch SMS, keine Visaanfragen; Asmara leistet nur Nothilfe – Pässe und Konsularisches über Nairobi)"},
   aaUrl: "https://www.auswaertiges-amt.de/de/service/laender/eritrea-node",
 
   rules: [
-    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Grenzgebiete zu Äthiopien, Sudan und Dschibuti – vor jeder Reise die aktuelle Lage prüfen."],
-    ["Reisegenehmigung", "Für Fahrten außerhalb Asmaras ist eine Reisegenehmigung (Travel Permit) nötig – einige Tage vorher beim Tourismusministerium beantragen."],
+    ["Teilreisewarnung", "Das Auswärtige Amt warnt vor Reisen in die Grenzgebiete zu Äthiopien, Sudan und Dschibuti und rät von Reisen in alle übrigen Landesteile ab; Asmara gilt als ruhig – vor jeder Reise die aktuelle Lage prüfen."],
+    ["Reisegenehmigung", "Für Fahrten über 20 km um Asmara hinaus ist eine Reisegenehmigung (Travel Permit) mit Ziel, Route und Dauer nötig – einige Tage vorher beim Tourismusministerium beantragen. Grenzgebiete sind gesperrt."],
     ["Bargeld", "Keine Geldautomaten, Kreditkarten werden kaum akzeptiert. Euro oder US-Dollar bar mitbringen, bei der Einreise deklarieren und nur offiziell tauschen."],
     ["Fotografieren", "Keine Fotos von Militär, Polizei, Behörden, Hafen und Infrastruktur – sonst drohen Festnahmen."],
-    ["Einreise", "Visum vorab bei der eritreischen Botschaft beantragen."]
+    ["Einreise", "Visum vorab bei einer eritreischen Vertretung beantragen; Touristen können nur per Flugzeug einreisen. Nakfa-Ausfuhr max. 1.000 ERN."],
+    ["Homosexualität", "Gleichgeschlechtliche Handlungen sind strafbar – äußerste Diskretion. Auch regierungskritische Äußerungen können zur Festnahme führen."]
   ],
   car: [
     ["Selbst fahren?", "Mietwagen meist nur mit Fahrer. Kurvige Bergstraßen zwischen Asmara und Massawa, viele Kontrollpunkte."]
@@ -49,8 +50,8 @@ window.QT = {
     ["Drogen", "Werden streng bestraft."]
   ],
   sim: [
-    ["Internet", "Kaum mobiles Internet und sehr langsames WLAN. Deutsche SIM-Karten funktionieren oft nicht – Offline-Karten vorher laden."],
-    ["Lokale SIM", "Nur über den Staatsanbieter EriTel, mit Pass und viel Geduld."]
+    ["Internet", "Kein Roaming und kein mobiles Internet, nur langsames Hotel-WLAN; soziale Medien sind gesperrt – Offline-Karten vorher laden."],
+    ["Lokale SIM", "Nur über den Staatsanbieter EriTel, mit Pass und viel Geduld – nur zum Telefonieren, kein Internet."]
   ],
   apps: [
     ["Google Maps & Translate", "Offline-Karten herunterladen und Übersetzer parat haben."],

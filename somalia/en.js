@@ -17,5 +17,13 @@ Object.assign(window.QT_EN = window.QT_EN || {}, {
 "Hormuud oder Somtel, in Somaliland Telesom – Pass nötig, günstige Datenpakete.": "Hormuud or Somtel, Telesom in Somaliland – passport required, cheap data packages.",
 "Mobiles Bezahlen (meist in US-Dollar) ist allgegenwärtig – Zaad in Somaliland.": "Mobile payments (mostly in US dollars) are everywhere – Zaad in Somaliland.",
 "Mogadischu": "Mogadishu",
-"Hargeysa (Somaliland)": "Hargeisa (Somaliland)"
+"Hargeysa (Somaliland)": "Hargeisa (Somaliland)",
+"Ludwig Krapf House, 113 Riverside Drive": "Ludwig Krapf House, 113 Riverside Drive",
+"(außerhalb der Öffnungszeiten, auch SMS/WhatsApp, keine Visaanfragen; in Somalia selbst keine konsularische Hilfe, Ersatzpässe nur persönlich in Nairobi)": "(outside opening hours, also SMS/WhatsApp, no visa enquiries; no consular assistance inside Somalia, replacement passports only in person in Nairobi)",
+"Das Auswärtige Amt warnt vor Reisen nach Somalia und in die Gewässer vor Somalia und rät Deutschen vor Ort zur raschen Ausreise – vor jeder Reise die aktuelle Lage prüfen.": "The German Foreign Office warns against travel to Somalia and its coastal waters and advises Germans in the country to leave quickly – check the current situation before every trip.",
+"Einreise": "Entry",
+"Visum vorab elektronisch beantragen (wird nicht überall anerkannt); für Somaliland zusätzlich ein eigenes Visum. Reisepass mind. 6 Monate gültig.": "Apply for a visa electronically in advance (not recognised everywhere); Somaliland requires its own additional visa. Passport valid for at least 6 months.",
+"Homosexualität": "Homosexuality",
+"Gleichgeschlechtliche Handlungen werden streng bestraft, bis hin zur Todesstrafe.": "Same-sex acts are severely punished, up to the death penalty.",
+"Im Ramadan ist Essen, Trinken und Rauchen in der Öffentlichkeit tagsüber auch für Nicht-Muslime verboten.": "During Ramadan, eating, drinking and smoking in public during the day is forbidden for non-Muslims too."
 });
