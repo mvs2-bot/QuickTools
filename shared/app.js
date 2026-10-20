@@ -51,6 +51,8 @@
     return (Date.UTC(g('year'), g('month') - 1, g('day'), g('hour'), g('minute')) - Math.floor(d / 60000) * 60000) / 60000;
   }
   const showClocks = offsetMin(C.tz, new Date()) !== offsetMin('Europe/Berlin', new Date());
+  // Mehrere Zeitzonen im Land → Ort zur Uhrzeit nennen (erster Ort in der Haupt-Zeitzone, z. B. New York)
+  const tzPlace = C.places.some(p => p[3] && p[3] !== C.tz) ? (C.places.find(p => !p[3] || p[3] === C.tz) || [])[0] : '';
   const hasFx = !!C.currency;
 
   /* ---------- Tabs ---------- */
@@ -98,7 +100,7 @@
       </header>
       <div class="header-clocks-bar${showClocks ? '' : ' hidden'}">
         <div class="clock-badge"><span>🇩🇪 DE</span><b id="clockHome">-:--</b></div>
-        <div class="clock-badge"><span>${C.flag} ${esc(C.name)}</span><b id="clockLocal">-:--</b></div>
+        <div class="clock-badge"><span>${C.flag} ${esc(C.name)}${tzPlace ? ' · ' + esc(tzPlace) : ''}</span><b id="clockLocal">-:--</b></div>
       </div>
       <div class="tabs${TABS.length === 3 ? ' cols-3' : ''}" role="tablist">
         ${TABS.map(t => `<button class="tab" data-t="${t.id}"><span>${t.icon}</span>${t.short}</button>`).join('')}

@@ -53,9 +53,9 @@
       const EN = (function () { try { return localStorage.getItem('qt_lang_v1') === 'en'; } catch (e) { return false; } })();
       PINS.forEach(p => { if (EN && window.QT_EN && QT_EN[p.n]) p.n = QT_EN[p.n]; });
       const map = L.map('worldMap', { worldCopyJump: true, minZoom: 1, maxZoom: 7, scrollWheelZoom: false, zoomSnap: 0.25 });
-      /* OpenStreetMap-Kacheln (kostenlos, ohne API-Schlüssel); Dunkelmodus per CSS-Filter */
-      L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>', maxZoom: 19
+      /* Esri World Street Map (englische Beschriftung, ohne API-Schlüssel); Dunkelmodus per CSS-Filter */
+      L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; <a href="https://www.esri.com/">Esri</a> &mdash; Source: Esri, HERE, Garmin, USGS, Intermap, INCREMENT P, NRCan, Esri Japan, METI, Esri China (Hong Kong), Esri Korea, Esri (Thailand), NGCC, &copy; OpenStreetMap contributors, and the GIS User Community', maxZoom: 19
       }).addTo(map);
       const markers = PINS.map(p => L.marker([p.lat, p.lng], {
           icon: L.divIcon({ className: '', html: '<div class="map-pin">' + p.f + '</div>', iconSize: [36, 36], iconAnchor: [18, 18] }),
