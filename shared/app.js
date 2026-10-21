@@ -1,3 +1,5 @@
+/* iOS-Navigationsleiste (Zurück + Neu laden) – erscheint nur in der installierten Web-App auf dem iPhone, siehe ios-nav.js */
+(function(){try{var s=document.createElement('script');s.src=new URL('ios-nav.js',document.currentScript.src).href;s.defer=true;document.head.appendChild(s);}catch(e){}})();
 /* ==========================================================================
    URLAUBS-QUICK-TOOLS – gemeinsamer Code für alle Länder
    --------------------------------------------------------------------------
