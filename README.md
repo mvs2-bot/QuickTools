@@ -11,7 +11,8 @@ QuickTools/
 ├── index.html, manifest.json, sw.js, icon.svg   ← Übersichtsseite (wird erzeugt)
 ├── shared/
 │   ├── app.js      ← Aufbau & alle Funktionen – Änderung wirkt in ALLEN Ländern
-│   └── style.css   ← Design – Änderung wirkt in ALLEN Ländern
+│   ├── style.css   ← Design – Änderung wirkt in ALLEN Ländern
+│   └── icons.js    ← Linien-Symbole (SVG) für Übersicht und Länder
 ├── spanien/
 │   ├── data.js     ← ⭐ Inhalte nur für Spanien (Phrasen, Notruf, Botschaft, Tipps …)
 │   ├── en.js       ← englische Texte nur für Spanien
@@ -30,6 +31,7 @@ QuickTools/
 | eine Phrase, Notrufnummer oder Botschaft ändern | `<land>/data.js`             |
 | eine Funktion für alle Länder ändern/ergänzen   | `shared/app.js`              |
 | Farben, Abstände, Schrift für alle ändern       | `shared/style.css`           |
+| ein Symbol ändern oder ergänzen                 | `shared/icons.js`            |
 | ein neues Land anlegen                          | siehe unten                  |
 
 **Währung:** In `data.js` steht `currency: null` → Euro-Land, kein Rechner, Startseite = Phrasen.
@@ -46,6 +48,12 @@ Mit `currency: { code: 'CHF', symbol: 'Fr.', name: 'Schweizer Franken' }` ersche
 **Nur auf dem Gerät gespeichert:** Favoriten (☆), eigene Phrasen, Taxi-Karte und ein eigener Wechselkurs – je Land getrennt, nichts davon landet im Repo.
 
 **Weltkarte:** Die Übersicht zeigt jedes Land als Flagge an seinem ersten Ort in `places` (meist die Hauptstadt). Offline wird die Karte einfach ausgeblendet.
+
+## Design
+
+Apple-Designsprache wie die anderen Seiten (Dashboard, Zuhause …): Systemschrift ohne Serifen, kleine bis mittlere Größen, weiße Karten auf grauem Grund, Linien-Symbole statt Emojis (Flaggen bleiben). Akzent nach Wikipedia: Linkblau `#3366cc` (dunkel `#88a3e8`) mit Wikipedias Grautönen. Alle Farben stehen als Variablen oben in `shared/style.css`.
+
+Nach Änderungen an Design oder Code in allen `sw.js` die Cache-Version (`qt-v2-`) hochzählen, damit installierte Apps sofort neu laden.
 
 ## Sprache (DE/EN)
 

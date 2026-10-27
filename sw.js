@@ -1,12 +1,16 @@
 /* Service Worker – offline-fähig (für alle Länder gleich, nicht bearbeiten) */
-const CACHE = 'qt-' + new URL(self.registration.scope).pathname;
-const FILES = ["./", "./index.html", "./manifest.json", "./icon.svg", "./shared/style.css", "./shared/i18n-en.js"];
+const SCOPE = new URL(self.registration.scope).pathname;
+const CACHE = 'qt-v2-' + SCOPE;   // Version hochzählen, wenn sich Design/Code ändert → alle laden neu
+const FILES = ["./", "./index.html", "./manifest.json", "./icon.svg", "./shared/style.css", "./shared/i18n-en.js", "./shared/icons.js"];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)).then(() => self.skipWaiting()));
 });
 self.addEventListener('activate', e => {
-  e.waitUntil(self.clients.claim());
+  // alte Caches dieses Ordners (andere Version) aufräumen
+  e.waitUntil(caches.keys()
+    .then(keys => Promise.all(keys.filter(k => k !== CACHE && /^qt-(v\d+-)?\//.test(k) && k.replace(/^qt-(v\d+-)?/, '') === SCOPE).map(k => caches.delete(k))))
+    .then(() => self.clients.claim()));
 });
 /* Eigene Dateien & Schriften: sofort aus dem Cache, im Hintergrund aktualisieren.
    Wechselkurse: immer live (die Seite speichert den letzten Kurs selbst). */

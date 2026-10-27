@@ -16,7 +16,7 @@
   const LOCALE = LANG === 'en' ? 'en-GB' : 'de-DE';
   const DICT = LANG === 'en' ? (window.QT_EN || {}) : {};
   const tr = s => (typeof s === 'string' && DICT[s]) ? DICT[s] : s;     // Inhalte übersetzen (fehlt etwas → Deutsch)
-  const UI = {"appTitle": ["Urlaubs-Quick-Tools", "Holiday Quick Tools"], "allCountries": ["Alle Länder", "All countries"], "tabFx": ["Rechner", "Currency"], "tabFxLong": ["Währungsrechner", "Currency converter"], "tabPhr": ["Phrasen", "Phrases"], "tabPhrLong": ["Wichtige Phrasen & Audio", "Key phrases & audio"], "tabGps": ["GPS", "GPS"], "tabGpsLong": ["GPS-Standort", "GPS location"], "tabInfo": ["Infos", "Info"], "tabInfoLong": ["Infos & Notfall", "Info & emergency"], "quick": ["Schnellzugriff", "Quick access"], "darkOn": ["Zum dunklen Modus wechseln", "Switch to dark mode"], "lightOn": ["Zum hellen Modus wechseln", "Switch to light mode"], "darkTitle": ["Dunklen Modus aktivieren", "Enable dark mode"], "lightTitle": ["Hellen Modus aktivieren", "Enable light mode"], "menu": ["Menü öffnen", "Open menu"], "close": ["Schließen", "Close"], "langBtn": ["Switch to English", "Auf Deutsch umschalten"], "glance": ["Auf einen Blick", "At a glance"], "socket": ["Steckdose", "Power socket"], "type": ["Typ", "Type"], "noAdapter": ["✅ Kein Adapter nötig", "✅ No adapter needed"], "adapter": ["⚠️ Adapter nötig", "⚠️ Adapter needed"], "traffic": ["Straßenverkehr", "Traffic"], "left": ["⚠️ Linksverkehr", "⚠️ Drives on the left"], "right": ["Rechtsverkehr", "Drives on the right"], "water": ["Leitungswasser", "Tap water"], "tip": ["Trinkgeld", "Tipping"], "dial": ["Ländervorwahl", "Country code"], "fxTitle": ["Wechselkurs-Rechner", "Currency converter"], "amount": ["Betrag", "Amount"], "from": ["Von", "From"], "to": ["Nach", "To"], "swap": ["Währungen tauschen", "Swap currencies"], "equals": ["↓ entspricht", "↓ equals"], "result": ["Ergebnis", "Result"], "rates": ["Aktuelle Kurse", "Current rates"], "refresh": ["🔄 Aktualisieren", "🔄 Refresh"], "ratesLoading": ["Kurse werden geladen...", "Loading rates..."], "manualSum": ["✏️ Eigenen Kurs verwenden", "✏️ Use your own rate"], "manualNote": ["Z. B. den Kurs der Wechselstube oder – in Argentinien – den tatsächlichen Kartenkurs. Gilt nur auf diesem Gerät.", "E.g. the exchange office rate or – in Argentina – the actual card rate. Only applies on this device."], "manualAria": ["Eigener Kurs", "Own rate"], "apply": ["Übernehmen", "Apply"], "backLive": ["Zurück zum Live-Kurs", "Back to live rate"], "overview": ["Betragsübersicht", "Quick reference"], "overviewNote": ["Gängige Beträge in Euro, umgerechnet zum aktuellen Tageskurs.", "Common amounts in euros, converted at today's rate."], "phrTitle": ["Wichtige Notfall- & Alltagsphrasen", "Key emergency & everyday phrases"], "phrNote": ["Zum Vorzeigen oder Vorlesen lassen per Klick (Audio).", "Show them or tap to have them read aloud (audio)."], "search": ["Phrase suchen", "Search phrases"], "german": ["Deutsch", "English"], "pron": ["Aussprache", "pronunciation"], "ownAdd": ["➕ Eigene Phrase hinzufügen", "➕ Add your own phrase"], "ownEx": ["z. B. Ich habe eine Nussallergie", "e.g. I have a nut allergy"], "ownTr": ["Übersetzung (z. B. aus Google Translate kopieren)", "Translation (e.g. copied from Google Translate)"], "ownPh": ["Aussprache (optional)", "Pronunciation (optional)"], "save": ["💾 Speichern", "💾 Save"], "ownNote": ["Eigene Phrasen und Favoriten (☆) werden nur auf diesem Gerät gespeichert.", "Your own phrases and favourites (☆) are only stored on this device."], "taxiTitle": ["Taxi-Karte „Bring mich zu …“", "Taxi card \"Take me to …\""], "taxiNote": ["Unterkunft eintragen und dem Fahrer im Vollbild zeigen. Tipp: Adresse aus der Buchung in Landesschrift kopieren. Wird nur auf diesem Gerät gespeichert.", "Enter your accommodation and show it to the driver full screen. Tip: copy the address from your booking in the local script. Only stored on this device."], "taxiName": ["Name der Unterkunft", "Accommodation name"], "taxiAddr": ["Adresse", "Address"], "taxiAddrPh": ["Straße, Ort (gern in Landesschrift)", "Street, town (ideally in the local script)"], "taxiTel": ["Telefon der Unterkunft (optional)", "Accommodation phone (optional)"], "showBig": ["⛶ Groß zeigen", "⛶ Show full screen"], "openMaps": ["🗺️ In Maps öffnen", "🗺️ Open in Maps"], "clear": ["🗑️ Löschen", "🗑️ Clear"], "gpsTitle": ["GPS-Standort", "GPS location"], "gpsBtn": ["🛰️ Standort ermitteln", "🛰️ Get location"], "gpsNote": ["Ermittle deine aktuellen Koordinaten für Notfälle oder Taxifahrer.", "Get your current coordinates for emergencies or taxi drivers."], "lat": ["Breitengrad (Lat)", "Latitude (Lat)"], "lng": ["Längengrad (Lng)", "Longitude (Lng)"], "acc": ["Genauigkeit / Status", "Accuracy / status"], "notYet": ["Noch nicht ermittelt", "Not determined yet"], "copy": ["📋 Koordinaten kopieren", "📋 Copy coordinates"], "sunTitle": ["Sonnenauf- &amp; -untergang", "Sunrise &amp; sunset"], "sunNote": ["Heute, offline berechnet. Nach dem Standort-Abruf wird dein GPS-Standort verwendet (Ortszeit des Geräts).", "Today, calculated offline. After getting your location, your GPS position is used (device local time)."], "place": ["Ort", "Place"], "sunrise": ["🌅 Sonnenaufgang", "🌅 Sunrise"], "sunset": ["🌇 Sonnenuntergang", "🌇 Sunset"], "daylen": ["☀️ Tageslänge", "☀️ Day length"], "myLoc": ["📍 Mein Standort (nach GPS-Abruf)", "📍 My location (after GPS fix)"], "emg": ["🚨 Notrufnummern (zum Anrufen antippen)", "🚨 Emergency numbers (tap to call)"], "phone": ["Telefon", "Phone"], "outside": ["Notfälle außerhalb der Öffnungszeiten", "Emergencies outside opening hours"], "gmaps": ["🗺️ In Google Maps öffnen", "🗺️ Open in Google Maps"], "aa": ["Auswärtiges Amt", "German Foreign Office"], "rules": ["🙏 Verhaltensregeln", "🙏 Etiquette & rules"], "rulesNote": ["Allgemeine Hinweise zur Orientierung – aktuelle Vorgaben bitte beim Auswärtigen Amt prüfen.", "General guidance – please check current rules with official sources before you travel."], "sim": ["📱 SIM-Karten & Internet", "📱 SIM cards & internet"], "apps": ["📲 Nützliche Apps", "📲 Useful apps"], "noTts": ["Dein Browser unterstützt leider keine Sprachausgabe.", "Sorry, your browser doesn't support speech output."], "noVoiceToast": ["🔇 Keine Stimme für {l} installiert – zeig die Phrase groß (⛶).", "🔇 No voice installed for {l} – show the phrase full screen (⛶)."], "noVoiceNote": ["🔇 Auf diesem Gerät ist keine Stimme für {l} installiert. Phrasen dann mit ⛶ groß zeigen – oder in den Handy-Einstellungen unter „Sprachausgabe“ das Sprachpaket nachladen.", "🔇 No voice is installed on this device for {l}. Show phrases full screen with ⛶ – or download the language pack in your phone settings under \"Text-to-speech\"."], "ownGroup": ["✍️ Eigene Phrasen", "✍️ My phrases"], "favGroup": ["⭐ Favoriten", "⭐ Favourites"], "noVoiceTitle": ["Keine Stimme installiert", "No voice installed"], "readAloud": ["Vorlesen", "Read aloud"], "listen": [" Anhören", " Listen"], "big": ["Groß anzeigen", "Show full screen"], "favRemove": ["Aus Favoriten entfernen", "Remove from favourites"], "favAdd": ["Zu Favoriten", "Add to favourites"], "fav": ["Favorit", "Favourite"], "ownDel": ["Eigene Phrase löschen", "Delete own phrase"], "del": ["Löschen", "Delete"], "noMatch": ["Keine passende Phrase gefunden.", "No matching phrase found."], "confirmDel": ["Eigene Phrase löschen?", "Delete this phrase?"], "fillBoth": ["Bitte Deutsch und Übersetzung ausfüllen.", "Please fill in English and the translation."], "saved": ["✅ Phrase gespeichert", "✅ Phrase saved"], "back": ["Zurück", "Back"], "next": ["Weiter", "Next"], "closeX": ["✕ Schließen", "✕ Close"], "taxiFirst": ["Bitte erst Name oder Adresse der Unterkunft eintragen.", "Please enter the accommodation name or address first."], "taxiConfirm": ["Taxi-Karte leeren?", "Clear the taxi card?"], "gpsNo": ["GPS wird nicht unterstützt", "GPS not supported"], "gpsSearch": ["Suche Satelliten...", "Searching for satellites..."], "gpsAcc": ["Genau: ±{m}m", "Accuracy: ±{m}m"], "gpsErr": ["Fehler / Zugriff verweigert", "Error / access denied"], "gpsFirst": ["Bitte erst den Standort ermitteln!", "Please get your location first!"], "copied": ["📋 Koordinaten kopiert", "📋 Coordinates copied"], "copyFail": ["Kopieren nicht möglich. Koordinaten: ", "Copying not possible. Coordinates: "], "rateFail": ["⚠️ Kurse konnten nicht geladen werden (keine Verbindung).", "⚠️ Rates could not be loaded (no connection)."], "ownActive": ["✏️ Eigener Kurs aktiv", "✏️ Own rate active"], "liveWould": [" · Live-Kurs wäre ", " · live rate would be "], "liveRate": ["✅ Live-Kurs, Stand: {w} · Quelle: open.er-api.com", "✅ Live rate, as of {w} · source: open.er-api.com"], "offlineRate": ["📴 Offline – zuletzt gespeicherter Kurs vom {w}", "📴 Offline – last saved rate from {w}"], "noRates": ["Keine Kurse verfügbar", "No rates available"], "rateFrom": ["Kurs vom {d}", "Rate from {d}"], "rateOld": [" · ⚠️ älter als {n} Tage", " · ⚠️ more than {n} days old"], "enterAmount": ["Bitte Betrag eingeben", "Please enter an amount"], "rateWord": ["Kurs", "Rate"], "ownRateSuffix": [" (eigener Kurs)", " (own rate)"], "validRate": ["Bitte einen gültigen Kurs eingeben.", "Please enter a valid rate."], "rateApplied": ["✏️ Eigener Kurs übernommen", "✏️ Own rate applied"], "liveAgain": ["✅ Wieder Live-Kurs", "✅ Back to live rate"], "euro": ["Euro", "Euro"], "taxiFallback": ["Please take me to this address.", "Please take me to this address."], "traffic2": ["🚦 Verkehrsregeln", "🚦 Traffic rules"], "trafficNote": ["Besonderheiten für Autofahrer und Radfahrer – ohne Gewähr, Regeln können sich ändern.", "Special rules for drivers and cyclists – no guarantee, rules can change."], "carSub": ["🚗 Auto & Roller", "🚗 Car & scooter"], "bikeSub": ["🚲 Fahrrad", "🚲 Bicycle"], "subs": ["🍺 Alkohol, Tabak & Drogen", "🍺 Alcohol, tobacco & drugs"], "status": ["🌐 Status & Anerkennung", "🌐 Status & recognition"], "subsNote": ["Was ist erlaubt, was nicht? Ohne Gewähr – im Zweifel beim Auswärtigen Amt nachlesen.", "What is allowed and what isn’t? No guarantee – if in doubt, check official travel advice."]};
+  const UI = {"appTitle": ["Urlaubs-Quick-Tools", "Holiday Quick Tools"], "allCountries": ["Alle Länder", "All countries"], "tabFx": ["Rechner", "Currency"], "tabFxLong": ["Währungsrechner", "Currency converter"], "tabPhr": ["Phrasen", "Phrases"], "tabPhrLong": ["Wichtige Phrasen & Audio", "Key phrases & audio"], "tabGps": ["GPS", "GPS"], "tabGpsLong": ["GPS-Standort", "GPS location"], "tabInfo": ["Infos", "Info"], "tabInfoLong": ["Infos & Notfall", "Info & emergency"], "quick": ["Schnellzugriff", "Quick access"], "darkOn": ["Zum dunklen Modus wechseln", "Switch to dark mode"], "lightOn": ["Zum hellen Modus wechseln", "Switch to light mode"], "darkTitle": ["Dunklen Modus aktivieren", "Enable dark mode"], "lightTitle": ["Hellen Modus aktivieren", "Enable light mode"], "menu": ["Menü öffnen", "Open menu"], "close": ["Schließen", "Close"], "langBtn": ["Switch to English", "Auf Deutsch umschalten"], "glance": ["Auf einen Blick", "At a glance"], "socket": ["Steckdose", "Power socket"], "type": ["Typ", "Type"], "noAdapter": ["Kein Adapter nötig", "No adapter needed"], "adapter": ["Adapter nötig", "Adapter needed"], "traffic": ["Straßenverkehr", "Traffic"], "left": ["Linksverkehr", "Drives on the left"], "right": ["Rechtsverkehr", "Drives on the right"], "water": ["Leitungswasser", "Tap water"], "tip": ["Trinkgeld", "Tipping"], "dial": ["Ländervorwahl", "Country code"], "fxTitle": ["Wechselkurs-Rechner", "Currency converter"], "amount": ["Betrag", "Amount"], "from": ["Von", "From"], "to": ["Nach", "To"], "swap": ["Währungen tauschen", "Swap currencies"], "equals": ["entspricht", "equals"], "result": ["Ergebnis", "Result"], "rates": ["Aktuelle Kurse", "Current rates"], "refresh": ["Aktualisieren", "Refresh"], "ratesLoading": ["Kurse werden geladen...", "Loading rates..."], "manualSum": ["Eigenen Kurs verwenden", "Use your own rate"], "manualNote": ["Z. B. den Kurs der Wechselstube oder – in Argentinien – den tatsächlichen Kartenkurs. Gilt nur auf diesem Gerät.", "E.g. the exchange office rate or – in Argentina – the actual card rate. Only applies on this device."], "manualAria": ["Eigener Kurs", "Own rate"], "apply": ["Übernehmen", "Apply"], "backLive": ["Zurück zum Live-Kurs", "Back to live rate"], "overview": ["Betragsübersicht", "Quick reference"], "overviewNote": ["Gängige Beträge in Euro, umgerechnet zum aktuellen Tageskurs.", "Common amounts in euros, converted at today's rate."], "phrTitle": ["Wichtige Notfall- & Alltagsphrasen", "Key emergency & everyday phrases"], "phrNote": ["Zum Vorzeigen oder Vorlesen lassen per Klick (Audio).", "Show them or tap to have them read aloud (audio)."], "search": ["Phrase suchen", "Search phrases"], "german": ["Deutsch", "English"], "pron": ["Aussprache", "pronunciation"], "ownAdd": ["Eigene Phrase hinzufügen", "Add your own phrase"], "ownEx": ["z. B. Ich habe eine Nussallergie", "e.g. I have a nut allergy"], "ownTr": ["Übersetzung (z. B. aus Google Translate kopieren)", "Translation (e.g. copied from Google Translate)"], "ownPh": ["Aussprache (optional)", "Pronunciation (optional)"], "save": ["Speichern", "Save"], "ownNote": ["Eigene Phrasen und Favoriten (Stern) werden nur auf diesem Gerät gespeichert.", "Your own phrases and favourites (star) are only stored on this device."], "taxiTitle": ["Taxi-Karte „Bring mich zu …“", "Taxi card \"Take me to …\""], "taxiNote": ["Unterkunft eintragen und dem Fahrer im Vollbild zeigen. Tipp: Adresse aus der Buchung in Landesschrift kopieren. Wird nur auf diesem Gerät gespeichert.", "Enter your accommodation and show it to the driver full screen. Tip: copy the address from your booking in the local script. Only stored on this device."], "taxiName": ["Name der Unterkunft", "Accommodation name"], "taxiAddr": ["Adresse", "Address"], "taxiAddrPh": ["Straße, Ort (gern in Landesschrift)", "Street, town (ideally in the local script)"], "taxiTel": ["Telefon der Unterkunft (optional)", "Accommodation phone (optional)"], "showBig": ["Groß zeigen", "Show full screen"], "openMaps": ["In Maps öffnen", "Open in Maps"], "clear": ["Löschen", "Clear"], "gpsTitle": ["GPS-Standort", "GPS location"], "gpsBtn": ["Standort ermitteln", "Get location"], "gpsNote": ["Ermittle deine aktuellen Koordinaten für Notfälle oder Taxifahrer.", "Get your current coordinates for emergencies or taxi drivers."], "lat": ["Breitengrad (Lat)", "Latitude (Lat)"], "lng": ["Längengrad (Lng)", "Longitude (Lng)"], "acc": ["Genauigkeit / Status", "Accuracy / status"], "notYet": ["Noch nicht ermittelt", "Not determined yet"], "copy": ["Koordinaten kopieren", "Copy coordinates"], "sunTitle": ["Sonnenauf- &amp; -untergang", "Sunrise &amp; sunset"], "sunNote": ["Heute, offline berechnet. Nach dem Standort-Abruf wird dein GPS-Standort verwendet (Ortszeit des Geräts).", "Today, calculated offline. After getting your location, your GPS position is used (device local time)."], "place": ["Ort", "Place"], "sunrise": ["Sonnenaufgang", "Sunrise"], "sunset": ["Sonnenuntergang", "Sunset"], "daylen": ["Tageslänge", "Day length"], "myLoc": ["Mein Standort (nach GPS-Abruf)", "My location (after GPS fix)"], "emg": ["Notrufnummern (zum Anrufen antippen)", "Emergency numbers (tap to call)"], "phone": ["Telefon", "Phone"], "outside": ["Notfälle außerhalb der Öffnungszeiten", "Emergencies outside opening hours"], "gmaps": ["In Google Maps öffnen", "Open in Google Maps"], "aa": ["Auswärtiges Amt", "German Foreign Office"], "rules": ["Verhaltensregeln", "Etiquette & rules"], "rulesNote": ["Allgemeine Hinweise zur Orientierung – aktuelle Vorgaben bitte beim Auswärtigen Amt prüfen.", "General guidance – please check current rules with official sources before you travel."], "sim": ["SIM-Karten & Internet", "SIM cards & internet"], "apps": ["Nützliche Apps", "Useful apps"], "noTts": ["Dein Browser unterstützt leider keine Sprachausgabe.", "Sorry, your browser doesn't support speech output."], "noVoiceToast": ["Keine Stimme für {l} installiert – zeig die Phrase im Vollbild.", "No voice installed for {l} – show the phrase full screen."], "noVoiceNote": ["Auf diesem Gerät ist keine Stimme für {l} installiert. Phrasen dann im Vollbild zeigen – oder in den Handy-Einstellungen unter „Sprachausgabe“ das Sprachpaket nachladen.", "No voice is installed on this device for {l}. Show phrases full screen – or download the language pack in your phone settings under \"Text-to-speech\"."], "ownGroup": ["Eigene Phrasen", "My phrases"], "favGroup": ["Favoriten", "Favourites"], "noVoiceTitle": ["Keine Stimme installiert", "No voice installed"], "readAloud": ["Vorlesen", "Read aloud"], "listen": [" Anhören", " Listen"], "big": ["Groß anzeigen", "Show full screen"], "favRemove": ["Aus Favoriten entfernen", "Remove from favourites"], "favAdd": ["Zu Favoriten", "Add to favourites"], "fav": ["Favorit", "Favourite"], "ownDel": ["Eigene Phrase löschen", "Delete own phrase"], "del": ["Löschen", "Delete"], "noMatch": ["Keine passende Phrase gefunden.", "No matching phrase found."], "confirmDel": ["Eigene Phrase löschen?", "Delete this phrase?"], "fillBoth": ["Bitte Deutsch und Übersetzung ausfüllen.", "Please fill in English and the translation."], "saved": ["Phrase gespeichert", "Phrase saved"], "back": ["Zurück", "Back"], "next": ["Weiter", "Next"], "closeX": ["Schließen", "Close"], "taxiFirst": ["Bitte erst Name oder Adresse der Unterkunft eintragen.", "Please enter the accommodation name or address first."], "taxiConfirm": ["Taxi-Karte leeren?", "Clear the taxi card?"], "gpsNo": ["GPS wird nicht unterstützt", "GPS not supported"], "gpsSearch": ["Suche Satelliten...", "Searching for satellites..."], "gpsAcc": ["Genau: ±{m}m", "Accuracy: ±{m}m"], "gpsErr": ["Fehler / Zugriff verweigert", "Error / access denied"], "gpsFirst": ["Bitte erst den Standort ermitteln!", "Please get your location first!"], "copied": ["Koordinaten kopiert", "Coordinates copied"], "copyFail": ["Kopieren nicht möglich. Koordinaten: ", "Copying not possible. Coordinates: "], "rateFail": ["Kurse konnten nicht geladen werden (keine Verbindung).", "Rates could not be loaded (no connection)."], "ownActive": ["Eigener Kurs aktiv", "Own rate active"], "liveWould": [" · Live-Kurs wäre ", " · live rate would be "], "liveRate": ["Live-Kurs, Stand: {w} · Quelle: open.er-api.com", "Live rate, as of {w} · source: open.er-api.com"], "offlineRate": ["Offline – zuletzt gespeicherter Kurs vom {w}", "Offline – last saved rate from {w}"], "noRates": ["Keine Kurse verfügbar", "No rates available"], "rateFrom": ["Kurs vom {d}", "Rate from {d}"], "rateOld": [" · älter als {n} Tage", " · more than {n} days old"], "enterAmount": ["Bitte Betrag eingeben", "Please enter an amount"], "rateWord": ["Kurs", "Rate"], "ownRateSuffix": [" (eigener Kurs)", " (own rate)"], "validRate": ["Bitte einen gültigen Kurs eingeben.", "Please enter a valid rate."], "rateApplied": ["Eigener Kurs übernommen", "Own rate applied"], "liveAgain": ["Wieder Live-Kurs", "Back to live rate"], "euro": ["Euro", "Euro"], "taxiFallback": ["Please take me to this address.", "Please take me to this address."], "traffic2": ["Verkehrsregeln", "Traffic rules"], "trafficNote": ["Besonderheiten für Autofahrer und Radfahrer – ohne Gewähr, Regeln können sich ändern.", "Special rules for drivers and cyclists – no guarantee, rules can change."], "carSub": ["Auto & Roller", "Car & scooter"], "bikeSub": ["Fahrrad", "Bicycle"], "subs": ["Alkohol, Tabak & Drogen", "Alcohol, tobacco & drugs"], "status": ["Status & Anerkennung", "Status & recognition"], "subsNote": ["Was ist erlaubt, was nicht? Ohne Gewähr – im Zweifel beim Auswärtigen Amt nachlesen.", "What is allowed and what isn’t? No guarantee – if in doubt, check official travel advice."]};
   const T = new Proxy({}, { get: (o, k) => (UI[k] ? UI[k][LANG === 'en' ? 1 : 0] : k) });
   document.documentElement.lang = LANG;
   const C = (function localize(Q) {
@@ -38,6 +38,8 @@
 
   const $ = s => document.querySelector(s);
   const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  const ic = (n, c) => (window.qtIcon ? window.qtIcon(n, c) : '');   // Linien-Symbole aus shared/icons.js
+  const noEmo = s => String(s || '').replace(/^(?:\p{Extended_Pictographic}|\uFE0F|\u200D)+\s*/u, '');   // Emoji am Anfang weg (Symbol kommt aus dem Sprite)
   const telHref = n => 'tel:' + String(n).replace(/[^\d+]/g, '');
   const KEY = 'qt_' + C.slug + '_';            // eigener Speicher-Bereich je Land
   const THEME_KEY = 'qt_theme_v1';             // Hell/Dunkel gilt für alle Länder
@@ -59,15 +61,15 @@
 
   /* ---------- Tabs ---------- */
   const TABS = [];
-  if (hasFx) TABS.push({ id: 'currency', icon: '🧮', short: T.tabFx, long: T.tabFxLong });
-  TABS.push({ id: 'phrases', icon: '🗣️', short: T.tabPhr, long: T.tabPhrLong });
-  TABS.push({ id: 'gps', icon: '📍', short: T.tabGps, long: T.tabGpsLong });
-  TABS.push({ id: 'misc', icon: '🚨', short: T.tabInfo, long: T.tabInfoLong });
+  if (hasFx) TABS.push({ id: 'currency', icon: 'calc', short: T.tabFx, long: T.tabFxLong });
+  TABS.push({ id: 'phrases', icon: 'chat', short: T.tabPhr, long: T.tabPhrLong });
+  TABS.push({ id: 'gps', icon: 'pin', short: T.tabGps, long: T.tabGpsLong });
+  TABS.push({ id: 'misc', icon: 'info', short: T.tabInfo, long: T.tabInfoLong });
   const START = TABS[0].id;
 
   /* ---------- Seitenaufbau ---------- */
   document.title = `${C.flag} Quick-Tools ${C.name}`;
-  const infoList = rows => `<ul class="info-list" style="margin-top:8px">${rows.map(r => `<li><strong>${esc(r[0])}:</strong> ${esc(r[1])}</li>`).join('')}</ul>`;
+  const infoList = rows => `<ul class="info-list">${rows.map(r => `<li><strong>${esc(r[0])}</strong>${esc(r[1])}</li>`).join('')}</ul>`;
   const langPill = () => `<span class="${LANG === 'de' ? 'on' : ''}">DE</span><span class="${LANG === 'en' ? 'on' : ''}">EN</span>`;
   const fx = C.currency;
   const allPhraseLangs = C.phrases.map(g => g.title).join(', ');
@@ -75,37 +77,37 @@
   function glanceHtml(g) {
     const adapter = g.adapter === 'nein' ? T.noAdapter : g.adapter === 'ja' ? T.adapter : (g.adapter || '');
     const drive = g.drive === 'L' ? T.left : T.right;
-    const tile = (ico, lbl, val, sub) => `<div class="glance-tile"><span>${ico} ${lbl}</span><b>${esc(val)}</b>${sub ? `<small>${esc(sub)}</small>` : ''}</div>`;
-    return `<div class="box"><h2>👀 ${T.glance}</h2><div class="glance-grid">
-      ${tile('🔌', T.socket, T.type + ' ' + g.plug + (g.volt ? ' · ' + g.volt + ' V' : ''), adapter + (g.voltNote ? ' · ' + g.voltNote : ''))}
-      ${tile('🚗', T.traffic, drive, g.driveNote || '')}
-      ${tile('🚰', T.water, g.water, '')}
-      ${tile('💶', T.tip, g.tip, '')}
-      ${tile('📞', T.dial, g.dial, g.dialNote || '')}
+    const tile = (ico, lbl, val, sub, cls) => `<div class="glance-tile"><span>${ic(ico)} ${lbl}</span><b${cls && !sub ? ` class="${cls}"` : ''}>${esc(val)}</b>${sub ? `<small${cls ? ` class="${cls}"` : ''}>${esc(sub)}</small>` : ''}</div>`;
+    return `<div class="box"><h2>${ic('eye')} ${T.glance}</h2><div class="glance-grid">
+      ${tile('plug', T.socket, T.type + ' ' + g.plug + (g.volt ? ' · ' + g.volt + ' V' : ''), adapter + (g.voltNote ? ' · ' + g.voltNote : ''), g.adapter === 'nein' ? 'ok' : g.adapter === 'ja' ? 'warn' : '')}
+      ${tile('car', T.traffic, drive, g.driveNote || '', g.drive === 'L' ? 'warn' : '')}
+      ${tile('drop', T.water, g.water, '')}
+      ${tile('cash', T.tip, g.tip, '')}
+      ${tile('phone', T.dial, g.dial, g.dialNote || '')}
     </div></div>`;
   }
 
   const html = `
   <div class="wrap">
-    <div class="sticky-header">
-      <header>
-        <div>
-          <a class="home-link" href="../">← ${T.allCountries}</a>
-          <h1>⚡ ${T.appTitle} ${C.flag}</h1>
-          <p>${C.flag} ${esc(C.name)}</p>
-        </div>
-        <div class="header-actions">
-          <button class="burger-btn theme-toggle" type="button" aria-label="${T.darkOn}">🌙</button>
-          <button class="burger-btn lang-toggle" type="button" title="${T.langBtn}" aria-label="${T.langBtn}">${langPill()}</button>
-          <button id="menuBurger" class="burger-btn" aria-label="${T.menu}">☰</button>
-        </div>
-      </header>
-      <div class="header-clocks-bar${showClocks ? '' : ' hidden'}">
-        <div class="clock-badge"><span>🇩🇪 DE</span><b id="clockHome">-:--</b></div>
-        <div class="clock-badge"><span>${C.flag} ${esc(C.name)}${tzPlace ? ' · ' + esc(tzPlace) : ''}</span><b id="clockLocal">-:--</b></div>
+    <div class="top">
+      <a class="home-link" href="../">${ic('back')}${T.allCountries}</a>
+      <div class="header-actions">
+        <button class="icon-btn theme-toggle" type="button" aria-label="${T.darkOn}">${ic('moon')}</button>
+        <button class="lang-toggle" type="button" title="${T.langBtn}" aria-label="${T.langBtn}">${langPill()}</button>
+        <button id="menuBurger" class="icon-btn" aria-label="${T.menu}">${ic('menu')}</button>
       </div>
+    </div>
+    <header class="hero">
+      <h1><span class="flag">${C.flag}</span>${esc(C.name)}</h1>
+      <p>${T.appTitle}</p>
+      <div class="header-clocks-bar${showClocks ? '' : ' hidden'}">
+        <div class="clock-badge"><span><span class="flag">🇩🇪</span> ${LANG === 'en' ? 'Germany' : 'Deutschland'}</span><b id="clockHome">-:--</b></div>
+        <div class="clock-badge"><span><span class="flag">${C.flag}</span> ${esc(tzPlace || C.name)}</span><b id="clockLocal">-:--</b></div>
+      </div>
+    </header>
+    <div class="sticky-header">
       <div class="tabs${TABS.length === 3 ? ' cols-3' : ''}" role="tablist">
-        ${TABS.map(t => `<button class="tab" data-t="${t.id}"><span>${t.icon}</span>${t.short}</button>`).join('')}
+        ${TABS.map(t => `<button class="tab" role="tab" data-t="${t.id}">${ic(t.icon)}${t.short}</button>`).join('')}
       </div>
     </div>
 
@@ -113,15 +115,17 @@
       <div class="popover-content">
         <div class="popover-header">
           <div class="popover-title">
-            <h2>🧭 ${T.quick}</h2>
-            <button class="theme-toggle" type="button" aria-label="${T.darkOn}">🌙</button>
-            <button class="theme-toggle lang-toggle" type="button" title="${T.langBtn}" aria-label="${T.langBtn}">${langPill()}</button>
+            <h2>${T.quick}</h2>
           </div>
-          <button id="closePopover" aria-label="${T.close}">✕</button>
+          <div class="header-actions">
+            <button class="icon-btn theme-toggle" type="button" aria-label="${T.darkOn}">${ic('moon')}</button>
+            <button class="lang-toggle" type="button" title="${T.langBtn}" aria-label="${T.langBtn}">${langPill()}</button>
+            <button id="closePopover" class="icon-btn" aria-label="${T.close}">${ic('x')}</button>
+          </div>
         </div>
         <div class="popover-links">
-          ${TABS.map(t => `<button data-t="${t.id}" class="pop-btn"><span>${t.icon}</span>${esc(t.long)}</button>`).join('')}
-          <button class="pop-home" onclick="location.href='../'"><span>🌍</span>${T.allCountries}</button>
+          ${TABS.map(t => `<button data-t="${t.id}" class="pop-btn">${ic(t.icon)}${esc(t.long)}</button>`).join('')}
+          <button class="pop-home" onclick="location.href='../'">${ic('globe')}${T.allCountries}</button>
         </div>
       </div>
     </div>
@@ -129,7 +133,7 @@
     ${hasFx ? `
     <div id="currency" class="pane">
       <div class="box">
-        <h2>🧮 ${T.fxTitle}</h2>
+        <h2>${ic('calc')} ${T.fxTitle}</h2>
         <div class="fx-form">
           <div class="fx-field fx-amount">
             <label for="fxAmount">${T.amount}</label>
@@ -139,7 +143,7 @@
             <label for="fxFrom">${T.from}</label>
             <select id="fxFrom"><option value="${fx.code}">${fx.code} (${esc(fx.symbol)})</option><option value="EUR">EUR (€)</option></select>
           </div>
-          <button class="f fx-swap" id="fxSwap" aria-label="${T.swap}">⇄</button>
+          <button class="f fx-swap" id="fxSwap" aria-label="${T.swap}" title="${T.swap}">${ic('swap')}</button>
           <div class="fx-field">
             <label for="fxTo">${T.to}</label>
             <select id="fxTo"><option value="${fx.code}">${fx.code} (${esc(fx.symbol)})</option><option value="EUR" selected>EUR (€)</option></select>
@@ -153,11 +157,11 @@
         </div>
       </div>
       <div class="box box-compact">
-        <div class="mh"><h2>💰 ${T.rates}</h2><button id="fxReload">${T.refresh}</button></div>
-        <div class="rate-chips"><div class="rate-chip"><span>${C.flag} 1 € in ${esc(fx.name)}</span><b id="rateLocal">–</b><small class="rate-date" id="rateDate"></small></div></div>
+        <div class="mh"><h2>${ic('trend')} ${T.rates}</h2><button id="fxReload">${ic('refresh')}${T.refresh}</button></div>
+        <div class="rate-chips"><div class="rate-chip"><span><span class="flag">${C.flag}</span> 1 € in ${esc(fx.name)}</span><b id="rateLocal">–</b><small class="rate-date" id="rateDate"></small></div></div>
         <p class="rate-status" id="rateStatus">${T.ratesLoading}</p>
         <details class="fx-manual" id="fxManualBox">
-          <summary>${T.manualSum}</summary>
+          <summary>${ic('pencil')}${T.manualSum}<span class="act">${LANG === 'en' ? 'active' : 'aktiv'}</span></summary>
           <p class="note" style="margin:6px 0 8px">${T.manualNote}</p>
           <div class="fx-manual-row">
             <span>1 € =</span><input type="number" inputmode="decimal" step="any" min="0" id="fxManual" aria-label="${T.manualAria}"><span>${fx.code}</span>
@@ -166,7 +170,7 @@
         </details>
       </div>
       <div class="box">
-        <h2 style="margin-bottom:6px">📊 ${T.overview}</h2>
+        <h2>${ic('table')} ${T.overview}</h2>
         <p class="note">${T.overviewNote}</p>
         <div class="fx-table-wrap"><table class="fx-table">
           <thead><tr><th>EUR</th><th>${fx.code}</th></tr></thead><tbody id="fxTableBody"></tbody>
@@ -176,18 +180,18 @@
 
     <div id="phrases" class="pane">
       <div class="box">
-        <h2>🗣️ ${T.phrTitle}</h2>
+        <h2>${ic('chat')} ${T.phrTitle}</h2>
         <p class="note">${T.phrNote}</p>
-        <input type="search" id="phraseSearch" class="phrase-search" placeholder="🔍 ${T.search} (${T.german}, ${esc(allPhraseLangs)}, ${T.pron})…">
+        <div class="search-field">${ic('search')}<input type="search" id="phraseSearch" class="phrase-search" placeholder="${T.search} (${T.german}, ${esc(noEmo(allPhraseLangs))}, ${T.pron})…" aria-label="${T.search}"></div>
         <div id="voiceNote"></div>
         <div id="phraseList"></div>
         <details class="own-form">
-          <summary>${T.ownAdd}</summary>
+          <summary>${ic('plus')}${T.ownAdd}</summary>
           <div class="own-fields">
             <div class="fx-field"><label for="ownDe">${T.german}</label><input id="ownDe" placeholder="${T.ownEx}"></div>
             <div class="fx-field"><label for="ownLocal">${esc(C.phrases[0].title.replace(/^\S+\s/, ''))}</label><input id="ownLocal" placeholder="${T.ownTr}"></div>
             <div class="fx-field"><label for="ownPh">${T.ownPh}</label><input id="ownPh"></div>
-            <button class="f own-save" id="ownSave">${T.save}</button>
+            <button class="f primary own-save" id="ownSave">${ic('check')}${T.save}</button>
           </div>
           <p class="note" style="margin:8px 0 0">${T.ownNote}</p>
         </details>
@@ -196,7 +200,7 @@
 
     <div id="gps" class="pane">
       <div class="box">
-        <h2>🚕 ${T.taxiTitle}</h2>
+        <h2>${ic('car')} ${T.taxiTitle}</h2>
         <p class="note">${T.taxiNote}</p>
         <div class="taxi-fields">
           <div class="fx-field"><label for="taxiName">${T.taxiName}</label><input id="taxiName" placeholder="z. B. Hotel Sunshine"></div>
@@ -204,80 +208,80 @@
           <div class="fx-field"><label for="taxiTel">${T.taxiTel}</label><input id="taxiTel" type="tel" placeholder="+…"></div>
         </div>
         <div class="link-row">
-          <button class="link-btn primary" id="taxiShow">${T.showBig}</button>
-          <button class="link-btn" id="taxiMaps">${T.openMaps}</button>
-          <button class="link-btn" id="taxiClear">${T.clear}</button>
+          <button class="link-btn primary" id="taxiShow">${ic('expand')}${T.showBig}</button>
+          <button class="link-btn" id="taxiMaps">${ic('map')}${T.openMaps}</button>
+          <button class="link-btn" id="taxiClear">${ic('trash')}${T.clear}</button>
         </div>
       </div>
       <div class="box">
-        <div class="mh"><h2>📍 ${T.gpsTitle}</h2><button id="gpsBtn">${T.gpsBtn}</button></div>
+        <div class="mh"><h2>${ic('pin')} ${T.gpsTitle}</h2><button id="gpsBtn">${ic('locate')}${T.gpsBtn}</button></div>
         <p class="note">${T.gpsNote}</p>
         <div class="gps-grid">
           <div class="gps-stat"><span>${T.lat}</span><b id="gpsLat">–</b></div>
           <div class="gps-stat"><span>${T.lng}</span><b id="gpsLng">–</b></div>
         </div>
-        <div class="gps-stat" style="margin-bottom:14px"><span>${T.acc}</span><b id="gpsStatus">${T.notYet}</b></div>
-        <button class="f" id="gpsCopy" style="width:100%;padding:12px;font-size:.95rem;background:var(--p1);color:#fff;border:none;border-radius:8px;font-weight:700">${T.copy}</button>
+        <div class="gps-stat wide"><span>${T.acc}</span><b id="gpsStatus">${T.notYet}</b></div>
+        <button class="link-btn primary full" id="gpsCopy">${ic('copy')}${T.copy}</button>
       </div>
       <div class="box">
-        <h2>🌅 ${T.sunTitle}</h2>
+        <h2>${ic('sunrise')} ${T.sunTitle}</h2>
         <p class="note">${T.sunNote}</p>
-        <div class="fx-field" style="margin-bottom:12px"><label for="sunPlace">${T.place}</label><select id="sunPlace"></select></div>
+        <div class="fx-field sun-place"><label for="sunPlace">${T.place}</label><select id="sunPlace"></select></div>
         <div class="gps-grid">
-          <div class="gps-stat"><span>${T.sunrise}</span><b id="sunRise">–</b></div>
-          <div class="gps-stat"><span>${T.sunset}</span><b id="sunSet">–</b></div>
+          <div class="gps-stat"><span>${ic('sunrise')}${T.sunrise}</span><b id="sunRise">–</b></div>
+          <div class="gps-stat"><span>${ic('sunset')}${T.sunset}</span><b id="sunSet">–</b></div>
         </div>
-        <div class="gps-stat"><span>${T.daylen}</span><b id="sunLen">–</b></div>
+        <div class="gps-stat"><span>${ic('clock')}${T.daylen}</span><b id="sunLen">–</b></div>
       </div>
     </div>
 
     <div id="misc" class="pane">
       ${C.glance ? glanceHtml(C.glance) : ''}
       <div class="box">
-        <h2>${C.flag} ${esc(C.name)}</h2>
-        <h3 class="info-sub">${T.emg}</h3>
+        <h2><span class="flag">${C.flag}</span> ${esc(C.name)}</h2>
+        <h3 class="info-sub">${ic('siren')} ${T.emg}</h3>
         <div class="emg-grid">
-          ${C.emergency.map(e => `<a class="emg-tile" href="${telHref(e[0])}"><b>${esc(e[0])}</b><span>${esc(e[1])}</span></a>`).join('')}
+          ${C.emergency.map(e => `<a class="emg-tile" href="${telHref(e[0])}"><b>${ic('phone')}${esc(e[0])}</b><span>${esc(e[1])}</span></a>`).join('')}
         </div>
         ${C.embassy ? `
-        <h3 class="info-sub">🏛️ ${esc(C.embassy.title)}</h3>
+        <h3 class="info-sub">${ic('bank')} ${esc(C.embassy.title)}</h3>
         <address class="addr"><strong>${esc(C.embassy.title)}</strong><br>${C.embassy.address.map(esc).join('<br>')}</address>
         <p class="contact">
           ${T.phone}: <a href="${telHref(C.embassy.phone)}">${esc(C.embassy.phone)}</a>
           ${C.embassy.emergency ? `<br>${T.outside}: <a href="${telHref(C.embassy.emergency)}">${esc(C.embassy.emergency)}</a>${C.embassy.emergencyNote ? ' ' + esc(C.embassy.emergencyNote) : ''}` : (C.embassy.emergencyNote ? `<br>${esc(C.embassy.emergencyNote)}` : '')}
         </p>` : ''}
         ${C.embassy || C.aaUrl ? `<div class="link-row">
-          ${C.embassy ? `<a class="link-btn primary" href="https://www.google.com/maps/search/?api=1&amp;query=${encodeURIComponent(C.embassy.title + ', ' + C.embassy.address.join(', '))}" target="_blank" rel="noopener">${T.gmaps}</a>` : ''}
-          ${C.aaUrl ? `<a class="link-btn" href="${esc(C.aaUrl)}" target="_blank" rel="noopener">🌐 ${esc(C.aaLabel || T.aa + ': ' + C.name)}</a>` : ''}
+          ${C.embassy ? `<a class="link-btn primary" href="https://www.google.com/maps/search/?api=1&amp;query=${encodeURIComponent(C.embassy.title + ', ' + C.embassy.address.join(', '))}" target="_blank" rel="noopener">${ic('map')}${T.gmaps}</a>` : ''}
+          ${C.aaUrl ? `<a class="link-btn" href="${esc(C.aaUrl)}" target="_blank" rel="noopener">${ic('globe')}${esc(noEmo(C.aaLabel) || T.aa + ': ' + C.name)}</a>` : ''}
         </div>` : ''}
       </div>
       ${C.status ? `<div class="box">
-        <h2>${T.status}</h2>
+        <h2>${ic('flag')} ${T.status}</h2>
         ${infoList(C.status)}
       </div>` : ''}
       <div class="box">
-        <h2>${esc(C.rulesTitle || T.rules)}</h2>
+        <h2>${ic('book')} ${esc(noEmo(C.rulesTitle) || T.rules)}</h2>
         <p class="note">${esc(C.rulesNote || T.rulesNote)}</p>
-        <ul class="info-list">${C.rules.map(r => `<li><strong>${esc(r[0])}:</strong> ${esc(r[1])}</li>`).join('')}</ul>
+        ${infoList(C.rules)}
       </div>
       ${(C.car || C.bike) ? `<div class="box">
-        <h2>${T.traffic2}</h2>
+        <h2>${ic('traffic')} ${T.traffic2}</h2>
         <p class="note">${T.trafficNote}</p>
-        ${C.car ? `<h3 class="info-sub">${T.carSub}</h3>${infoList(C.car)}` : ''}
-        ${C.bike ? `<h3 class="info-sub">${T.bikeSub}</h3>${infoList(C.bike)}` : ''}
+        ${C.car ? `<h3 class="info-sub">${ic('car')} ${T.carSub}</h3>${infoList(C.car)}` : ''}
+        ${C.bike ? `<h3 class="info-sub">${ic('bike')} ${T.bikeSub}</h3>${infoList(C.bike)}` : ''}
       </div>` : ''}
       ${C.substances ? `<div class="box">
-        <h2>${T.subs}</h2>
+        <h2>${ic('glass')} ${T.subs}</h2>
         <p class="note">${T.subsNote}</p>
         ${infoList(C.substances)}
       </div>` : ''}
       <div class="box">
-        <h2>${T.sim}</h2>
-        <ul class="info-list" style="margin-top:8px">${C.sim.map(r => `<li><strong>${esc(r[0])}:</strong> ${esc(r[1])}</li>`).join('')}</ul>
+        <h2>${ic('sim')} ${T.sim}</h2>
+        ${infoList(C.sim)}
       </div>
       <div class="box">
-        <h2>${T.apps}</h2>
-        <ul class="info-list" style="margin-top:8px">${C.apps.map(r => `<li><strong>${esc(r[0])}:</strong> ${esc(r[1])}</li>`).join('')}</ul>
+        <h2>${ic('apps')} ${T.apps}</h2>
+        ${infoList(C.apps)}
       </div>
     </div>
   </div>`;
@@ -309,9 +313,9 @@
     const dark = t === 'dark';
     document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
     const m = $('meta[name="theme-color"]');
-    if (m) m.setAttribute('content', dark ? '#000000' : '#15803d');
+    if (m) m.setAttribute('content', dark ? '#000000' : '#f2f3f5');
     document.querySelectorAll('.theme-toggle:not(.lang-toggle)').forEach(b => {
-      b.textContent = dark ? '☀️' : '🌙';
+      b.innerHTML = ic(dark ? 'sun' : 'moon');
       b.setAttribute('aria-pressed', dark ? 'true' : 'false');
       b.setAttribute('aria-label', dark ? T.lightOn : T.darkOn);
       b.title = dark ? T.lightTitle : T.darkTitle;
@@ -387,7 +391,7 @@
   function renderVoiceNote() {
     const missing = [...new Set(C.phrases.map(g => g.lang))].filter(l => !hasVoice(l));
     $('#voiceNote').innerHTML = missing.length
-      ? `<p class="voice-note">${T.noVoiceNote.replace('{l}', missing.map(l => esc(langName(l))).join(', '))}</p>`
+      ? `<p class="voice-note">${ic('mute')}<span>${T.noVoiceNote.replace('{l}', missing.map(l => esc(langName(l))).join(', '))}</span></p>`
       : '';
   }
 
@@ -406,13 +410,13 @@
       out += `<div class="phrase-card">
         <div class="phrase-info">
           <div>${esc(p.de)}</div>
-          <div>${esc(p.local)}${p.phonetic ? ` <span style="font-weight:normal;color:var(--mute)">(${esc(p.phonetic)})</span>` : ''}</div>
+          <div>${esc(p.local)}${p.phonetic ? ` <span class="ph">(${esc(p.phonetic)})</span>` : ''}</div>
         </div>
         <div class="phrase-actions">
-          <button class="speak-btn${mute ? ' no-voice' : ''}" data-say="${n}" title="${mute ? T.noVoiceTitle : T.readAloud}">${mute ? '🔇' : '🔊'}<span class="lbl">${T.listen}</span></button>
-          <button class="speak-btn" data-full="${n}" aria-label="${T.big}" title="${T.big}">⛶</button>
-          <button class="speak-btn star${fav ? ' on' : ''}" data-fav="${n}" aria-label="${fav ? T.favRemove : T.favAdd}" title="${T.fav}">${fav ? '★' : '☆'}</button>
-          ${p.own ? `<button class="speak-btn del" data-del="${n}" aria-label="${T.ownDel}" title="${T.del}">🗑️</button>` : ''}
+          <button class="speak-btn say${mute ? ' no-voice' : ''}" data-say="${n}" title="${mute ? T.noVoiceTitle : T.readAloud}" aria-label="${mute ? T.noVoiceTitle : T.readAloud}">${ic(mute ? 'mute' : 'speaker')}<span class="lbl">${T.listen.trim()}</span></button>
+          <button class="speak-btn" data-full="${n}" aria-label="${T.big}" title="${T.big}">${ic('expand')}</button>
+          <button class="speak-btn star${fav ? ' on' : ''}" data-fav="${n}" aria-label="${fav ? T.favRemove : T.favAdd}" title="${T.fav}" aria-pressed="${fav}">${ic('star', fav ? 'fill' : '')}</button>
+          ${p.own ? `<button class="speak-btn del" data-del="${n}" aria-label="${T.ownDel}" title="${T.del}">${ic('trash')}</button>` : ''}
         </div>
       </div>`;
     });
@@ -448,7 +452,7 @@
   /* Vollbild (für Phrasen und Taxi-Karte) */
   const pf = document.createElement('div');
   pf.className = 'pf'; pf.id = 'phraseFull';
-  pf.innerHTML = `<div class="pf-de" id="pfDe"></div><div class="pf-local" id="pfLocal"></div><div class="pf-ph" id="pfPh"></div><div class="pf-btns"><button class="f" id="pfPrev" aria-label="${T.back}">◀</button><button class="f" id="pfSpeak" aria-label="${T.readAloud}">🔊</button><button class="f" id="pfNext" aria-label="${T.next}">▶</button></div><button class="f" id="pfClose">${T.closeX}</button>`;
+  pf.innerHTML = `<div class="pf-de" id="pfDe"></div><div class="pf-local" id="pfLocal"></div><div class="pf-ph" id="pfPh"></div><div class="pf-btns"><button class="f" id="pfPrev" aria-label="${T.back}">${ic('back')}</button><button class="f" id="pfSpeak" aria-label="${T.readAloud}">${ic('speaker')}</button><button class="f" id="pfNext" aria-label="${T.next}">${ic('next')}</button></div><button class="link-btn" id="pfClose">${ic('x')}${T.closeX}</button>`;
   document.body.appendChild(pf);
   let pfMode = 'phrase';
   function showFull() { const p = flat[shown[cur]]; $('#pfDe').textContent = p.de; $('#pfLocal').textContent = p.local; $('#pfPh').textContent = p.phonetic || ''; }
@@ -473,7 +477,7 @@
     const t = taxiSentence();
     $('#pfDe').textContent = t.local + (t.phonetic ? ' (' + t.phonetic + ')' : '');
     $('#pfLocal').textContent = [name, addr].filter(Boolean).join('\n');
-    $('#pfPh').textContent = tel ? '📞 ' + tel : '';
+    $('#pfPh').textContent = tel ? '☎ ' + tel : '';
     pf.classList.add('open');
   };
   $('#taxiMaps').onclick = () => {
@@ -571,19 +575,24 @@
       clearTimeout(timer);
       renderRates();
     }
+    function status(icon, text) {
+      const el = $('#rateStatus');
+      el.className = 'rate-status ' + (icon === 'check' ? 'ok' : icon === 'warn' ? 'bad' : '');
+      el.innerHTML = ic(icon) + '<span>' + esc(text) + '</span>';
+    }
     function renderRates() {
       rates = manual ? { EUR: 1, [fx.code]: manual } : live;
       $('#fxManualBox').classList.toggle('active', !!manual);
       if (manual) $('#fxManual').value = manual;
       else if (live && !$('#fxManual').value) $('#fxManual').placeholder = nf(live[fx.code], 2);
-      if (!rates) { $('#rateLocal').textContent = '–'; $('#rateDate').textContent = ''; $('#rateStatus').textContent = T.rateFail; calc(); renderTable(); return; }
+      if (!rates) { $('#rateLocal').textContent = '–'; $('#rateDate').textContent = ''; status('warn', T.rateFail); calc(); renderTable(); return; }
       $('#rateLocal').textContent = `${nf(rates[fx.code], dec)} ${fx.symbol}`;
       const days = live ? Math.floor((Date.now() / 1000 - live.unix) / 86400) : 0;
       $('#rateDate').textContent = manual ? T.ownRateSuffix.trim() : T.rateFrom.replace('{d}', shortDate()) + (days > OLD_DAYS ? T.rateOld.replace('{n}', OLD_DAYS) : '');
       const when = live ? new Date(live.unix * 1000).toLocaleString(LOCALE, { dateStyle: 'medium', timeStyle: 'short' }) : '';
-      $('#rateStatus').textContent = manual
-        ? T.ownActive + (live ? `${T.liveWould}${nf(live[fx.code], dec)} ${fx.symbol}` : '')
-        : (live.live ? T.liveRate : T.offlineRate).replace('{w}', when);
+      if (manual) status('pencil', T.ownActive + (live ? `${T.liveWould}${nf(live[fx.code], dec)} ${fx.symbol}` : ''));
+      else if (live.live) status('check', T.liveRate.replace('{w}', when));
+      else status('warn', T.offlineRate.replace('{w}', when));
       calc(); renderTable();
     }
     function renderTable() {

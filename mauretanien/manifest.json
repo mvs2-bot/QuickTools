@@ -7,8 +7,8 @@
   "description": "Urlaubs-Quick-Tools Mauretanien",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#f4f7f4",
-  "theme_color": "#15803d",
+  "background_color": "#f2f3f5",
+  "theme_color": "#f2f3f5",
   "lang": "de",
   "icons": [
     {
