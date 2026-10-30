@@ -1,6 +1,6 @@
 /* Service Worker – offline-fähig (für alle Länder gleich, nicht bearbeiten) */
 const SCOPE = new URL(self.registration.scope).pathname;
-const CACHE = 'qt-v2-' + SCOPE;   // Version hochzählen, wenn sich Design/Code ändert → alle laden neu
+const CACHE = 'qt-v3-' + SCOPE;   // Version hochzählen, wenn sich Design/Code ändert → alle laden neu
 const FILES = ["./", "./index.html", "./manifest.json", "./icon.svg", "./data.js", "./en.js", "../shared/i18n-en.js", "../shared/icons.js", "../shared/app.js", "../shared/style.css"];
 
 self.addEventListener('install', e => {

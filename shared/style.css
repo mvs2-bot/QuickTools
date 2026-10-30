@@ -13,16 +13,15 @@
    DESIGN-TOKENS
    Apple-Designsprache wie Dashboard, Zuhause & Co.: Systemschrift, kleine bis mittlere Größen,
    weiße Karten auf grauem Grund, Linien-Symbole (shared/icons.js).
-   Akzent nach Wikipedia: Linkblau #3366cc (dunkel #88a3e8) und Wikipedias neutrale Grautöne
-   (#202122, #54595d, #a2a9b1, #c8ccd1, #eaecf0). Bewusst etwas violetter und gedämpfter als das
-   Blau des mvs2-Dashboards (#0066cc).
+   Akzent Schiefer #475569 (dunkel #a3b1c6), passend zum grauen App-Icon, dazu Wikipedias
+   neutrale Grautöne (#202122, #54595d, #a2a9b1, #c8ccd1, #eaecf0).
    ========================================================================== */
 :root {
   /* Startansicht immer hell; "only" verhindert, dass Browser (z. B. Chrome/Samsung mit Auto-Dark) die Seite selbst abdunkeln */
   color-scheme: only light;
   --bg: #f2f3f5; --card: #fff; --well: #eaecf0; --hover: #f8f9fa; --line: #c8ccd1; --sep: rgba(162, 169, 177, .38);
   --ink: #202122; --text: #303236; --mute: #54595d;
-  --p1: #3366cc; --p1-hover: #2a4b8d; --p1-soft: #eaf3ff; --on-p1: #fff;
+  --p1: #475569; --p1-hover: #334155; --p1-soft: #eef1f5; --on-p1: #fff;
   --danger: #d73333; --danger-soft: #ffe9e5;
   --warn: #8a5a00; --warn-soft: #fef6e7; --star: #ab7f2a;
   --ok: #177860; --ok-soft: #dff2eb;
@@ -35,7 +34,7 @@
   color-scheme: dark;
   --bg: #000; --card: #1c1d20; --well: #2a2c30; --hover: #26282c; --line: #3d4046; --sep: rgba(110, 116, 122, .45);
   --ink: #f8f9fa; --text: #c8ccd1; --mute: #a2a9b1;
-  --p1: #88a3e8; --p1-hover: #a6bbf5; --p1-soft: #1a2340; --on-p1: #0d1630;
+  --p1: #a3b1c6; --p1-hover: #c0cad8; --p1-soft: #1e2530; --on-p1: #0f172a;
   --danger: #fd7865; --danger-soft: #3a1714;
   --warn: #f2b84b; --warn-soft: #33270f; --star: #f2b84b;
   --ok: #4ec6a3; --ok-soft: #0f2e26;
