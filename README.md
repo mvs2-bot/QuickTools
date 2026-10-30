@@ -53,7 +53,7 @@ Mit `currency: { code: 'CHF', symbol: 'Fr.', name: 'Schweizer Franken' }` ersche
 
 Apple-Designsprache wie die anderen Seiten (Dashboard, Zuhause …): Systemschrift ohne Serifen, kleine bis mittlere Größen, weiße Karten auf grauem Grund, Linien-Symbole statt Emojis (Flaggen bleiben). Akzent nach Wikipedia: Linkblau `#3366cc` (dunkel `#88a3e8`) mit Wikipedias Grautönen. Alle Farben stehen als Variablen oben in `shared/style.css`.
 
-Nach Änderungen an Design oder Code in allen `sw.js` die Cache-Version (`qt-v2-`) hochzählen, damit installierte Apps sofort neu laden.
+Nach Änderungen an Design oder Code in allen `sw.js` die Cache-Version (`qt-v3-`) hochzählen, damit installierte Apps sofort neu laden.
 
 ## Sprache (DE/EN)
 
